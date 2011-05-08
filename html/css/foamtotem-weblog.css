@@ -1,0 +1,426 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0b1 | 201101
+   NOTE: WORK IN PROGRESS
+   USE WITH CAUTION AND TEST WITH ABANDON */
+
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
+	{ margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
+
+h1, h2, h3, h4, h5, h6
+	{ padding: 0; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+
+a:focus { outline: thin dotted #666666; }
+
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+/* *********************************************************************** */
+
+code, pre {font-family: "Courier New", monospace, serif; font-size: 1em;}
+
+p {
+	margin: 1em 0px;
+}
+
+p:first-child {
+	margin-top: 0px;
+}
+
+blockquote, q {
+	margin: 1em 40px;
+}
+
+/* *********************************************************************** */
+
+body {
+	font: 1em/1.38em sans-serif;
+	background-image: url('/images/graynoise-bg.jpg');
+	background-color: #313840;
+/*
+	background-image: url('/images/paper-bg.jpg');
+	background-color: #D8BF93;
+
+	background-image: url('/images/graynoise-bg.jpg');
+	background-color: #313840;
+*/
+	color: black;
+}
+
+.all {
+	width: 850px;
+	margin: 0 auto;
+	position: relative;
+	background-image: url('/images/paper_crumple_tile.jpg');
+	background-color: white;
+
+	padding: 10px;
+
+/*
+	-moz-box-shadow:     0 0 5px 5px #8E743E;
+	-webkit-box-shadow:  0 0 5px 5px #8E743E;
+	box-shadow:          0 0 5px 5px #8E743E;
+*/
+
+	-moz-box-shadow:     0 0 5px 5px black;
+	-webkit-box-shadow:  0 0 5px 5px black;
+	box-shadow:          0 0 5px 5px black;
+}
+
+.blog {
+}
+
+header.main {
+	padding-top: 10px;
+	text-align: center;
+	padding-bottom: 1em;
+}
+
+#radio { position: absolute; top: 20px; left: 25px; font-size: .65em; }
+#last-update { font-size: .65em; margin-top: 1.5em; margin-bottom: 2px;}
+
+a:visited { color: #703017; text-decoration: none; }
+a:link { color: #703017; text-decoration: none; }
+a:hover { color: white; background-color: #703017; }
+
+header.main h1 a:hover { background-color:transparent; }
+
+.dayblock {
+	clear: both;
+}
+
+article {
+	border-width:2px 0px 0px 0px;
+	border-style:solid;
+/*
+	border-color:black;
+	border-color: #703017; 2D1B0D
+*/
+	border-color: #422813;
+
+	padding-top: 15px;
+	clear: both;
+
+	/* This cheesiness hides the border on the top item for IE and */
+	/* older browsers who don't understand :first-of-type          */
+	margin-top: -10px;
+}
+
+div.dayblock:first-of-type article:first-of-type {
+	border-style: none !important;
+}
+
+article header {
+	width: 140px;
+	float: left;
+	clear: both;
+
+	text-align: right;
+	font-size: smaller;
+}
+
+article header a.edit {
+	float: left;
+}
+
+article header a.edit:after {
+	content: url(/images/blank-5x5.gif);
+}
+
+article h1 {
+	font-family: SpudAFCrisp,Arial,sans-serif;
+	font-size: 1.6em;
+	line-height: 1em;
+	font-weight: bold;
+
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+article header a:visited { color: black; }
+article header a:link { color: black; }
+article header a:hover { color: #703017; background-color: transparent; }
+
+.via {
+	font-size: smaller;
+	line-height: 1.2em;
+	margin-top: 15px;
+	font-style: italic;
+}
+
+.via:before {
+	content: 'via ';
+}
+
+.body {
+	clear:right;
+	float: right;
+	width: 650px;
+
+	padding-left: 10px;
+	margin-left: 10px;
+	margin-right: 40px;
+}
+
+//.twitter {
+//	border-style:none !important;
+//	font-size: smaller;
+//	line-height: 1.2em;
+//}
+
+.twitter {
+	border-width:1px 0px 0px 0px;
+/*
+	border-color: #cEb47E;
+	border-color: #703017;
+*/
+	border-color: #422813;
+
+	font-size: smaller;
+	line-height: 1.2em;
+}
+
+div.dayblock:first-of-type article.twitter:first-of-type div.body:first-of-type {
+	border-style:none !important;
+}
+
+.twitter .body time {
+	font-size: 80%;
+	font-style: italic;
+	color:#8E743E;
+}
+
+.facebook {
+	border-width:1px 0px 0px 0px;
+/*
+	border-color: #cEb47E;
+	border-color: #703017;
+*/
+	border-color: #422813;
+/*	font-size: smaller; */
+	line-height: 1.2em;
+}
+
+div.dayblock:first-of-type article.facebook:first-of-type div.body:first-of-type {
+	border-style:none !important;
+}
+
+.facebook .via {
+	margin-top: 0px;
+}
+
+.twitter .via {
+	margin-top: 0px;
+}
+
+div.dayblock:first-of-type article.twitter:first-of-type ul li:first-of-type {
+	border-style:none !important;
+}
+
+img.posterous {
+	margin: 0px auto;
+	display:block;
+
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
+	margin-bottom: 5px;
+}
+
+img.facebook {
+	margin: 0px auto;
+	display:block;
+
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
+	margin-bottom: 15px;
+}
+
+div.video {
+	width: 600px;
+}
+
+div.link {
+	width: 600px;
+}
+
+div.body div.message {
+	margin-bottom: 1em;
+	font-size: larger;
+	line-height: 1.38em;
+}
+
+div.picture {
+	float: left;
+	width: 145px;
+
+//	padding-right: 10px;
+}
+
+div.body div.picture img {
+	display:block;
+	margin: 0px auto;
+	max-width: 130px;
+	max-height: 100px;
+
+//	-moz-box-shadow: 5px 5px 5px #8E743E;
+//	-webkit-box-shadow:  5px 5px 5px #8E743E;
+//	box-shadow:  5px 5px 5px #8E743E;
+}
+
+div.body div.player {
+	display: none;
+	float: left;
+	margin: 0px 10px 10px 0px;
+}
+
+div.body div.textblock {
+	display: table-cell;
+}
+
+div.body div.name {
+	font-weight: bold;
+}
+
+div.body div.caption {
+	font-size: smaller;
+}
+
+div.body div.description {
+	margin-top: 10px;
+	font-size: smaller;
+}
+
+div.map iframe {
+	float: right;
+	border: 1px solid black;
+}
+
+
+.comments a:visited { color: #8E743E; }
+.comments a:link { color: #8E743E; }
+.comments a:hover { color: #cEb47E; }
+
+.comments {
+	font-size:.8em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.full_comments ul {
+	text-align:left;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 400px;
+}
+
+.full_comments ul li  {
+	padding: 5px 5px;
+	margin-bottom: 3px;
+	background-image: url('/images/paper_crumple_tile.jpg');
+}
+
+.cname {
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.cdate {
+	float: right;
+	margin: 0px 0px;
+	font-size: .7em;
+	color: rgba(0,0,0,.4);
+}
+
+.full_comments textarea {
+	font: 1em/1.38em "Trebuchet MS",Arial,Geneva,sans-serif;
+	width=400px;
+}
+
+#fb_comment {
+	width: 400px;
+}
+
+#fb_name {
+	display: inline;
+}
+
+#fb_logout {
+	text-align: right;
+}
+
+footer.main:before {
+	content: url(/images/headerbar.png);
+}
+
+footer.main {
+	text-align: center;
+	clear:both;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer.main nav {
+	font-size: small;
+	line-height: 120%;
+	clear: both;
+
+	margin-top:10px;
+	margin-bottom:15px;
+}
+
+footer .calendar {
+	float: right;
+	left: -50%;
+	position: relative;
+
+	margin-bottom:5px;
+}
+
+footer .year {
+	width:43px;
+	margin: 6px 6px;
+
+	left: 50%;
+	float:left;
+	position:relative;
+}
+
+footer .year a {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 12px;
+}
+
+footer .year h2 {
+	font-size: 1.15em;
+	margin-top: 0px;
+}
+
+.fb_logout {
+	display: inline;
+	font-size: smaller;
+//	text-align: right;
+//	width: 400px;
+}
+
+.fb_name {
+	display: inline;
+}
+
+.replies {
+	text-align: center;
+	width: 190px;
+}
+
+.replies a {
+	font-size: larger;
+}
