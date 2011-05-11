@@ -45,7 +45,7 @@
 	my $form = $Request->Form;
 	foreach my $id (keys %{ $form })
 	{
-		if(exists($entry->{$id}))
+		if($id !~ m/phfile/)
 		{
 			$entry->{$id} = $form->{$id};
 		}
@@ -73,8 +73,6 @@
 		{
 			if(!$phfile)
 			{
-				my $mday;
-
 				($sec,$min,$hour,$mday,$mon,$year) = gmtime(time);
 				$year+=1900;
 				$mon+=1;       # zero based

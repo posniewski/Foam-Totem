@@ -11,6 +11,7 @@ use LWP::Simple;
 use Time::Local;
 
 use Foam2;
+use ObjectLinks;
 use Facebook::Graph;
 
 BEGIN {
@@ -106,8 +107,10 @@ sub UpdateComments($$$)
 		{
 			$orig_count = scalar @{ $entry->{comments}->{data} };
 
-			# Go through and remove all the FB comments, leaving the Foamy ones
-			my @foam_list = grep { $_->{id} =~ m/fid/ } @{ $entry->{comments}->{data} };
+			# Go through and remove all the FB comments for this object ID,
+			#    leaving the Foamy ones and ones from other linked FB IDs
+			my @foam_list = grep { $_->{id} !~ m/^$id/ } @{ $entry->{comments}->{data} };
+
 			$entry->{comments}->{data} = \@foam_list;
 		}
 
@@ -149,11 +152,23 @@ sub GetFacebook()
 {
 	my $fb = Facebook::Graph->new(
 		app_id => '202981499713630',
-		secret => '7c4028223161aedc2325605745a01313');
+		secret => '7c4028223161aedc2325605745a01313',
+		lwp_opts => { ssl_opts => { verify_hostname => 0 } }
+	);
 
 	$fb->access_token('202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI');
 
 	return $fb;
+}
+
+
+sub AddLinks
+{
+	my $entry = shift;
+
+	ol_Add($entry->{id}, $entry->{link})                 if($entry->{link});
+	ol_Add($entry->{id}, $entry->{'~orig'}->{id})        if($entry->{'~orig'}->{id});
+	ol_Add($entry->{id}, $entry->{'~orig'}->{object_id}) if($entry->{'~orig'}->{object_id});
 }
 
 sub PeriodicUpdate()
@@ -162,9 +177,11 @@ sub PeriodicUpdate()
 
 	my $fb = GetFacebook();
 
+	ol_Load();
+
 	my $resp = $fb->query
 		->find('posniewski/posts')
-		->limit_results(30)
+		->limit_results(2)
 #		->where_since('yesterday')
 		->include_metadata
 		->request
@@ -172,7 +189,7 @@ sub PeriodicUpdate()
 
 	my $posts = $resp->{data};
 
-	foreach my $post ( @{ $posts } )
+	foreach my $post ( reverse @{ $posts } )
 	{
 		my ($year, $mon, $day, $hh, $mm, $ss) = GetDateTimeFromAtomTimestamp($post->{created_time});
 		my $foam_id = GetYYYYMMDD_2_HHMMSS($year, $mon, $day, $hh, $mm, $ss);
@@ -279,13 +296,55 @@ sub PeriodicUpdate()
 			$entry->{source} = 'facebook';
 
 			#
+			# Do the Runmeter stuff
+			#
+			if($entry->{via} =~ m/runmeter/i)
+			{
+				if($entry->{type} =~ m/link/)
+				{
+					# This is a new-style runmeter
+				}
+				else
+				{
+					# Old-style runmeter
+
+					# Look for the link.
+					# This is a very naive search, but the links are always
+					#   http://j.mp/lzF0y7
+					#
+					($entry->{link}) = $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
+
+					my ($desc, $message) = $entry->{message} =~ m/(.* route, time .* miles, average .* see [^\n\r ]+)[\n\r ]*(.*)/si;
+
+					$entry->{description} = $desc;
+					$entry->{message} = $message;
+				}
+
+				my $url = $entry->{link};
+				$url //= $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
+
+				if($entry->{link})
+				{
+					my $resp = head($entry->{link});
+
+					if(defined($resp))
+					{
+						$entry->{mapurl} = $resp->base();
+					}
+				}
+
+				# Convert all Runmeter items to run items.
+				$entry->{type} = 'run';
+			}
+
+			#
 			# If the link from facebook references Foam Totem directly,
 			#    then it's probably a repeat of content that's already here
 			#    somewhere. Try to find and cross-link it.
 			#
-			if($entry->{link} =~ m{foamtotem.*/(\d\d\d\d\d\d\d\d_\d_\d\d\d\d\d\d)\.}i)
+
+			if(my $id = ol_Resolve($entry->{link}))
 			{
-				my $id = $1;
 				my $file = '/home/www/html/daily/'.$id.'.json';
 
 				print "\tReferenced Foam Totem: $id.\n";
@@ -308,10 +367,18 @@ sub PeriodicUpdate()
 
 				if(defined($xentry))
 				{
+					# If this is a run, then the most recent data should
+					# supercede the old data.
+					if($entry->{type} =~ m/run/i)
+					{
+						$xentry->{description} = $entry->{description};
+						$xentry->{message} = $entry->{message};
+					}
+
 					$phfile = $file;
 					$entry = $xentry;
 
-					$entry->{'~orig'} = $post;
+					$entry->{"~orig.$post->{id}"} = $post;
 					print "\t\tRedirected comments to target ($phfile).\n";
 				}
 				else
@@ -319,29 +386,16 @@ sub PeriodicUpdate()
 					# We didn't find the file, so we'll assume it's not
 					#   already on the blog. Just let it go.
 					print "\t\tNo Totem entry found. Handle as normal.\n";
+					print "Creating $phfile\n";
 				}
 			}
-
-			#
-			# Do the Runmeter stuff
-			#
-			if($entry->{via} =~ m/runmeter/i)
+			else
 			{
-				# Look for the link.
-				# This is a very naive search, but the links are always
-				#   http://j.mp/lzF0y7
-				#
-				my ($url) = $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
-
-				if(defined($url))
-				{
-					my $resp = head($url);
-					if(defined($resp))
-					{
-						$entry->{mapurl} = $resp->base();
-					}
-				}
+				print "Creating $phfile\n";
 			}
+
+			AddLinks($entry);
+
 		}
 
 
@@ -365,6 +419,8 @@ sub PeriodicUpdate()
 	{
 		Foam2::UpdateHTML('/home/www/html/daily', $last_year, $last_mon);
 	}
+
+	ol_Save();
 }
 
 sub UpdateFacebookComments($)

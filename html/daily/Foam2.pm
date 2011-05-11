@@ -411,7 +411,6 @@ sub Internal_GetContent
 
 			if($story->{mapurl})
 			{
-#				my $url = uri_escape($story->{mapurl}.'&output=embed');
 				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
 				$s .= qq(<div class="map">)
 					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
@@ -419,6 +418,48 @@ sub Internal_GetContent
 			}
 
 			$s .= $message;
+		}
+		elsif($story->{type} eq 'run')
+		{
+			if($story->{via} =~ m/runmeter/i)
+			{
+				if($message =~ m/(Started|Finished) run with runmeter/i)
+				{
+					my $finish = $story->{message};
+
+					# See if we can find the final info in the comments and
+					# hoist it.
+
+					if($story->{comments})
+					{
+						foreach my $comment (@{ $story->{comments}->{data} })
+						{
+							if($comment->{message} =~ m/Finished run with runmeter/i)
+							{
+								$finish = $comment->{message};
+							}
+						}
+					}
+
+					if($finish =~ m/finish/i)
+					{
+						my ($route, $time, $dist, $pace, $link, $c) = $finish =~ m/, on (.*) route, time (\d+:\d+), (\d+.\d+) miles, average (\d+:\d+), see ([^\n\r ]+)[\n\r ]*(.*)/si;
+
+						$message = qq(Today's run: $route<p/>$dist miles, time $time, pace $pace.<p/>$c<p/>Link: $link);
+						$message = Linkify($message);
+					}
+				}
+			}
+
+			if($story->{mapurl})
+			{
+				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
+				$s .= qq(<div class="map">)
+					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
+					. qq(</div>\n);
+			}
+			$s .= qq(<div class="message">$message</div>\n)  if($message);
+			$s .= qq(<div class="description">) . Linkify($story->{description}) . qq(</div>\n)   if(exists($story->{description}));
 		}
 		elsif($story->{type} eq 'photo')
 		{
@@ -960,6 +1001,11 @@ EOSTUFF
 	}
 
 	#
+	# Putting the site's image last.
+	#
+	print $fh qq(		<meta property="og:image" content="http://foamtotem.org/images/totemhead.png" />\n);
+
+	#
 	# Scripts
 	#
 	print $fh <<"EOSTUFF";
@@ -1149,7 +1195,7 @@ sub UpdateHTML
 	#
 	my $outfile = sprintf('%04d%02d.html',$year,$mon);
 	if($g_debug)
-{
+	{
 		$outfile = 'dbg_' . $outfile;
 	}
 
@@ -1317,14 +1363,12 @@ sub GetProps
 		my @images = map { /<img.*?src=['"](.*?)['"].*?>/ig } $story->{content};
 		foreach my $img (@images)
 		{
+			# og:image props need to be full URLs.
+			$img = "http://foamtotem.org$img" if($img !~ m/^http:/);
+
 			$count++;
 			$props->{"og:image~$count"} = $img;
 		}
-	}
-
-	if(!exists($props->{'og:image'}))
-	{
-		$props->{'og:image'} = 'http://foamtotem.org/images/totemhead.png';
 	}
 
 	return $props;
@@ -1662,3 +1706,4 @@ sub untag {
 }
 
 1;
+

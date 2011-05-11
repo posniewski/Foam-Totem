@@ -127,8 +127,6 @@
 		<input type="submit" value="Save changes">
 
 		<input type="hidden" name="phfile" value="<%= $phfile %>">
-		<input type="hidden" name="creator" value="<%= $user %>">
-		<input type="hidden" name="creator_fullname" value="<%= $fullname %>">
 	</form>
 </td>
 <td>

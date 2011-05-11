@@ -3,7 +3,7 @@
    NOTE: WORK IN PROGRESS
    USE WITH CAUTION AND TEST WITH ABANDON */
 
-html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
 	{ margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
 
 h1, h2, h3, h4, h5, h6
@@ -36,7 +36,8 @@ p:first-child {
 }
 
 blockquote, q {
-	margin: 1em 40px;
+	margin: 1em 30px;
+	padding: 0 10px;
 }
 
 /* *********************************************************************** */
@@ -75,7 +76,9 @@ body {
 	box-shadow:          0 0 5px 5px black;
 }
 
-.blog {
+blockquote, q {
+	font-size: smaller;
+	border-left: solid 3px rgba(206,180,126,.25);
 }
 
 header.main {

@@ -39,7 +39,9 @@ sub Reformat($)
 	if($via)
 	{
 		$entry->{content} =~ s{<div[^>]*>via.*?</div>}{}g;
-		$entry->{via} = $via;
+		$entry->{link_posterous} = $entry->{link};
+
+		($entry->{link}, $entry->{via}) = $via =~ m/<a.*?href=["']([^"']+)[^>]+>(.*)</a>/i;
 	}
 
 	# Check to see if there are a stack of images. If so, reformat them into
@@ -108,7 +110,8 @@ sub Reformat($)
 
 			$entry->{source} = 'posterous';
 
-#			$entry->{via} = filled inside of reformat;
+#			$entry->{via} = filled inside of reformat
+#			$entry->{link} = potentially modified inside of reformat
 			Reformat($entry);
 
 			open PHFILE, ">:utf8", "/home/www/html/daily/$foam_id.json" or die $! . ": $foam_id";
