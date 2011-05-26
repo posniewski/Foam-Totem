@@ -17,6 +17,8 @@ use URI::Find::Schemeless;
 use URI::Escape;
 use HTML::Entities; # for encode_entities
 
+use ObjectLinks;
+
 BEGIN {
 	use Exporter ();
 
@@ -411,10 +413,29 @@ sub Internal_GetContent
 
 			if($story->{mapurl})
 			{
-				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
-				$s .= qq(<div class="map">)
-					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
-					. qq(</div>\n);
+				my ($url) = $story->{mapurl} =~ m/\?q=(.*)/i;
+
+				$s .= qq(<div class="map" id="map_$story->{id}"></div>);
+				$s .= <<"EOSTUFF";
+<script>
+\$(function() {
+	var myOptions = {
+		mapTypeId: google.maps.MapTypeId.TERRAIN
+	};
+
+	var map = new google.maps.Map(document.getElementById("map_$story->{id}"), myOptions);
+
+	var kml = new google.maps.KmlLayer('$url');
+	kml.setMap(map);
+
+});
+</script>
+EOSTUFF
+
+#				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
+#				$s .= qq(<div class="map">)
+#					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
+#					. qq(</div>\n);
 			}
 
 			$s .= $message;
@@ -453,10 +474,29 @@ sub Internal_GetContent
 
 			if($story->{mapurl})
 			{
-				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
-				$s .= qq(<div class="map">)
-					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
-					. qq(</div>\n);
+				my ($url) = $story->{mapurl} =~ m/\?q=(.*)/i;
+
+				$s .= qq(<div class="map" id="map_$story->{id}"></div>);
+				$s .= <<"EOSTUFF";
+<script>
+\$(function() {
+	var myOptions = {
+		mapTypeId: google.maps.MapTypeId.TERRAIN
+	};
+
+	var map = new google.maps.Map(document.getElementById("map_$story->{id}"), myOptions);
+
+	var kml = new google.maps.KmlLayer('$url');
+	kml.setMap(map);
+
+});
+</script>
+EOSTUFF
+
+#				my $url = $story->{mapurl}.'&output=embed&t=p&z=13';
+#				$s .= qq(<div class="map">)
+#					. qq(<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="$url"></iframe>)
+#					. qq(</div>\n);
 			}
 			$s .= qq(<div class="message">$message</div>\n)  if($message);
 			$s .= qq(<div class="description">) . Linkify($story->{description}) . qq(</div>\n)   if(exists($story->{description}));
@@ -464,6 +504,7 @@ sub Internal_GetContent
 		elsif($story->{type} eq 'photo')
 		{
 			$s .= qq(<div class="message">$message</div>) if($message);
+			$s .= qq(<div class="caption">) . Linkify($story->{caption}) . qq(</div>\n)     if(exists($story->{caption}));
 			$s .= qq(<a href="$story->{link}">)
 				. qq(<img class="facebook" width="$story->{image_width}" height="$story->{image_height}" src="$story->{image}" />)
 				. qq(</a>\n);
@@ -770,7 +811,7 @@ sub StartArticle
 #		'perm' => $story->{permalink}
 	);
 
-	my $fbid = $story->{'~orig'}->{id} || $story->{'~orig'}->{object_id};
+	my $fbid = ol_GetBestFbid($story->{id});
 	if($fbid)
 	{
 		$foam{fbid} = $fbid;
@@ -1012,6 +1053,7 @@ EOSTUFF
 <!-- <script type="text/javascript" src="http://www.haloscan.com/load/foamtotem"></script> -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="/js/galleria-min.js"></script>
 <script type="text/javascript" src="/js/fbcomment.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>

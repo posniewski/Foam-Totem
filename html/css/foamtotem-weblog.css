@@ -44,8 +44,10 @@ blockquote, q {
 
 body {
 	font: 1em/1.38em sans-serif;
-	background-image: url('/images/graynoise-bg.jpg');
+
+/*	background-image: url('/images/graynoise-bg.jpg'); */
 	background-color: #313840;
+
 /*
 	background-image: url('/images/paper-bg.jpg');
 	background-color: #D8BF93;
@@ -60,8 +62,8 @@ body {
 	width: 850px;
 	margin: 0 auto;
 	position: relative;
-	background-image: url('/images/paper_crumple_tile.jpg');
-	background-color: white;
+/*	background-image: url('/images/paper_crumple_tile.jpg'); */
+	background-color: #FCFCF1;
 
 	padding: 10px;
 
@@ -303,9 +305,11 @@ div.body div.description {
 	font-size: smaller;
 }
 
-div.map iframe {
+div.map {
 	float: right;
 	border: 1px solid black;
+	width: 350px;
+	height: 250px;
 }
 
 

@@ -91,9 +91,18 @@ sub UpdateComments($$$)
 	}
 	else
 	{
-		# No ID to look up?
-		print "\tNo Facebook ID. That's really weird.\n";
-		return;
+		# OK, this wasn't originally a facebook item. See if we can find
+		# an id for it.
+		$id = ol_GetBestFbid($entry->{id});
+		if($id)
+		{
+		print "Going to $id/comments\n";
+			$resp = $fb->fetch("$id/comments");
+		}
+		else
+		{
+			print "\tNo Facebook ID. That's really weird.\n";
+		}
 	}
 
 	if( defined($resp) && scalar(@{ $resp->{data} }))
@@ -167,8 +176,8 @@ sub AddLinks
 	my $entry = shift;
 
 	ol_Add($entry->{id}, $entry->{link})                 if($entry->{link});
-	ol_Add($entry->{id}, $entry->{'~orig'}->{id})        if($entry->{'~orig'}->{id});
-	ol_Add($entry->{id}, $entry->{'~orig'}->{object_id}) if($entry->{'~orig'}->{object_id});
+	ol_Add($entry->{id}, 'fbid:' . $entry->{'~orig'}->{id})          if($entry->{'~orig'}->{id});
+	ol_Add($entry->{id}, 'fbid2:' . $entry->{'~orig'}->{object_id})  if($entry->{'~orig'}->{object_id});
 }
 
 sub PeriodicUpdate()
@@ -181,7 +190,7 @@ sub PeriodicUpdate()
 
 	my $resp = $fb->query
 		->find('posniewski/posts')
-		->limit_results(2)
+		->limit_results(5)
 #		->where_since('yesterday')
 		->include_metadata
 		->request
@@ -242,13 +251,36 @@ sub PeriodicUpdate()
 				$entry->{id} = $foam_id;
 				$entry->{publishedDate} = MakeAtomTimestamp($year, $mon, $day, $hh, $mm, $ss);
 
+				$entry->{link}        = $post->{link};
+				$entry->{message}     = $post->{message}     if(exists($post->{message}));
+
+				if(exists($post->{properties}))
+				{
+					$entry->{via} = join(', ',
+						map { $_->{text} if($_->{name} =~ m/by/) }
+							@{ $post->{properties} });
+				}
+
+				# Add the link to this post to the list. The image's link
+				#    will get added with the usual AddLinks call below.
+				ol_Add($entry->{id}, $post->{link}) if($post->{link});
+
 				# Fetch the actual photo to embed it
-				$post = $fb->query
+				my $imgpost = $fb->query
 					->find($post->{object_id})
 					->request
 					->as_hashref;
 
-				my $image = FindImage($post->{images});
+				# Add the facebook id links for the image too. The link to the
+				#    post are added with the AddLinks call as usual.
+				ol_Add($entry->{id}, 'fbpic2:' . $imgpost->{id})         if($imgpost->{id});
+				ol_Add($entry->{id}, 'fbpic:'  . $imgpost->{object_id})  if($imgpost->{object_id});
+
+				# Get comments from the image. They'll be merged with the
+				#    ones from my specific post (which are fetched below)
+				UpdateComments($fb, $entry, $imgpost);
+
+				my $image = FindImage($imgpost->{images});
 				my $wid = $image->{width};
 				my $ht = $image->{height};
 				if($image->{width} > 500)
@@ -257,12 +289,15 @@ sub PeriodicUpdate()
 					$ht = int( (500.0/$image->{width}) * $image->{height} );
 				}
 
-				$entry->{link}         = $post->{link};
+				$entry->{link}         = $imgpost->{link};
 				$entry->{image}        = $image->{source};
 				$entry->{image_width}  = $wid;
 				$entry->{image_height} = $ht;
-				$entry->{message}      = $post->{name}       if(exists($post->{name}));
-				$entry->{via} = $post->{application}->{name} if(exists($post->{application}));
+
+				$entry->{message}      //= $imgpost->{name}       if(exists($imgpost->{name}));
+				$entry->{caption}      = $imgpost->{caption}      if(exists($imgpost->{caption}) && !exists($entry->{via}));
+
+				$entry->{via}          = $imgpost->{application}->{name} if(!exists($entry->{via}) && exists($imgpost->{application}));
 			}
 			elsif($post->{type} eq 'link' || $post->{type} eq 'video')
 			{
@@ -294,6 +329,11 @@ sub PeriodicUpdate()
 
 			$entry->{via} = 'Facebook' if(!exists($entry->{via}) || !$entry->{via});
 			$entry->{source} = 'facebook';
+
+
+			# The target link to test against to see if we already have it.
+			my $target = $entry->{link};
+
 
 			#
 			# Do the Runmeter stuff
@@ -336,6 +376,21 @@ sub PeriodicUpdate()
 				# Convert all Runmeter items to run items.
 				$entry->{type} = 'run';
 			}
+			elsif($entry->{via} =~ m/twitter/i)
+			{
+				if($post->{actions})
+				{
+					foreach my $action (@{ $post->{actions} })
+					{
+						if($action->{link} =~ m/twitter.com/)
+						{
+							my ($id) = $action->{link} =~ m/utm_content=([0-9]+)/i;
+							$target = "twit:$id";
+						}
+					}
+				}
+			}
+
 
 			#
 			# If the link from facebook references Foam Totem directly,
@@ -343,7 +398,7 @@ sub PeriodicUpdate()
 			#    somewhere. Try to find and cross-link it.
 			#
 
-			if(my $id = ol_Resolve($entry->{link}))
+			if(my $id = ol_Resolve($target))
 			{
 				my $file = '/home/www/html/daily/'.$id.'.json';
 
@@ -379,6 +434,10 @@ sub PeriodicUpdate()
 					$entry = $xentry;
 
 					$entry->{"~orig.$post->{id}"} = $post;
+
+					ol_Add($entry->{id}, 'fbid:'   . $post->{id})         if($post->{id});
+					ol_Add($entry->{id}, 'fbid2:'  . $post->{object_id})  if($post->{object_id});
+
 					print "\t\tRedirected comments to target ($phfile).\n";
 				}
 				else

@@ -2,7 +2,9 @@
 use Data::Dumper;
 use Time::Local;
 use NetTwitterLite;
+
 use Foam2;
+use ObjectLinks;
 
 $username = 'posniewski';
 $password = 'number6';
@@ -11,6 +13,8 @@ my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
 
 #eval
 {
+	ol_Load();
+
 	my ($last_year, $last_mon) = (0, 0);
 
 	my $statuses = $nt->user_timeline({ screen_name => $username, count => 10 });
@@ -30,33 +34,37 @@ my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
 
 		next if($year<2011);
 
-		my %entry = ();
-
-		$entry->{source} = 'twitter';
-		$entry->{id} = $foam_id;
-		$entry->{publishedDate} = Foam2::MakeAtomTimestamp($year, $mon, $day, $hh, $mm, $ss);
-
-		$entry->{link} = 'http://twitter.com/'.$status->{user}->{name}.'/status/'.$id;
-		$entry->{content} = Twitterize($text);
-		$entry->{via} = 'Twitter';
-
-		$entry->{content} .= qq( <time datetime="$entry->{publishedDate}">\(at&nbsp;$hh:).sprintf("%02d)</time>",$mm);
-
-		if(defined($reply_to_username))
-		{
-			$entry->{content}.=qq(<span class="twitreply">);
-			$entry->{content}.=qq(<a href="http://twitter.com/$reply_to_username/status/$reply_to_id">(in reply to $reply_to_username)</a>);
-			$entry->{content}.=qq(</span>\n);
-		}
+		ol_Add($foam_id, 'twit:' . $id);
 
 		if(!(-e '/home/www/html/daily/'.$foam_id.'.json') && !(-e '/home/www/html/daily/'.$foam_id.'.jsonx'))
 		{
+			my %entry = ();
+
+			$entry->{source} = 'twitter';
+			$entry->{id} = $foam_id;
+			$entry->{publishedDate} = Foam2::MakeAtomTimestamp($year, $mon, $day, $hh, $mm, $ss);
+
+			$entry->{link} = 'http://twitter.com/'.$status->{user}->{name}.'/status/'.$id;
+			$entry->{content} = Twitterize($text);
+			$entry->{via} = 'Twitter';
+
+			$entry->{content} .= qq( <time datetime="$entry->{publishedDate}">\(at&nbsp;$hh:).sprintf("%02d)</time>",$mm);
+
+			if(defined($reply_to_username))
+			{
+				$entry->{content}.=qq(<span class="twitreply">);
+				$entry->{content}.=qq(<a href="http://twitter.com/$reply_to_username/status/$reply_to_id">(in reply to $reply_to_username)</a>);
+				$entry->{content}.=qq(</span>\n);
+			}
+
 			#
 			# If the file exists, then open it up and read it in for editing
 			#
 			open PHFILE, ">:utf8", "/home/www/html/daily/$foam_id.json" or die $! . ": $foam_id";
 			print PHFILE scalar to_json($entry);
 			close PHFILE;
+
+			ol_Add($entry->{id}, 'twit:' . $id);
 
 			if(($last_year && $last_year!=$year) || ($last_mon && $last_mon!=$mon))
 			{
@@ -72,7 +80,9 @@ my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
 	{
 		Foam2::UpdateHTML('/home/www/html/daily', $last_year, $last_mon);
 	}
-};
+
+	ol_Save();
+}
 
 sub GetDateTimeFromTwitterTimestamp
 {

@@ -8,6 +8,7 @@ use Time::Local;
 use Posterous;
 
 use Foam2;
+use ObjectLinks;
 
 sub GetDateTimeFromPosterousTimestamp($)
 {
@@ -41,7 +42,7 @@ sub Reformat($)
 		$entry->{content} =~ s{<div[^>]*>via.*?</div>}{}g;
 		$entry->{link_posterous} = $entry->{link};
 
-		($entry->{link}, $entry->{via}) = $via =~ m/<a.*?href=["']([^"']+)[^>]+>(.*)</a>/i;
+		($entry->{link}, $entry->{via}) = $via =~ m{<a.*?href=["']([^"']+)[^>]+>(.*)</a>}i;
 	}
 
 	# Check to see if there are a stack of images. If so, reformat them into
@@ -72,6 +73,8 @@ sub Reformat($)
 
 #eval
 {
+	ol_Load();
+
 	my ($last_year, $last_mon) = (0, 0);
 	my $posterous = Posterous->new('posniewski@gmail.com', 'number6');
 
@@ -114,6 +117,8 @@ sub Reformat($)
 #			$entry->{link} = potentially modified inside of reformat
 			Reformat($entry);
 
+			ol_Add($entry->{id}, $entry->{link})   if($entry->{link});
+
 			open PHFILE, ">:utf8", "/home/www/html/daily/$foam_id.json" or die $! . ": $foam_id";
 			print PHFILE scalar to_json($entry);
 			close PHFILE;
@@ -133,5 +138,8 @@ sub Reformat($)
 	{
 		Foam2::UpdateHTML('/home/www/html/daily', $last_year, $last_mon);
 	}
+
+
+	ol_Save();
 }
 
