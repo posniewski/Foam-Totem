@@ -4,6 +4,9 @@ use strict;
 use warnings;
 no warnings 'redefine';
 
+use Carp qw(cluck);
+$Carp::Verbose = 1;
+
 use Apache::ASP;
 
 use Time::Local;
@@ -371,7 +374,7 @@ sub Internal_GetContent
 
 		if(exists($story->{message}))
 		{
-			my $msg = Linkify($story->{message});
+			my $msg = Linkify($story->{message}) || '';
 			$msg =~ s{\n}{<br/>}g;
 
 			$message .= $msg;
@@ -472,7 +475,13 @@ EOSTUFF
 				}
 			}
 
-			if($story->{mapurl})
+			if($story->{mapurl_cached})
+			{
+#				$s .= qq(<a href="$story->{mapurl}"><img class="map" id="map_$story->{id}" src="$story->{mapurl_cached}" /></a>);
+				my ($url) = $story->{mapurl} =~ m/\?q=(.*)/i;
+				$s .= qq[<div class="map" id="map_$story->{id}" ><img class="map" src="$story->{mapurl_cached}" onclick="var map=new google.maps.Map(document.getElementById('map_$story->{id}'\), { mapTypeId: google.maps.MapTypeId.TERRAIN }\);var kml=new google.maps.KmlLayer('$url');kml.setMap(map);"/></div>];
+			}
+			elsif($story->{mapurl})
 			{
 				my ($url) = $story->{mapurl} =~ m/\?q=(.*)/i;
 
@@ -1123,15 +1132,13 @@ sub MainHeader
 
 	print $fh <<'EOSTUFF';
 <header class="main">
-	<h1><a href="http://foamtotem.org"><img src="/images/foamtotem-1.png" alt="FOAM TOTEM" width=549 height=70 /></a></h1>
+	<h1><a href="http://foamtotem.org"><div class="title" />FOAM TOTEM</div></a></h1>
 
-<!--
 	<div id="radio">
 			<img src="/images/wreath.gif"><br>
 			Foamy<br>Christmas&nbsp;Radio<br>
 			<a href="/radio/christmas/?option=recursive&amp;option=shuffle&amp;action=playall">[high]</a>&nbsp;<a href="/radio/christmas_low/?option=recursive&amp;option=shuffle&amp;action=playall">[low]</a>
 	</div>
--->
 
 	<div id="last-update">
 		<a href="/daily/AlterDailyJson.asp" rel="nofollow">Last update:</a>
@@ -1139,7 +1146,7 @@ EOSTUFF
 	print $fh MainHeaderLastUpdate(GetLastUpdate());
 	print $fh qq(	</div>\n);
 	print $fh qq(</header>\n);
-	print $fh qq(<img src="/images/headerbar.png" width=850 height=18 />);
+	print $fh qq(<div class="headerbar"></div>);
 }
 
 #
@@ -1171,7 +1178,8 @@ sub MainFooter
 <img src="/images/longsectionmarker.png" width=100 height=16 />
 <nav>
 Me:
-<a href="http://www.google.com/profiles/posniewski" rel="me">Google</a> -
+<a href="https://plus.google.com/103104079397182944597?rel=author">Google+</a> -
+<a href="https://google.com/profiles/posniewski" rel="me">Google</a> -
 <a href="http://twitter.com/posniewski" rel="me">Twitter</a> -
 <a href="http://www.facebook.com/posniewski" rel="me">Facebook</a><br>
 </nav>
@@ -1200,6 +1208,13 @@ sub StdBodyEnd
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+	$(function() {
+		$('div.map').mouseover(function(e) {
+			$(this).append('<div id="maptip">Click to get a live map.</div>');
+		}).mouseout(function() {
+			$(this).children('div#maptip').remove();
+		});
+	});
 </script>
 EOSTUFF
 
@@ -1661,7 +1676,7 @@ sub GetDateTimeFromAtomTimestamp
 }
 
 #
-# "YYYYMMDD" = GetLocalDateFromAtomTimestamp("YYYY-MM-DDTHH:MM:SS-08:00")
+# "YYYYMMDD" = GetLocalDateFromAtomTimestamp("YYYY-MM-DDTHH:MM:SS-00:00")
 #
 sub GetLocalDateFromAtomTimestamp
 {

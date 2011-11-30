@@ -1,9 +1,9 @@
-/* http://meyerweb.com/eric/tools/css/re#004c72/
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0b1 | 201101
    NOTE: WORK IN PROGRESS
    USE WITH CAUTION AND TEST WITH ABANDON */
 
-html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, field#004c72, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video
 	{ margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; font: inherit; vertical-align: baseline; }
 
 h1, h2, h3, h4, h5, h6
@@ -46,8 +46,8 @@ pre.code {
 	line-height: 1.1em;
 	margin: 1em 30px;
 	padding: 4px;
-	background-color: rgba(126,180,206,.05);
-	border: 1px solid rgba(126,180,206,.5);
+	background-color: rgba(206,180,126,.05);
+	border: 1px solid rgba(206,180,126,.5);
 }
 
 /* *********************************************************************** */
@@ -75,8 +75,7 @@ body {
 	margin: 0 auto;
 	position: relative;
 /*	background-image: url('/images/paper_crumple_tile.jpg'); */
-	background-image: url('/daily/images/background-tree.gif');
-	background-color: hsl(200, 40%, 85%); /* WINTER: was #FCFCF1 */
+	background-color: #FCFCF1;
 
 	padding: 10px;
 
@@ -103,25 +102,25 @@ header.main {
 }
 
 header.main div.title {
-	background-image: url("/images/foamtotem-winter.png");
+	background-image: url("/images/foamtotem-1.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 74px;
+	height: 70px;
 }
 
-#radio { position: absolute; top: 36px; left: 25px; font-size: .65em; line-height: 1.4em; }
+#radio { display: none; position: absolute; top: 36px; left: 25px; font-size: .65em; line-height: 1.4em; }
 #last-update { font-size: .65em; margin-top: 1.5em; margin-bottom: 2px;}
 
-a:visited { color: #004C72; text-decoration: none; } /* WINTER: was #703017 */
-a:link { color: #004C72; text-decoration: none; }    /* WINTER: was #703017 */ 
-a:hover { color: white; background-color: #004C72; } /* WINTER: was #703017 */ 
+a:visited { color: #703017; text-decoration: none; }
+a:link { color: #703017; text-decoration: none; }
+a:hover { color: white; background-color: #703017; }
 
 /* This makes the FOAM TOTEM text invivisble */
 header.main h1 a:link { background-color:transparent; color: transparent; }
 header.main h1 a:hover { background-color:transparent; color: transparent; }
 
 div.headerbar {
-	background-image: url("/images/headerbar-winter.png");
+	background-image: url("/images/headerbar.png");
    	width: 850px;
    	height: 18px;
 	background-repeat: no-repeat;
@@ -139,8 +138,7 @@ article {
 	border-color:black;
 	border-color: #703017; 2D1B0D
 */
-/*	border-color: #422813; */
-	border-color: #132842;
+	border-color: #422813;
 
 	padding-top: 15px;
 	clear: both;
@@ -201,7 +199,7 @@ article h3 {
 
 article header a:visited { color: black; }
 article header a:link { color: black; }
-article header a:hover { color: #004C72; background-color: transparent; }
+article header a:hover { color: #703017; background-color: transparent; }
 
 .via {
 	font-size: smaller;
@@ -236,7 +234,7 @@ article header a:hover { color: #004C72; background-color: transparent; }
 	border-color: #cEb47E;
 	border-color: #703017;
 */
-	border-color: #132842;
+	border-color: #422813;
 
 	font-size: smaller;
 	line-height: 1.2em;
@@ -249,7 +247,7 @@ div.dayblock:first-of-type article.twitter:first-of-type div.body:first-of-type 
 .twitter .body time {
 	font-size: 80%;
 	font-style: italic;
-	color: #004C72;
+	color:#8E743E;
 }
 
 .facebook {
@@ -258,7 +256,7 @@ div.dayblock:first-of-type article.twitter:first-of-type div.body:first-of-type 
 	border-color: #cEb47E;
 	border-color: #703017;
 */
-	border-color: #132842;
+	border-color: #422813;
 /*	font-size: smaller; */
 	line-height: 1.2em;
 }
@@ -292,9 +290,9 @@ img.posterous {
 	margin: 0px auto;
 	display:block;
 
-	-moz-box-shadow: 5px 5px 5px #004C72;
-	-webkit-box-shadow:  5px 5px 5px #004c72;
-	box-shadow:  5px 5px 5px #004c72;
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
 	margin-bottom: 5px;
 }
 
@@ -302,9 +300,9 @@ img.facebook {
 	margin: 0px auto;
 	display:block;
 
-	-moz-box-shadow: 5px 5px 5px #004c72;
-	-webkit-box-shadow:  5px 5px 5px #004c72;
-	box-shadow:  5px 5px 5px #004c72;
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
 	margin-bottom: 15px;
 }
 
@@ -312,9 +310,9 @@ figure img {
 	margin: 0px auto;
 	display:block;
 
-	-moz-box-shadow: 5px 5px 5px #004c72;
-	-webkit-box-shadow:  5px 5px 5px #004c72;
-	box-shadow:  5px 5px 5px #004c72;
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
 	margin-bottom: 5px;
 }
 
@@ -322,9 +320,9 @@ figure iframe {
 	margin: 0px auto;
 	display:block;
 
-	-moz-box-shadow: 5px 5px 5px #004c72;
-	-webkit-box-shadow:  5px 5px 5px #004c72;
-	box-shadow:  5px 5px 5px #004c72;
+	-moz-box-shadow: 5px 5px 5px #8E743E;
+	-webkit-box-shadow:  5px 5px 5px #8E743E;
+	box-shadow:  5px 5px 5px #8E743E;
 	margin-bottom: 5px;
 }
 
@@ -361,9 +359,9 @@ div.body div.picture img {
 	max-width: 130px;
 	max-height: 100px;
 
-//	-moz-box-shadow: 5px 5px 5px #004c72;
-//	-webkit-box-shadow:  5px 5px 5px #004c72;
-//	box-shadow:  5px 5px 5px #004c72;
+//	-moz-box-shadow: 5px 5px 5px #8E743E;
+//	-webkit-box-shadow:  5px 5px 5px #8E743E;
+//	box-shadow:  5px 5px 5px #8E743E;
 }
 
 div.body div.player {
@@ -397,9 +395,9 @@ div.map {
 }
 
 
-.comments a:visited { color: #004C72; } /* WINTER: was #004c72 */
-.comments a:link { color: #004C72; }    /* WINTER: was #004c72 */
-.comments a:hover { color: white; background-color: #004C72; }
+.comments a:visited { color: #8E743E; }
+.comments a:link { color: #8E743E; }
+.comments a:hover { color: #cEb47E; }
 
 .comments {
 	font-size:.8em;
@@ -419,8 +417,7 @@ div.map {
 .full_comments ul li  {
 	padding: 5px 5px;
 	margin-bottom: 3px;
-/*	background-image: url('/images/paper_crumple_tile_winter.jpg'); */
-	background-color: hsla(198, 40%, 80%, .3);
+	background-image: url('/images/paper_crumple_tile.jpg');
 }
 
 .cname {
@@ -457,7 +454,7 @@ div.map {
 }
 
 footer.main:before {
-	content: url(/images/headerbar-winter.png);
+	content: url(/images/headerbar.png);
 }
 
 footer.main {
@@ -522,5 +519,4 @@ footer .year h2 {
 .replies a {
 	font-size: larger;
 }
-
 

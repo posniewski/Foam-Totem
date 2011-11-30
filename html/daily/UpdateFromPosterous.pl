@@ -4,6 +4,7 @@ use URI::Escape;
 use HTTP::Request;
 use LWP::UserAgent;
 use Time::Local;
+use HTTP::Date;
 
 use Posterous;
 
@@ -13,7 +14,10 @@ use ObjectLinks;
 sub GetDateTimeFromPosterousTimestamp($)
 {
 	# Sat, 12 Dec 2009 19:14:08 -0800
-	my @parts = split /[ :]/, shift;
+	# convert to gmtime
+	my $gmt = time2str(str2time(shift));
+
+	my @parts = split /[ :]/, $gmt;
 
 	my $day = $parts[1];
 	my $mon = FromShortMonth($parts[2]);

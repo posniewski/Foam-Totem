@@ -1,0 +1,142 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddLinks	FoamFacebook.pm	/^sub AddLinks$/;"	s
+CacheRunmeterMap	Runmeter.pm	/^sub CacheRunmeterMap$/;"	s
+ConvertDateTimeToLocal	Foam2.pm	/^sub ConvertDateTimeToLocal$/;"	s
+EditGenMonth	Foam.pm	/^sub EditGenMonth$/;"	s
+EditGenMonth	Foam2.pm	/^sub EditGenMonth$/;"	s
+EndArticle	Foam2.pm	/^sub EndArticle$/;"	s
+EndBlog	Foam2.pm	/^sub EndBlog$/;"	s
+EndDay	Foam2.pm	/^sub EndDay$/;"	s
+EndFullArticle	Foam2.pm	/^sub EndFullArticle$/;"	s
+EndItem	Foam.pm	/^sub EndItem$/;"	s
+EndItems	Foam.pm	/^sub EndItems$/;"	s
+FindImage	FoamFacebook.pm	/^sub FindImage($)$/;"	s
+Foam	Foam.pm	/^package Foam;$/;"	p
+Foam2	Foam2.pm	/^package Foam2;$/;"	p
+FoamFacebook	FoamFacebook.pm	/^package FoamFacebook;$/;"	p
+FromShortMonth	Foam.pm	/^sub FromShortMonth$/;"	s
+FromShortMonth	Foam2.pm	/^sub FromShortMonth$/;"	s
+GenCommentList	Foam2.pm	/^sub GenCommentList$/;"	s
+GenMonth	Foam.pm	/^sub GenMonth$/;"	s
+GenMonth	Foam2.pm	/^sub GenMonth$/;"	s
+GenMonthAtom	Foam.pm	/^sub GenMonthAtom$/;"	s
+GenMonthAtom	Foam2.pm	/^sub GenMonthAtom$/;"	s
+GenMonthFacebook	Foam.pm	/^sub GenMonthFacebook$/;"	s
+GetDateFromDD_Mon_YYYY	Foam.pm	/^sub GetDateFromDD_Mon_YYYY$/;"	s
+GetDateFromName	Foam.pm	/^sub GetDateFromName$/;"	s
+GetDateFromYYYYMMDD	Foam.pm	/^sub GetDateFromYYYYMMDD$/;"	s
+GetDateFromYYYYMMDD	Foam2.pm	/^sub GetDateFromYYYYMMDD$/;"	s
+GetDateTimeFromAtomTimestamp	Foam2.pm	/^sub GetDateTimeFromAtomTimestamp$/;"	s
+GetDateTimeFromName	Foam.pm	/^sub GetDateTimeFromName$/;"	s
+GetDateTimeFromYYYYMMDD_x_HHMMSS	Foam.pm	/^sub GetDateTimeFromYYYYMMDD_x_HHMMSS$/;"	s
+GetDateTimeFromYYYYMMDD_x_HHMMSS	Foam2.pm	/^sub GetDateTimeFromYYYYMMDD_x_HHMMSS$/;"	s
+GetFacebook	FoamFacebook.pm	/^sub GetFacebook()$/;"	s
+GetFileList	Foam.pm	/^sub GetFileList$/;"	s
+GetFileList	Foam2.pm	/^sub GetFileList$/;"	s
+GetFlotsamLinks	Foam2.pm	/^sub GetFlotsamLinks$/;"	s
+GetLastUpdate	Foam2.pm	/^sub GetLastUpdate$/;"	s
+GetLocalDateFromAtomTimestamp	Foam2.pm	/^sub GetLocalDateFromAtomTimestamp$/;"	s
+GetLocalDateTimeFromName	Foam2.pm	/^sub GetLocalDateTimeFromName$/;"	s
+GetPriorityFromName	Foam.pm	/^sub GetPriorityFromName$/;"	s
+GetProps	Foam2.pm	/^sub GetProps$/;"	s
+GetSemaphore	Foam.pm	/^sub GetSemaphore$/;"	s
+GetSemaphore	Foam2.pm	/^sub GetSemaphore$/;"	s
+GetTitle	Foam2.pm	/^sub GetTitle$/;"	s
+GetYYYYMMDD_2_HHMMSS	FoamFacebook.pm	/^sub GetYYYYMMDD_2_HHMMSS($$$$$$)$/;"	s
+Internal_GetContent	Foam2.pm	/^sub Internal_GetContent$/;"	s
+LastUpdate	Foam.pm	/^sub LastUpdate$/;"	s
+LastUpdateAtom	Foam.pm	/^sub LastUpdateAtom$/;"	s
+LastUpdateAtomTimestamp	Foam2.pm	/^sub LastUpdateAtomTimestamp$/;"	s
+LetterMonth	Foam2.pm	/^sub LetterMonth$/;"	s
+Linkify	Foam2.pm	/^sub Linkify$/;"	s
+LongMonth	Foam.pm	/^sub LongMonth$/;"	s
+LongMonth	Foam2.pm	/^sub LongMonth$/;"	s
+MainFooter	Foam2.pm	/^sub MainFooter$/;"	s
+MainHeader	Foam2.pm	/^sub MainHeader$/;"	s
+MainHeaderLastUpdate	Foam2.pm	/^sub MainHeaderLastUpdate$/;"	s
+MakeAtomDateTime	Foam.pm	/^sub MakeAtomDateTime$/;"	s
+MakeAtomTimestamp	Foam2.pm	/^sub MakeAtomTimestamp$/;"	s
+MakeDD_Mon_YYYY	Foam.pm	/^sub MakeDD_Mon_YYYY$/;"	s
+MakeDD_Mon_YYYY	Foam2.pm	/^sub MakeDD_Mon_YYYY$/;"	s
+MakeFlotsamLinks	Foam.pm	/^sub MakeFlotsamLinks$/;"	s
+MakeFlotsamLinks	Foam2.pm	/^sub MakeFlotsamLinks$/;"	s
+MakeYYYYMMDD	Foam.pm	/^sub MakeYYYYMMDD$/;"	s
+MakeYYYYMMDD	Foam2.pm	/^sub MakeYYYYMMDD$/;"	s
+Me	Foam.pm	/^						Me:$/;"	l
+Me	Foam2.pm	/^Me:$/;"	l
+Net::Twitter::Lite	NetTwitterLite.pm	/^package Net::Twitter::Lite;$/;"	p
+ObjectLinks	ObjectLinks.pm	/^package ObjectLinks;$/;"	p
+ParseFile	Foam.pm	/^sub ParseFile$/;"	s
+ParseFile	Foam2.pm	/^sub ParseFile$/;"	s
+PeriodicUpdate	FoamFacebook.pm	/^sub PeriodicUpdate()$/;"	s
+ReleaseSemaphore	Foam.pm	/^sub ReleaseSemaphore$/;"	s
+ReleaseSemaphore	Foam2.pm	/^sub ReleaseSemaphore$/;"	s
+Runmeter	Runmeter.pm	/^package Runmeter;$/;"	p
+ShortMonth	Foam.pm	/^sub ShortMonth$/;"	s
+ShortMonth	Foam2.pm	/^sub ShortMonth$/;"	s
+StartArticle	Foam2.pm	/^sub StartArticle$/;"	s
+StartBlog	Foam2.pm	/^sub StartBlog$/;"	s
+StartDay	Foam2.pm	/^sub StartDay$/;"	s
+StartItem	Foam.pm	/^sub StartItem$/;"	s
+StartItems	Foam.pm	/^sub StartItems$/;"	s
+StdBodyEnd	Foam.pm	/^sub StdBodyEnd$/;"	s
+StdBodyEnd	Foam2.pm	/^sub StdBodyEnd$/;"	s
+StdBodyStart	Foam.pm	/^sub StdBodyStart$/;"	s
+StdBodyStart	Foam2.pm	/^sub StdBodyStart$/;"	s
+StdFoamTotemHTMLEnd	Foam.pm	/^sub StdFoamTotemHTMLEnd$/;"	s
+StdFoamTotemHTMLStart	Foam.pm	/^sub StdFoamTotemHTMLStart$/;"	s
+StdHTMLEnd	Foam2.pm	/^sub StdHTMLEnd$/;"	s
+StdHTMLStart	Foam2.pm	/^sub StdHTMLStart$/;"	s
+StdHead	Foam2.pm	/^sub StdHead$/;"	s
+StdMinHead	Foam2.pm	/^sub StdMinHead$/;"	s
+StripHaloscan	Foam2.pm	/^sub StripHaloscan$/;"	s
+TotemBottom	Foam.pm	/^sub TotemBottom$/;"	s
+TotemBottom	Foam2.pm	/^sub TotemBottom$/;"	s
+TotemBottomAtom	Foam.pm	/^sub TotemBottomAtom$/;"	s
+TotemBottomAtom	Foam2.pm	/^sub TotemBottomAtom$/;"	s
+TotemTop	Foam.pm	/^sub TotemTop$/;"	s
+TotemTop	Foam2.pm	/^sub TotemTop$/;"	s
+TotemTopAtom	Foam.pm	/^sub TotemTopAtom$/;"	s
+TotemTopAtom	Foam2.pm	/^sub TotemTopAtom$/;"	s
+TotemTopFacebook	Foam.pm	/^sub TotemTopFacebook$/;"	s
+UpdateComments	FoamFacebook.pm	/^sub UpdateComments($$$)$/;"	s
+UpdateFacebookComments	FoamFacebook.pm	/^sub UpdateFacebookComments($)$/;"	s
+UpdateHTML	Foam.pm	/^sub UpdateHTML$/;"	s
+UpdateHTML	Foam2.pm	/^sub UpdateHTML$/;"	s
+_from_json	NetTwitterLite.pm	/^sub _from_json {$/;"	s
+_parse_result	NetTwitterLite.pm	/^sub _parse_result {$/;"	s
+bin	Runmeter.pm	/^sub bin($)$/;"	s
+border	Foam.pm	/^	border: 0px;$/;"	l
+byid	Foam2.pm	/^sub byid$/;"	s
+clear	Foam.pm	/^	clear:right;$/;"	l
+color	Foam.pm	/^	color: $textcolor_dim;$/;"	l
+content	Foam.pm	/^	content: 'via '	;$/;"	l
+credentials	NetTwitterLite.pm	/^sub credentials {$/;"	s
+dsqr	Runmeter.pm	/^sub dsqr($$)$/;"	s
+float	Foam.pm	/^	float: right;$/;"	l
+float	Foam.pm	/^	float:right;$/;"	l
+from_json_file	Foam2.pm	/^sub from_json_file$/;"	s
+mapTypeId	Foam2.pm	/^		mapTypeId: google.maps.MapTypeId.TERRAIN$/;"	l
+margin	Foam.pm	/^	margin: 0px 0px 0px 10px;$/;"	l
+margin	Foam.pm	/^	margin: 0px;$/;"	l
+margin	Foam.pm	/^	margin:3px;$/;"	l
+new	NetTwitterLite.pm	/^sub new {$/;"	s
+ol_Add	ObjectLinks.pm	/^sub ol_Add$/;"	s
+ol_GetBestFbid	ObjectLinks.pm	/^sub ol_GetBestFbid$/;"	s
+ol_Load	ObjectLinks.pm	/^sub ol_Load$/;"	s
+ol_Resolve	ObjectLinks.pm	/^sub ol_Resolve$/;"	s
+ol_Save	ObjectLinks.pm	/^sub ol_Save$/;"	s
+padding	Foam.pm	/^	padding: 0px;$/;"	l
+padding	Foam.pm	/^	padding:0px;$/;"	l
+padding	Foam.pm	/^	padding:10px;$/;"	l
+padding	Foam.pm	/^	padding:5px;$/;"	l
+to_json	Foam2.pm	/^sub to_json$/;"	s
+to_json_tight	Foam2.pm	/^sub to_json_tight$/;"	s
+untag	Foam.pm	/^sub untag {$/;"	s
+untag	Foam2.pm	/^sub untag {$/;"	s
+width	Foam.pm	/^	width: 100%;$/;"	l

@@ -7,7 +7,7 @@ use Foam2;
 use ObjectLinks;
 
 $username = 'posniewski';
-$password = 'number6';
+$password = 'number65536';
 
 my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
 

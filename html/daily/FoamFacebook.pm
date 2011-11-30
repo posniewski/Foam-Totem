@@ -12,6 +12,7 @@ use Time::Local;
 
 use Foam2;
 use ObjectLinks;
+use Runmeter;
 use Facebook::Graph;
 
 BEGIN {
@@ -96,7 +97,7 @@ sub UpdateComments($$$)
 		$id = ol_GetBestFbid($entry->{id});
 		if($id)
 		{
-		print "Going to $id/comments\n";
+			print "Going to $id/comments\n";
 			$resp = $fb->fetch("$id/comments");
 		}
 		else
@@ -105,7 +106,7 @@ sub UpdateComments($$$)
 		}
 	}
 
-	if( defined($resp) && scalar(@{ $resp->{data} }))
+	if(defined($resp) && scalar(@{ $resp->{data} }))
 	{
 		my $orig_count = 0;
 
@@ -190,8 +191,8 @@ sub PeriodicUpdate()
 
 	my $resp = $fb->query
 		->find('posniewski/posts')
-		->limit_results(5)
-#		->where_since('yesterday')
+		->limit_results(20)
+#		->where_since('1 June 2011')
 		->include_metadata
 		->request
 		->as_hashref;
@@ -375,6 +376,8 @@ sub PeriodicUpdate()
 
 				# Convert all Runmeter items to run items.
 				$entry->{type} = 'run';
+
+				CacheRunmeterMap($entry);
 			}
 			elsif($entry->{via} =~ m/twitter/i)
 			{
@@ -397,7 +400,6 @@ sub PeriodicUpdate()
 			#    then it's probably a repeat of content that's already here
 			#    somewhere. Try to find and cross-link it.
 			#
-
 			if(my $id = ol_Resolve($target))
 			{
 				my $file = '/home/www/html/daily/'.$id.'.json';
@@ -458,7 +460,15 @@ sub PeriodicUpdate()
 		}
 
 
+		# Keep comments up to date
 		UpdateComments($fb, $entry, $post);
+
+
+		# Do a fixup on runs to cache their map image
+		if(exists($entry->{mapurl})) # && !exists($entry->{mapurl_cached}))
+		{
+			CacheRunmeterMap($entry);
+		}
 
 
 		open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
