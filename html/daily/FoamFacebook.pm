@@ -29,6 +29,7 @@ BEGIN {
 		GetFacebook
 		PeriodicUpdate
 		UpdateFacebookComments
+		CachePicture
 	);
 }
 
@@ -61,6 +62,49 @@ sub FindImage($)
 	return $best;
 }
 
+
+
+sub CachePicture($$)
+{
+	my $fb = shift;
+	my $entry = shift;
+
+    if(exists $entry->{picture})
+	{
+        my ($ext) = $entry->{picture} =~ m{\.([^.]+)$};
+		$ext = 'jpg' if !$ext || length($ext)>5;
+
+		my $fragment = "daily/cache/$entry->{id}.$ext";
+		my $filename = "/home/www/html/$fragment";
+
+		if(!-e $filename)
+		{
+			my $result = getstore($entry->{picture}, $filename);
+			if(is_success($result))
+			{
+				if((-s $filename) < 45)
+				{
+					# Old pictures seem to come back as one-pixel gifs, regardless
+					#   of what we ask for. :-(
+					unlink $filename;
+					print "\tPicture is too small, not caching it. (Probably an invisible GIF.)\n";
+				}
+			}
+			else
+			{
+				print qq(\tFailed with HTTP $result fetching "$entry->{picture}"\n");
+			}
+		}
+
+		if(-e $filename)
+		{
+			$entry->{picture_cached} = "http://foamtotem.org/$fragment";
+			return 1;
+		}
+	}
+
+	return 0;
+}
 
 sub UpdateComments($$$)
 {
@@ -470,6 +514,12 @@ sub PeriodicUpdate()
 			CacheRunmeterMap($entry);
 		}
 
+		# Cache Facebook thumbnails because the image links they give eventually
+		#   stop working.
+		if(exists($entry->{picture}))
+		{
+			CachePicture($fb, $entry);
+		}
 
 		open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
 		print PHFILE scalar to_json($entry);
@@ -521,6 +571,49 @@ sub UpdateFacebookComments($)
 	open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
 	print PHFILE scalar to_json($entry);
 	close PHFILE;
+}
+
+#
+# Helper which takes a phfile and caches the thumbnail picture (if there is one)
+#    (I used this to update all the json files when I added the cache.)
+#
+sub UpdateCachePictureForFile($)
+{
+	my $phfile = shift;
+
+	my $entry = undef;
+
+	if(-e $phfile)
+	{
+		$entry = from_json_file($phfile);
+	}
+	elsif(-e $phfile.'x')
+	{
+		$phfile .= 'x';
+		$entry = from_json_file($phfile);
+	}
+
+    if($entry->{picture} && !$entry->{picture_cached})
+	{
+		my $fb = GetFacebook();
+		print "\tFetching ".$entry->{'~orig'}->{id}."\n";
+
+		my $resp = $fb->fetch($entry->{'~orig'}->{id});
+
+		if(defined($resp) && ref($resp) eq 'HASH' && exists($resp->{picture}))
+		{
+			print "\tFetched.\n";
+
+			$entry->{picture} = $resp->{picture};
+
+			if(CachePicture($fb, $entry))
+			{
+				open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
+				print PHFILE scalar to_json($entry);
+				close PHFILE;
+			}
+		}
+	}
 }
 
 1;

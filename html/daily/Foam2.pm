@@ -534,7 +534,11 @@ EOSTUFF
 			#	$entry->{content} .= qq(<div class="picture"><a href="$story->{link}"><img src="$story->{picture}"/></a></div>\n);
 			#}
 
-			$s .= qq(<div class="picture"><a href="$story->{link}"><img src="$story->{picture}"/></a></div>\n) if(exists($story->{picture}));
+			my $picture;
+			if(exists($story->{picture_cached}))      {  $picture = $story->{picture_cached}; }
+			if(!$picture && exists($story->{picture})) {  $picture = $story->{picture}; }
+			$s .= qq(<div class="picture"><a href="$story->{link}"><img src="$picture"/></a></div>\n) if($picture);
+
 			$s .= qq(<div class="textblock">\n);
 			$s .= qq(<div class="name"><a href="$story->{link}">$story->{name}</a></div>\n) if(exists($story->{name}));
 			$s .= qq(<div class="caption">) . Linkify($story->{caption}) . qq(</div>\n)     if(exists($story->{caption}));
