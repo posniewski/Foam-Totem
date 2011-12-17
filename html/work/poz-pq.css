@@ -1,0 +1,176 @@
+#game {
+	width: 890px;
+	height: 660px;
+	background-image: url('/work/old_paper.jpg');
+}
+
+#board {
+	left: 240px;
+	top: 10px
+	width: 700px; 
+	height: 700px; 
+	position: absolute;
+	overflow: hidden;
+	xxbackground-image: url('/work/old_paper.jpg');
+}
+#score {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	font-family: 'Piedra', fantasy;
+	font-size: 80px;
+	width: 220px;
+	text-align: right;
+	color: orange;
+}
+
+.notrans {
+	-webkit-transition-property: none;
+	-moz-transition-property: none;
+	-ms-transition-property: none;
+	transition-property: none;
+}
+
+.block {
+	width: 94px; height: 94px;
+	position: absolute;
+	margin: 2px;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 10px;
+	-webkit-background-clip: padding-box;
+}
+.trans .block { 
+	-webkit-transition-property: left, top;
+	-webkit-transition-duration: .40s;
+	-webkit-transition-timing-function: linear;
+	-moz-transition-property: left, top;
+	-moz-transition-duration: .40s;
+	-moz-transition-timing-function: linear;
+	-ms-transition-property: left, top;
+	-ms-transition-duration: .40s;
+	-ms-transition-timing-function: linear;
+	transition-property: left, top;
+	transition-duration: .40s;
+	transition-timing-function: linear;
+}
+
+.nosel .block:hover { background-color: transparent; }
+.block:hover { background-color: rgba(255,200,0,1.0); }
+.block.selected { background-color: rgba(0,255,50,.80); }
+.nosel .block.selected { background-color: rgba(0,255,50,.80); }
+
+.x    { background-image: url('/work/x.png'); }
+.zap  { background-image: url('/work/zap.png'); }
+
+
+.g { background-image: url('/work/g.png'); }
+.r { background-image: url('/work/r.png'); }
+.b { background-image: url('/work/b.png'); }
+.y { background-image: url('/work/y.png'); }
+.p { background-image: url('/work/p.png'); }
+.w { background-image: url('/work/w.png'); }
+
+.bomb:after {
+	content:url('/work/obomb.png')
+}
+
+.zap:after {
+	content:url('/work/ozap.png')
+}
+
+.trans .matched {
+	opacity: 0;
+
+	-webkit-transform: rotate(180deg) scale(1.2);
+	-moz-transform: rotate(180deg) scale(1.2);
+	-ms-transform: rotate(180deg) scale(1.2);
+	transform: rotate(180deg) scale(1.2);
+
+	-webkit-transition-property: opacity, -webkit-transform;
+	-moz-transition-property: opacity, -moz-transform;
+	-ms-transition-property: opacity, -moz-transform;
+	transition-property: opacity, transform;
+}
+
+.trans .failed {
+	opacity: 0;
+    background-color: black;
+
+	-webkit-transform: rotate(360deg) scale(.2);
+	-moz-transform: rotate(360deg) scale(.2);
+	-ms-transform: rotate(360deg) scale(.2);
+	transform: rotate(360deg) scale(.2);
+
+	-webkit-transition-property: opacity, -webkit-transform, background-color;
+	-moz-transition-property: opacity, -moz-transform, background-color;
+	-ms-transition-property: opacity, -moz-transform, background-color;
+	transition-property: opacity, transform, background-color;
+}
+
+
+.matched.bomb:after {
+	content: none
+}
+
+.matched.zap:after {
+	content: none
+}
+
+.trans .matched.bombed {
+	background-image: url('/work/explosion.gif');
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
+
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	-ms-transition-property: opacity;
+	transition-property: opacity;
+}
+
+.trans .matched.zappedv {
+	background-image: url('/work/lightningv.gif');
+
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
+
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	-ms-transition-property: opacity;
+	transition-property: opacity;
+}
+
+.trans .matched.zappedh {
+	background-image: url('/work/lightningh.gif');
+
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
+
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	-ms-transition-property: opacity;
+	transition-property: opacity;
+}
+
+.trans .matched.zappedc {
+	background-image: url('/work/lightningc.gif');
+
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
+
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	-ms-transition-property: opacity;
+	transition-property: opacity;
+}
+
+

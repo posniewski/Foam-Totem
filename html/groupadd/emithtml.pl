@@ -19,7 +19,7 @@ sub EmitHTML
 
 <p>
 Send additions, corrections, or comments you want added to your entry to
-<a href="mailto:poz@broadcom.com">poz@broadcom.com</a>.
+<a href="mailto:poz@foamtotem.org">poz@foamtotem.org</a>.
 </p>
 
 <p>

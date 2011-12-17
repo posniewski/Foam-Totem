@@ -93,7 +93,7 @@ body {
 
 blockquote, q {
 	font-size: smaller;
-	border-left: solid 3px rgba(206,180,126,.25);
+	border-left: solid 3px rgba(126,180,206,.25);
 }
 
 header.main {

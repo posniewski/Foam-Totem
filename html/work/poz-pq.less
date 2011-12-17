@@ -1,0 +1,179 @@
+///////////////////////
+// LessCSS
+///////////////////////
+
+.transition-property () {
+	-webkit-transition-property: ~"@{arguments}";
+	-moz-transition-property: ~"@{arguments}";
+	-ms-transition-property: ~"@{arguments}";
+	-o-transition-property: ~"@{arguments}";
+	transition-property: ~"@{arguments}";
+}
+
+.transition-property-transforms () {
+	-webkit-transition-property: ~"@{arguments}", -webkit-transform;
+	-moz-transition-property: ~"@{arguments}", -moz-transform;
+	-ms-transition-property: ~"@{arguments}", -ms-transform;
+	-o-transition-property: ~"@{arguments}", -o-transform;
+	transition-property: ~"@{arguments}", transform;
+}
+
+.transition-duration () {
+	-webkit-transition-duration: ~"@{arguments}";
+	-moz-transition-duration: ~"@{arguments}";
+	-ms-transition-duration: ~"@{arguments}";
+	-o-transition-duration: ~"@{arguments}";
+	transition-duration: ~"@{arguments}";
+}
+
+.transition-timing-function () {
+	-webkit-transition-timing-function: ~"@{arguments}";
+	-moz-transition-timing-function: ~"@{arguments}";
+	-ms-transition-timing-function: ~"@{arguments}";
+	-o-transition-timing-function: ~"@{arguments}";
+	transition-timing-function: ~"@{arguments}";
+}
+
+.transform () {
+	-webkit-transform: ~"@{arguments}";
+	-moz-transform: ~"@{arguments}";
+	-ms-transform: ~"@{arguments}";
+	-o-transform: ~"@{arguments}";
+	transform: ~"@{arguments}";
+}
+
+.background-clip() {
+	-webkit-background-clip: ~"@{arguments}";
+	-moz-background-clip: ~"@{arguments}";
+	-ms-background-clip: ~"@{arguments}";
+	-o-background-clip: ~"@{arguments}";
+	background-clip: ~"@{arguments}";
+}
+
+///////////////////////////////////
+
+#game {
+	width: 890px;
+	height: 660px;
+	background-image: url('/work/old_paper.jpg');
+}
+
+#board {
+	left: 240px;
+	top: 10px
+	width: 700px; 
+	height: 700px; 
+	position: absolute;
+	overflow: hidden;
+}
+#score {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	font-family: 'Piedra', fantasy;
+	font-size: 80px;
+	width: 220px;
+	text-align: right;
+	color: orange;
+}
+
+.notrans {
+	.transition-property(none);
+}
+
+.block {
+	width: 94px; height: 94px;
+	position: absolute;
+	margin: 2px;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 10px;
+
+	.background-clip(padding-box);
+}
+.trans .block { 
+	.transition-property("left, top");
+	.transition-duration(".45s");
+	.transition-timing-function("linear");
+}
+
+.nosel .block:hover { background-color: transparent; }
+.block:hover { background-color: rgba(255,200,0,1.0); }
+.block.selected { background-color: rgba(0,255,50,.80); }
+.nosel .block.selected { background-color: rgba(0,255,50,.80); }
+
+.x    { background-image: url('/work/wild.png'); }
+.zap  { background-image: url('/work/zap.png'); }
+
+
+.g { background-image: url('/work/g.png'); }
+.r { background-image: url('/work/r.png'); }
+.b { background-image: url('/work/b.png'); }
+.y { background-image: url('/work/y.png'); }
+.p { background-image: url('/work/p.png'); }
+.w { background-image: url('/work/w.png'); }
+
+.bomb:after {
+	content:url('/work/obomb.png')
+}
+
+.zap:after {
+	content:url('/work/ozap.png')
+}
+
+.trans .matched {
+	opacity: 0;
+
+	.transform("rotate(180deg) scale(1.2)");
+	.transition-property-transforms("opacity");
+	.transition-duration(".45s");
+}
+
+.trans .failed {
+	opacity: 0;
+    background-color: black;
+
+	.transition-property-transforms("opacity, background-color");
+	.transform("rotate(360deg) scale(.2)");
+}
+
+
+.matched.bomb:after {
+	content: none
+}
+
+.matched.zap:after {
+	content: none
+}
+
+.trans .matched.bombed {
+	background-image: url('/work/explosion.gif');
+
+	.transform("none");
+	.transition-property("opacity");
+}
+
+.trans .matched.zappedv {
+	background-image: url('/work/lightningv.gif');
+
+	.transform("none");
+	.transition-property("opacity");
+}
+
+.trans .matched.zappedh {
+	background-image: url('/work/lightningh.gif');
+
+	.transform("none");
+	.transition-property("opacity");
+}
+
+.trans .matched.zappedc {
+	background-image: url('/work/lightningc.gif');
+
+	.transform("none");
+	.transition-property("opacity");
+}
+
+
+
