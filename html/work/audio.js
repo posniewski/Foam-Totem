@@ -1,4 +1,24 @@
-var Clip = (function () {
+(function () {
+
+
+var Sound = { }
+
+if (typeof exports !== 'undefined') {
+	if (typeof module !== 'undefined' && module.exports) {
+		exports = module.exports = Sound;
+	}
+	exports.Sound = Sound;
+}
+else if (typeof define === 'function' && define.amd) {
+	// This is for AMD-style exporting
+	define('Sound', function() { return Sound; });
+}
+else {
+	// No special system, just stick it in the global namespace
+	this['Sound'] = Sound;
+}
+
+///////////////////////////////////////////////////
 
 //
 // Test browser for what audio is supported
@@ -32,7 +52,7 @@ function GetSupportedAudioType()
 // Preallocates audio object(s) for playback.
 // Begins loading the sound files.
 //
-function Clip(src, volume, count, recycle)
+Sound.Clip = function (src, volume, count, recycle)
 {
 	this.src = src
 		// The URL to load for the sound
@@ -70,7 +90,7 @@ function Clip(src, volume, count, recycle)
 //   and the clip is set to recycle, then get the channel which is the
 //   most complete and restart it.
 //
-Clip.prototype.play = function ()
+Sound.Clip.prototype.play = function ()
 {
 	var oldest = null
 	for (var i = this.audios.length-1; i >= 0; i--) {
@@ -99,17 +119,13 @@ Clip.prototype.play = function ()
 	}
 
 	if(this.recycle) {
-		console.log("Recycled:", audio.src)
+		// console.log("Recycled:", audio.src)
 		oldest.pause()
 		oldest.currentTime = 0
 		oldest.play()
 	}
 	else {
-		console.log("None available:", audio.src)
-	}
-
-	if(this.recycle) {
-		console.log();
+		// console.log("None available:", audio.src)
 	}
 }
 
@@ -119,13 +135,13 @@ Clip.prototype.play = function ()
 // Sets the volume of the clip as a percentage of its default volume.
 //   To set the volume of a clip to normal, then set to 1.0
 //
-Clip.prototype.volume = function (volume)
+Sound.Clip.prototype.volume = function (volume)
 {
 	for (var audio in this.audios) {
 		audio.volume *= this.volume*volume;
 	}
 }
 
-return Clip;
+////////////////////
 
 }());

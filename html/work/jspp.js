@@ -242,6 +242,8 @@ function ExpandDefines(str, defines, invariants)
 			}
 		}
 	}
+
+	return str
 }
 
 //

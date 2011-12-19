@@ -3,21 +3,21 @@
 
 // Establish the root object, which could be window or global depending
 
-var MODULE = { }
+var Util = { }
 
 if (typeof exports !== 'undefined') {
 	if (typeof module !== 'undefined' && module.exports) {
-		exports = module.exports = MODULE;
+		exports = module.exports = Util;
 	}
-	exports.##MODULE = MODULE;
+	exports.Util = Util;
 }
 else if (typeof define === 'function' && define.amd) {
 	// This is for AMD-style exporting
-	define('underscore', function() { return MODULE; });
+	define('underscore', function() { return Util; });
 }
 else {
 	// No special system, just stick it in the global namespace
-	this[#MODULE] = MODULE;
+	this['Util'] = Util;
 }
 
 ///////////////////////////////////////////////////
