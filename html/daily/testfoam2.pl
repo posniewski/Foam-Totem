@@ -5,19 +5,19 @@ use Carp;
 
 require Foam2;
 
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 1);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 2);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 3);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 4);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 5);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 6);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 7);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 8);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 9);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 10);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 11);
-Foam2::UpdateHTML("/home/www/html/daily", 2011, 12);
-
+Foam2::UpdateHTML("/home/www/html/daily", 2012, 1);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 2);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 3);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 4);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 5);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 6);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 7);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 8);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 9);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 10);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 11);
+#Foam2::UpdateHTML("/home/www/html/daily", 2011, 12);
+#
 #require FoamFacebook;
  
 #my $dailydir = '/home/www/html/daily';

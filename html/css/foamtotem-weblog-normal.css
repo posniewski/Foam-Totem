@@ -482,7 +482,7 @@ footer .calendar {
 }
 
 footer .year {
-	width:43px;
+	width:41px;
 	margin: 6px 6px;
 
 	left: 50%;
@@ -498,6 +498,7 @@ footer .year a {
 footer .year h2 {
 	font-size: 1.15em;
 	margin-top: 0px;
+	margin-bottom: 6px;
 }
 
 .fb_logout {
