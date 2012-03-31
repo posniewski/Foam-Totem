@@ -11,8 +11,8 @@
 	my $path = $Request->ServerVariables('SCRIPT_FILENAME');
 	$path =~ s/[\/\\](\w*\.asp\Z)//m;
 
-	my $user = $Request->Cookies("foamtotem", "user");
-	my $fullname = $Request->Cookies("foamtotem", "fullname");
+	my $user;     # = $Request->Cookies("foamtotem", "user");
+	my $fullname; # = $Request->Cookies("foamtotem", "fullname");
 	my $password = $Request->Cookies("foamtotem", "password");
 
 	$user = 'Dr. Falken' unless $user;
@@ -73,12 +73,33 @@
 		$entry->{link} = '' unless($entry->{link});
 		$entry->{via} = '' unless($entry->{via});
 		$entry->{source} = '' unless($entry->{source});
+
+
+		if(!$entry->{description})
+		{
+			my $snippet = '';
+			if(exists($entry->{message}))
+			{
+				$snippet = substr(Foam2::untag($entry->{message}), 0, 200);
+			}
+			elsif(exists($entry->{content}))
+			{
+				$snippet = substr(Foam2::untag($entry->{content}), 0, 200);
+			}
+
+			if($snippet =~ m/(.*[.])/)
+			{
+				$snippet = $1;
+			}
+			$entry->{description} = $snippet;
+		}
 	}
 	else
 	{
 		$entry->{id} = $foam_id;
 		$entry->{publishedDate} = MakeAtomTimestamp($year, $mon, $mday, $hour, $min, $sec);
 		$entry->{content} = '';
+		$entry->{description} = '';
 		$entry->{title} = '';
 		$entry->{link} = '';
 		$entry->{via} = '';
@@ -109,6 +130,7 @@
 	<table>
 		<tr><td class="name">Title:</td><td><textarea name="title" cols="80" rows="1"><%= $entry->{title} %></textarea></td></tr>
 		<tr><td class="name">Via:</td><td><textarea name="via" cols="80" rows="1"><%= $entry->{via} %></textarea></td></tr>
+		<tr><td class="name">Description:</td><td><textarea name="description" cols="80" rows="2"><%= $entry->{description} %></textarea></td></tr>
 		<tr><td class="name">Content:</td><td><textarea name="content" cols="80" rows="25"><%= $entry->{content} %></textarea></td></tr>
 		<tr><td class="name">Date:</td><td><textarea name="publishedDate" cols="40" rows="1"><%= $entry->{publishedDate} %></textarea></td></tr>
 		<tr><td class="name">Link:</td><td><textarea name="link" cols="80" rows="1"><%= $entry->{link} %></textarea></td></tr>
@@ -117,7 +139,7 @@
 	foreach my $key (sort keys %{ $entry })
 	{
 		next if($key =~ /~/);
-		next if($key =~ /title|via|content|publishedDate|link|id/);
+		next if($key =~ /^(title|via|description|content|publishedDate|link|id)/);
 		next unless(ref( \$entry->{$key} ) eq 'SCALAR');
 
 		print qq(<tr><td  class="name">$key:</td><td><textarea name="$key" cols="80" rows="1">) . $entry->{$key} . qq(</textarea></td></tr>);

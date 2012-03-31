@@ -277,6 +277,12 @@ sub PeriodicUpdate()
 
 			if($post->{type} eq 'status')
 			{
+				if(!defined($post->{message}))
+				{
+					print "\tStatus with no message (a comment I made, I think.) Skipping.\n";
+					next;
+				}
+
 				print "\tNew status entry: $phfile\n";
 
 				$entry->{type} = 'status';
@@ -290,6 +296,12 @@ sub PeriodicUpdate()
 			}
 			elsif($post->{type} eq 'photo')
 			{
+				if(!defined($post->{message}) && defined($post->{story}))
+				{
+					print "\tPhoto with no message (Someone tagged me, I think.) Skipping.\n";
+					next;
+				}
+
 				print "\tNew photo entry: $phfile\n";
 
 				$entry->{type} = 'photo';

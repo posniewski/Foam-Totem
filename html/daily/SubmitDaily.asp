@@ -39,6 +39,7 @@
 #	$entry->{publishedDate} = $Request->Form("publishedDate");
 #	$entry->{content} = $Request->Form("content");
 #	$entry->{title} = $Request->Form("title");
+#	$entry->{description} = $Request->Form("description");
 #	$entry->{link} = $Request->Form("link");
 #	$entry->{via} = $Request->Form("via");
 

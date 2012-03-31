@@ -3,9 +3,13 @@ use strict;
 use warnings;
 use Carp;
 
-require Foam2;
+require FoamFacebook;
 
-Foam2::UpdateHTML("/home/www/html/daily", 2012, 1);
+FoamFacebook::UpdateFacebookComments("20120329_2_055126");
+
+
+#require Foam2;
+#Foam2::UpdateHTML("/home/www/html/daily", 2012, 1);
 #Foam2::UpdateHTML("/home/www/html/daily", 2011, 2);
 #Foam2::UpdateHTML("/home/www/html/daily", 2011, 3);
 #Foam2::UpdateHTML("/home/www/html/daily", 2011, 4);
@@ -19,7 +23,7 @@ Foam2::UpdateHTML("/home/www/html/daily", 2012, 1);
 #Foam2::UpdateHTML("/home/www/html/daily", 2011, 12);
 #
 #require FoamFacebook;
- 
+
 #my $dailydir = '/home/www/html/daily';
 #opendir DIR, $dailydir or die "Couldn't open directory.";
 #my @allfiles = reverse map "$dailydir/$_", sort grep /.*_2_.*\.json.?$/, readdir DIR;
