@@ -1,0 +1,1 @@
+No Longer Acceptable: Programs which steal the focus when they finally manage to start their sorry ass up. <i>(at 19:30)</i>

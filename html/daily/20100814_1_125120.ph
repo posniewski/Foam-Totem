@@ -1,0 +1,5 @@
+<div class="title">Vintage Circus Ads</div>
+<div class="via"> <a href="http://www.flickr.com/photos/49879584@N00/sets/72157623499038852/">DoubleM2 on flickr</a></div>
+         <embed allowFullScreen="true" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" height="375" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F49879584%40N00%2Fsets%2F72157623499038852%2F%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F49879584%40N00%2Fsets%2F72157623499038852%2F&amp;set_id=72157623499038852&amp;jump_to=" width="500" allowScriptAccess="never" wmode="transparent" type="application/x-shockwave-flash"></embed>
+    <p></p>
+<p class="comments"><a href="javascript:HaloScan('20100814_1_125120');" target="_self"><script type="text/javascript">postCount('20100814_1_125120');</script></a></p>

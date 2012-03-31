@@ -1,0 +1,1 @@
+SNOW! Supposed to last 3 days. Some great powdery glades so far today. <i>(at 13:11)</i>

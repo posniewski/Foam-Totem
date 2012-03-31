@@ -1,0 +1,1 @@
+<a href="/WebCam/index.html">The Naked Programmer Cam is back up</a> for all the none of you who asked.

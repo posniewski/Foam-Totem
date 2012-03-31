@@ -1,0 +1,1 @@
+I want weblog+Google Reader (shared items)+tumblr/posterous. I don't want to aggregate 10 identities, I want to syndicate. #lazyweb <i>(at 18:58)</i>

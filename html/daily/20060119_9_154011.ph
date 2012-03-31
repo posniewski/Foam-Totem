@@ -1,0 +1,2 @@
+Pat pointed out that Teamspeak isn't working, which is because I forgot to reinstall it. I'll get to it... uh... soon.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060119_9_154011');" target="_self"><script type="text/javascript">postCount('20060119_9_154011');</script></a></p>

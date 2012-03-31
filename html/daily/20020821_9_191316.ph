@@ -1,0 +1,1 @@
+<a href="http://www.smh.com.au/articles/2002/08/21/1029114137298.html">US cheats in their own war game.</a>

@@ -1,0 +1,1 @@
+"The Sergeant Who Decoyed the Nazis' Fraulein Werewolves", and more: <a href="http://www.americanartarchives.com/kunstler.htm">http://www.americanartarchives.com/kunstler.htm</a> <i>(at 19:30)</i>

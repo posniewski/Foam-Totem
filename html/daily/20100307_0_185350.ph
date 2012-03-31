@@ -1,0 +1,1 @@
+Buzz: not as slick/tight as Google Reader, clean as Facebook, or immediate as Twitter. Spammy. Missed the mark a tiny bit. Fixable. <i>(at 18:53)</i>

@@ -1,0 +1,1 @@
+Guy next to me at end of 27 hrs of travel (India-Turkey-Germany-UK-Chicago-SF) and is about to cry or scream. <i>(at 22:38)</i>

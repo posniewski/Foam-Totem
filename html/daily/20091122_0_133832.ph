@@ -1,0 +1,1 @@
+I wish they had these when I was a kid. (It amplifies voice and makes it sound like a radio too.) <a href="http://twitpic.com/qjtwc">http://twitpic.com/qjtwc</a> <i>(at 13:38)</i>

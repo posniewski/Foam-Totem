@@ -1,0 +1,3 @@
+<a href="/daily/images/BookCover.jpg"><img src="/daily/images/BookCover-thumb.jpg" border="0" align="right"/></a> <a href="http://www.flickr.com/photos/danmeth/sets/72157622487258318/">Weird Eastern European Book Covers</a>, most of which are insanely cool. Just look
+at the one to the right there. What could that book possibly be about?!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20091029_9_002932');" target="_self"><script type="text/javascript">postCount('20091029_9_002932');</script></a></p>

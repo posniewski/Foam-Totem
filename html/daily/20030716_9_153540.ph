@@ -1,0 +1,1 @@
+Snuffy motivated me and I've put myself on a diet. See more about it, including the minutia of what I'm eating at <a href="/tsp">The Svelte Programmer</a>.

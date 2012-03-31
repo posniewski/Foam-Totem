@@ -1,0 +1,1 @@
+All you of Earth are IDIOTS! <a href="http://bit.ly/c8nj9u">http://bit.ly/c8nj9u</a> <i>(at  1:01)</i>

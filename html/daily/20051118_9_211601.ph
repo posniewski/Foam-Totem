@@ -1,0 +1,2 @@
+A bit early, but Foamy Christmas radio is on the air.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20051118_9_211601');" target="_self"><script type="text/javascript">postCount('20051118_9_211601');</script></a></p>

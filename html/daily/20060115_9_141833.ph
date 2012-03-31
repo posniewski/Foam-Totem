@@ -1,0 +1,2 @@
+And Popplers works again. Moveable Type and Apache2 are NOT vaguely compatible, so it's slow to add new entries.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060115_9_141833');" target="_self"><script type="text/javascript">postCount('20060115_9_141833');</script></a></p>

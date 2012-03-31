@@ -1,0 +1,1 @@
+City of Heroes Issue 3 has gone live. I hear that Bam Bam has bought it after the New Year's CoH-athon. Anyone else? <p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050107_9_102857');" target="_self"><script type="text/javascript">postCount('20050107_9_102857');</script></a></p>

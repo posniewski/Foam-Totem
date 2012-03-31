@@ -1,0 +1,169 @@
+{
+    "caption":"news.gather.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-09T07:51:09+0000",
+                        "from":
+                            {
+                                "id":"589398789",
+                                "name":"Kevin Sullivan"
+                            },
+                        "id":"728337349_269141296455059_3531121",
+                        "message":"Isn't Orel Roberts from Oklahoma? Just askin..."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-09T12:46:46+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_269141296455059_3531633",
+                        "likes":"1",
+                        "message":"But Halliburton told me it's ok!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-09T13:37:15+0000",
+                        "from":
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"728337349_269141296455059_3531777",
+                        "likes":"2",
+                        "message":"How can anyone think this is a good idea? Don't they know about Balrogs?",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-09T18:41:11+0000",
+                        "from":
+                            {
+                                "id":"100000657683950",
+                                "name":"Joe Wreschnig"
+                            },
+                        "id":"728337349_269141296455059_3532630",
+                        "message":"I hope they feel good about shutting down that nuclear plant construction in the 70s."
+                    }
+                ]
+        },
+    "description":"\"...between 1977 and 2008, there were only 28 earthquakes in Oklahoma: less than 1 per year. Between 2009 and 2010, the state experienced 134 earthquakes: an average of 95 quakes per year.\"",
+    "id":"20111109_2_062953",
+    "link":"http:\/\/news.gather.com\/viewArticle.action?articleId=281474980725341",
+    "message":"Spoiler: Fracking",
+    "name":"What Caused the Oklahoma Earthquakes",
+    "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQBKtmuGein5VjsX&w=90&h=90&url=http%3A%2F%2Ffarm7.static.flickr.com%2F6046%2F6316946237_d6cc898005_z.jpg",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20111109_2_062953.jpg",
+    "publishedDate":"2011-11-09T06:29:53+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/269141296455059",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/269141296455059",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"news.gather.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-09T07:51:09+0000",
+                                "from":
+                                    {
+                                        "id":"589398789",
+                                        "name":"Kevin Sullivan"
+                                    },
+                                "id":"728337349_269141296455059_3531121",
+                                "message":"Isn't Orel Roberts from Oklahoma? Just askin..."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-09T12:46:46+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_269141296455059_3531633",
+                                "likes":"1",
+                                "message":"But Halliburton told me it's ok!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-09T13:37:15+0000",
+                                "from":
+                                    {
+                                        "id":"1245484058",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"728337349_269141296455059_3531777",
+                                "likes":"2",
+                                "message":"How can anyone think this is a good idea? Don't they know about Balrogs?",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-09T18:41:11+0000",
+                                "from":
+                                    {
+                                        "id":"100000657683950",
+                                        "name":"Joe Wreschnig"
+                                    },
+                                "id":"728337349_269141296455059_3532630",
+                                "message":"I hope they feel good about shutting down that nuclear plant construction in the 70s."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_269141296455059\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25"
+                        }
+                },
+            "created_time":"2011-11-09T06:29:53+0000",
+            "description":"\"...between 1977 and 2008, there were only 28 earthquakes in Oklahoma: less than 1 per year. Between 2009 and 2010, the state experienced 134 earthquakes: an average of 95 quakes per year.\"",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_269141296455059",
+            "link":"http:\/\/news.gather.com\/viewArticle.action?articleId=281474980725341",
+            "message":"Spoiler: Fracking",
+            "name":"What Caused the Oklahoma Earthquakes",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQBKtmuGein5VjsX&w=90&h=90&url=http%3A%2F%2Ffarm7.static.flickr.com%2F6046%2F6316946237_d6cc898005_z.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-11-09T18:41:11+0000"
+        }
+}

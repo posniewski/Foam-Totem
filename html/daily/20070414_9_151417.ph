@@ -1,0 +1,3 @@
+Went to see Mom, Dad and extended family for Easter, which was pretty cool. Except for the Death Flu/Sinus infection I got the last day I was there. I've been sick with fever off and on all week. And it's not over yet. Wah.
+
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070414_9_151417');" target="_self"><script type="text/javascript">postCount('20070414_9_151417');</script></a></p>

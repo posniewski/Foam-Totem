@@ -1,0 +1,1 @@
+On deck today at our place: Descent/Heroquest or equivalent, Smallworld, pizza, various other geeking out. <i>(at 11:23)</i>

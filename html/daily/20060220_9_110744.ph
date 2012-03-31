@@ -1,0 +1,2 @@
+Mean, but funny: <a href="http://badnewshughes.blogspot.com/2006/02/ye-olde-diary-of-indignities-my.html">Ye Olde Diary of Indignities</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060220_9_110744');" target="_self"><script type="text/javascript">postCount('20060220_9_110744');</script></a></p>

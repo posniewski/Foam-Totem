@@ -1,0 +1,3 @@
+If you have tried to leave me a message on my work number and I haven't gotten back to you, I never will. My voice mailbox has been broken since around New Years, apparently. Apologies for that. I hope there weren't any messages like "Quick! The [garbled] is on fire!"
+
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080303_9_095121');" target="_self"><script type="text/javascript">postCount('20080303_9_095121');</script></a></p>

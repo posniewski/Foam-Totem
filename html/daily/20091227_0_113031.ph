@@ -1,0 +1,1 @@
+OK, Avatar was really good. Hell need not be paid. Still angry at Bones, but very slightly amused by same actor in both Bones and Avatar. <i>(at 11:30)</i>

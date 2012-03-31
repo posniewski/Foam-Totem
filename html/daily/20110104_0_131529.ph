@@ -1,0 +1,1 @@
+Of course, bag was packed with TARDIS technology, so disassembly looked like a clown car and reassembly was not so smooth. <i>(at 13:15)</i>

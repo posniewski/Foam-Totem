@@ -1,0 +1,1 @@
+<a href="http://www.flickr.com/photos/lla/472775651/">EViL HAMSTERs</a><p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070427_9_124323');" target="_self"><script type="text/javascript">postCount('20070427_9_124323');</script></a></p>

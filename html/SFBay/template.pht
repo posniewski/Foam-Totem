@@ -1,0 +1,14 @@
+%$Title="This is the title";
+%$Date="1 Jan 1900";
+
+%StdFoamTotemHTMLStart;
+%StdFoamTotemBodyStart;
+%StdFoamTotemContentStart;
+
+%$makepara=1;
+
+<!-- content -->
+
+%StdFoamTotemContentEnd;
+%StdFoamTotemBodyEnd;
+%StdFoamTotemHTMLEnd;

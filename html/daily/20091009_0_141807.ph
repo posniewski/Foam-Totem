@@ -1,0 +1,1 @@
+Plate on Prius: GORTT with a holder saying Klaatu Barada Niktu AND a Masonic G emblem. <i>(at 14:18)</i>

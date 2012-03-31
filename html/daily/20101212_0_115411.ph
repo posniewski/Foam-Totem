@@ -1,0 +1,1 @@
+Warrior's Way was pretty good. Straightforward, looked good, a tiny bit slow. Needed another fight scene. <i>(at 11:54)</i>

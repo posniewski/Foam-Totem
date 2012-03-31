@@ -1,0 +1,1 @@
+Catching up on recent software terminology and ran across "Dependency Injection": a new and misleading name for an old/mundane idea AFAIK. <i>(at  0:33)</i>

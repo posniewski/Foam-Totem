@@ -1,0 +1,1 @@
+Wow. It's a really beautiful Indian summer day. <i>(at 11:22)</i>

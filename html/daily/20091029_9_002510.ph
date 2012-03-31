@@ -1,0 +1,2 @@
+<a href="http://bibliodyssey.blogspot.com/2009/10/outer-space.html"><img src="/daily/images/airship-thumb.jpg" border="0" align="right"/></a><a href="http://bibliodyssey.blogspot.com/2009/10/outer-space.html">Utterly awesome airship illustrations</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20091029_9_002510');" target="_self"><script type="text/javascript">postCount('20091029_9_002510');</script></a></p>

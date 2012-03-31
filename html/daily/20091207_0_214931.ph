@@ -1,0 +1,1 @@
+And, yes, by some miracle I still have a scraper in my car. <i>(at 21:49)</i>

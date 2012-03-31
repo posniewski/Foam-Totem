@@ -1,0 +1,1 @@
+The heat followed me home, it seems. <i>(at 13:07)</i>

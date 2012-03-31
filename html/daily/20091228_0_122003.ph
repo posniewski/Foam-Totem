@@ -1,0 +1,1 @@
+Snowing hard in VT. Time for a book and a hot toddy.  <a href="http://twitpic.com/vmht7">http://twitpic.com/vmht7</a> <i>(at 12:20)</i>

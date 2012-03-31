@@ -1,0 +1,4 @@
+Amazingly, I still get Wired magazine. (It's worth the $1 an issue I pay for it.) Anyway, there's a puff piece on Peter Jackson's new King Kong movie which has a recent picture of Jackson in it. <a href="http://www.wired.com/wired/archive/13.10/kingkong.html">He's almost unrecognizable after losing 70 lbs and having his sight fixed.</a>
+
+In addition, he's been doing a <a href="http://www.kongisking.net/kong2005/proddiary/">weekly video diary</a> for the length of the production. It's quite cool.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20051005_9_173401');" target="_self"><script type="text/javascript">postCount('20051005_9_173401');</script></a></p>

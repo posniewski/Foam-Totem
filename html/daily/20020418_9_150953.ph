@@ -1,0 +1,5 @@
+<b><i><a href="http://www.spe.sony.com/movies/residentevil/">Resident Evil</a></i></b> <font size="-1">(<a href="http://us.imdb.com/Title?0120804">IMDB 6.8</a>|<a href="http://www.capalert.com/capreports/residentevil.htm">CAP 47</a>|<a href="http://www.rottentomatoes.com/m/ResidentEvil-1113364/">Rot 34%</a>)</font>
+
+This movie is obviously not God's gift to cinema, but it's a ZOMBIE movie!  Zombie dogs! Evil zombie... whatevers! Milla Jovovich! Milla Jovovich kicking zombie ASS! Milla Jovovich wearing a napkin in a very brightly lit room! AND ZOMBIIIEEEEES!
+
+It takes a lot from John Carpenter. Timing, shocks, and even the synthesized and rather simplistic musical score. The plot is thin, but there is one: evil corporation, viruses, ultimate killing machines, you know the drill. The movie is apparently a prequel to the next game, but the movie isn't too... gamey. Heh. Well. A fun Saturday matinee if you like B horror flicks or Milla Jovovich naked.

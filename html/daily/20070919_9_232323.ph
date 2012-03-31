@@ -1,0 +1,2 @@
+<a href="http://farm1.static.flickr.com/148/406258694_e65219a08c_o.jpg">A hysterically funny absurd music manuscript.</a> Includes instructions like "gong duet", "release the penguins", "Like a Dirigible".
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070919_9_232323');" target="_self"><script type="text/javascript">postCount('20070919_9_232323');</script></a></p>

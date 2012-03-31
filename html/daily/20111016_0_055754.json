@@ -1,0 +1,73 @@
+{
+    "content":"Dear Supernatural: I'm pretty sure Star Trek has used up television's lifetime allotment of God-like judges. <time datetime=\"2011-10-16T05:57:54+00:00\">(at&nbsp;05:57)<\/time>",
+    "id":"20111016_0_055754",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/125450374277636096",
+    "publishedDate":"2011-10-16T05:57:54+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10150362507087350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150362507087350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150362507087350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=125450374277636096",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "canvas_name":"twitter",
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2011-10-16T05:57:55+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150362507087350",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1661085968",
+                                "name":"Melissa Bourgeois"
+                            }
+                        ]
+                },
+            "message":"Dear Supernatural: I'm pretty sure Star Trek has used up television's lifetime allotment of God-like judges.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-10-16T05:57:55+0000"
+        }
+}

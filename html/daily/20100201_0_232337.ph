@@ -1,0 +1,1 @@
+720 minutes of static would have been preferable to the last 42 minutes of Heroes. <i>(at 23:23)</i>

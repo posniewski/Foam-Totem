@@ -1,0 +1,2 @@
+The cam is down right now since Cryptic is in the middle of a move. The move is across the street into a much, much larger space.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070129_9_153502');" target="_self"><script type="text/javascript">postCount('20070129_9_153502');</script></a></p>

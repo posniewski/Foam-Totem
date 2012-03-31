@@ -1,0 +1,119 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-08-07T01:16:55+0000",
+                        "from":
+                            {
+                                "id":"3601331",
+                                "name":"Ben Foxworthy"
+                            },
+                        "id":"728337349_253008008061384_3669152",
+                        "message":"That's kind of reassuring."
+                    },
+                    
+                    {
+                        "created_time":"2011-08-07T04:29:15+0000",
+                        "from":
+                            {
+                                "id":"1437561524",
+                                "name":"Matt Miller"
+                            },
+                        "id":"728337349_253008008061384_3669946",
+                        "message":"\"-it works a ton better than I ever thought it would\" I had the same reaction. "
+                    }
+                ]
+        },
+    "content":"\nAs a follow-on to the <a href=\"http:\/\/www.youtube.com\/watch?v=1QxrQnJCXKo\">Steve Perlman talk, I checked out <a href=\"http:\/\/onlive.com\">OnLive<\/a>. OnLive lets you play games on your computer even if your computer is too weak to support the game. It basically runs the game on a server out in a server farm somewhere, and sends you the video. There's no need for you to install the game or anything. It also has a variety of community features, like being able to watch other people play the game, give them cheers, friend them and so on.\n\nI had first heard of them maybe five years ago, and my thought was that it would never work. More specifically, the round-trip time between the computer and the server would be high enough that everything would be a bit laggy. Most (good) games already do a lot of work to decrease the time between input and output, adding 100-350ms of latency is an eternity. I flipped the bozo bit on the idea and moved on.\n\nFive years later, I see a video of someone using it, and it looks pretty slick. I'm intrigued, so I decided to check it out. Basically, it has all the problems I expected that it would. That said, it seems to work nearly as well as physics allows it to, which is pretty impressive.\n<p\/>\n<b>Latency<\/b><br>\nLatency is apparent and obvious, even on games where it doesn't matter, like Puzzle Quest. That said, I'm impressed it was as low as it was.  They must have some pretty fast video compression stuff on the servers. I can't imagine that an FPS is very playable on the system, though.\n<p\/>\n<b>Video encoding artifacts<\/b><br>\nThe video encoding artifacts are evident and obvious. It's pretty good by the standards of TV, but games for PCs are generally made to take advantage of things like legible, crisp text or texture patterns. They get a bit smudged by the compression. Games were playable though. I doubt it'd be usable for business apps, though (as he suggests in his talk).\n<p\/>\n<b>iPad Video is even worse<\/b><br>\nI also tested this on my iPad (which has an OnLive client-- though I couldn't play any games on it) and the image was flat-out unacceptably fuzzy. (I suspect the iPad version is actually a video of a remote server running the OnLive client, which is then going to another server for the game. On a desktop, you run the client yourself.)\n<p\/>\n<b>Network congestion<\/b><br>\nAnd during my one hour play time, I failed what I was doing twice because of network congestion or some other glitch. It eventually recovered but the video can get scrambled or vanish, which can be disorienting when playing a twitch game. Not a big deal in FPS games where you die 100 times, but if I was click-dragging items around in Maya or some other real app, that'd suck to the Nth degree.\n\nNone of these these things are really their \"fault\". In fact, it works a ton better than I ever thought it would. It shows, however, an inherent weakness to the Cloud Everything approach.",
+    "id":"20110806_9_223953",
+    "link":"",
+    "publishedDate":"2011-08-06T22:39:53+00:00",
+    "source":"foamtotem",
+    "title":"It Turns Out OnLive IS Impossible",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_253008008061384":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/253008008061384",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/253008008061384",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-08-07T01:16:55+0000",
+                                "from":
+                                    {
+                                        "id":"3601331",
+                                        "name":"Ben Foxworthy"
+                                    },
+                                "id":"728337349_253008008061384_3669152",
+                                "message":"That's kind of reassuring."
+                            },
+                            
+                            {
+                                "created_time":"2011-08-07T04:29:15+0000",
+                                "from":
+                                    {
+                                        "id":"1437561524",
+                                        "name":"Matt Miller"
+                                    },
+                                "id":"728337349_253008008061384_3669946",
+                                "message":"\"-it works a ton better than I ever thought it would\" I had the same reaction. "
+                            }
+                        ]
+                },
+            "created_time":"2011-08-06T23:17:10+0000",
+            "description":"As a follow-on to the Steve Perlman talk, I checked out OnLive. OnLive lets you play games on your computer even if your computer is too weak to support the game.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_253008008061384",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"3601331",
+                                "name":"Ben Foxworthy"
+                            }
+                        ]
+                },
+            "link":"http:\/\/foamtotem.org\/2011\/20110806_9_223953.html",
+            "message":"I also looked at OnLive, which I always thought was impossible and guess what? It is.",
+            "name":"It Turns Out OnLive IS Impossible",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-08-07T04:29:15+0000"
+        }
+}

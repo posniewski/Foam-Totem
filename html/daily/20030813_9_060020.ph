@@ -1,0 +1,1 @@
+I'm going to stop reading the news now and go back into my dark little programming den before the blood vessels in my brain explode.

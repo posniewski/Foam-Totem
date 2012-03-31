@@ -1,0 +1,2 @@
+First run in three months: felt fantastic. Only a mile since I'm supposed to ramp back up slowly. I really miss running.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20090109_9_091208');" target="_self"><script type="text/javascript">postCount('20090109_9_091208');</script></a></p>

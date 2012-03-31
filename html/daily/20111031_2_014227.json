@@ -1,0 +1,96 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-10-31T02:28:25+0000",
+                        "from":
+                            {
+                                "id":"1400595350",
+                                "name":"Peter Oehler"
+                            },
+                        "id":"728337349_10150381290032350_19466365",
+                        "message":"Agreed. There are quite a lot of issues with this release on my Gen 1 iPad. The new phone seems more stable, but the backwards compatibility issue is huge. \nLooking at the Android universe with OS upgrades, I guess I should be happy it is compatible at all."
+                    }
+                ]
+        },
+    "id":"20111031_2_014227",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150381290032350",
+    "message":"I grow weary of iPad's Safari constant crashing. I shouldn't have to accept hits sort of crappiness in 2011",
+    "publishedDate":"2011-10-31T01:42:27+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Twitter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150381290032350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150381290032350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=130821905522491392",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "canvas_name":"twitter",
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-10-31T02:28:25+0000",
+                                "from":
+                                    {
+                                        "id":"1400595350",
+                                        "name":"Peter Oehler"
+                                    },
+                                "id":"728337349_10150381290032350_19466365",
+                                "message":"Agreed. There are quite a lot of issues with this release on my Gen 1 iPad. The new phone seems more stable, but the backwards compatibility issue is huge. \nLooking at the Android universe with OS upgrades, I guess I should be happy it is compatible at all."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150381290032350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25"
+                        }
+                },
+            "created_time":"2011-10-31T01:42:27+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150381290032350",
+            "message":"I grow weary of iPad's Safari constant crashing. I shouldn't have to accept hits sort of crappiness in 2011",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-10-31T02:28:25+0000"
+        }
+}

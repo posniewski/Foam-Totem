@@ -1,0 +1,1 @@
+Great day yesterday at Zinx: Mike, horses, brain-erasing margarita, BBQ, Cootie, Rock Band, hot tub, XBox game where things blow up (EDF) <i>(at 11:22)</i>

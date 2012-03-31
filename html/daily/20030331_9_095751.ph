@@ -1,0 +1,5 @@
+Although war is not healthy for children and other living things, I do have confidence in the abilities and competence our armed forces. Alas, it appears that <a href="http://www.newyorker.com/fact/content/?030407fa_fact1">Rumsfeld may have taken the reins</a> harder than many are comfortable with. (Including myself, if that article is accurate.)
+
+We shouldn't be surprised by the direction our executive branch has taken: some of <a href="http://www.newamericancentury.org/statementofprinciples.htm">the top civilians involved in this war signed this statement of principles</a>. Cheney, Rumsfeld, and Wolfowitz are all there.
+
+I don't think there's any doubt that the U.S. will eventually win the war in terms of (choose one: conquering, liberating, destroying, changing-the-regime-of) Iraq. I wonder, though, if the cost will make it seem like a win. The principles from the link above would seem to indicate that relations with other countries will be determined by might instead of diplomacy; The undersigned probably don't care if we burn every diplomatic bridge we encounter.

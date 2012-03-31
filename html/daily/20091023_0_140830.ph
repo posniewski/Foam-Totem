@@ -1,0 +1,1 @@
+Dropped my iPhone again: LCD damage at 5%. <i>(at 14:08)</i>

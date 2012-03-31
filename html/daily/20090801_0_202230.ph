@@ -1,0 +1,1 @@
+Either the dog thinks the world is actually ending RIGHT NOW or he wants to be fed RIGHT NOW. Whining and spazzing out are non-specific. <i>(at 20:22)</i>

@@ -1,0 +1,129 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-06-18T23:52:37+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_130929233653426_491316",
+                        "message":"Huh?  :) I guess i am reduced to puppies and kittens. Happened earlier than I had expected."
+                    },
+                    
+                    {
+                        "created_time":"2011-06-19T01:33:54+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_130929233653426_491617",
+                        "message":"???"
+                    },
+                    
+                    {
+                        "created_time":"2011-06-19T02:27:59+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_130929233653426_491756",
+                        "message":"As I reread my comment I also go ??? but at the time I was just attempting to make the point that your analysis is way over my head. Like that's a surprise. Bad attempt."
+                    }
+                ]
+        },
+    "content":"\nOne note before I hop into things: These write-ups are on the basis of internet research and sometimes some poking around with the database itself. I haven't made any significant use of any of these databases. The point of the research is to decide which I'll use.\n\nSo, let me start with MongoDB. MongoDB is classified as a \"document-oriented database\". I had never really heard of such a thing before and I'm not quite sure what the real difference is between that and an object database. Perhaps the difference is that MongoDB enforces no schema. Any document schema you use is by your own convention; it doesn't really care. There are no table definitions to speak of. You simply make a \"document\", which is a set of attrib\/value pairs, and store it into the database.\n\n<pre class=\"code\">\ndb.noobs.save(\n   {\n      \"name\" : {\n         \"first\": \"Shannon\",\n         \"last\": \"Posniewski\"\n      },\n      \"awesomeness\" : 100,\n      \"loserness\" : 20,\n      \"likes\" : [\"bananas\", \"cookies\"]\n   }\n)\n<\/pre>\n\nThe values can be objects (\"name\" above) and arrays (\"likes\" above) as well as scalars. And, of course, arrays of objects and object that contain arrays and so on. It probably didn't escape your notice that the document is represented in JSON. I think this is brilliant, especially when one pairs MongoDB with a dynamic language which can instantiate objects from JSON. So a natural partner to MongoDB is node.js, which is a server-side javascript engine (which I'm also enamored of).\n\nOne does queries in MongoDB mainly by example. You simply provide the parts of the document you wish to match as a document. This finds all the documents where the last name is Posniewski, for example. Note also, that traversing to internal objects simply uses dot-notation.\n<pre class=\"code\">\ndb.noobs.find({ \"name.last\" : \"Posniewski\" })\n<\/pre>\nBut MongoDB goes a lot further than that, allowing some basic tests in the values of a query. This one finds all the docs with an awesomeness greater than 50 and less than 200.\n<pre class=\"code\">\ndb.noobs.find({ \"awesomeness\" : { $gt: 50, $lt: 200 } })\n<\/pre>\nIn a final bit of coolness, you can provide a full-on javascript expression for these query values. These expressions have access to the whole document. Of course, these are much slower than the simpler queries (especially if one makes appropriate indices for them).\n<pre class=\"code\">\ndb.noobs.find({ function() { return this.awesomeness > this.loserness; } })\n<\/pre>\nThere are a bunch of comparators like $gt and $lt, and one can couple the simple queries and the fancy advanced javascript. There are also special provisions for arrays and so on. In short, MongoDB lets you do arbitrary ad-hoc queries on the documents, which is pretty amazing.\n\nUpdates in MongoDB are done in basically the same way. You provide a query to select one or more documents, and then a mutator document. Fields present in the mutator are modified in the selected documents. Like the queries, there are also more complicated modifiers that can be used beyond just setting the value. In the example below, awesomness in incremented by 10. (The _id field is a built-in unique object id MongoDb provides.)\n<pre class=\"code\">\ndb.noobs.update(\n   { _id: XXXX },\n   { _id: XXXX, name.first: \"Mister\", { $inc: { awesomeness : 10 } },\n   true\n);\n<\/pre>\nThe modifiers include pushing, popping, and yanking items from arrays. MongoDB modifies documents in place rather than re-writing them. For data which changes often, this can have some performance bonuses.\n\nMongoDB is designed to allow horizontal scaling. This is useful for load balancing and redundancy. You can add cohorts to the cluster on the fly, which it pretty neat if you need nine 9s uptime, I suppose. Anecdotally, though, MongoDB is not very reliable. There are several reports of lost data from crashes even when running with replica sets. You should never run MongoDB with less than two physical servers because their main strategy for stability and durability is through replication. (They aren't necessarily wrong about this, but it doesn't fill one with confidence.) It wasn't until recently that they added write-ahead journaling.\n\n<img src=\"http:\/\/foamtotem.org\/daily\/images\/mongo.jpg\" class=\"posterous\" \/><center><i>Mongo just pawn in game of life.<\/i><\/center>\n\nMongoDb relaxes some bits of ACID compliance, as many of these databases do for performance or usability reasons. In this case, atomicity is only provided for a single document. All changes within a single document update are atomic, but there is no such thing as a cross-document transaction. They explain that the inherently distributed nature of MongoDB makes doing this largely impossible (without gigantic locking problems) so they aren't even pursuing it. The website ostensibly explains how to do this with a application-side two-phase commit. However, it's not clear to me that it is actually solvable only with app-side logic.\n\nIn game terms, this means that item trades will need some kind of special handling to avoid item duping, which is a bummer. It's not a stopper, in my opinion. It's basically the only thing which needs cross-player transactions and I suspect one could find a clever way to at least minimize the chance of failure\/duping.\n\nOn the whole, though, MongoDB seems like a really good fit for player data in an online game.\n\n",
+    "id":"20110617_9_210552",
+    "link":"",
+    "publishedDate":"2011-06-17T21:05:52+00:00",
+    "source":"foamtotem",
+    "title":"NoSQL Databases: MongoDB",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_130929233653426":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/130929233653426",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/130929233653426",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-06-18T23:52:37+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_130929233653426_491316",
+                                "message":"Huh?  :) I guess i am reduced to puppies and kittens. Happened earlier than I had expected."
+                            },
+                            
+                            {
+                                "created_time":"2011-06-19T01:33:54+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_130929233653426_491617",
+                                "message":"???"
+                            },
+                            
+                            {
+                                "created_time":"2011-06-19T02:27:59+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_130929233653426_491756",
+                                "message":"As I reread my comment I also go ??? but at the time I was just attempting to make the point that your analysis is way over my head. Like that's a surprise. Bad attempt."
+                            }
+                        ]
+                },
+            "created_time":"2011-06-17T23:01:45+0000",
+            "description":"Part two of my look at NoSQL databases. This time MongoDB.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_130929233653426",
+            "link":"http:\/\/foamtotem.org\/2011\/20110617_9_210552.html",
+            "name":"NoSQL Databases: MongoDB",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQCxIsw6ukFuUkIc&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Fmongo.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-06-19T02:27:59+0000"
+        }
+}

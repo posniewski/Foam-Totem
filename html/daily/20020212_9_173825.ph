@@ -1,0 +1,1 @@
+Good god! First green and purple ketchup, now we have <a href="http://money.cnn.com/2002/02/11/news/wires/funkyfries_ap/">chocolate, blue and what have you</a> flavored fries!

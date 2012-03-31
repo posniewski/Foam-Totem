@@ -1,0 +1,2 @@
+<a href="http://www.bikinifilms.co.uk/mv/gabrielmalaprade/reel/yy_e_mov.htm">Rock Lobster?</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20050812_9_071316');" target="_self"><script type="text/javascript">postCount('20050812_9_071316');</script></a></p>

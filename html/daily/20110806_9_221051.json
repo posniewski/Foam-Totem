@@ -1,0 +1,55 @@
+{
+    "content":"\nRecently, Steve Perlman gave <a href=\"http:\/\/www.youtube.com\/watch?v=1QxrQnJCXKo\">a talk at Columbia<\/a> on what his company, Rearden, has been up to the past few years. Perlman thinks that not enough true invention is being done any more. Venture capital expects payoffs in the one to three year timeframe. Innovation and invention can take a lot longer than that. SO he created Rearden Labs to do this kind of invention. Several are discussed in the talk, but the one that really caught my eye was DIDO radio.\n\nNot much was said in the presentation except that it was world-changing, and awesome, and that the \"big guys\" didn't want to use it even though it's better in every way. There was some potential for hyperbole. That said, I was intrigued because the basic approach sounded clever. It also has the potential to solve the \"last-mile\" problem in rural areas (where it's really a \"last-twenty-miles\" problem).\n\nThe presentation didn't go into hardly any detail and I know almost nothing about radio so this isn't too surprising. I did some research on it today to see just how awesome it is. I read a <a href=\"http:\/\/www.rearden.com\/DIDO\/DIDO_White_Paper_110727.pdf\">whitepaper Rearden posted DIDO radio<\/a>. It didn't give quite enough for me to know what was real and what was hyperbole, however. However, they've been working on this for a long time and the whole thing is <a href=\"http:\/\/www.google.com\/search?tbo=p&tbm=pts&hl=en&q=ininventor:Antonio+Forenza\">laid out in their patents<\/a>.\n\nThe executive summary is that it’s still pretty cool, but not ultra-mind-blowing-cool as far as I can tell. There’s an enormous amount of prior art that this is founded on. WiMax and LTE do stuff like it (but not exactly it). The DIDO patents actually cover the difference between MIMO and the new stuff explicitly. (Imagine! They actually teach as they are supposed to!)\n\n<b>My Summary<\/b><br>\nIn comparison to the current state of the art which also uses spatial differentiation to send multiple signals on the same frequency, they removed the need for multiple antennas on the client side, effectively replacing them with computing horsepower at the base station. Current art has each client train against each antenna to see how it \"hears\" it, and then uses this information to decode whatever crazy waveform it receives later and extract just the one it needs. (It gets a crazy waveform due to propagation delay differences from different towers, echoing, attenuation, etc.) In DIDO, each client does the same basic thing but sends this training information back to the base station. When constructing the final waveform for each antenna, it convolves all the signals together using this information. The result is that when they all arrive at a particular client, the only signal it should \"hear\" is its own. The client doesn’t need to do much work since it’s pre-compensated.\n\nThe advantages of this approach are that the client radios can be smaller (apparently, the current art requires multiple antennas for reasons I am not clear on) and much simpler since there’s no big calculating that needs to be done.\n\nThe number of simultaneous streams of data that can be sent is limited by the number of spatially distinct antennas at the base. (They are preferably at least 1\/2 a wavelength apart according to the patents.) If you have more clients than antennas, you time-multiplex them.\n\nI don’t understand how upstream data is sent in this system, or how the training information is determined. Apparently, this is meant to be obvious to one \"skilled in the art\" as they are just jargon in the patent.\n\nSo, probably a great improvement over the state of the art, but probably not entirely earth-shattering to those in the industry.",
+    "id":"20110806_9_221051",
+    "link":"",
+    "publishedDate":"2011-08-06T22:10:51+00:00",
+    "source":"foamtotem",
+    "title":"Is DIDO Radio World-Changing?",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_212760732106951":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/212760732106951",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/212760732106951",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2011-08-06T23:15:54+0000",
+            "description":"The executive summary is that it’s still pretty cool, but not ultra-mind-blowing-cool. ",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_212760732106951",
+            "link":"http:\/\/foamtotem.org\/2011\/20110806_9_221051.html",
+            "message":"My thoughts on Rearden's newly-hyped wireless radio tech.",
+            "name":"Is DIDO Radio World-Changing?",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-08-06T23:15:54+0000"
+        }
+}

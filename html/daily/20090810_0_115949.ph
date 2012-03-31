@@ -1,0 +1,1 @@
+Ran today for the first time since back injury. Only a mile: brain just getting into it, but knew I shouldn't push the body yet. <i>(at 11:59)</i>

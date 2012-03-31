@@ -1,0 +1,1 @@
+Meeting Pentathlon: second event is closing now. I find it unlikely that there will be any winners. <i>(at 14:32)</i>

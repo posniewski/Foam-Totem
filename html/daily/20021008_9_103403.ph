@@ -1,0 +1,1 @@
+<a href="http://spaceflight.nasa.gov/gallery/video/shuttle/sts-112/html/fd1.html">Launch pics of Space Shuttle Atlantis (STS-112) from the booster.</a> Unfortunately, there's no pics on-ship pics during separation.

@@ -1,0 +1,1 @@
+My tablet (TC1100)'s disk is beginning to self-destruct. Where are all the iPad clones I was promised?! <i>(at 13:02)</i>

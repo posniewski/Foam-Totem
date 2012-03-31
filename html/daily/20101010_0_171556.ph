@@ -1,0 +1,1 @@
+Scary AND clever: Chrome patches using a diff-er that decompiles the executable to localize highly changeable data. <a href="http://goo.gl/ZbN3">http://goo.gl/ZbN3</a> <i>(at 17:15)</i>

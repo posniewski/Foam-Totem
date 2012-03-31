@@ -1,0 +1,2 @@
+<a href="http://www.flickr.com/photos/squidnews/3200285750/"><img src="/daily/images/moz-screenshot.jpg" border="0" align="right"/></a>For Iwan's future reference:
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20090116_9_155650');" target="_self"><script type="text/javascript">postCount('20090116_9_155650');</script></a></p>

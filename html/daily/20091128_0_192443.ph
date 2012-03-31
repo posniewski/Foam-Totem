@@ -1,0 +1,1 @@
+I wonder if it's finally time to go to a hosted weblog system rather than my homegrown one... <i>(at 19:24)</i>

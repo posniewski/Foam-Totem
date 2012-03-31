@@ -1,0 +1,1 @@
+Waiting for Avatar to start. This better be as fun as y'all say or there will be Hell to pay. A CGI-gen rollercoaster of Hell to pay. <i>(at  8:14)</i>

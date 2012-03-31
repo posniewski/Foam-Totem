@@ -1,0 +1,1 @@
+3 year old home computer died from faulty disk. Should I just replace the whole thing? <i>(at 11:02)</i>

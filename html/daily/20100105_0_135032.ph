@@ -1,0 +1,1 @@
+The line... It's moving, but will it be fast enough?! Stay tuned to learn the fate if our intrepid hero. <a href="http://twitpic.com/wthxo">http://twitpic.com/wthxo</a> <i>(at 13:50)</i>

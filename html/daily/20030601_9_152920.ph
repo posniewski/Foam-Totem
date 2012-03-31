@@ -1,0 +1,1 @@
+<a href="http://gaybetamax.co.uk/flash2.html">Funniest. Satire. Ever.</a> (Watch at least the first half.)

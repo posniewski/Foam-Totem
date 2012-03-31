@@ -1,0 +1,1 @@
+When I buy a paper book from Amazon, they should upsell the digital rights (i.e. for the Kindle) for an extra $2. <i>(at 19:36)</i>

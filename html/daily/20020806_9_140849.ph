@@ -1,0 +1,1 @@
+Interesting read and pictures of <a href="http://www.laweekly.com/ink/02/36/features-ehrenreich.php">modern-day Hobos</a>.

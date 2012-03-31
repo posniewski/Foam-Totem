@@ -1,0 +1,3 @@
+I scrapped the indexing part of what I wrote before since the indexer was weak and made errors. I had it working and generating web pages and everything, but it just showed how iffy the indexer was. 
+
+A much better indexing problem for my needs is <a href="">SWISH-E</a>. It is very flexible and lets me create whatever fields I want. I also lets me manipulate what is stored as the doc summary, which is also cool. I'm almost done with the filter pre-processor which turns RFC822-format files into XML-ish stuff which it indexes. (You put fields into Meta tags. Nice approach.)

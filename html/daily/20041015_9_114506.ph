@@ -1,0 +1,1 @@
+<a href="http://www.salon.com/opinion/feature/2004/09/10/conservatives/index_np1.html">Why conservatives should vote for Kerry.</a> I've read a number of articles along these lines, none of which summarize things as well as this one. The only way G.W. is "conservative" is morally. Libertarians, and financial and social conservatives, beware!

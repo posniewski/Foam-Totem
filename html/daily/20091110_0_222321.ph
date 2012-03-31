@@ -1,0 +1,1 @@
+A new language from Rob Pike and Ken Thompson: Go -- <a href="http://golang.org/">http://golang.org/</a> <i>(at 22:23)</i>

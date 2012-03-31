@@ -1,0 +1,2 @@
+<a href="http://www.cityofheroes.com/coh_pcgamer.html"><img src="/daily/pcgamer_small.jpg" border="0" align="right"></a>
+City of Heroes is the cover feature in PCGamer this month. The cover is pretty cool, and the article (though lacking any real content) good PR. You can get this mag at any newsstand; pretty cool! (Repeated from last month in case you missed it.)

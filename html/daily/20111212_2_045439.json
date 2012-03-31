@@ -1,0 +1,95 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-12T11:29:49+0000",
+                        "from":
+                            {
+                                "id":"1504001963",
+                                "name":"Dan Prendergast"
+                            },
+                        "id":"728337349_10150462557877350_20185541",
+                        "message":"They know best..:-)"
+                    }
+                ]
+        },
+    "id":"20111212_2_045439",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150462557877350",
+    "message":"Facebook won't let me post any links to Snopes, because it's spammy. Right. It's pretty much the only antidote for propagandist copy\/paste status messages.",
+    "publishedDate":"2011-12-12T04:54:39+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150462557877350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150462557877350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-12T11:29:49+0000",
+                                "from":
+                                    {
+                                        "id":"1504001963",
+                                        "name":"Dan Prendergast"
+                                    },
+                                "id":"728337349_10150462557877350_20185541",
+                                "message":"They know best..:-)"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150462557877350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150462557877350_20185541"
+                        }
+                },
+            "created_time":"2011-12-12T04:54:39+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10150462557877350",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"100000764207008",
+                                "name":"Beth Homicz"
+                            }
+                        ]
+                },
+            "message":"Facebook won't let me post any links to Snopes, because it's spammy. Right. It's pretty much the only antidote for propagandist copy\/paste status messages.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"status",
+            "updated_time":"2011-12-12T11:29:49+0000"
+        }
+}

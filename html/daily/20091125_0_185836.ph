@@ -1,0 +1,1 @@
+No Longer Acceptable: Stale rolls at a store whose slogan is "Eat Fresh". <i>(at 18:58)</i>

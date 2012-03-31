@@ -1,0 +1,1 @@
+I love October. I love it because cable hauls out all of these <a href="http://us.imdb.com/Title?0082427">grade-B</a> and <a href="http://us.imdb.com/Title?0054215">classic</a> (and <a href="http://us.imdb.com/Title?0057449">classic-grade-B</a>) horror films.

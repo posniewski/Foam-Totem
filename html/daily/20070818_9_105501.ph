@@ -1,0 +1,5 @@
+Happy kites for my birthday. Make sure you watch to the end, it's astonishing. <object width="300" height="200" align="right"><param name="movie" value="http://www.youtube.com/v/E69flRylQRo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/E69flRylQRo" type="application/x-shockwave-flash" wmode="transparent" width="300" height="200" align="right"></embed></object>
+
+
+The flyer is <a href="http://www.raybethell.com/index.htm">Ray Bethell</a>. Here's a nice <a href="http://www.vfs.com/gallery.php?id=3&category_id=25&project_id=675">documentary about him</a>.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070818_9_105501');" target="_self"><script type="text/javascript">postCount('20070818_9_105501');</script></a></p>

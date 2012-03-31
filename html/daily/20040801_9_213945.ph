@@ -1,0 +1,7 @@
+Went for a day hike today at <a href="http://www.santacruzstateparks.com/parks/castlerock/index.php">Castle Rock State Park</a>. I did the <a href="http://www.bahiker.com/southbayhikes/castlerock.html">Ridge Trail/Saratoga Gap Trail loop</a> which was about 6 miles with the side trips. About a quarter of the trail went along the edge of a very steep drop-off and had a great view. It was pretty busy; probably a dozen different groups excluding the rock-climbers (for which Castle Rock is well-known, especially its eponymous formation).
+
+It's always weird hiking in the Bay area for me. Trees are not a given, even in a natural setting, there's not enough water. You'll be walking in a sparse forest and it'll just open up into a grassy field. Plus, this wasn't a wilderness by any stretch. Lots of trail work, including an observation platform (made of metal pipe) at the waterfall (barely sputtering since it's summer).
+
+At the half-way point was a camping area and a park office, which was unattended. In fact, this whole area looked absolutely awful. There was a derelict house there, which I expect was once a ranger's cabin. There were no windows and one wall was missing so you could just walk in. It was nasty. There was also a bunch of derelict appliances and such 100ft away. It was really dumpy and seemed very odd for California, which is usually good about that stuff. (For example, this heavily travelled area had no trailside trash anywhere.)
+
+Nice hike overall, though. Wore myself out.

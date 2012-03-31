@@ -1,0 +1,1 @@
+Star goes boom, and we <a href="http://antwrp.gsfc.nasa.gov/apod/ap020517.html">catch</a> it. Wow.

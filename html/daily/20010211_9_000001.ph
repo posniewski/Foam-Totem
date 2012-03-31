@@ -1,0 +1,1 @@
+If you are seeing this, then the Foam Totem is up and running again. Woo hoo! <a href="http://www.speakeasy.net">Speakeasy.net</a> is my new ISP and the switch over went really well. They are slightly more expensive than the cheap ISPs, but going with a cheap ISP didn't go too well.

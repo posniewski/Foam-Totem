@@ -1,0 +1,1 @@
+I am currently moving at 434mph at 33933ft, over Columbus, Ohio and enjoying the novelty of an internet connection. <i>(at  7:40)</i>

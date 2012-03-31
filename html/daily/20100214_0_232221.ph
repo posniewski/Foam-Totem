@@ -1,0 +1,1 @@
+My god how to people watch figure skating and have their souls left intact? <i>(at 23:22)</i>

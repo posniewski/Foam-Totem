@@ -1,0 +1,3 @@
+<div class="title">Buck Rogers Trailer</div>
+	<p><embed src="http://www.youtube.com/v/0rvx6BBkxz4&amp;hl=en&amp;fs=1" allowFullScreen="true" allowScriptAccess="never" height="417" width="500" wmode="transparent" type="application/x-shockwave-flash"></embed></p>
+<p class="comments"><a href="javascript:HaloScan('20091203_1_092954');" target="_self"><script type="text/javascript">postCount('20091203_1_092954');</script></a></p>

@@ -1,0 +1,1 @@
+There's a link to the Foam Totem Schwag Shoppe at the top of the page now, if'n you're looking for it.

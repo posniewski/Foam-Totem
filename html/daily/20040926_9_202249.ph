@@ -1,0 +1,2 @@
+<i><b>Secret Window</b></i> (<a href="http://imdb.com/title/tt0363988/">IMDB:6.2</a>|<A href="http://www.capalert.com/capreports/secretwindow.htm">CAP:36</a>|<a href="http://www.rottentomatoes.com/m/secret_window/">Rot:47%</a>) (DVD Rental)<br>
+There is a line between being a thriller and being boring. Secret Window bravely crosses that line and is entirely boring until the last 15 minutes, when an entirely obvious twist makes you realize that the movie is trite as well as boring.

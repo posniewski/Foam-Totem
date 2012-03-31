@@ -1,0 +1,1 @@
+Every time Apple updates iTunes, they remind me that it is an utter piece of crap. How the hell did it transform how we play music? <i>(at 23:46)</i>

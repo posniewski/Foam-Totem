@@ -1,0 +1,1 @@
+Sat amongst several Air Force recruits. Young, earnest, fresh-faced, a bit nervous. Guy next to me was memorizing insignia during flight. <i>(at 16:34)</i>

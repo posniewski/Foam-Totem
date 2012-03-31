@@ -1,0 +1,1 @@
+Shutting down a computer should take a couple seconds MAXIMUM. <i>(at 12:33)</i>

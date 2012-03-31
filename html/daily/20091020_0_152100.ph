@@ -1,0 +1,1 @@
+Java: You poop all over my tray when you wish update, and try to install Yahoo crap. Begone insufferable bullshit software! I Banish Thee! <i>(at 15:21)</i>

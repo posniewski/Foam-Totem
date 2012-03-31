@@ -1,0 +1,1 @@
+At the gate, awaiting beam-up. <i>(at  3:19)</i>

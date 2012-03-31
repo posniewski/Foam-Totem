@@ -1,0 +1,1 @@
+It is not a step forward that monitors are now 1920x1080 rather than 1920x1200. <i>(at  0:05)</i>

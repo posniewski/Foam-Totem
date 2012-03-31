@@ -1,0 +1,2 @@
+<a href="http://www.phys.unsw.edu.au/~jw/sounds/S5.mp3">Stairway to Heaven by Bizet</a>. Oh yeah, and <a href="http://blog.wfmu.org/freeform/2006/05/stairways_to_he.html#more">one hundered MORE covers of Stairway to Heaven</a>.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060614_9_203246');" target="_self"><script type="text/javascript">postCount('20060614_9_203246');</script></a></p>

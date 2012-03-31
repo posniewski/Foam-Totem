@@ -1,0 +1,2 @@
+Every episode of House, end of Act II: <a href="http://www.cracked.com/blog/write-your-own-house-episode/">THE PATIENT POOPS A LUNG</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081123_9_152507');" target="_self"><script type="text/javascript">postCount('20081123_9_152507');</script></a></p>

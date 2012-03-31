@@ -1,0 +1,1 @@
+Awesome Labor Day: Beautiful day reading on the lawn all day (Mistborn, by Sanderson -- cool magic system). <i>(at 17:56)</i>

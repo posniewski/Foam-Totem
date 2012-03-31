@@ -1,0 +1,1 @@
+Loaded onto big plane jammed full of people. Kid on lap (who was fine until the dirty diaper) replaced by a very bad crossword puzzler. <i>(at  7:17)</i>

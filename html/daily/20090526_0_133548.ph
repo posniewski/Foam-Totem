@@ -1,0 +1,1 @@
+Prop 8 upheld by California Supreme Court: <a href="http://bit.ly/65lLD">http://bit.ly/65lLD</a> <i>(at 13:35)</i>

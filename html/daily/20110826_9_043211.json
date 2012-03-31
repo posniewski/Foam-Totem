@@ -1,0 +1,56 @@
+{
+    "content":"\nI am vexed that no one has made an editor with a feature set comparable to Brief while at the same time not being so overbloated with useless crap that it's practically unusable.\n\nHere is the list of things editors seem to consistently fail on now. These aren't hard.\n\n<ul>\n<li>Brief-like keybinds for the number pad should be possible. You'd think the standard general key remapping built into 90% of editors would work for this, but they often don't read the keypad properly or fail to expose the commands necessary.<\/li>\n<li>Undo stack must contain cursor movements (or be configurable to do so). When I hit undo, I literally want to undo the last state change I made to the UI. This is critical for good file navigation.<\/li>\n<li>Selection should be a mode one enters and exits. CUA-style (shift+arrow) means that you cannot search while setting a selection. Typical usage: hoisting code fragments, indenting\/outdenting blocks, etc. You aren't always sure where the end is, so you mark the top and then cursor around or search to find the end.<\/li>\n<li>Columnar selections that effing work like god intended. Inserting a column block MUST move the cursor under the block. So, if you hit \"Insert\" 3 times, you've moved vertically through the file. (I'm looking at you, Notepad++ and your Scintilla brethren.)<\/li>\n<li>Bookmarks. Numbered bookmarks. I don't need or even want names, or any other special crap. Let me drop bookmark 3, and jump to it with a low keystroke count.<\/li>\n<\/ul>\n\nMost of the other things: syntax highlighting, regex searches, etc are pretty well covered by most editors. There are other things I like but aren't absolutely required (setting where the cursor goes with \\c when you do a regex search, keyboard macros, tab to spaces to tabs, etc).\n\nIt's the usability side of the things above that get me every time I try to hop editors. I've pretty much defaulted to Visual Studio's editor (since it has a great debugger and all that for C). I'd estimate I'm only 80% efficient when coding because of the stuff above. I still use an ancient copy of Codewright for plain text editing because it has these features, but it's getting long in the tooth: the file dialog boxes malfunction sometimes.\n\nThe reason I wrote this was to avoid installing Vim or Emacs. Vim I could probably steel myself to use (if it was capable of the above). Emacs is certainly capable, but I don't fancy a climb up Everest to edit some effing Javascript. Save me!\n",
+    "id":"20110826_9_043211",
+    "link":"",
+    "publishedDate":"2011-08-26T04:32:11+00:00",
+    "source":"foamtotem",
+    "title":"Intervention Needed",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_225096457542893":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/225096457542893",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/225096457542893",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2011-08-26T04:50:53+0000",
+            "description":"I am vexed that no one has made an editor with a feature set comparable to Brief while at the same time not being so overbloated with useless crap that it's practically unusable.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_225096457542893",
+            "link":"http:\/\/foamtotem.org\/2011\/20110826_9_043211.html",
+            "name":"Intervention Needed",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-08-26T04:50:53+0000"
+        }
+}

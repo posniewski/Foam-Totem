@@ -1,0 +1,1 @@
+Lunch at Baji's. I find the epic mis-use of apostrophes endearing rather than infuriating in this case. <a href="http://twitpic.com/cjojq">http://twitpic.com/cjojq</a> <i>(at 13:30)</i>

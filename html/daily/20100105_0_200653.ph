@@ -1,0 +1,1 @@
+Touchdown at SFO. Also early. Amazing. <i>(at 20:06)</i>

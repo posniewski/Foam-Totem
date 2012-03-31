@@ -1,0 +1,1 @@
+My Twitter to Facebook connection died. Did I reset it properly? <i>(at 14:17)</i>

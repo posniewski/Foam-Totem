@@ -1,0 +1,1 @@
+Dr. Who finale redeemed the season. (Though I still disavow the Blink sequel.) <i>(at 22:47)</i>

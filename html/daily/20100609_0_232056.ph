@@ -1,0 +1,1 @@
+There are a surprising number of commercials that I don't even understand at this point. Exhibit A: bizarre Yahoo ads. <i>(at 23:20)</i>

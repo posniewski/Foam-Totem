@@ -1,0 +1,6 @@
+<a href="http://coraline.com/"><b><i>Coraline</i></b></a><font size="1"> (<a href="http://www.imdb.com/title/tt0327597/">IMDB 7.9</a>|<a href="http://www.rottentomatoes.com/m/coraline/">Rot 88%</a>|<a href="http://www.netflix.com/Movie/Coraline/70105599">Netflix 3.8</a>)</font><br/> 
+This is an amazing stop-motion adaptation of a Neil Gaiman novel. Coraline is a young girl in a new home with very distracted and dismissive parents. Shunned and bored, she find her way into an alternate reality that's much like her own. The alternate world is brighter and more magical, and her Other Parents more attentive. So attentive that they don't want her to leave... ever.
+
+Definitely recommended. The story is excellent, the characters are interesting, and the visuals are amazing (and just when you thought they hit their limit they go even further). The climax is a little intense for young kids but is probably fine for around 9 years old and up.
+
+<p class="comments"><a href="javascript:HaloScan('20091122_9_001204');" target="_self"><script type="text/javascript">postCount('20091122_9_001204');</script></a></p>

@@ -1,0 +1,62 @@
+{
+    "description":"Finished Run with Runmeter, on Colonial Green route, time 39:00, 4.50 miles, average 8:40 \/mile, see http:\/\/j.mp\/ltu1qo.",
+    "id":"20110630_2_145244",
+    "link":"http:\/\/j.mp\/ltu1qo",
+    "mapurl":"http:\/\/maps.google.com\/?q=http:\/\/share.abvio.com\/97fa\/d4bc\/4c98\/783d\/Runmeter-Run-20110630-0948.kml",
+    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20110630_2_145244.jpg",
+    "message":"Took it easy today after yesterday's hike. A bit cooler, much less humid, breezy, nice day. (No real map since I had no pocket to hold the GPS.)",
+    "name":"Finished Run",
+    "publishedDate":"2011-06-30T14:52:44+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"Runmeter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150249308392350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150249308392350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"228484446051",
+                    "name":"Runmeter"
+                },
+            "created_time":"2011-06-30T14:52:44+0000",
+            "description":"Finished Run with Runmeter, on Colonial Green route, time 39:00, 4.50 miles, average 8:40 \/mile, see http:\/\/j.mp\/ltu1qo.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v43\/183\/228484446051\/app_2_228484446051_9195.gif",
+            "id":"728337349_10150249308392350",
+            "link":"http:\/\/j.mp\/ltu1qo",
+            "message":"Took it easy today after yesterday's hike. A bit cooler, much less humid, breezy, nice day. (No real map since I had no pocket to hold the GPS.)",
+            "name":"Finished Run",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "properties":
+                [
+                    
+                    {
+                        "href":"http:\/\/j.mp\/ltu1qo",
+                        "name":"Map",
+                        "text":"http:\/\/j.mp\/ltu1qo"
+                    }
+                ],
+            "type":"link",
+            "updated_time":"2011-06-30T14:52:44+0000"
+        }
+}

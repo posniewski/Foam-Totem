@@ -1,0 +1,1 @@
+Don't forget that we're at "war" and <a href="http://www.commondreams.org/headlines02/0729-01.htm">we're still killing people</a>.

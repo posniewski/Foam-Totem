@@ -1,0 +1,2 @@
+Because everyone loves it SO MUCH (and my guess they like it SO MUCH because the now-deceased Heath Ledger is in it) I didn't want to like the new Batman movie. But, alas, the movie is awesome. Go see it.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080719_9_140216');" target="_self"><script type="text/javascript">postCount('20080719_9_140216');</script></a></p>

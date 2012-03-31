@@ -1,0 +1,1 @@
+In ALB waiting for my plane to IAD, and thence to SFO. No delays... Yet. Free wifi, too. Thanks to Google, apparently. <i>(at 11:02)</i>

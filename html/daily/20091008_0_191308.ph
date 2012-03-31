@@ -1,0 +1,1 @@
+Why don't airports have arrival lounges rather than crowded underlit exit hallways? <i>(at 19:13)</i>

@@ -1,0 +1,1 @@
+Killer powder today! Also: ass-bitingly cold. Don't care. :-) <i>(at 11:01)</i>

@@ -1,0 +1,1 @@
+City of Heroes got a <a href="http://www.wired.com/wired/archive/12.04/play_pr.html">full-page blurb in Wired</a> this month. (The online version puts them all on one page.) We didn't pay for this; someone at Wired thinks the game is cool, I guess.

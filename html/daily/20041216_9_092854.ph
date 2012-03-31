@@ -1,0 +1,1 @@
+<A href="http://www.slate.com/id/2111107/">Ursula LeGuin is not happy about Sci-Fi Channel's adaptation of her Earthsea books.</a>

@@ -1,0 +1,2 @@
+Let's see how awful it is to have all my twitter stuff crammed onto the real Foam Totem page. I've found that I've been putting random links in there instead of posting them on the Totem itself.
+<p class="comments"><a href="javascript:HaloScan('20090611_9_011254');" target="_self"><script type="text/javascript">postCount('20090611_9_011254');</script></a></p>

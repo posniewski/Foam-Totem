@@ -1,0 +1,250 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-06-17T05:43:03+0000",
+                        "from":
+                            {
+                                "id":"1514060",
+                                "name":"Lincoln Hamilton"
+                            },
+                        "id":"728337349_226923547337318_3459734",
+                        "message":"I've heard good things about the performance of redis. Looking forward to part 2."
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T05:57:01+0000",
+                        "from":
+                            {
+                                "id":"17504159",
+                                "name":"Ben Zeigler"
+                            },
+                        "id":"728337349_226923547337318_3459785",
+                        "message":"People are still angry at the concept of not using SQL for a MMO when I mention your GDC presentation :)"
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T06:12:07+0000",
+                        "from":
+                            {
+                                "id":"827884427",
+                                "name":"Aaron Brady"
+                            },
+                        "id":"728337349_226923547337318_3459838",
+                        "message":"using mongo for my fb app test server, works great! almost as good as saving to a file. can't say I did much research tho"
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T06:52:26+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_226923547337318_3459963",
+                        "message":"Cryptic's ObjectDB suffered from not being able to do adhoc queries while the DB was running. I considered adding in a query thread (and went so far as to catch up on Ben's fast-merge code and whatnot), but it ended up not being really viable. \n\nI can tell you that one of the tools they use at Netflix for log harvesting is Hive (which runs on Hadoop), and it is seriously badass. I don't know enough about the alternatives for making a MMO game DB itself, but based on the usage at Netflix, I'd attempt to replace the LogParser system with Hive ASAP."
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T07:47:56+0000",
+                        "from":
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                        "id":"728337349_226923547337318_3460131",
+                        "message":"hell hath no fury like a DBA scorned. it's amazing the hoops that they'll try to convince you to jump through to use whatever tool it is they've chosen to base their career on. unfortunately, it seems like the NoSQL crowd is taking on the same religious way of thinking. looking forward to hearing your results."
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T13:05:25+0000",
+                        "from":
+                            {
+                                "id":"100000657683950",
+                                "name":"Joe Wreschnig"
+                            },
+                        "id":"728337349_226923547337318_3461391",
+                        "message":"Mongo's been really easy to use so far - the ad hoc queries are nice - but it's ridiculous that you can't do transactional commits to multiple documents. CrypticDB is the only thing I've seen with multi-object field-level locks."
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T15:57:55+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_226923547337318_3462407",
+                        "message":"Ah Joe, you stole the thunder from the next part!"
+                    },
+                    
+                    {
+                        "created_time":"2011-06-17T18:11:32+0000",
+                        "from":
+                            {
+                                "id":"791053257",
+                                "name":"Bruce Rogers"
+                            },
+                        "id":"728337349_226923547337318_3463046",
+                        "message":"Joe, i'm sure mongo would be happy to have you contribute that! :)"
+                    },
+                    
+                    {
+                        "created_time":"2011-06-18T03:52:39+00:00",
+                        "from":
+                            {
+                                "id":"71.202.64.121",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"20110617_9_034818_20110618_8_035239",
+                        "message":"I like the CrypticDB as a concept, but wish it scaled better horizontally.  I don't actually know how reasonable a desire that is, though."
+                    }
+                ]
+        },
+    "content":"\nI've been doing some research on databases over the past few weeks. The new hotness are so-called \"NoSQL\" databases, which basically encompasses all databases which aren't structured in the classic relational fixed-schema tables\/columns\/rows. These databases don't usually map particularly well to SQL-style queries, hence the name of the genre. However, there is some work being done to wrap some of these databases in SQL shells. Some are recasting \"NoSQL\" to mean \"Not Only SQL\".\n\nI'm looking at these from the multi-user game perspective that I've been soaking in for a while. A major issue we had with using SQL-ish flat schemas is that the player data isn't flat. It's hierarchical. A lot of effort went into doing the object-relational mapping efficiently. We often had to go back and redo it. (In particular, we often had to denormalize practically everything, which flies in the face of relational database design.) I came out of this experience thinking that a basic object store (which supports hierarchies) is the best approach.\n\nAll of the object databases I've been exposed to previously, however, had an enormous conceptual and actual weight to them. They require object definitions in some abstract language plus some kind of magic to actually marshal these objects into and out of the game. Further the ability to do anything but the simplest query-by-example was often obtuse or not really possible.\n\n<img class=\"posterous\" src=\"http:\/\/foamtotem.org\/daily\/images\/godzilla-planes.jpg\" width=\"500\" height=\"342\" \/><center><i>This has nothing to do with the post. I just like Godzilla.<\/i><\/center>\n\n\nSo, Cryptic decided to write its own object database back end. We knew what  needed to be fast and our general usage model, so we knew what restrictions we could could play fast and loose with. Of course, we still needed to do the marshaling and all that, but we took the approach that the actual struct in the C code would drive the database schema. One needed to annotate the struct a bit, but on the whole it was a pretty slick approach.\n\nI did a talk about this decision called <a href=\"http:\/\/channel9.msdn.com\/Blogs\/Dan\/Shannon-Posniewski-SQL-Considered-Harmful-for-MMOs\">\"SQL Considered Harmful\"<\/a>. (That link is for completeness, please don't watch that old talk.) Database Admins were not amused by my thesis that relational databases weren't a great choice for game data such as ours. They said that all the problems I pointed out could be solved by carefully-planned schemas, server-side procedures, and subtle tweaking of the parameters of MS-SQL. They were probably correct, but that wasn't the point. The point is that we didn't want to do any of those things.\n\nThe CrypticDB is now operating in a production environment for Champs and Star Trek. It worked out well. It keeps a live mirror, can recover from catastrophic failures, supports cross-server transactions, and so on. It's a real ACID object database, which is pretty awesome. But of course it isn't perfect. I feel that the Magic Quotient ended up being too high. A high MQ meant that everything works, but sometimes had awful performance characteristics. And so we had to revisit code and the schema to optimize it. If I had to do CrypticDB over again, I'd remove some of its magic. (The magic seemed really cool until we kept getting hit with the performance issues.)\n\nThere are now several new\/sexy databases out there which could conceivably fit into the same usage model as CrypticDB. In particular, I've looked at MongoDB, Hadoop, Redis, CouchDB, db40, Riak, and a few others.\n\nAnd that went on longer than expected, so I'll stop here and write up more later.\n\n",
+    "id":"20110617_9_034818",
+    "link":"",
+    "publishedDate":"2011-06-17T03:48:18+00:00",
+    "source":"foamtotem",
+    "title":"NoSQL Databases: Part 1",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_226923547337318":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/226923547337318",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/226923547337318",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-06-17T05:43:03+0000",
+                                "from":
+                                    {
+                                        "id":"1514060",
+                                        "name":"Lincoln Hamilton"
+                                    },
+                                "id":"728337349_226923547337318_3459734",
+                                "message":"I've heard good things about the performance of redis. Looking forward to part 2."
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T05:57:01+0000",
+                                "from":
+                                    {
+                                        "id":"17504159",
+                                        "name":"Ben Zeigler"
+                                    },
+                                "id":"728337349_226923547337318_3459785",
+                                "message":"People are still angry at the concept of not using SQL for a MMO when I mention your GDC presentation :)"
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T06:12:07+0000",
+                                "from":
+                                    {
+                                        "id":"827884427",
+                                        "name":"Aaron Brady"
+                                    },
+                                "id":"728337349_226923547337318_3459838",
+                                "message":"using mongo for my fb app test server, works great! almost as good as saving to a file. can't say I did much research tho"
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T06:52:26+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_226923547337318_3459963",
+                                "message":"Cryptic's ObjectDB suffered from not being able to do adhoc queries while the DB was running. I considered adding in a query thread (and went so far as to catch up on Ben's fast-merge code and whatnot), but it ended up not being really viable. \n\nI can tell you that one of the tools they use at Netflix for log harvesting is Hive (which runs on Hadoop), and it is seriously badass. I don't know enough about the alternatives for making a MMO game DB itself, but based on the usage at Netflix, I'd attempt to replace the LogParser system with Hive ASAP."
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T07:47:56+0000",
+                                "from":
+                                    {
+                                        "id":"1411161126",
+                                        "name":"Curt Krone"
+                                    },
+                                "id":"728337349_226923547337318_3460131",
+                                "message":"hell hath no fury like a DBA scorned. it's amazing the hoops that they'll try to convince you to jump through to use whatever tool it is they've chosen to base their career on. unfortunately, it seems like the NoSQL crowd is taking on the same religious way of thinking. looking forward to hearing your results."
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T13:05:25+0000",
+                                "from":
+                                    {
+                                        "id":"100000657683950",
+                                        "name":"Joe Wreschnig"
+                                    },
+                                "id":"728337349_226923547337318_3461391",
+                                "message":"Mongo's been really easy to use so far - the ad hoc queries are nice - but it's ridiculous that you can't do transactional commits to multiple documents. CrypticDB is the only thing I've seen with multi-object field-level locks."
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T15:57:55+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_226923547337318_3462407",
+                                "message":"Ah Joe, you stole the thunder from the next part!"
+                            },
+                            
+                            {
+                                "created_time":"2011-06-17T18:11:32+0000",
+                                "from":
+                                    {
+                                        "id":"791053257",
+                                        "name":"Bruce Rogers"
+                                    },
+                                "id":"728337349_226923547337318_3463046",
+                                "message":"Joe, i'm sure mongo would be happy to have you contribute that! :)"
+                            }
+                        ]
+                },
+            "created_time":"2011-06-17T05:03:26+0000",
+            "description":"I've been doing some research on databases over the past few weeks. This is an intro before I get to the actual research.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_226923547337318",
+            "link":"http:\/\/foamtotem.org\/2011\/20110617_9_034818.html",
+            "name":"NoSQL Databases: Part 1",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQC6Sl2BOo6LP-Ad&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Fgodzilla-planes.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-06-17T18:11:32+0000"
+        }
+}

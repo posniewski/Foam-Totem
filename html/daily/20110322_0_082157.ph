@@ -1,0 +1,1 @@
+"Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temp. embarrassed millionaires" <i>(at  8:21)</i>

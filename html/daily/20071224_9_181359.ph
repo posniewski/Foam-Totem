@@ -1,0 +1,2 @@
+<a href="http://picasaweb.google.com/posniewski/ShannonSTripToLondon">Photos from my trip to the UK.</a> There aren't many; too much time doing business stuff.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20071224_9_181359');" target="_self"><script type="text/javascript">postCount('20071224_9_181359');</script></a></p>

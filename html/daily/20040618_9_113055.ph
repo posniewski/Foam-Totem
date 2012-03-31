@@ -1,0 +1,1 @@
+<a href="/daily/4Jul2004.gif"><img src="/daily/4Jul2004_tn.gif" border="0" align="right">Get your scuba gear an attend the n+13th annual Discovery of Atlantis</a>!

@@ -1,0 +1,2 @@
+<a href="http://www.foamtotem.org/random/progressquest.html"><img src="/daily/pq_final_thumb.gif" border="0" align="right"></a>
+I finally stopped playing Progress Quest. <a href="http://www.foamtotem.org/random/progressquest.html">Final Level 66. Ranked 34th.</a>

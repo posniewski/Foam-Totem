@@ -1,0 +1,2 @@
+Apocalypse: Google decides that one OS (Android) isn't enough and <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html">announces Chrome OS</a>. Either very cool or very stupid.
+<p class="comments"><a href="javascript:HaloScan('20090708_9_140332');" target="_self"><script type="text/javascript">postCount('20090708_9_140332');</script></a></p>

@@ -1,0 +1,1 @@
+<a href="http://www.philosophers.co.uk/games/god.htm">Battleground God</a>: "Our battleground is that of rational consistency. This means to get across without taking any hits, you’ll need to answer in a way which is rationally consistent."

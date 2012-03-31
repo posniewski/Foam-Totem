@@ -1,0 +1,1 @@
+Amazing account from a BBC <a href="http://news.independent.co.uk/world/asia_china/story.jsp?story=109257">journalist stoned by Afghan refugees</a>. Compare it to the <a href="http://www.usatoday.com/aponline/2001120816/2001120816104600.htm">AP's take on the stoning<a/>.

@@ -1,0 +1,2 @@
+Trying out some new photo gallery stuff. Check out my <a href="http://www.foamtotem.org/gallery/RPICampus?page=1">Walking Tour of RPI</a> and the <a href="http://www.foamtotem.org/gallery/AXP2004?page=1">new AXP siding and windows</a> (alas with pictures of other stuff which needs fixing on the other houses).
+<p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050108_9_131628');" target="_self"><script type="text/javascript">postCount('20050108_9_131628');</script></a></p>

@@ -1,0 +1,1 @@
+<a href="http://www.foamtotem.org/gallery/PatsBirthdayWithYurts">Pat's Birthday with Yurts!</a><p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050213_9_16291');" target="_self"><script type="text/javascript">postCount('20050213_9_16291');</script></a></p>

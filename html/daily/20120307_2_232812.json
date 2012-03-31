@@ -1,0 +1,117 @@
+{
+    "caption":"www.forbes.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-08T00:00:04+0000",
+                        "from":
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"728337349_130693050389804_132213",
+                        "likes":1,
+                        "message":"\"...in implementing market-based compensation, there is a failure to distinguish results due to sheer luck (beta) from the results due to skill (alpha). Thus when someone is running an oil company while the price of oil is skyrocketing, it doesn’t need a lot of skill to generate high profits: such executives shouldn’t receive outsized compensation from a rising tide that lifts all boats.\"",
+                        "user_likes":"1"
+                    }
+                ]
+        },
+    "description":"Harvard Business Review Blows The Lid Off C-Suite Compensation: it is causing misallocation of capital and talent, repeated governance crises, rising income inequality and overall decline of the US economy",
+    "id":"20120307_2_232812",
+    "link":"http:\/\/www.forbes.com\/sites\/stevedenning\/2012\/02\/22\/hbr-blows-the-lid-off-c-suite-over-compensation\/",
+    "message":"Forbes covers a report in the Harvard Business Review which argues that the huge executive compensation increases seen over that last 20 years is actively detrimental. \n\nOne interesting observation was that market-based compensation (i.e. stock as compensation) is badly flawed. Though the idea is to \"align managers’ interests with those of shareholders, but the result has been the opposite.  According to Desai, the idea of market-based  compensation is 'intellectually flawed' and 'a foundational myth.'\" The main reason is because it conflates alpha (changes in stock price due to management and strategy) and beta (expected changes in stock price due to market fluctuations).",
+    "name":"HBR Blows The Lid Off C-Suite Over-Compensation - Forbes",
+    "publishedDate":"2012-03-07T23:28:12+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/130693050389804",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/130693050389804",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.forbes.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-08T00:00:04+0000",
+                                "from":
+                                    {
+                                        "id":"1245484058",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"728337349_130693050389804_132213",
+                                "likes":1,
+                                "message":"\"...in implementing market-based compensation, there is a failure to distinguish results due to sheer luck (beta) from the results due to skill (alpha). Thus when someone is running an oil company while the price of oil is skyrocketing, it doesn’t need a lot of skill to generate high profits: such executives shouldn’t receive outsized compensation from a rising tide that lifts all boats.\"",
+                                "user_likes":"1"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_130693050389804\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_130693050389804_132213"
+                        }
+                },
+            "created_time":"2012-03-07T23:28:12+0000",
+            "description":"Harvard Business Review Blows The Lid Off C-Suite Compensation: it is causing misallocation of capital and talent, repeated governance crises, rising income inequality and overall decline of the US economy",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_130693050389804",
+            "is_published":"1",
+            "likes":
+                {
+                    "count":3,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"906725466",
+                                "name":"Rick Dakan"
+                            },
+                            
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                            
+                            {
+                                "id":"1659624126",
+                                "name":"Cole Posniewski"
+                            }
+                        ]
+                },
+            "link":"http:\/\/www.forbes.com\/sites\/stevedenning\/2012\/02\/22\/hbr-blows-the-lid-off-c-suite-over-compensation\/",
+            "message":"Forbes covers a report in the Harvard Business Review which argues that the huge executive compensation increases seen over that last 20 years is actively detrimental. \n\nOne interesting observation was that market-based compensation (i.e. stock as compensation) is badly flawed. Though the idea is to \"align managers’ interests with those of shareholders, but the result has been the opposite.  According to Desai, the idea of market-based  compensation is 'intellectually flawed' and 'a foundational myth.'\" The main reason is because it conflates alpha (changes in stock price due to management and strategy) and beta (expected changes in stock price due to market fluctuations).",
+            "name":"HBR Blows The Lid Off C-Suite Over-Compensation - Forbes",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"link",
+            "updated_time":"2012-03-08T00:00:04+0000"
+        }
+}

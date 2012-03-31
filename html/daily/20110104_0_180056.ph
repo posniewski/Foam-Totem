@@ -1,0 +1,1 @@
+Saw "True Grit": Highly Recommended. I don't often like Jeff Bridges, but thought he owned Cogburn. Kid was awesome as well. <i>(at 18:00)</i>

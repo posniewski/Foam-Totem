@@ -1,0 +1,115 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-02-15T11:51:37+0000",
+                        "from":
+                            {
+                                "id":"906725466",
+                                "name":"Rick Dakan"
+                            },
+                        "id":"728337349_10150613926202350_21214449",
+                        "message":"This is what I have done the last 4 months and it worked well. Except for the cookies and candy part, which I had to cut entirely. But I've lost 35 pounds!"
+                    }
+                ]
+        },
+    "id":"20120215_2_054408",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150613926202350",
+    "message":"A number of years ago, I went on a diet where I ate half of what I normally did. It worked very well (and now the smaller portion sizes are my new normal for most things). I recommend it to everyone. Not only is it free, it will save you money!\n\nNow I eat reasonable lunch and dinner, and also have cookies, and m&ms. And yet I still need to cut calories. It's obvious that the only tractable solution is to cut all meals and just have cookies and m&ms.",
+    "publishedDate":"2012-02-15T05:44:08+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Facebook for iPad",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150613926202350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150613926202350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"173847642670370",
+                    "name":"Facebook for iPad"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-02-15T11:51:37+0000",
+                                "from":
+                                    {
+                                        "id":"906725466",
+                                        "name":"Rick Dakan"
+                                    },
+                                "id":"728337349_10150613926202350_21214449",
+                                "message":"This is what I have done the last 4 months and it worked well. Except for the cookies and candy part, which I had to cut entirely. But I've lost 35 pounds!"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150613926202350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150613926202350_21214449"
+                        }
+                },
+            "created_time":"2012-02-15T05:44:08+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10150613926202350",
+            "likes":
+                {
+                    "count":9,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"100000266633627",
+                                "name":"Barbara Vorce"
+                            },
+                            
+                            {
+                                "id":"516545980",
+                                "name":"Gary Catalano"
+                            },
+                            
+                            {
+                                "id":"1551470973",
+                                "name":"Maureen Sherman"
+                            }
+                        ]
+                },
+            "message":"A number of years ago, I went on a diet where I ate half of what I normally did. It worked very well (and now the smaller portion sizes are my new normal for most things). I recommend it to everyone. Not only is it free, it will save you money!\n\nNow I eat reasonable lunch and dinner, and also have cookies, and m&ms. And yet I still need to cut calories. It's obvious that the only tractable solution is to cut all meals and just have cookies and m&ms.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"status",
+            "updated_time":"2012-02-15T11:51:37+0000"
+        }
+}

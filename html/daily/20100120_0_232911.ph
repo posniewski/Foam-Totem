@@ -1,0 +1,1 @@
+"Human Target" TV show is unrelentingly stupid. Last week: use the brakes again&they'll explode. This week: a skeleton key to the internet. <i>(at 23:29)</i>

@@ -1,0 +1,121 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-06T16:56:35+0000",
+                        "from":
+                            {
+                                "id":"1035943353",
+                                "name":"Daniel Stekloff"
+                            },
+                        "id":"728337349_10150447378902350_20086131",
+                        "message":"There were definitely funny bits in the episode, though I haven't watched The Office (BBC or American). They filmed an episode of Leverage in the building I was working at last year. It was fun to see the production and the actors."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-06T18:41:20+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150447378902350_20087786",
+                        "message":"\"She iz filled with ze nuclear vinter!\""
+                    }
+                ]
+        },
+    "content":"Most recent Leverage is a hysterical send-up of The Office and documentary film making, complete with crazy German director. <time datetime=\"2011-12-06T06:35:57+00:00\">(at&nbsp;06:35)<\/time>",
+    "id":"20111206_0_063557",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/143941731363196928",
+    "publishedDate":"2011-12-06T06:35:57+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10150447378902350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150447378902350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150447378902350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=143941731363196928",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "canvas_name":"twitter",
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-06T16:56:35+0000",
+                                "from":
+                                    {
+                                        "id":"1035943353",
+                                        "name":"Daniel Stekloff"
+                                    },
+                                "id":"728337349_10150447378902350_20086131",
+                                "message":"There were definitely funny bits in the episode, though I haven't watched The Office (BBC or American). They filmed an episode of Leverage in the building I was working at last year. It was fun to see the production and the actors."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-06T18:41:20+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150447378902350_20087786",
+                                "message":"\"She iz filled with ze nuclear vinter!\""
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150447378902350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150447378902350_20087786"
+                        }
+                },
+            "created_time":"2011-12-06T06:35:58+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150447378902350",
+            "message":"Most recent Leverage is a hysterical send-up of The Office and documentary film making, complete with crazy German director.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-12-06T18:41:20+0000"
+        }
+}

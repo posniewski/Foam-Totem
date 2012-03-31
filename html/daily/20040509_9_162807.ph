@@ -1,0 +1,1 @@
+I'll be at E3 all this week, showing off a teaser (and some gameplay) for our big expansion slated for release next year.

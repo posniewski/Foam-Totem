@@ -1,0 +1,2 @@
+<a href="/daily/hoedown.gif"><img src="/daily/hoedown.gif" border="0" align="middle" width=300 height=400></a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080612_9_111654');" target="_self"><script type="text/javascript">postCount('20080612_9_111654');</script></a></p>

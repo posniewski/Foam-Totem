@@ -1,0 +1,7 @@
+<a href="http://www.capalert.com/capreports/underworld.htm">CAP Reports does their Underworld review.</a> It gets a 39. The only reason I mention this is that the movie lost a lot of points because of the purported "unholy" nature of vampires and werewolves.
+
+In the backplot of Underworld (as in Blade, I think), both are caused by a virus. That's why you get infected when bitten. I wonder, then, are they unholy because they are imaginary creatures or because history has given them a bad rep? I doubt the Bible mentions thems as unholy, and they aren't minions of Satan.
+
+This Foam Totem entry is funny because I'm lamenting how CAP Reports' quality has gone downhill. I've given the CAP rating on my reviews not because of the inherent silliness (to me) of their reviews, but because it's amusing to juxtapose entertainment and theological reviews. CAP Reports has always been consistent and fair (not to mention earnest) in their evaluations. I might not agree with their criteria, but they were consistent and gave useful reviews for their audience.
+
+The Underworld review, though, is rejectable on its face as Bible-freak ranting. If all their recent reviews are in like tone, I think they'll turn off people who want good "Christian"-safe movie info but aren't raging Bible-freaks.

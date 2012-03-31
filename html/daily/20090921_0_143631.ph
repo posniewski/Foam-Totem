@@ -1,0 +1,1 @@
+Dropped my iPhone: still works but has a minor spiderweb in glass. Think they'll replace it under warranty? <i>(at 14:36)</i>

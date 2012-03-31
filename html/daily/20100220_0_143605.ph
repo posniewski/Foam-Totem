@@ -1,0 +1,1 @@
+Landed in... Durango. <i>(at 14:36)</i>

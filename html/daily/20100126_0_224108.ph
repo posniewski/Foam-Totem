@@ -1,0 +1,1 @@
+WTF: Obama to call for a domestic program spending freeze <a href="http://bit.ly/dv2MYt.">http://bit.ly/dv2MYt.</a> <i>(at 22:41)</i>

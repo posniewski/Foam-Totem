@@ -1,0 +1,1 @@
+The new year is upon us and I must warn you that <a href="http://web.archive.org/web/19990209111350/www.hcs.harvard.edu/~slking/naked-eighties/">the Eighties will STILL find you naked</a>. Even if you need to go to <a href="http://www.archive.org">the Internet Archive</a> to hear the call.

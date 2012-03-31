@@ -1,0 +1,1 @@
+What's this? Bookcover with end of beta shot from Cities? Huh. <a href="http://twitpic.com/ykbkt">http://twitpic.com/ykbkt</a> <i>(at 14:49)</i>

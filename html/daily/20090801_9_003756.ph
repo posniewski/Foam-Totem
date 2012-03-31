@@ -1,0 +1,3 @@
+<img src="/daily/b5logo.jpg" border="0" align="right" /> Hulu has the first two seasons of <a href="http://www.hulu.com/babylon-5">Babylon 5</a> available. I chose an episode at random to watch and was happy to find that it wasn't bad. Hokey smokes, Bullwinkle, the show is 14 years old!
+
+<p class="comments"><a href="javascript:HaloScan('20090801_9_003756');" target="_self"><script type="text/javascript">postCount('20090801_9_003756');</script></a></p>

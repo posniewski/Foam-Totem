@@ -1,0 +1,7 @@
+<a href="http://www.sonypictures.com/movies/underworld/"><b><i>Underworld</i></b></a> (<a href="http://www.imdb.com/title/tt0320691/">IMDB 7.1</a>|<a href="http://www.capalert.com/capreports/underworld.htm">CAP 39</a>|<a href="http://www.rottentomatoes.com/m/Underworld-1125642/">Rot 30%</a>)
+
+I liked Underworld, regardless of the beating the critics gave it. It's very stylish in that leather-fetish and so-gray-it's-almost-a-black-and-white-movie sort of way. Lots of shadows, stagnant pools of opaque water, ruined old european buildings, and so on. All of which fit the underworld-ish atmosphere well. It's obvious though, there there were some budget problems: it's needs a couple exterior scenes to make it feel less like it was all shot in some basement. And they repeated an iffy transformation effect they shouldn't have.
+
+When you think of a vampire vs. werewolf movie, though, you are probably thinking about of a lot of blood and not a whole lot of plot. So it came as a surprise to me that it has one. If you read reviews, half of them says it gets bogged down in it and the other half says that it's nonexistant. I grant that the characters are shallow and seem flat. But immortals are meant to be a bit inscrutable, right?
+
+Of course there are bad moments in the moive, but I think they're all generally forgivable. It's a great matinee, and not as bad as The Muskateer. I recommend it for those who like the genre.

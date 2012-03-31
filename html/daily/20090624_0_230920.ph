@@ -1,0 +1,1 @@
+Shutting off electronic devi... <i>(at 23:09)</i>

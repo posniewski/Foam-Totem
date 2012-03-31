@@ -1,0 +1,1 @@
+If you're interested in <strike>beta</strike> alpha-ing the game (which I can't name due to search engines), then drop me an email. I suggest that you have a fast machine: 1GHz+ P4, GeForce 3+, 256MB of RAM. You should also have a broadband conenction and a willingness to play and comment.

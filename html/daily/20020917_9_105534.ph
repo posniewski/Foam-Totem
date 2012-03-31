@@ -1,0 +1,1 @@
+<a href="http://www.newyorkmetro.com/nymetro/movies/columns/hollywood/n_7686/">Summer movie box-office results</a> (at bottom of page). Road to Perdition was better than its take would suggest. Signs was worse (though it wasn't a bad movie) and XXX was right on. Don't even talk to me about Star Wars: Clone Attack!

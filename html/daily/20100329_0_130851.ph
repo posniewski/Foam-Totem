@@ -1,0 +1,1 @@
+I am totally sick of Chat Roulette, and I've never used it. <i>(at 13:08)</i>

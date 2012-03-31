@@ -1,0 +1,1 @@
+Mr. Pickles shows his foot-long:  <a href="http://twitpic.com/kan7j">http://twitpic.com/kan7j</a> <i>(at 15:11)</i>

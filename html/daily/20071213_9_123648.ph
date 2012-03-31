@@ -1,0 +1,2 @@
+I'm going on an impromptu business trip to the UK from Saturday to next Thursday. Woooo!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20071213_9_123648');" target="_self"><script type="text/javascript">postCount('20071213_9_123648');</script></a></p>

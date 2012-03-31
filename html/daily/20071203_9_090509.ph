@@ -1,0 +1,1 @@
+When did "global warming" become "climate change"?<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20071203_9_090509');" target="_self"><script type="text/javascript">postCount('20071203_9_090509');</script></a></p>

@@ -1,0 +1,3 @@
+<a href="/daily/images/CIMG6113.JPG"><img src="/daily/images/CIMG6113-thumb.JPG" border="0" align="right"/></a> This is what happens when my Dad and I go on outings. Snowboarding this 
+time. Last time, he broke his wrist (the other one) when we went hiking.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20090106_9_150842');" target="_self"><script type="text/javascript">postCount('20090106_9_150842');</script></a></p>

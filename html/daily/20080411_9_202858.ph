@@ -1,0 +1,2 @@
+<a href="http://www.archive.org/details/barstow_disneyland_dream_1956">Amazing home movie of a family trip to Disneyland.</a> It gives quite a look into 1956. Matching Davey Crockett jackets, sailor hats, and all. Strangely, I found the first half more compelling than the second half (when they are at Disneyland).
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080411_9_202858');" target="_self"><script type="text/javascript">postCount('20080411_9_202858');</script></a></p>

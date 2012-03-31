@@ -1,0 +1,1 @@
+Totem was down for a while today. It ran out of memory-- don't know why. Seems cool now.

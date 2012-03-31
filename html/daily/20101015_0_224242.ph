@@ -1,0 +1,1 @@
+Aboard and seated. Took me longer to go through security than it did to drive to SFO. <i>(at 22:42)</i>

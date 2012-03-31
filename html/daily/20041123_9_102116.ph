@@ -1,0 +1,1 @@
+<a href="http://edition.cnn.com/2004/WORLD/asiapcf/11/22/nz.dolphins.reut/index.html">Dolphins are so cool.</a>

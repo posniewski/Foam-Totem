@@ -1,0 +1,1 @@
+Google Wave (<a href="http://wave.google.com/)">http://wave.google.com/)</a> is really amazing. <i>(at 15:40)</i>

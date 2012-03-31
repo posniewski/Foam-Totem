@@ -1,0 +1,2 @@
+The second episode of <i>Leverage</i> was pretty good too.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081213_9_161905');" target="_self"><script type="text/javascript">postCount('20081213_9_161905');</script></a></p>

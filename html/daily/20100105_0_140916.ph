@@ -1,0 +1,1 @@
+Our hero takes his seat on the plane with no problem. Six hour flight: WOOOOOOOO! (note: not actually excited) <i>(at 14:09)</i>

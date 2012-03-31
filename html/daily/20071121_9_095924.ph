@@ -1,0 +1,2 @@
+Foamy Christmas Radio up and running. I'm on a cable modem now, so I might run into bandwidth issues. Try the "low" bandwidth version if it gets choppy, and if that still doesn't work send me an email.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20071121_9_095924');" target="_self"><script type="text/javascript">postCount('20071121_9_095924');</script></a></p>

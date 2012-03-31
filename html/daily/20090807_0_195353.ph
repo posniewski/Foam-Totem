@@ -1,0 +1,1 @@
+Haven't seen Cirque du Soliel's "Love", but the album (remixes of Beatles tunes from original sources by G. Martin and son) is pretty cool. <i>(at 19:53)</i>

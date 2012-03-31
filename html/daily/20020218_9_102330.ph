@@ -1,0 +1,1 @@
+Seen on <a href="http://freshmeat.net">freshmeat</a>: "The idea of using XML to make anything <b>simpler</b> is like using petrol to fight fires."

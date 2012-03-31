@@ -1,0 +1,1 @@
+A recently discovered folio edition of "Hamlet" follows other known versions closely until Act V, Scene II, <a href="http://www.netfunny.com/rhf/jokes/97/May/scoobyham.html">where it begins to diverge at line 232</a>.

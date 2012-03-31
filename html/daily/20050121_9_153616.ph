@@ -1,0 +1,2 @@
+I have four <a href="http://gmail.com">GMail</a> invites if anyone is interested.
+(Update: All four are taken now.) <p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050121_9_153616');" target="_self"><script type="text/javascript">postCount('20050121_9_153616');</script></a></p>

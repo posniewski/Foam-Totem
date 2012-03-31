@@ -1,0 +1,1 @@
+Do not be alarmed at my comment about urgent care; I'm fine. It was a rant on my difficulty in getting what should be routine care. <i>(at 15:12)</i>

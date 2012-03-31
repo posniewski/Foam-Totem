@@ -1,0 +1,1 @@
+Today's the big day: Champions Online Open Beta starts! <i>(at  7:47)</i>

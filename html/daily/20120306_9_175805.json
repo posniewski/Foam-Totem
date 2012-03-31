@@ -1,0 +1,232 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T20:18:59+0000",
+                        "from":
+                            {
+                                "id":"100000017627482",
+                                "name":"Kyle Davis"
+                            },
+                        "id":"728337349_182482955197463_548169",
+                        "message":"I installed the preview on my Mac (using Parallels), and tried to use it.  Not only did I not like Metro for the desktop, I couldn't find the secret mouse-in-the-bottom-left gesture, so the only way I knew to get out of an app once I launched it was Alt-F4. And, I'm definitely in a high minority of people who remember (or even knew in the first place) that's the \"close window\" keystroke. I don't think this will work out well for Microsoft. When Joe Consumer tries it out, I think it will be too different, and not enough leading by the hand in the new features."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T20:19:23+0000",
+                        "from":
+                            {
+                                "id":"100000017627482",
+                                "name":"Kyle Davis"
+                            },
+                        "id":"728337349_182482955197463_548171",
+                        "message":"Besides, I think if someone's going to learn a new UI like that, they should just learn OS X Mountain Lion. :-)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T20:22:37+0000",
+                        "from":
+                            {
+                                "id":"906725466",
+                                "name":"Rick Dakan"
+                            },
+                        "id":"728337349_182482955197463_548181",
+                        "message":"I've had it for a few days now and never really go into Metro - just using the desktop because none of the things I use (Chrome, Gimp, Open Office, Gmail, Google Calendar) have Metro-UI apps yet. So the tiles don't do me any good. But if I were more in their ecosystem, I can see the tiles as an expanded Start Screen being OK and a little useful. All said, I'd love it as a tablet interface though - much better than IOS."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T20:29:26+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_182482955197463_548206",
+                        "message":"The iOS interface is beginning to look a bit dated to me, actually.\n\nAlso, the Windows key (not to be found on the Mac keyboard) also pops up the Metro screen I hear."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T20:51:51+0000",
+                        "from":
+                            {
+                                "id":"906725466",
+                                "name":"Rick Dakan"
+                            },
+                        "id":"728337349_182482955197463_548267",
+                        "message":"Yeah, I've been using the Windows key to bounce between Metro and the desktop, although bouncing back to the desktop has some graphical glitches."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-06T21:52:05+0000",
+                        "from":
+                            {
+                                "id":"659131965",
+                                "name":"Ray Yu"
+                            },
+                        "id":"728337349_182482955197463_548492",
+                        "message":"I would really love to try metro with a true touchscreen setup that's not tablet."
+                    }
+                ]
+        },
+    "content":"\nI find Microsoft's Metro interface oddly retro. They've done everything they've can to simplify the look. It's flat and square-cornered. There are no shadows or bevels. Gradients are subtle to the point of non-existence. The icons are one-color stencils. It's an interface based on flat rectangles and typography. It reminds me of the text-mode UIs of the 80s and 90s.\n\nAs a tactile interface that one would touch, it makes a lot of sense. It makes each tile clear, the colors are inviting, and the icons are big enough to be unambiguous. The simple shapes and structure mean that it's not difficult to draw, which is a boon to telephones and tablets with limited battery life.\n\n<figure>\n<a href=\"http:\/\/foamtotem.org\/daily\/images\/metro-1.png\"><img src=\"http:\/\/foamtotem.org\/daily\/images\/metro-1.png\" \/><\/a>\n<figcaption>The Metro Start Screen<\/figcaption>\n<\/figure>\n\nFor a desktop interface, though, there seem to be many places it goes wrong.\n\nFirst off, every Metro screen I've seen is a rainbow of various colored tiles. As far as I can tell, these colors have no structure and don't mean anything. I find that they keep my eye from being able to settle on any one thing. Worse, many tiles are constantly scrolling or fading in new information. For example, the mail tile shows the most recent message and a twitter tile constantly updates with new tweets. I fear that it will be a bit too kinetic.\n\nAnd why, on a desktop, would I want to look through the lens of a tiny tile when I could flip to the app? I think the idea of desktop widgets largely failed. Windows had variations on them since Win95, and I don't think anyone has ever really used them on the desktop.\n\nThose who know me will also know that I find the unused space on the screen vexing. I'm not saying that it needs to be packed to the gills or that empty space isn't an important organizing mechanism, but Metro is often simply wasteful. Over a third of the available vertical space in the screenshot above is blank, for example. That seems excessive. The giant space plus title (\"Start\" above) seems to be a common Metro cliche. And in the examples I've seen, the whole thing is often redundant. Does this screen need \"Start\" on it? Does the Photos library need \"Photos\" on it?\n\n<figure>\n<a href=\"http:\/\/foamtotem.org\/daily\/images\/metro-2.png\"><img src=\"http:\/\/foamtotem.org\/daily\/images\/metro-2.png\" \/><\/a>\n<figcaption>Pretty, but lacks utility<\/figcaption>\n<\/figure>\n\nI'm also surprised that Microsoft has hidden important things behind gestures. How does one shut down the computer given the Start picture above? Well, you put your mouse in the lower-right corner and a menu pops out. There's no icon or anything to indicate this. Likewise, when you're in an app you put the mouse in the lower-left corner to get back to the Start page. There's nothing wrong with these gestures (in fact, they're great in terms of Fitt's law) but how would anyone ever learn them without being told? I watched several videos of people showing off the consumer preview and all of them had a moment where the reviewer couldn't figure out how to exit the app they were running and go back to the desktop.\n\nIn short, I think Metro looks great and is well-designed for tablets. It's meant for touching. In a touch environment, once needs the empty space for gesturing. But on a desktop, I fear it'll be a mess. Though Windows 8 lets you use non-Metro apps in what looks like a Windows 7 desktop, it seems like they're really pushing everything into Metro. Even the newest Office seems to be going that direction. It's a daring, though I think bad, move.",
+    "id":"20120306_9_175805",
+    "link":"",
+    "publishedDate":"2012-03-06T17:58:05+00:00",
+    "source":"foamtotem",
+    "title":"Retro Metro",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_182482955197463":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/182482955197463",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/182482955197463",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T20:18:59+0000",
+                                "from":
+                                    {
+                                        "id":"100000017627482",
+                                        "name":"Kyle Davis"
+                                    },
+                                "id":"728337349_182482955197463_548169",
+                                "message":"I installed the preview on my Mac (using Parallels), and tried to use it.  Not only did I not like Metro for the desktop, I couldn't find the secret mouse-in-the-bottom-left gesture, so the only way I knew to get out of an app once I launched it was Alt-F4. And, I'm definitely in a high minority of people who remember (or even knew in the first place) that's the \"close window\" keystroke. I don't think this will work out well for Microsoft. When Joe Consumer tries it out, I think it will be too different, and not enough leading by the hand in the new features."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T20:19:23+0000",
+                                "from":
+                                    {
+                                        "id":"100000017627482",
+                                        "name":"Kyle Davis"
+                                    },
+                                "id":"728337349_182482955197463_548171",
+                                "message":"Besides, I think if someone's going to learn a new UI like that, they should just learn OS X Mountain Lion. :-)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T20:22:37+0000",
+                                "from":
+                                    {
+                                        "id":"906725466",
+                                        "name":"Rick Dakan"
+                                    },
+                                "id":"728337349_182482955197463_548181",
+                                "message":"I've had it for a few days now and never really go into Metro - just using the desktop because none of the things I use (Chrome, Gimp, Open Office, Gmail, Google Calendar) have Metro-UI apps yet. So the tiles don't do me any good. But if I were more in their ecosystem, I can see the tiles as an expanded Start Screen being OK and a little useful. All said, I'd love it as a tablet interface though - much better than IOS."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T20:29:26+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_182482955197463_548206",
+                                "message":"The iOS interface is beginning to look a bit dated to me, actually.\n\nAlso, the Windows key (not to be found on the Mac keyboard) also pops up the Metro screen I hear."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T20:51:51+0000",
+                                "from":
+                                    {
+                                        "id":"906725466",
+                                        "name":"Rick Dakan"
+                                    },
+                                "id":"728337349_182482955197463_548267",
+                                "message":"Yeah, I've been using the Windows key to bounce between Metro and the desktop, although bouncing back to the desktop has some graphical glitches."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-06T21:52:05+0000",
+                                "from":
+                                    {
+                                        "id":"659131965",
+                                        "name":"Ray Yu"
+                                    },
+                                "id":"728337349_182482955197463_548492",
+                                "message":"I would really love to try metro with a true touchscreen setup that's not tablet."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_182482955197463\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_182482955197463_548492"
+                        }
+                },
+            "created_time":"2012-03-06T20:04:07+0000",
+            "description":"I find Microsoft's Metro interface oddly retro.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_182482955197463",
+            "is_published":"1",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"659131965",
+                                "name":"Ray Yu"
+                            },
+                            
+                            {
+                                "id":"1410699640",
+                                "name":"E.j. Nelson"
+                            }
+                        ]
+                },
+            "link":"http:\/\/foamtotem.org\/2012\/20120306_9_175805.html",
+            "message":"Looks sweet for tablets and awful for desktops.",
+            "name":"Retro Metro",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQAs7-ZzECZO0F6E&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Fmetro-1.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"link",
+            "updated_time":"2012-03-06T21:52:05+0000"
+        }
+}

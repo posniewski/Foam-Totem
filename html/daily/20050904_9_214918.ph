@@ -1,0 +1,4 @@
+I would be remiss if I didn't acknowledge the destruction of New Orleans by Hurricane Katrina. What has happened there is a terrible tragedy. (And if I had the energy, I'd come up with some other way to say "terrible tragedy" that wasn't quite so tired.) If you are so inclined, your hard-won cash can be given to one of many charities to help the victims. You might check out <a href="http://www.networkforgood.org/topics/animal_environ/hurricanes/?source=CN&cmpgn=CRS">Network for Good</a> or <a href="http://www.charitynavigator.org/index.cfm/bay/content.view/catid/68/cpid/310.htm">Charity Navigator</a> first.
+
+(I'm banishing my ugly thoughts on government malfeasance for right now.)
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20050904_9_214918');" target="_self"><script type="text/javascript">postCount('20050904_9_214918');</script></a></p>

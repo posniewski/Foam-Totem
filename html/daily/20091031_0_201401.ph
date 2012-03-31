@@ -1,0 +1,1 @@
+New Academy of Science rocked.  Aquarium seemed as big as Monterey, with albino croc instead of jellyfish and penguins instead of otters. <i>(at 20:14)</i>

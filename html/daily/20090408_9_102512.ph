@@ -1,0 +1,4 @@
+Very cool method for resizing images. I wonder if this could be made real-time and put into a texturing engine. <font size="-1">(via DaD)</font>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/6NcIJXTlugc&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/6NcIJXTlugc&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<p class="comments"><a href="javascript:HaloScan('20090408_9_102512');" target="_self"><script type="text/javascript">postCount('20090408_9_102512');</script></a></p>

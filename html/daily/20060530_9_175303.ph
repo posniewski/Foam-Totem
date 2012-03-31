@@ -1,0 +1,2 @@
+Flight back to SJC cancelled. Can't say that I'm upset... :-)
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060530_9_175303');" target="_self"><script type="text/javascript">postCount('20060530_9_175303');</script></a></p>

@@ -1,0 +1,2 @@
+<a href="http://www.americanartarchives.com/kunstler.htm"><img src="/daily/images/fraulein.jpg" border="0" align="right"/></a><a href="http://www.americanartarchives.com/kunstler.htm">"The Sergeant Who Decoyed the Nazis' Fraulein Werewolves", and more!</a></i>
+<p class="comments"><a href="javascript:HaloScan('20090825_9_234312');" target="_self"><script type="text/javascript">postCount('20090825_9_234312');</script></a></p>

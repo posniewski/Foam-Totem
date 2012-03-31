@@ -1,0 +1,1 @@
+I am shocked,  SHOCKED I say, that I'm amused by Tosh.0. <i>(at 19:53)</i>

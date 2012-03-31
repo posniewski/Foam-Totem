@@ -1,0 +1,2 @@
+<i><b>Sky Captain and the World of Tomorrow</b></i> (<a href="http://imdb.com/title/tt0346156/">IMDB:6.9</a>|<a href="http://www.capalert.com/capreports/skycaptainandtheworld.htm">Cap:74</a>|<a href="http://www.rottentomatoes.com/m/sky_captain/">Rot:73%</a>)<br>
+Beautiful to see, but plagued with a weak plot. Still, it's worth a matinee.

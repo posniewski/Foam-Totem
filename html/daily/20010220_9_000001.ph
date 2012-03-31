@@ -1,0 +1,1 @@
+Widely held belief is that <a href="http://www.foamtotem.org/photos/camping.jpg">the photo</a> is from a Stratton Pond trip. Snufy has a few <a href="http://www.foamtotem.org/~snuffy/hiking/otherhikes.htm">other pics from that trip</a> (as well as many others). The year is still up for debate: 1993?

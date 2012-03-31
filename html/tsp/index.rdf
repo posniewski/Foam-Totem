@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.foamtotem.org/tsp/">
+<title>The Svelte Programmer</title>
+<link>http://www.foamtotem.org/tsp/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-08-16T07:48:46-08:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.64" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/08/16/flickr.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/14/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/11/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/11/breakfast.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/10/dinner.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/10/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/10/breakfast.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/09/dinner.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/09/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/08/dinner.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2005/03/08/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2004/05/24/lunch.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2004/05/24/2_lost.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2004/05/24/weekend_wrapup.html" />
+<rdf:li rdf:resource="http://www.foamtotem.org/tsp/2004/05/21/dinner.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.foamtotem.org/tsp/2005/08/16/flickr.html">
+<title>Flickr</title>
+<link>http://www.foamtotem.org/tsp/2005/08/16/flickr.html</link>
+<description>This is a test post from , a fancy photo sharing thing....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-08-16T07:48:46-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/14/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2005/03/14/lunch.html</link>
+<description>Turkey and ham sandwich, four Fig Newtons...</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-14T18:09:55-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/11/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2005/03/11/lunch.html</link>
+<description>Turkey, tomato, lettuce, cucumber, sprout, mayo sandwich....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-11T14:57:44-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/11/breakfast.html">
+<title>Breakfast</title>
+<link>http://www.foamtotem.org/tsp/2005/03/11/breakfast.html</link>
+<description>Blueberry muffin. Probably 10,000 Calories....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-11T14:57:00-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/10/dinner.html">
+<title>Dinner</title>
+<link>http://www.foamtotem.org/tsp/2005/03/10/dinner.html</link>
+<description>2 slices of pepperoni pizza, 2 cookies....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-10T20:22:27-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/10/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2005/03/10/lunch.html</link>
+<description>Dai chin chicken, 2 pot stickers, a bit of rice....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-10T12:46:35-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/10/breakfast.html">
+<title>Breakfast</title>
+<link>http://www.foamtotem.org/tsp/2005/03/10/breakfast.html</link>
+<description>Veyr hungry today. Half a cinnamon roll....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-10T10:30:00-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/09/dinner.html">
+<title>Dinner</title>
+<link>http://www.foamtotem.org/tsp/2005/03/09/dinner.html</link>
+<description>Slice of sicilian pepperoni pizza. Two cookies and milk....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-09T20:29:06-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/09/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2005/03/09/lunch.html</link>
+<description>Chicken Tikka...</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-09T13:28:06-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/08/dinner.html">
+<title>Dinner</title>
+<link>http://www.foamtotem.org/tsp/2005/03/08/dinner.html</link>
+<description>Spinach tortellini, two pieces of bread, chocolate milk....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-08T20:36:20-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2005/03/08/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2005/03/08/lunch.html</link>
+<description>Turkey, ham, cheese, sprouts, tomato sandwich. Brownie. Diet Coke....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2005-03-08T14:27:41-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2004/05/24/lunch.html">
+<title>Lunch</title>
+<link>http://www.foamtotem.org/tsp/2004/05/24/lunch.html</link>
+<description>Small cheesesteak...</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2004-05-24T17:20:17-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2004/05/24/2_lost.html">
+<title>2 Lost</title>
+<link>http://www.foamtotem.org/tsp/2004/05/24/2_lost.html</link>
+<description></description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2004-05-24T17:19:50-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2004/05/24/weekend_wrapup.html">
+<title>Weekend wrapup</title>
+<link>http://www.foamtotem.org/tsp/2004/05/24/weekend_wrapup.html</link>
+<description>Peanut butter and jelly sandwiches: 2 Potato chips: 3 handfuls Cookies: 4 Sodas: 2 Hamburger and fries Spaghetti and sauce with bread at the Zinx...</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2004-05-24T17:19:38-08:00</dc:date>
+</item>
+<item rdf:about="http://www.foamtotem.org/tsp/2004/05/21/dinner.html">
+<title>Dinner</title>
+<link>http://www.foamtotem.org/tsp/2004/05/21/dinner.html</link>
+<description>Peanut butter and jelly sandwich, chips, potato salad. Mmmm, beer....</description>
+<dc:subject></dc:subject>
+<dc:creator>poz</dc:creator>
+<dc:date>2004-05-21T20:35:00-08:00</dc:date>
+</item>
+
+
+</rdf:RDF>

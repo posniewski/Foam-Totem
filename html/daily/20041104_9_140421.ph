@@ -1,0 +1,1 @@
+Adoring fans (we love you!) become real heroes for the <a href="http://www.cityofheroes.com/media/costume_contest.html">City of Heroes Costume Contest</a>.

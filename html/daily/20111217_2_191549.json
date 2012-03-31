@@ -1,0 +1,289 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-17T19:18:28+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20276701",
+                        "message":"Although that didn't seem to work considering I have 94 tracks in that list. And none of them are Howdy Doody related."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-17T20:39:26+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20277681",
+                        "message":"How do I get you as a spotify friend so I can access your list? (Yes, I alreadyhave spotify.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-17T20:41:15+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20277701",
+                        "message":"Uhh. I have no idea. What happens if you click this? http:\/\/open.spotify.com\/user\/posniewski\/playlist\/0iMDeAikaH0hN882nixp0r"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-17T20:42:01+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20277708",
+                        "message":"But this still doesn't have the right songs in it. Just stick to Foamy, I guess. Many are duplicates anyway."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-17T20:56:16+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20277895",
+                        "message":"When I click on it it wants me to join spotify all over again. I used to have you as a person on Spotify and you aren't there anymore. None of my people are. Excuse me, Spotify, that was a feature! Maybe they just do that on the pay for Spotify now."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-18T02:05:01+0000",
+                        "from":
+                            {
+                                "id":"6714326",
+                                "name":"Becky Odom Woomer"
+                            },
+                        "id":"728337349_10150474283532350_20281749",
+                        "message":"My xmas playlist wants to fight your xmas playlist. There will be nog running in the streets."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-18T02:12:12+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20281814",
+                        "message":"If you rejoin, I bet I'll show up again. I don't pay for it and I see a scad of people on my list.\n\nBecky: Yours is too new-school. I prefer the oldies."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-18T02:13:39+0000",
+                        "from":
+                            {
+                                "id":"6714326",
+                                "name":"Becky Odom Woomer"
+                            },
+                        "id":"728337349_10150474283532350_20281829",
+                        "message":"Aha, but I have oldies too! And newbies! And oldies made new. See, I will fight you!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-18T02:14:23+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150474283532350_20281841",
+                        "likes":1,
+                        "message":"Mmmm. Nog."
+                    }
+                ]
+        },
+    "id":"20111217_2_191549",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150474283532350",
+    "message":"A Christmas playlist for your tree-trimming and cookie-baking.",
+    "publishedDate":"2011-12-17T19:15:49+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Spotify",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150474283532350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150474283532350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.spotify.com\/redirect\/download-social",
+                        "name":"Get Spotify"
+                    }
+                ],
+            "application":
+                {
+                    "canvas_name":"get-spotify",
+                    "id":"174829003346",
+                    "name":"Spotify",
+                    "namespace":"get-spotify"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-17T19:18:28+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20276701",
+                                "message":"Although that didn't seem to work considering I have 94 tracks in that list. And none of them are Howdy Doody related."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-17T20:39:26+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20277681",
+                                "message":"How do I get you as a spotify friend so I can access your list? (Yes, I alreadyhave spotify.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-17T20:41:15+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20277701",
+                                "message":"Uhh. I have no idea. What happens if you click this? http:\/\/open.spotify.com\/user\/posniewski\/playlist\/0iMDeAikaH0hN882nixp0r"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-17T20:42:01+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20277708",
+                                "message":"But this still doesn't have the right songs in it. Just stick to Foamy, I guess. Many are duplicates anyway."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-17T20:56:16+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20277895",
+                                "message":"When I click on it it wants me to join spotify all over again. I used to have you as a person on Spotify and you aren't there anymore. None of my people are. Excuse me, Spotify, that was a feature! Maybe they just do that on the pay for Spotify now."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-18T02:05:01+0000",
+                                "from":
+                                    {
+                                        "id":"6714326",
+                                        "name":"Becky Odom Woomer"
+                                    },
+                                "id":"728337349_10150474283532350_20281749",
+                                "message":"My xmas playlist wants to fight your xmas playlist. There will be nog running in the streets."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-18T02:12:12+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20281814",
+                                "message":"If you rejoin, I bet I'll show up again. I don't pay for it and I see a scad of people on my list.\n\nBecky: Yours is too new-school. I prefer the oldies."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-18T02:13:39+0000",
+                                "from":
+                                    {
+                                        "id":"6714326",
+                                        "name":"Becky Odom Woomer"
+                                    },
+                                "id":"728337349_10150474283532350_20281829",
+                                "message":"Aha, but I have oldies too! And newbies! And oldies made new. See, I will fight you!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-18T02:14:23+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150474283532350_20281841",
+                                "likes":1,
+                                "message":"Mmmm. Nog."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150474283532350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150474283532350_20281841"
+                        }
+                },
+            "created_time":"2011-12-17T19:15:49+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v85005\/74\/174829003346\/app_2_174829003346_5511.gif",
+            "id":"728337349_10150474283532350",
+            "message":"A Christmas playlist for your tree-trimming and cookie-baking.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-12-18T02:14:23+0000"
+        }
+}

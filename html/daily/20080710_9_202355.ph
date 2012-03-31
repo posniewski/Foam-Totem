@@ -1,0 +1,2 @@
+Just saw a New Doctor Who two-parter. What a great show.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080710_9_202355');" target="_self"><script type="text/javascript">postCount('20080710_9_202355');</script></a></p>

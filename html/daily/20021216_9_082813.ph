@@ -1,0 +1,1 @@
+I've resigned from my position as Engineering Manager at Broadcom. I am going to a PC game company named <a href="http://www.crypticstudios.com">Cryptic Studios</a> (also here in San Jose). They are the developers of an MMORPG (massively multiplayer on-line role playing game) called <a href="http://www.cityofheroes.com">City of Heroes</a>. Destroy Evil; Become Famous!

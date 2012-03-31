@@ -1,0 +1,1 @@
+Very soon to be on my way to SFO. Here's to hoping the travel is more "Shore Leave" than "Amok Time". <i>(at 20:28)</i>

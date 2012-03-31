@@ -1,0 +1,1 @@
+Want to start a collection, but don't know what to hoard? You can't go wrong with the line of <a href="http://www.collecterrific.com/simmons/">Dolls by Richard Simmons</a>. Why not start with <a href="http://www.collecterrific.com/simmons/jazz.html">Jazzman</a>?

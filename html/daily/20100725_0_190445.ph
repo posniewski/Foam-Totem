@@ -1,0 +1,1 @@
+98% lean bologna tastes like slimy wet paper towels. <i>(at 19:04)</i>

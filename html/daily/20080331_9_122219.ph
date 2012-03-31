@@ -1,0 +1,2 @@
+For April Fool's Day: <a href="http://eigentaste.berkeley.edu/user/index.php">Teach Jester what jokes you like and it'll recommend more</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080331_9_122219');" target="_self"><script type="text/javascript">postCount('20080331_9_122219');</script></a></p>

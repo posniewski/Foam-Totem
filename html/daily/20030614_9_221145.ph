@@ -1,0 +1,2 @@
+<a href="/postcards/index.html"><img src="/daily/postcard-update-20030614.png" border="0" align="right"></a>
+<a href="/postcards/index.html">Postcard Update!</a> L. Ron Hubbard, Jell-O, and the Masons!

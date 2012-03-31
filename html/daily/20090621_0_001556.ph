@@ -1,0 +1,1 @@
+My Bloody Valentine: wish I had seen it in 3D. Is it technically a decapitation if the body is cut in half at the waist? <i>(at  0:15)</i>

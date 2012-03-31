@@ -1,0 +1,1 @@
+A suggested experiment.: I'm trying out the HaloScan commenting system, largely because it is trivial for me to use. Click on the "Comment" link to... uh... comment. <p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050105_9_101344');" target="_self"><script type="text/javascript">postCount('20050105_9_101344');</script></a></p>

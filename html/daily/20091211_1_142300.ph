@@ -1,0 +1,5 @@
+<div class="title">Trippy Fantasia Poster</div>
+<div class="via"> <a href="http://img.photobucket.com/albums/v470/bananaphone5000/NEWGORILLA/FL_Fantasia1971.jpg">img.photobucket.com</a></div>
+<a href="http://posterous.com/getfile/files.posterous.com/posniewski/uiFdaInBIEqaEsosnzzxgfsqGHvzcDruxrwwasrdnnCqHtDBktpruFravoot/media_httpimgphotobucketcomalbumsv470bananaphone5000NEWGORILLAFLFantasia1971jpg_cukaCcyvDtntFtB.jpg.scaled1000.jpg"><img class="posterous" src="http://posterous.com/getfile/files.posterous.com/posniewski/uiFdaInBIEqaEsosnzzxgfsqGHvzcDruxrwwasrdnnCqHtDBktpruFravoot/media_httpimgphotobucketcomalbumsv470bananaphone5000NEWGORILLAFLFantasia1971jpg_cukaCcyvDtntFtB.jpg.scaled500.jpg" width="500" height="733"/></a>
+
+<p class="comments"><a href="javascript:HaloScan('20091211_1_142300');" target="_self"><script type="text/javascript">postCount('20091211_1_142300');</script></a></p>

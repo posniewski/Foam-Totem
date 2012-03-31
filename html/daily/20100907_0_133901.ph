@@ -1,0 +1,1 @@
+On plane in CLE, awaiting "an on-time departure". <i>(at 13:39)</i>

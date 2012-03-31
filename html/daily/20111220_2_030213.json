@@ -1,0 +1,60 @@
+{
+    "id":"20111220_2_030213",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150478864382350",
+    "message":"And, again, I must shut off the electronic devices.",
+    "publishedDate":"2011-12-20T03:02:13+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Twitter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150478864382350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150478864382350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=148961370925305857",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "canvas_name":"twitter",
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2011-12-20T03:02:13+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150478864382350",
+            "message":"And, again, I must shut off the electronic devices.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-12-20T03:02:13+0000"
+        }
+}

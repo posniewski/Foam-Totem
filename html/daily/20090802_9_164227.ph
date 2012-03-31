@@ -1,0 +1,3 @@
+<a href="/daily/images/20090802-photo.jpg"><img src="/daily/images/20090802-photo-thumb.jpg" border="0" align="right"/></a> I was at SFO and was reminded of airport postcards, which are universally hideous. It's funny how something which can look cosmopolitan and maybe even exciting in real life is so lifeless and pedestrian in a photo.
+
+<p class="comments"><a href="javascript:HaloScan('20090802_9_164227');" target="_self"><script type="text/javascript">postCount('20090802_9_164227');</script></a></p>

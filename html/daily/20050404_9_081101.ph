@@ -1,0 +1,2 @@
+<a href="http://imdb.com/title/tt0401792/">Sin City</a>. Wow.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20050404_9_081101');" target="_self"><script type="text/javascript">postCount('20050404_9_081101');</script></a></p>

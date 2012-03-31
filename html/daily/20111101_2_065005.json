@@ -1,0 +1,160 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-01T09:39:49+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_10150382886842350_19486530",
+                        "likes":1,
+                        "message":"Holding index cards is hard."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-01T11:17:16+0000",
+                        "from":
+                            {
+                                "id":"17503797",
+                                "name":"Nellie Hughes"
+                            },
+                        "id":"728337349_10150382886842350_19487373",
+                        "message":"Gawker said it perfectly 'there's a meme dying to happen at 2:20' (if you're talking about that video thats goin around)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-01T15:28:10+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_10150382886842350_19490333",
+                        "message":"I think he's referring to this (it's edited to show the best parts....i'd say the first three minutes are well worth the time): http:\/\/www.youtube.com\/watch?v=7M4gz97Y9W8&feature=related  and then you can't see it in this clip, but DailyKos has pictures....he actually holds the index card upside down.  *snick*  http:\/\/www.dailykos.com\/story\/2011\/10\/30\/1031595\/-Rick-Perry-gets-his-tax-plan-upsidedown?detail=hide&via=blog_1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-11-01T16:24:55+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150382886842350_19491074",
+                        "message":"I was responding to the Daily Show coverage, which shows much the same highlights as Jen's first link."
+                    }
+                ]
+        },
+    "id":"20111101_2_065005",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150382886842350",
+    "message":"Holy cow, Rick Perry must have been high as a kite.",
+    "publishedDate":"2011-11-01T06:50:05+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Facebook for iPad",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150382886842350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150382886842350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"173847642670370",
+                    "name":"Facebook for iPad"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-01T09:39:49+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_10150382886842350_19486530",
+                                "likes":1,
+                                "message":"Holding index cards is hard."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-01T11:17:16+0000",
+                                "from":
+                                    {
+                                        "id":"17503797",
+                                        "name":"Nellie Hughes"
+                                    },
+                                "id":"728337349_10150382886842350_19487373",
+                                "message":"Gawker said it perfectly 'there's a meme dying to happen at 2:20' (if you're talking about that video thats goin around)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-01T15:28:10+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_10150382886842350_19490333",
+                                "message":"I think he's referring to this (it's edited to show the best parts....i'd say the first three minutes are well worth the time): http:\/\/www.youtube.com\/watch?v=7M4gz97Y9W8&feature=related  and then you can't see it in this clip, but DailyKos has pictures....he actually holds the index card upside down.  *snick*  http:\/\/www.dailykos.com\/story\/2011\/10\/30\/1031595\/-Rick-Perry-gets-his-tax-plan-upsidedown?detail=hide&via=blog_1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-11-01T16:24:55+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150382886842350_19491074",
+                                "message":"I was responding to the Daily Show coverage, which shows much the same highlights as Jen's first link."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150382886842350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25"
+                        }
+                },
+            "created_time":"2011-11-01T06:50:05+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10150382886842350",
+            "message":"Holy cow, Rick Perry must have been high as a kite.",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-11-01T16:24:55+0000"
+        }
+}

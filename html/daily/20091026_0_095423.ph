@@ -1,0 +1,1 @@
+XKCD is brilliant today (in RE shutdown of GeoCities) <a href="http://xkcd.com/654/">http://xkcd.com/654/</a> <i>(at  9:54)</i>

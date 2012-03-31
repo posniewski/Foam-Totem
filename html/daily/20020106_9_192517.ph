@@ -1,0 +1,1 @@
+<a href="http://www.foamtotem.org/~rv/albums/ny01/"><img src="/daily/newyears2002.jpg" border="0" align="right"></a>rv has some pictures from the <a href="http://www.foamtotem.org/~rv/albums/ny01/">2002 New Year's gathering</a>.

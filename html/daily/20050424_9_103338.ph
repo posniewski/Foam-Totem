@@ -1,0 +1,2 @@
+I've been vaguely worried since the beginning that the <a href="http://www.counterpunch.org/lindorff04212005.html">Social Security "debate" is all misdirection</a>.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20050424_9_103338');" target="_self"><script type="text/javascript">postCount('20050424_9_103338');</script></a></p>

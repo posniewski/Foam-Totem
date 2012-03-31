@@ -1,0 +1,1 @@
+All packed, but not ready for my visit to the Gerlicas' to end. <i>(at 10:27)</i>

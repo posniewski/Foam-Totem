@@ -1,0 +1,22 @@
+<!--
+/*
+ * MyFonts Webfont Build ID 794051, 2011-04-29T17:47:21-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Spud AF Crisp
+ * URL: http://new.myfonts.com/fonts/andrew-foster/spud-af/crisp/
+ * Foundry: Andrew Foster
+ * Copyright: Copyright (c) 2010 by Andrew Foster.
+ * License: http://www.myfonts.com/viewlicense?1056
+ * Licensed pageviews: 10,000/month
+ * CSS font-family: SpudAFCrisp
+ * CSS font-weight: normal
+ *
+ * (c) 2011 Bitstream Inc
+*/ -->
+ @font-face {font-family: 'SpudAFCrisp';src: url('webfonts/eot/style_187560.eot');src: url('webfonts/eot/style_187560.eot?#iefix') format('embedded-opentype'),url('webfonts/woff/style_187560.woff') format('woff'),url('webfonts/ttf/style_187560.ttf') format('truetype'),url('webfonts/svg/style_187560.svg#SpudAFCrisp') format('svg');}

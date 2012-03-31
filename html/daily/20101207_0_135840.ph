@@ -1,0 +1,1 @@
+What the hell is an Amazon "payphrase" and who told it about "Shannon's Unchallenged Spurts"? <i>(at 13:58)</i>

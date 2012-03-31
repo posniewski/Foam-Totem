@@ -1,0 +1,2 @@
+Kung Fu Panda: Yay!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080608_9_133603');" target="_self"><script type="text/javascript">postCount('20080608_9_133603');</script></a></p>

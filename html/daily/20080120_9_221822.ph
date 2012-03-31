@@ -1,0 +1,2 @@
+Programmer Cam is working again. Showing my fancy new jellyfish tank!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080120_9_221822');" target="_self"><script type="text/javascript">postCount('20080120_9_221822');</script></a></p>

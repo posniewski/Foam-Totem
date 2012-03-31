@@ -1,0 +1,1 @@
+Not only is Diablo 2 still for sale (in an omnibus with all expansions), it still sells for 39.99. That is amazing. <i>(at 11:54)</i>

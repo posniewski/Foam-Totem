@@ -1,0 +1,9 @@
+{
+    "content":"\nGoogle Reader's newest style change decreased usability quite a bit for me. I've made some tweaks in a userscript which Chrome can import and use. I think Firefox will too (though you may need Greasemonkey, I'm not sure and I didn't test it).\n\nYou can find it here: <a href=\"http:\/\/foamtotem.org\/js\/reader-fixups.user.js\">Reader Fixup<\/a>. Clicking on it should prompt to install it in Chrome. If it offends you, you can remove it via the extensions panel.\n\nTweaks some sizes, adds some background fills, that sort of thing. I didn't try to completely re-style the Reader. I see what Google is trying to do style-wise, I just think they went a bit too far. This just pulls Reader back from the brink a bit.",
+    "id":"20111104_9_031302",
+    "link":"",
+    "publishedDate":"2011-11-04T03:13:02+00:00",
+    "source":"foamtotem",
+    "title":"Google Reader Fixer",
+    "via":""
+}

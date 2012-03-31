@@ -1,0 +1,1 @@
+If you remember, <a href="http://www.foamtotem.org/random/haystack.html">Haystack</a> was an browser-based email search UI I was working on during my doldrums at Broadcom. It turns out that <a href="http://haystack.lcs.mit.edu/index.html">MIT has a Haystack too</a>. Theirs does a bit more.

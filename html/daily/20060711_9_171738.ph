@@ -1,0 +1,2 @@
+I'm back. No flight problems: yay!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060711_9_171738');" target="_self"><script type="text/javascript">postCount('20060711_9_171738');</script></a></p>

@@ -1,0 +1,1 @@
+Oft-forgotten movie moment: In the opening scene of the original Highlander, the 80s come out and kick you in the balls. <i>(at  0:18)</i>

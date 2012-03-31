@@ -1,0 +1,1 @@
+Always sad when Shore Leave is over. Even if we didn't get to see fireworks or the actual sky. <i>(at 13:20)</i>

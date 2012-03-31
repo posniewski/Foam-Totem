@@ -1,0 +1,2 @@
+TeamSpeak now working.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060120_9_131147');" target="_self"><script type="text/javascript">postCount('20060120_9_131147');</script></a></p>

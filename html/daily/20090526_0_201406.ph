@@ -1,0 +1,1 @@
+"I haven't been following North Korea.""Oh, are they on Twitter?" <i>(at 20:14)</i>

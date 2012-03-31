@@ -1,0 +1,1 @@
+Landed in LAS. I think we've taxied around the strip at this point. <i>(at 18:25)</i>

@@ -1,0 +1,1 @@
+If you thought there was controversy over what a Balrog looked like in New Line Cinema's <i>LOTR</i>. Just imagine the uproar over what <i>God</i> will look like in their <i><a href="http://dailynews.yahoo.com/h/nm/20020205/re/film_dark_dc_1.html">His Dark Materials</a></i> trilogy!

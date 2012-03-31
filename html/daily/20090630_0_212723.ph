@@ -1,0 +1,1 @@
+Booted like a little girl today for the first time in a long while. Where once it would be from over-imbibing, now it's from over-exertion. <i>(at 21:27)</i>

@@ -1,0 +1,171 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-05-06T00:12:44+0000",
+                        "from":
+                            {
+                                "id":"508299845",
+                                "name":"Alex Ames"
+                            },
+                        "id":"728337349_219845158042294_3259569",
+                        "likes":1,
+                        "message":"Can you hear me now?"
+                    },
+                    
+                    {
+                        "created_time":"2011-05-06T17:56:10+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_219845158042294_3264436",
+                        "message":"Yes, I can!"
+                    }
+                ]
+        },
+    "content":"(UPDATE UPDATE: I think it's fixed now!)<br\/>\n<strike>(UPDATE: it turns out that there's a bug on posts like this one. :-) I'll fix it tomorrow.)<\/strike>\n\nFacebook is now connected to Foam Totem! Items that I post on Facebook are reflected to Foam Totem automatically, which is pretty cool. Even more cool is that comments made on the these items on Facebook also appear on Foam Totem. But the really, REALLY cool thing is that comments you make on Foam Totem (assuming you're logged in to Facebook) are sent BACK to Facebook.\n\nYou can also leave comments on Foam Totem without logging in to Facebook. These comments stay on Foam Totem and aren't sent anywhere else.\n\nThis is all barely tested, so you may run into problems if you exercise it. If you do find a problem, I'd be a kindness if you copied the error message and email to me.\n\nThere is still some tweaking to be done. Currently, you can attempt to \"Facebook Comment\" on items that aren't on Facebook. This will likely evaporate your attempted comment. I'll get to that soon, so don't oomplain about that. :-)\n\nThe point of this whole endeavor (besides letting me knock some rust off with Javascript and seeing what the Facebook API is like) is to collect my data onto a storage device I control. It bothers me that I'm putting stuff into Facebook with no guarantee that it'll ever come back out. If they were to vanish (or shut me out) that data would be irretrievable. That's not cool, as far as I'm concerned. I've been keeping a web log since 1997. Imagine if I had hosted it on Geocities back then. Or MySpace. I feel better when I have a bit more control over my digital artifacts.",
+    "id":"20110505_9_235515",
+    "link":"",
+    "publishedDate":"2011-05-05T23:55:15+00:00",
+    "title":"Foam Totem Connect",
+    "via":"missing my nap",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/219845158042294",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/219845158042294",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"www.foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-05-06T00:12:44+0000",
+                                "from":
+                                    {
+                                        "id":"508299845",
+                                        "name":"Alex Ames"
+                                    },
+                                "id":"728337349_219845158042294_3259569",
+                                "likes":"1",
+                                "message":"Can you hear me now?"
+                            },
+                            
+                            {
+                                "created_time":"2011-05-06T17:56:10+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_219845158042294_3264436",
+                                "message":"Yes, I can!"
+                            }
+                        ]
+                },
+            "created_time":"2011-05-06T00:11:01+0000",
+            "description":"Facebook is now connected to Foam Totem! Items that I post on Facebook are reflected to Foam Totem automatically, which is pretty cool. Even more cool is that comments are also shared.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_219845158042294",
+            "link":"http:\/\/www.foamtotem.org\/2011\/20110505_9_235515.html",
+            "name":"Foam Totem Connect",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-05-06T17:56:10+0000"
+        },
+    "~orig.728337349_219845158042294":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/219845158042294",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/219845158042294",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"www.foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-05-06T00:12:44+0000",
+                                "from":
+                                    {
+                                        "id":"508299845",
+                                        "name":"Alex Ames"
+                                    },
+                                "id":"728337349_219845158042294_3259569",
+                                "likes":1,
+                                "message":"Can you hear me now?"
+                            },
+                            
+                            {
+                                "created_time":"2011-05-06T17:56:10+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_219845158042294_3264436",
+                                "message":"Yes, I can!"
+                            }
+                        ]
+                },
+            "created_time":"2011-05-06T00:11:01+0000",
+            "description":"Facebook is now connected to Foam Totem! Items that I post on Facebook are reflected to Foam Totem automatically, which is pretty cool. Even more cool is that comments are also shared.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_219845158042294",
+            "link":"http:\/\/www.foamtotem.org\/2011\/20110505_9_235515.html",
+            "name":"Foam Totem Connect",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-05-06T17:56:10+0000"
+        }
+}

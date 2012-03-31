@@ -1,0 +1,2 @@
+<a href="http://www.eonline.com/gossip/kristin/detail/index.jsp?uuid=972f7d73-e0a2-43ea-abad-0abf6afba1f3">Joss Whedon back on TV?</a> If I read the pitch right it sounds like "Behind the Scenes of Fantasy Island". :-)
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20071101_9_142943');" target="_self"><script type="text/javascript">postCount('20071101_9_142943');</script></a></p>

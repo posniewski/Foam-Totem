@@ -1,0 +1,3 @@
+MapInfo's <a href="http://cdc.mapinfo.com/webapp/countrymap.asp?level=County&poi=1989-1998&cod=Traumatic%20Brain%20Injury&colors=Red,%20Blue,%20Gray,%20White%20(4%20colors)">MapXtreme shreds on Traumatic Brain Injuries</a> across the US. It's EXTREME!
+
+(It doesn't appear as if the State Injury maps work. And they're using the one of the worst possible projections (Mercator?!) for the U.S. map. And it's slow. Have I mentioned that I still hold some <a href="http://clearstation.etrade.com/cgi-bin/details?Symbol=maps">MapInfo stock</a>? And that it's at just over $3.00 right now?)

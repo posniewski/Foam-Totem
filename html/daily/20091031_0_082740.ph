@@ -1,0 +1,1 @@
+En route to San Francisco by train to see science, pagans, wild life. <a href="http://twitpic.com/nojci">http://twitpic.com/nojci</a> <i>(at  8:27)</i>

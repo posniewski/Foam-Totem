@@ -1,0 +1,7 @@
+<div class="title">The Sweep</div>
+<div class="via"> <a href="http://i.imgur.com/rvkxR.jpg">i.imgur.com</a></div>
+      <a href="http://posterous.com/getfile/files.posterous.com/posniewski/jCBgHIjosfikhxrlbtbxmFDlxbyBjyviGcqIxwlbhbBakkfknmEkEinCtmfn/media_httpiimgurcomrv_qljBq.jpg.scaled1000.jpg"><img class="posterous" src="http://posterous.com/getfile/files.posterous.com/posniewski/jCBgHIjosfikhxrlbtbxmFDlxbyBjyviGcqIxwlbhbBakkfknmEkEinCtmfn/media_httpiimgurcomrv_qljBq.jpg.scaled500.jpg" width="500" height="656"/></a>
+
+    <p>Translation:
+</p><p>"If you ask me which of all human beings is happiest in proportion to his means, I would answer, the sweep. He is not proud in his dress, small are his wants, and great his independence. Wealthy men make way to let him pass, and truly he is a man of high calling. He fears little for his capital in trade, for his brush and shovel are nearly the whole. Humble as he is, he can set his foot under the grate; Insult him and you become a marked person.he seldom accumulates riches, though to he often rises in the world.In the delicate feelings of his heart, he spurns not the negro, because his face his black ; no, he hates such pride, lives independent and comfortable, and above all he is content with his business, because he knows it suits him."</p>
+<p class="comments"><a href="javascript:HaloScan('20100110_1_003713');" target="_self"><script type="text/javascript">postCount('20100110_1_003713');</script></a></p>

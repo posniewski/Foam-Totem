@@ -1,0 +1,1 @@
+Sick of the <a href="http://www.harrypotter.com">Harry Potter</a> marketing machine? Try <a href="http://www.barrytrotter.com">Barry Trotter and the Unauthorized Parody</a>. Other books by Michael Gerber include <i>Are You There, God? It's Me, Hitler</i>.

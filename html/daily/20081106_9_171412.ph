@@ -1,0 +1,2 @@
+<a href="http://aclu.org/lgbt/relationships/37706prs20081105.html">Legal challenge to Prop 8</a>: initiative votes can't change underlying principles of the state constitution. It can be amended, but not revised. Revisions need 2/3 legislature vote to pass.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081106_9_171412');" target="_self"><script type="text/javascript">postCount('20081106_9_171412');</script></a></p>

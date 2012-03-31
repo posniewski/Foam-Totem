@@ -1,0 +1,5 @@
+Try this out: <a href="http://www.foamtotem.org/~radio/index.html">Foam Radio</a>. <font size="-2">[<a href="http://www.foamtotem.org/~radio/lounge.pls">DSL stream</a>] [<a href="http://www.foamtotem.org/~radio/lounge_low.pls">dial-up stream</a>]</font>
+
+You need a Shoutcast-capable MP3 player. I use <a href="http://www.winamp.com">WinAmp</a>, but there's also <a href="http://www.sonique.com/">Sonique</a> and others. All the Linux user who wants to listen should do a lengthy Google-search to find some sources you can tweak and compile into a player. (OK, OK, <a href="http://www.zinf.org//">Zinf</a> should do it for you.)
+
+I'm having a tough time getting those radio links to work on my computer, but they should work. Perhaps my WinAmp doesn't work right. If those links don't work for you, drop me a line and paste this into WinAmp: http://www.foamtotem.org:8000/lounge)

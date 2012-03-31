@@ -1,0 +1,1 @@
+Got an iPad. Likes: Almost all of it. Dislikes: won't charge from any computer USB port or iPhone charger, still on old iOS, iTunes. <i>(at 11:18)</i>

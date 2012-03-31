@@ -1,0 +1,142 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-14T02:22:13+0000",
+                        "from":
+                            {
+                                "id":"715341355",
+                                "name":"Martin Simpson"
+                            },
+                        "id":"728337349_388397124503941_5243970",
+                        "message":"\"Then the web server ignores this respects this and...\""
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-14T02:27:45+0000",
+                        "from":
+                            {
+                                "id":"715341355",
+                                "name":"Martin Simpson"
+                            },
+                        "id":"728337349_388397124503941_5243998",
+                        "message":"Credit card companies get an itemized receipt from retailers?  That sounds wrong."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-14T03:50:27+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_388397124503941_5244329",
+                        "message":"Thanks for the typo. And you're correct about the itemized receipt. I'll fix it."
+                    }
+                ]
+        },
+    "content":"\nThere's a push for web analytic services to respect a <a href=\"http:\/\/donottrack.us\/\">\"Do Not Track\" option<\/a> which would disable the use of cookies (or whatnot) from collecting and collating information about you across websites. This initiative has come up again recently (I think) because of Google's recent privacy policy change which treats everything owned by Google as a single \"site\", hence allowing them to aggregate tracking across them. (To be honest, I was surprised that they weren't already.) But that's just a tangent.\n\nThe way it works is that you tell your web browser that you don't want to be tracked. It then tells every web server it contacts that you don't want to be tracked. Then the web server <strike>ignores this<\/strike> respects this and doesn't do any tracking or logging or whatever for you. This won't work, because it's entirely voluntary. Even if it's somehow legislated via the FTC, I doubt that one would even be able to detect that they were being tracked against their wishes.\n\nAnother problem is that it's not clear (at least to me when reading through the materials) exactly what is disallowed. In some places in the various write-ups, it seems like cross-site tracking is disallowed. In others, it seems to extend even to cross-session tracking (meaning it doesn't aggregate this visit to a site with what you did the last time you visited the same site).\n\nBut it is a nice idea, and I'm sure the big companies will respect it. But it won't really stop tracking if there's money to be gained by doing it. The only way to completely stop something like this on the internet is to make it technologically impossible. And that will be very, very difficult as the existence of <a href=\"http:\/\/en.wikipedia.org\/wiki\/Zombie_cookie\">zombie cookies<\/a> proves.\n\nAs people live more of their life online, their privacy is eroding. This isn't necessarily bad. The biggest problem I see with this is knowing when you're leaking information. When you buy things with your credit card, it's probably not a surprise to you that the credit card company knows every place you've bought something, though they don't know exactly what you bought.\n\n(Though even data collection by a single company can be surprising. For example, see the interesting tale of <a href=\"http:\/\/www.forbes.com\/sites\/kashmirhill\/2012\/02\/16\/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did\/\">Target inferring a customer's pregnancy<\/a> from their purchases. They can even estimate the due date.)\n\nOnline, though, things we naturally feel are separate really aren't. Tracking your behavior across websites, for example. You feel like you're leaving one site and going to another, but it's not like the real world where you can only be in one place at a time. I think many people don't yet understand how different the real world is from the digital world. All your common-sense rules are broken. (Just look at how the movie and video industries are thrashing around as they refuse to learn this.)\n\nEvery single web site you visited today has your IP address. Your internet provider may have logged every single IP address your computer communicated with (including that clandestine visit to howtoharvestorgans.com). It's in your best interest to know who has access to this information. I don't; do you? Do your terms of service (that I know I didn't read) protect this information from being harvested and used? Would you be shocked to get a coupon in the mail from \"The Organarium\" a couple days after visiting a competitor's site?\n\nThe debate over our online\/digital rights has been going on for a while. I expect that it will only grow more contentious as time goes on. Nothing is really decided yet and I predict some knock-down drag-out privacy wars in the coming years.\n\n[Updated to fix a typo and also rescind the statement that credit card companies know what you've bought. At the same time, I also added the story about Target.]",
+    "id":"20120314_9_004531",
+    "link":"",
+    "publishedDate":"2012-03-14",
+    "source":"foamtotem",
+    "title":"\"Do Not Track\" is Mostly Useless",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_388397124503941":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/388397124503941",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/388397124503941",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-14T02:22:13+0000",
+                                "from":
+                                    {
+                                        "id":"715341355",
+                                        "name":"Martin Simpson"
+                                    },
+                                "id":"728337349_388397124503941_5243970",
+                                "message":"\"Then the web server ignores this respects this and...\""
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-14T02:27:45+0000",
+                                "from":
+                                    {
+                                        "id":"715341355",
+                                        "name":"Martin Simpson"
+                                    },
+                                "id":"728337349_388397124503941_5243998",
+                                "message":"Credit card companies get an itemized receipt from retailers?  That sounds wrong."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-14T03:50:27+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_388397124503941_5244329",
+                                "message":"Thanks for the typo. And you're correct about the itemized receipt. I'll fix it."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_388397124503941\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_388397124503941_5244329"
+                        }
+                },
+            "created_time":"2012-03-14T01:39:15+0000",
+            "description":"There's a push for web analytic services to respect a \"Do Not Track\" option which would disable the use of cookies (or whatnot) from collecting and collating information about you across websites.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_388397124503941",
+            "is_published":"1",
+            "link":"http:\/\/foamtotem.org\/2012\/20120314_9_004531.html",
+            "message":"I start with some thoughts on \"do not track\" and somehow fall into a prediction that a privacy war is brewing.",
+            "name":"\"Do Not Track\" is Mostly Useless",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"link",
+            "updated_time":"2012-03-14T03:50:27+0000"
+        }
+}

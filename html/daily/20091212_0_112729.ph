@@ -1,0 +1,1 @@
+iTunes: the media player that doesn't play media. Instead it's busy generating new Terms of Service and updating it library. <i>(at 11:27)</i>

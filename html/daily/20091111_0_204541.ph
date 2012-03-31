@@ -1,0 +1,1 @@
+3D stereoviews of Japan: <a href="http://bit.ly/GNB8i">http://bit.ly/GNB8i</a> <i>(at 20:45)</i>

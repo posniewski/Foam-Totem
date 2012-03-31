@@ -1,0 +1,1 @@
+What is the point of Valve's Steam? Why do I need another barely-functional web browser to buy a game? <i>(at 12:21)</i>

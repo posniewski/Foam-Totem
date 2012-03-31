@@ -1,0 +1,2 @@
+An excruitatingly complete <a href="http://www.foamtotem.org/gallery/2008ColonySt">walk-through of the new place</a> I'm renting.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060517_9_212549');" target="_self"><script type="text/javascript">postCount('20060517_9_212549');</script></a></p>

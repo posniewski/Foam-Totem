@@ -1,0 +1,1 @@
+Got my board out of its bag to find the front corner is mashed up and the board unridable. Oh and not worth fixing. New board! <i>(at 12:01)</i>

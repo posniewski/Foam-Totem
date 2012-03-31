@@ -1,0 +1,1 @@
+Sigh. And the road isn't even bad yet. Concerned that it will be if it takes me more than two hours to go 20 miles. <i>(at 11:23)</i>

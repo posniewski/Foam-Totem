@@ -1,0 +1,2 @@
+<a href="/photos/camping.jpg"><img src="/daily/camping_snuffy.jpg" border="1" align="right"></a>
+<a href="/photos/camping.jpg">Here's a scan of an ancient (and one of my favorite) photos.</a> Does anyone know when this was taken? I'm pretty sure Dan took it. I had to do a lot of retouching to clean it up. The developing didn't balance the contrast well and the picture has begun to deteriorate from being on the refrigerator door. The clone brush is your friend!

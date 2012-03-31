@@ -1,0 +1,1 @@
+Of course: minor lower back muscle strain three days before an 8 hour plane trip. <i>(at 18:44)</i>

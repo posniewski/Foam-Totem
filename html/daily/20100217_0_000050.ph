@@ -1,0 +1,1 @@
+Without the internet, you wouldn't know exactly how much I hate figure skating, or how often I think about how much I hate figure skating. <i>(at  0:00)</i>

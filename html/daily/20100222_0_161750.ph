@@ -1,0 +1,1 @@
+I was wrong yesterday-- TODAY was EPIC in Telluride: <a href="http://tweetphoto.com/12218676">http://tweetphoto.com/12218676</a> <i>(at 16:17)</i>

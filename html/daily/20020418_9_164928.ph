@@ -1,0 +1,7 @@
+<b><i><a href="http://www.blade2.com/">Blade II</a></i></b> <font size="-1">(<a href="http://us.imdb.com/Title?0187738">IMDB 7.1</a>|<a href="http://www.capalert.com/capreports/bladeii.htm">CAP 20</a>|<a href="http://www.rottentomatoes.com/m/Blade2Bloodhunt-1112335/">Rot 48%</a>)</font>
+
+I had seen the zombies in <i>Resident Evil</i> and wanted more. What could be better than canine zombies?! MONKEY ZOMBIES!!!! Unfortunately, the monkey zombie film genre is pretty thin, so we went for vampires instead. We put on our sunglasses, painted our fingernails black, got some piercings, acted all depressed and went to see Blade II.
+
+Blade II was a surprise: it did not suck. The Vampire Nation is being devastated by some kind of of meta-vampires ("Reapers?") who are out-vamping the vamps. These Reaper guys are nasty and are significantly more... enhanced (and hungry) than regular vampires. There's tinges of <i>The Thing</i> since you never know who might have been turned meta. Lots of killing and decapitations and giant sucking gut wound deaths ensue. And an autopsy on the recently disemboweled, only more so.
+
+But basically, it's a action flick with cool fights and lots of blood (red and green!). The plot is good enough to move the movie along and not too much to hinder the ride. I'd recommend it if vampires or overacting are your thing.

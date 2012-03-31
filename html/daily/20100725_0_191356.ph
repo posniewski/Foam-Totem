@@ -1,0 +1,1 @@
+iPhone's been randomly shutting down for a while. Just did a raw install (with no restore) to see if it solves it. Bets? <i>(at 19:13)</i>

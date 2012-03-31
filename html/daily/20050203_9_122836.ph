@@ -1,0 +1,2 @@
+<a href="http://www.thinkblue2008.com"><img src="/daily/blueband2.gif" border="1" align="right"></a><a href="http://www.thinkblue2008.com/blog">Think BLUE has made its first $5000 of donations.</a> They've also added the option to donate to <a href="http://www.adoptaplatoon.org">Adopt a Platoon</a>.
+<p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050203_9_122836');" target="_self"><script type="text/javascript">postCount('20050203_9_122836');</script></a></p>

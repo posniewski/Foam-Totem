@@ -1,0 +1,2 @@
+<img src="http://farm2.static.flickr.com/1053/530921810_f59ab404aa.jpg" border="0" align="center">
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070831_9_100224');" target="_self"><script type="text/javascript">postCount('20070831_9_100224');</script></a></p>

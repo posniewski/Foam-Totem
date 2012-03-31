@@ -1,0 +1,1 @@
+We were vexed by slow dial-up at Memorial Day, but now that you are surfing on your employer's dime, you can check out <a href="http://www.foamtotem.org/~zinc/">recently updated pictures of Max</a>.

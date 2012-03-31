@@ -1,0 +1,1 @@
+The Adirondacks: if you don't like the weather, wait 15 minutes. <a href="http://twitpic.com/8lo18">http://twitpic.com/8lo18</a> <i>(at 13:25)</i>

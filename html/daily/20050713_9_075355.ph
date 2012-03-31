@@ -1,0 +1,2 @@
+<a href="http://prorev.com/temple.htm">Evangelical Capitalism</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20050713_9_075355');" target="_self"><script type="text/javascript">postCount('20050713_9_075355');</script></a></p>

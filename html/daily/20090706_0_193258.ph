@@ -1,0 +1,1 @@
+Jailbreak complete, for two apps: calendar on the lockscreen and current weather on the weather icon. <i>(at 19:32)</i>

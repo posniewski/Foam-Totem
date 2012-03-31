@@ -1,0 +1,1 @@
+Telluride got 22" of snow. /envy <i>(at 12:27)</i>

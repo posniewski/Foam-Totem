@@ -1,0 +1,1 @@
+Sweet robotic space-Jebus! The default reaction that a new install of iTunes has when meeting an iPhone is to delete everything on it. <i>(at 15:41)</i>

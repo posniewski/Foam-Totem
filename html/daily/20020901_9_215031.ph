@@ -1,0 +1,1 @@
+<a href="/postcards/index.html"><img src="/daily/postcard-update-20020830.jpg" border="0" align="right"></a><a href="/postcards/index.html">Postcard Update!</a>

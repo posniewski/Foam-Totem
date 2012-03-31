@@ -1,0 +1,7 @@
+<b><i><a href="http://www.italianjobmovie.com">The Italian Job</a></i></b> <font size="-1">(<a href="http://us.imdb.com/Title?0317740">IMDB 6.9</a>|<a href="http://www.capalert.com/capreports/italianjob_the.htm">CAP 43</a>|<a href="http://www.rottentomatoes.com/m/TheItalianJob-1122662/">Rot 74%</a>)</font>
+
+This is a caper movie along the lines of Ocean's 11. Ocean's 11 was a very stylish, very hip, very clean movie (and it was pretty good). The Italian Job is less stylish, less hip, and a little more realistic (if a caper movie can ever be called that). Instead, this movie shines by showing the characters and their very collegial relationship to each other. It's also a pretty exciting Mini Cooper advertisement. If anything, I wish that there were more witty quips, and especially flashbacks (of which there were several very funny ones).
+
+There is a romance between main characters in the movie which only serves to muddy the plot. They should have just avoided it and had Charlize Theron play the sassy, competent, and sexy safecracker her character is.
+
+Matinee fare or even a full-price if you like caper movies. I ended up seeing it since every other movie I wanted to see was sold out and was not disappointed.

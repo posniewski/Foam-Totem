@@ -1,0 +1,1 @@
+What form of stupidity is this? A Disney remake of Yellow Submarine?! Why not just remake the Prisoner? Oh. Wait. <a href="http://bit.ly/dMyc3">http://bit.ly/dMyc3</a> <i>(at 10:04)</i>

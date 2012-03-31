@@ -1,0 +1,1 @@
+Lars Rasmussen (of Google Maps and Wave) is going to Facebook. Holy crap. There's been a lot of brain-drain from Google this year. <i>(at 20:27)</i>

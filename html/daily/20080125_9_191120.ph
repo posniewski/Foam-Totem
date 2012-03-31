@@ -1,0 +1,2 @@
+<a href="http://www.youtube.com/watch?v=Av0VsTxJd78">Snowboarding in a Subaru</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080125_9_191120');" target="_self"><script type="text/javascript">postCount('20080125_9_191120');</script></a></p>

@@ -1,0 +1,1 @@
+<a href="http://www.phototag.org/">PhotoTag</a>. Very cool idea. (Too bad the only cameras to return so far have yielded less than interesting <a href="http://www.phototag.org/pictures.php?camera=cow&picture=10">results</a>.)

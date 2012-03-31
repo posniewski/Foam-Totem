@@ -1,0 +1,2 @@
+<img src="/daily/haystack_cal.gif" border="1" align="right">
+Cool! I got a calendar showing the dates of search hits vaguely working. Currently, it doesn't show all the hits, just the hits which are on the current page. I'm going to fix that first. The next step after is to allow refining the search by clicking on the calendar.

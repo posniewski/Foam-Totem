@@ -1,0 +1,1 @@
+I Love XKCD: <a href="http://www.olganunes.com/xkcd">http://www.olganunes.com/xkcd</a> (from <a href="http://xkcd.com/442/">http://xkcd.com/442/</a> and <a href="http://www.youtube.com/watch?v=at_f98qOGY0)">http://www.youtube.com/watch?v=at_f98qOGY0)</a> <i>(at 22:37)</i>

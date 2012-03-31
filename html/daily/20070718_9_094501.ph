@@ -1,0 +1,5 @@
+<a href="http://featuresblogs.chicagotribune.com/entertainment_tv/2007/07/farscapes-unlik.html"><i>American Gods</i> crossed with <i>Voyagers</i>?</a>
+<blockquote>
+Here’s Sci Fi’s description of ["Going Homer"]: "Greek and Roman deities walk among us, but only 12 year old Homer Ulysses Jones can see them for what they truly are. When Homer and his father are forced to flee a custody battle that would likely separate them, they journey from Los Angeles to the home of their ancestors – in Ithaca, N.Y. As they travel through the heart of Americana, Homer’s eyes will be opened to a mystical landscape of capricious Gods; some will help our heroes, some will divert them and others will try to kill them to prevent them from reaching their ultimate goal – home."
+</blockquote>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070718_9_094501');" target="_self"><script type="text/javascript">postCount('20070718_9_094501');</script></a></p>

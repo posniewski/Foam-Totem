@@ -1,0 +1,1 @@
+<a href="http://www.inthesetimes.com/site/main/article/979/">We're not in Lake Woebegone Anymore<a>

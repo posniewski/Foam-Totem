@@ -1,0 +1,1 @@
+I haven't read the Earthsea books, but the SciFi Channel miniseries was not the worst thing I've seen on that channel. It had a plot. The FX weren't so great but they didn't actually cause eye-bleed. On the other hand, I did watch it in an uninterrupted stretch from 11:30pm to 3am so maybe the only thing I can say for sure is that ZOMBIES! won't disapprove.

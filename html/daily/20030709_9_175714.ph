@@ -1,0 +1,1 @@
+Money drain: <a href="http://www.cosmicencounter.com">Cosmic Encounter Online</a>

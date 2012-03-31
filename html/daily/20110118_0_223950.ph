@@ -1,0 +1,1 @@
+Drove 465 miles today, which I believe is a personal record. Oh, and I ended up where I started. <i>(at 22:39)</i>

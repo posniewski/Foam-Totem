@@ -1,0 +1,7 @@
+<div class="title">Monster illustrations from ‘Yokai Jiten’</div>
+<div class="via"> <a href="http://pinktentacle.com/2010/02/monster-illustrations-from-yokai-jiten/">pinktentacle.com</a></div>
+      <a href="http://posterous.com/getfile/files.posterous.com/posniewski/igJrnmqBgCFxeEdDlHBukEBsnDrgsJmuplDoEfBptopejhClyDoimuyxtCxz/media_httppinktentacl_JqDBm.jpg.scaled1000.jpg"><img class="posterous" src="http://posterous.com/getfile/files.posterous.com/posniewski/igJrnmqBgCFxeEdDlHBukEBsnDrgsJmuplDoEfBptopejhClyDoimuyxtCxz/media_httppinktentacl_JqDBm.jpg.scaled500.jpg" width="500" height="356"/></a>
+
+    <p></p><blockquote>Umi-bōzu are giant black bulbous beings that live in the sea. Sometimes they have glowing eyes and a beak, and other times they have no facial features at all. To survive an umi-bōzu encounter at sea, one should remain quiet and look in the opposite direction. Speaking or looking at the creature may send it into a rage — and that usually ends in tragedy.</blockquote>
+<p>More great illustrations there too.</p>
+<p class="comments"><a href="javascript:HaloScan('20100404_1_071019');" target="_self"><script type="text/javascript">postCount('20100404_1_071019');</script></a></p>

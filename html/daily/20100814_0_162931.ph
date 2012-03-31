@@ -1,0 +1,1 @@
+My goodness, I can't believe that Installshield still exists. It was barely adequate on Win95. Use Nullsoft. <i>(at 16:29)</i>

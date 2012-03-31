@@ -1,0 +1,1 @@
+Tray table stowed: I signed aboard this ship to practice medicine, not to have my atoms scattered back and forth across space by this gadget <i>(at  5:42)</i>

@@ -1,0 +1,1 @@
+Landed in ALB from a direction I've never come in from before. Didn't recognize anything on the way in. <i>(at  6:36)</i>

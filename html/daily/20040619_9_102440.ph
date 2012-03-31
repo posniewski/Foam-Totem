@@ -1,0 +1,1 @@
+<a href="http://anonymouslawyer.blogspot.com/">Proof that high-paid lawyers are from another planet.</a> I read this blog slack-jawed for about an hour today. Each day some new aspect of callousness and disgust is put on display. It's awe-inspiring in its bankruptcy.

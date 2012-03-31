@@ -1,0 +1,1 @@
+<a href="http://www.agonist.org">The Agonist</a> has up-to-the-minute information about the ongoing war. As opposed to most of the other war-info weblogs (<i>warblogs</i>: how I hate that term) I've seen, it seems largely unbiased and fair.

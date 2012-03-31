@@ -1,0 +1,1 @@
+Why does every Steam install seem to reinstall DirectX and the VC redist? <i>(at 15:52)</i>

@@ -1,0 +1,1 @@
+Good lord, I hate iTunes. In what way are  you "optimizing" my photos? <i>(at 16:45)</i>

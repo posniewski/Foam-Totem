@@ -1,0 +1,1 @@
+I don't care if it cures cancer <i>and</i> gives me X-ray vision. I'm not eating anything named <a href="http://www.abundancehealth.com/frame_pages/bowelbuddy.htm">"Bowel Buddy"</a>.

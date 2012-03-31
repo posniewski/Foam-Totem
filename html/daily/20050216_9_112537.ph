@@ -1,0 +1,1 @@
+<a href="http://www.wonderfullywacky.com/thinktank.htm">21st century replacement for lava lamps</a><p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050216_9_112537');" target="_self"><script type="text/javascript">postCount('20050216_9_112537');</script></a></p>

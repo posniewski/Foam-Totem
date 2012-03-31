@@ -1,0 +1,3 @@
+Back in San Jose. Read <u>The Adept</u> ostensibly by Katherine Kurtz and Deborah Turner Harris. Avoid it. I assume that Kurtz actually had little or nothing to do with it because her other writing (Deryni stuff) is so much better.
+
+<p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050105_9_095646');" target="_self"><script type="text/javascript">postCount('20050105_9_095646');</script></a></p>

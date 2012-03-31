@@ -1,0 +1,1 @@
+That last post required my to finally figure out where that "Do you like Abba?" (in Father Gudio Sarducci's voice) quote comes from. Believe it or not it comes from a 1985 Judge Reinhold/Eddie Albert movie: <a href="http://us.imdb.com/Title?0091183"><i>Head Office</i></a>. "My tape! My Julio Iglesias tape!

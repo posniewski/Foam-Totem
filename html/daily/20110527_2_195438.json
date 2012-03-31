@@ -1,0 +1,52 @@
+{
+    "id":"20110527_2_195438",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150207150302350",
+    "message":"They've shortened the flight time, but we're still not in the air yet...",
+    "publishedDate":"2011-05-27T19:54:38+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Twitter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150207150302350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150207150302350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=74201868703772672",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter"
+                },
+            "created_time":"2011-05-27T19:54:38+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150207150302350",
+            "message":"They've shortened the flight time, but we're still not in the air yet...",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-05-27T19:54:38+0000"
+        }
+}

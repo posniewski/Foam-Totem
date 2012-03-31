@@ -1,0 +1,1 @@
+Crazy cool slo-mo bullet impact video: <a href="http://bit.ly/97X0L">http://bit.ly/97X0L</a> <i>(at 11:08)</i>

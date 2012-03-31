@@ -1,0 +1,1 @@
+<a href="http://soho.nascom.nasa.gov/hotshots/2002_01_04/">Look at the size of this Coronal Mass Ejection (CME)!</a> It's at least four or five diameters of the sun! I think we're happy it's not pointed at us.

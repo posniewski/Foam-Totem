@@ -1,0 +1,1 @@
+...annnnnd that light is directly in front of the car, blinding me. <i>(at 19:47)</i>

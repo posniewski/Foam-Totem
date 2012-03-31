@@ -1,0 +1,1 @@
+On the ground in ALB! <i>(at 20:27)</i>

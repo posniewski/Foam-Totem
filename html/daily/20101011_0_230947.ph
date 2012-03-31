@@ -1,0 +1,1 @@
+Why must iPad's Safari constantly reload pages when I switch between them? I find it hard to believe it's a memory issue. <i>(at 23:09)</i>

@@ -1,0 +1,1 @@
+Is vomiting is the new cutting edge thing to show on television? It used to be the word "ass", then it was asses, and now... vomiting? <i>(at 21:44)</i>

@@ -1,0 +1,1 @@
+Incomprehensible commericals, Exhibit B: the recent car commercial whose sounds breaks a wine glass? Huh? <i>(at 23:21)</i>

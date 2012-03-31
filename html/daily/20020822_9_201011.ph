@@ -1,0 +1,1 @@
+Here's a <a href="http://www.noao.edu/outreach/press/pr02/images/asteroid_2002ny40.mov">movie of Shannon's Asteroid</a> (aka 2002 NY40) as it moves through an area of sky around the size of the full moon. The movie covers a time span of 2 hours. Read more in the <a href="http://www.noao.edu/outreach/press/pr02/pr0207.html">press release</a>.

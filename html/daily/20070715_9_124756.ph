@@ -1,0 +1,5 @@
+Huh? The Wall Street Journal has <a href="http://online.wsj.com/article/SB118436667045766268.html">an article celebrating the 10 year anniversary of blogging</a>. It cites Jorn's Dec 1997 post "I decided to start my own webpage logging the best stuff I find as I surf, on a daily basis" as the advent.
+
+I'm sure that I'm the two billionth person to say that web logging must be older than that. Heck, I started Foam Totem in Sep 1997 (see the calendar below), and I was reading Dave Winer and Suck.com long before that. At the time, I didn't consider Foam Totem anything particularly special (though I did write my own content management system as there really weren't any others readily available).
+
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070715_9_124756');" target="_self"><script type="text/javascript">postCount('20070715_9_124756');</script></a></p>

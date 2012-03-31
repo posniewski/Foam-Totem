@@ -1,0 +1,1 @@
+<a href="http://www.sfbg.com/37/39/cover_superqueer.html">Sidekicks, mutants, and goddesses: What makes superhero culture so queer</a>

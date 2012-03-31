@@ -1,0 +1,1 @@
+Pretty small plane: my row 9 seat is more than half-way back. (Plane into Telluride has been smaller, though.) <i>(at 19:04)</i>

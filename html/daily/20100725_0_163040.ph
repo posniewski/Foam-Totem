@@ -1,0 +1,1 @@
+iTunes fails to upgrade: Dammit, make your software work, Apple! <i>(at 16:30)</i>

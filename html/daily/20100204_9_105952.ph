@@ -1,0 +1,2 @@
+I know none of you care, but the Naked Programmer Cam is back up.
+<p class="comments"><a href="javascript:HaloScan('20100204_9_105952');" target="_self"><script type="text/javascript">postCount('20100204_9_105952');</script></a></p>

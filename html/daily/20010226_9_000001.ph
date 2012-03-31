@@ -1,0 +1,1 @@
+<a href="http://advogato.org/article/251.html">Claude Shannon passes on to the chior eternal.</a> Frodo finds <a href="http://www.boston.com/dailynews/058/region/Claude_Shannon_mathematician_fP.shtml">an obit</a> in a slightly more reliable publication.

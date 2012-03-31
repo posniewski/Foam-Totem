@@ -1,0 +1,409 @@
+{
+    "caption":"venomousporridge.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T01:35:06+0000",
+                        "from":
+                            {
+                                "id":"100000017627482",
+                                "name":"Kyle Davis"
+                            },
+                        "id":"728337349_331632403536629_4731611",
+                        "message":"Wow. I guess they feel they can do that because they're giving it to you for free... But I've never heard of an arrangement like that before."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T02:51:33+0000",
+                        "from":
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                        "id":"728337349_331632403536629_4731975",
+                        "message":"I haven't read the EULA yet, and am definitely nothing like a lawyer, but this may not be as bad as it sounds (not that I'm crazy about it). I think the key is to look at this as a publishing tool for the iBook store, not a general-purpose product. First, I don't think they make any claims on the content, just the published output. You're free to give that away, or to sell it through Apple. You're also free to take your content and use another tool to publish it elsewhere (e.g. whatever the hell is used to format epub for the Kindle). That's my understanding, anyway. It'll be interesting to watch how this develops."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T03:00:49+0000",
+                        "from":
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                        "id":"728337349_331632403536629_4732002",
+                        "message":"I should clarify that I mostly meant that these terms aren't so different than some other EULAs in existence. I remain mostly unhappy with the whole concept of licensing (as opposed to buying and you know, owning) software, but that ship sailed long ago."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T03:49:04+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_331632403536629_4732193",
+                        "message":"They can't claim your actual intellectual property (or so I hope) but it certainly sounds like they are laying claim to the layout and other work you do in the app. I can't imagine an artist using photoshop if they could only sell the output of it through Adobe. (Which seems like an accurate analogy from what I read.)\n\n(I'm phrasing all of this very mealy-mouthed because it seems so crazy that I hope it's actually an error of some kind.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T05:20:09+0000",
+                        "from":
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                        "id":"728337349_331632403536629_4732506",
+                        "message":"Yeah, I'm having a hard time wrapping my head around just what this means - I think I have to retract my \"not so different terms\" comment from before. I can kinda see what Apple's going for here (not giving away tools to make it easier to publish nice stuff on competing platforms), but the way they're going about it is something new. I'm wondering if maybe a closer comparison could be found in one of the console developer programs? Where you sign a developer agreement and then are provided tools required to publish? Not sure."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T05:44:52+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_331632403536629_4732571",
+                        "message":"I think the only thing console manufacturers can hold over you is that they'd control the actual HW it executes on (as well as the physical publishing). MS and Sony pay actual money for exclusive rights."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T12:09:31+0000",
+                        "from":
+                            {
+                                "id":"629012577",
+                                "name":"Chris Eplett"
+                            },
+                        "id":"728337349_331632403536629_4733507",
+                        "message":"Poz: this is NO different than developing for consoles. Apple is not laying claim to the content of the book (the text, the images, the movies). All they are requiring is that if you want to sell THE FILE GENERATED FROM THE TOOL, you sell it through apple. If you want to take that content and format it for another platform, you are free to use other authoring tools to do so. Further, if you want to distribute the generated file for free, you can do so however you like. \n\nI think the real problem here is that the tools for generating eBooks for other platforms uniformly suck, and at pisses people off.\n\nI'm continually baffled by the \"Apple is evil\" memes. They are far less evil than, say, Google. To Apple, the end user is the customer. To google, the end user is the PRODUCT. The advertiser is the customer. I'd much rather be the customer than the product."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T12:17:01+0000",
+                        "from":
+                            {
+                                "id":"629012577",
+                                "name":"Chris Eplett"
+                            },
+                        "id":"728337349_331632403536629_4733537",
+                        "message":"To wit: http:\/\/david-smith.org\/blog\/2012\/01\/19\/ibooks-author-unprecedented\/"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T13:03:51+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_331632403536629_4733681",
+                        "message":"Having used ebooks since Chris worked at Peanut Press I've been happy to see the improved reading interfaces in that space. I'm a pro-ebook kind of gal.  But when it comes to my experience reading eTextbooks, I would bring out the argument that \"there are just some types of books that are better off remaining in paper format and textbooks are one of them (travel guides are another - but maybe that'll change soon....).\"   When I did use eTextbooks, all were uniformly crap.  One ereader had no highlighting feature (WTF?) and then my favorite was for my adult development psychology course last summer:  you load their proprietary app on your ipad and laptop but you had to be connected to the internet in order to read the book.  and if you actually thought ahead, you could download ONE chapter for offline use. And then never mind the navigation fail in that tool (when I go to the index of an ebook I should be able to tap\/click on the item and go straight to the page it's on).  As a consumer, I would have loved iBooks 2 for my textbooks. I *want* eTextbooks.   Carrying them on my iPad was the only pro for any of them.  But that was never enough for me to have been pro-eTextbook.  I'd have to try one of these iBooks2 textbooks in order to become pro-eTextbook, but from what I've seen I suspect that will be the outcome.....I guess what I'm arguing is that I like a consumer-driven approach regardless of the fact that if you use their file format you have to sell through Apple.  I would also predict that competitors will improve their offerings (like the ebook reader I mention above) because they'll see what Apple brought to the table.  This is good.\n- Jenn \"pro-Apple, pro-Microsoft, pro-Google.....etc.\"  J"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-20T16:01:06+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_331632403536629_4734532",
+                        "message":"Chris, there is no legal restriction (as far as I know) as to where I execute programs compiled with the compiler I use for making console games. (Or who can sell them.) Now, the console manufacturer has other ways to restrict where it's executed because they control the hardware. But they hold no rights on what I produce (as far as I know). If I were to include code I didn't write (say a graphics lib or the CRT) they could legally control my licensing based on its inclusion. But the stuff I made is mine. If I wanted to, I could use an console emulator and sell executables to run on it. (Which is not so far-fetched: it's been done with the Atari, DOS games, the NES, etc.)\n\nEven if you believe the effect is the same at the moment, the rights involved are very different.\n\nThis is not Apple-specific hate, at least from me. This is disgust and hate for an outrageous claim on a person's creative and intellectual output. I don't see how their claim is any different from a hypothetical Nikon demanding that any photo taken with their camera can't be sold by anyone but them.\n\nObviously, my choice is to not use the software (and I won't). That doesn't mean I should just silently accept that it's reasonable for a tool maker to restrict what I can do with the output of their tool.\n\nRegarding the link you posted: is selling your apps through Cydia illegal? Because an equivalent license on XCode would make it so. (I'm also amazed that what the author thinks is \"unprecedented\" is the ability to give away your work as you see fit.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-21T17:32:24+0000",
+                        "from":
+                            {
+                                "id":"100000017627482",
+                                "name":"Kyle Davis"
+                            },
+                        "id":"728337349_331632403536629_4739949",
+                        "message":"Now that I've had a chance to look at what a lot of bloggers have said about this ... it looks like iBooks Author isn't a content creation app, as much as it is a slick app used to put your content together as an iBook for consumption on an iPad.  That is, you still want to write your content in Pages or Scrivener or whatever you use to write books.   Pages can output ePub, and there are no restrictions on it.  If you want to take the extra step to make your content really shine in iBooks 2 on the iPad, then you use iBook Author, at which time you fall under the restrictions *for that iBooks file*, not your content.  I'm not an author (or a lawyer, for that matter), but this seems reasonable to me."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-21T17:43:06+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_331632403536629_4739986",
+                        "message":"The more I think about this, the more wrong I believe it to be. I'm not talking illegal or anything; I mean \"wrong\". Tools should never restrict what you do with their output. Though a different situation, I likewise think that once I've bought something, I should be able to disassemble it, or modify it, or whatever it. It's MINE.\n\nI wonder if this means that I'm against end-user licenses in general. It's certainly feeling that way..."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-21T22:50:52+0000",
+                        "from":
+                            {
+                                "id":"629012577",
+                                "name":"Chris Eplett"
+                            },
+                        "id":"728337349_331632403536629_4741242",
+                        "message":"I saw a quote somewhere that I hunk sums it up nicely. \"it's call iBooks Author, not eBooks Author\". As I've said, you are free to use any other tools to format your content for any damn platform you want. This tool is solely for formatting books into a rich format that is specific to iBooks. Nothing more. "
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-01-22T02:57:00+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_331632403536629_4742020",
+                        "message":"I don't question the legality, i only comment on the sad slope we seem to be on. I do not accept as reasonable that a tool manufacturer can restrict what I use their tool for. We wouldn't stand for it with hammers or cameras, why would we accept it for software tools?\n\nJust saying'. We may just have to agree to disagree."
+                    }
+                ]
+        },
+    "description":"Apple just released iBooks Author, a free Mac app for creating digital books for the new version of iBooks. I haven’t played with it much, but so far it looks like a very good tool. However, a curious thing happens when you go to export your work in iBooks format:",
+    "id":"20120120_2_011550",
+    "link":"http:\/\/venomousporridge.com\/post\/16126436616\/ibooks-author-eula-audacity",
+    "message":"It appears that if you use Apple's fancy new ebook-making program (iBooks Author) to make your book, you can only sell it through Apple. How is that not crazy-talk?",
+    "name":"The Unprecedented Audacity of the iBooks Author EULA",
+    "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQC7RWeRWF5uCze_&w=90&h=90&url=http%3A%2F%2Fmedia.tumblr.com%2Ftumblr_ly28d0RTYl1qzv2x0.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120120_2_011550.png",
+    "publishedDate":"2012-01-20T01:15:50+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/331632403536629",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/331632403536629",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"venomousporridge.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T01:35:06+0000",
+                                "from":
+                                    {
+                                        "id":"100000017627482",
+                                        "name":"Kyle Davis"
+                                    },
+                                "id":"728337349_331632403536629_4731611",
+                                "message":"Wow. I guess they feel they can do that because they're giving it to you for free... But I've never heard of an arrangement like that before."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T02:51:33+0000",
+                                "from":
+                                    {
+                                        "id":"1411161126",
+                                        "name":"Curt Krone"
+                                    },
+                                "id":"728337349_331632403536629_4731975",
+                                "message":"I haven't read the EULA yet, and am definitely nothing like a lawyer, but this may not be as bad as it sounds (not that I'm crazy about it). I think the key is to look at this as a publishing tool for the iBook store, not a general-purpose product. First, I don't think they make any claims on the content, just the published output. You're free to give that away, or to sell it through Apple. You're also free to take your content and use another tool to publish it elsewhere (e.g. whatever the hell is used to format epub for the Kindle). That's my understanding, anyway. It'll be interesting to watch how this develops."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T03:00:49+0000",
+                                "from":
+                                    {
+                                        "id":"1411161126",
+                                        "name":"Curt Krone"
+                                    },
+                                "id":"728337349_331632403536629_4732002",
+                                "message":"I should clarify that I mostly meant that these terms aren't so different than some other EULAs in existence. I remain mostly unhappy with the whole concept of licensing (as opposed to buying and you know, owning) software, but that ship sailed long ago."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T03:49:04+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_331632403536629_4732193",
+                                "message":"They can't claim your actual intellectual property (or so I hope) but it certainly sounds like they are laying claim to the layout and other work you do in the app. I can't imagine an artist using photoshop if they could only sell the output of it through Adobe. (Which seems like an accurate analogy from what I read.)\n\n(I'm phrasing all of this very mealy-mouthed because it seems so crazy that I hope it's actually an error of some kind.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T05:20:09+0000",
+                                "from":
+                                    {
+                                        "id":"1411161126",
+                                        "name":"Curt Krone"
+                                    },
+                                "id":"728337349_331632403536629_4732506",
+                                "message":"Yeah, I'm having a hard time wrapping my head around just what this means - I think I have to retract my \"not so different terms\" comment from before. I can kinda see what Apple's going for here (not giving away tools to make it easier to publish nice stuff on competing platforms), but the way they're going about it is something new. I'm wondering if maybe a closer comparison could be found in one of the console developer programs? Where you sign a developer agreement and then are provided tools required to publish? Not sure."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T05:44:52+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_331632403536629_4732571",
+                                "message":"I think the only thing console manufacturers can hold over you is that they'd control the actual HW it executes on (as well as the physical publishing). MS and Sony pay actual money for exclusive rights."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T12:09:31+0000",
+                                "from":
+                                    {
+                                        "id":"629012577",
+                                        "name":"Chris Eplett"
+                                    },
+                                "id":"728337349_331632403536629_4733507",
+                                "message":"Poz: this is NO different than developing for consoles. Apple is not laying claim to the content of the book (the text, the images, the movies). All they are requiring is that if you want to sell THE FILE GENERATED FROM THE TOOL, you sell it through apple. If you want to take that content and format it for another platform, you are free to use other authoring tools to do so. Further, if you want to distribute the generated file for free, you can do so however you like. \n\nI think the real problem here is that the tools for generating eBooks for other platforms uniformly suck, and at pisses people off.\n\nI'm continually baffled by the \"Apple is evil\" memes. They are far less evil than, say, Google. To Apple, the end user is the customer. To google, the end user is the PRODUCT. The advertiser is the customer. I'd much rather be the customer than the product."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T12:17:01+0000",
+                                "from":
+                                    {
+                                        "id":"629012577",
+                                        "name":"Chris Eplett"
+                                    },
+                                "id":"728337349_331632403536629_4733537",
+                                "message":"To wit: http:\/\/david-smith.org\/blog\/2012\/01\/19\/ibooks-author-unprecedented\/"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T13:03:51+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_331632403536629_4733681",
+                                "message":"Having used ebooks since Chris worked at Peanut Press I've been happy to see the improved reading interfaces in that space. I'm a pro-ebook kind of gal.  But when it comes to my experience reading eTextbooks, I would bring out the argument that \"there are just some types of books that are better off remaining in paper format and textbooks are one of them (travel guides are another - but maybe that'll change soon....).\"   When I did use eTextbooks, all were uniformly crap.  One ereader had no highlighting feature (WTF?) and then my favorite was for my adult development psychology course last summer:  you load their proprietary app on your ipad and laptop but you had to be connected to the internet in order to read the book.  and if you actually thought ahead, you could download ONE chapter for offline use. And then never mind the navigation fail in that tool (when I go to the index of an ebook I should be able to tap\/click on the item and go straight to the page it's on).  As a consumer, I would have loved iBooks 2 for my textbooks. I *want* eTextbooks.   Carrying them on my iPad was the only pro for any of them.  But that was never enough for me to have been pro-eTextbook.  I'd have to try one of these iBooks2 textbooks in order to become pro-eTextbook, but from what I've seen I suspect that will be the outcome.....I guess what I'm arguing is that I like a consumer-driven approach regardless of the fact that if you use their file format you have to sell through Apple.  I would also predict that competitors will improve their offerings (like the ebook reader I mention above) because they'll see what Apple brought to the table.  This is good.\n- Jenn \"pro-Apple, pro-Microsoft, pro-Google.....etc.\"  J"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-20T16:01:06+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_331632403536629_4734532",
+                                "message":"Chris, there is no legal restriction (as far as I know) as to where I execute programs compiled with the compiler I use for making console games. (Or who can sell them.) Now, the console manufacturer has other ways to restrict where it's executed because they control the hardware. But they hold no rights on what I produce (as far as I know). If I were to include code I didn't write (say a graphics lib or the CRT) they could legally control my licensing based on its inclusion. But the stuff I made is mine. If I wanted to, I could use an console emulator and sell executables to run on it. (Which is not so far-fetched: it's been done with the Atari, DOS games, the NES, etc.)\n\nEven if you believe the effect is the same at the moment, the rights involved are very different.\n\nThis is not Apple-specific hate, at least from me. This is disgust and hate for an outrageous claim on a person's creative and intellectual output. I don't see how their claim is any different from a hypothetical Nikon demanding that any photo taken with their camera can't be sold by anyone but them.\n\nObviously, my choice is to not use the software (and I won't). That doesn't mean I should just silently accept that it's reasonable for a tool maker to restrict what I can do with the output of their tool.\n\nRegarding the link you posted: is selling your apps through Cydia illegal? Because an equivalent license on XCode would make it so. (I'm also amazed that what the author thinks is \"unprecedented\" is the ability to give away your work as you see fit.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-21T17:32:24+0000",
+                                "from":
+                                    {
+                                        "id":"100000017627482",
+                                        "name":"Kyle Davis"
+                                    },
+                                "id":"728337349_331632403536629_4739949",
+                                "message":"Now that I've had a chance to look at what a lot of bloggers have said about this ... it looks like iBooks Author isn't a content creation app, as much as it is a slick app used to put your content together as an iBook for consumption on an iPad.  That is, you still want to write your content in Pages or Scrivener or whatever you use to write books.   Pages can output ePub, and there are no restrictions on it.  If you want to take the extra step to make your content really shine in iBooks 2 on the iPad, then you use iBook Author, at which time you fall under the restrictions *for that iBooks file*, not your content.  I'm not an author (or a lawyer, for that matter), but this seems reasonable to me."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-21T17:43:06+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_331632403536629_4739986",
+                                "message":"The more I think about this, the more wrong I believe it to be. I'm not talking illegal or anything; I mean \"wrong\". Tools should never restrict what you do with their output. Though a different situation, I likewise think that once I've bought something, I should be able to disassemble it, or modify it, or whatever it. It's MINE.\n\nI wonder if this means that I'm against end-user licenses in general. It's certainly feeling that way..."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-21T22:50:52+0000",
+                                "from":
+                                    {
+                                        "id":"629012577",
+                                        "name":"Chris Eplett"
+                                    },
+                                "id":"728337349_331632403536629_4741242",
+                                "message":"I saw a quote somewhere that I hunk sums it up nicely. \"it's call iBooks Author, not eBooks Author\". As I've said, you are free to use any other tools to format your content for any damn platform you want. This tool is solely for formatting books into a rich format that is specific to iBooks. Nothing more. "
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-01-22T02:57:00+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_331632403536629_4742020",
+                                "message":"I don't question the legality, i only comment on the sad slope we seem to be on. I do not accept as reasonable that a tool manufacturer can restrict what I use their tool for. We wouldn't stand for it with hammers or cameras, why would we accept it for software tools?\n\nJust saying'. We may just have to agree to disagree."
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_331632403536629\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_331632403536629_4742020"
+                        }
+                },
+            "created_time":"2012-01-20T01:15:50+0000",
+            "description":"Apple just released iBooks Author, a free Mac app for creating digital books for the new version of iBooks. I haven’t played with it much, but so far it looks like a very good tool. However, a curious thing happens when you go to export your work in iBooks format:",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_331632403536629",
+            "link":"http:\/\/venomousporridge.com\/post\/16126436616\/ibooks-author-eula-audacity",
+            "message":"It appears that if you use Apple's fancy new ebook-making program (iBooks Author) to make your book, you can only sell it through Apple. How is that not crazy-talk?",
+            "name":"The Unprecedented Audacity of the iBooks Author EULA",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQC7RWeRWF5uCze_&w=90&h=90&url=http%3A%2F%2Fmedia.tumblr.com%2Ftumblr_ly28d0RTYl1qzv2x0.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "shares":
+                {
+                    "count":1
+                },
+            "type":"link",
+            "updated_time":"2012-01-22T02:57:00+0000"
+        }
+}

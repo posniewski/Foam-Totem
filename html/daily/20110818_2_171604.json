@@ -1,0 +1,60 @@
+{
+    "caption":"Shannon just activated Facebook for Spotify making it easier to find friends' Spotify playlists.  Click to see Shannon's Spotify profile with playlists and favourite music.",
+    "id":"20110818_2_171604",
+    "link":"http:\/\/open.spotify.com\/user\/posniewski",
+    "name":"Shannon's profile in Spotify",
+    "picture":"https:\/\/www.facebook.com\/app_full_proxy.php?app=174829003346&v=1&size=z&cksum=0d624cef9fc5349cd41799f1562ee126&src=http%3A%2F%2Fwww.spotify.com%2Fstatic%2Fimages%2Fspfb-profile-enabled.png",
+    "publishedDate":"2011-08-18T17:16:04+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Spotify",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150292644052350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150292644052350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.spotify.com\/redirect\/download-social",
+                        "name":"Get Spotify"
+                    }
+                ],
+            "application":
+                {
+                    "id":"174829003346",
+                    "name":"Spotify"
+                },
+            "caption":"Shannon just activated Facebook for Spotify making it easier to find friends' Spotify playlists.  Click to see Shannon's Spotify profile with playlists and favourite music.",
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2011-08-18T17:16:04+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/74\/174829003346\/app_2_174829003346_2760.gif",
+            "id":"728337349_10150292644052350",
+            "link":"http:\/\/open.spotify.com\/user\/posniewski",
+            "name":"Shannon's profile in Spotify",
+            "picture":"https:\/\/www.facebook.com\/app_full_proxy.php?app=174829003346&v=1&size=z&cksum=0d624cef9fc5349cd41799f1562ee126&src=http%3A%2F%2Fwww.spotify.com%2Fstatic%2Fimages%2Fspfb-profile-enabled.png",
+            "privacy":
+                {
+                    "description":"Friends",
+                    "value":"ALL_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-08-18T17:16:04+0000"
+        }
+}

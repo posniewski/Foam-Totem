@@ -1,0 +1,98 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-06-23T04:22:33+0000",
+                        "from":
+                            {
+                                "id":"17500478",
+                                "name":"Noah Kantrowitz"
+                            },
+                        "id":"728337349_194463547270902_2561322",
+                        "message":"Might want to clarify that Redis Cluster doesn't really exist in a production-usable state. The design looks awesome though. The other thing of interest is it has facilities to operate as a pub\/sub message queue too :-)"
+                    }
+                ]
+        },
+    "content":"(Other NoSQL posts: <a href=\"http:\/\/foamtotem.org\/2011\/20110617_9_034818.html\">Intro<\/a>, <a href=\"http:\/\/foamtotem.org\/2011\/20110617_9_210552.html\">MongoDB<\/a>)\n\nAnother caveat about these posts: they aren't meant to be a complete reference to the software. I'm hitting on the stuff I find interesting as well as any obvious shortcomings they have. There are other articles out there that are easy to find that cover the specifics of these databases much better than I am doing so.\n\nRedis is the main reason why I'm writing these posts at all. It's almost certainly inappropriate for player data storage in a game, but there's something about it which caused a significant shift in how I thought about these things. I'll get to that in a bit.\n\nRedis is basically a key-value store. It doesn't have multiple tables, or any schemas, or queries. So rather than being a database as most people think of them, it's more of a persistent hash table. It's blazing fast, mainly because it's an in-memory database. All the keys in the database need to fit in memory at the same time. (It will swap out the values to disk. Of course that will decrease performance.) It supports clustering (where each master node has a subset of all the keys) to address data sets larger than RAM. It also has master-slave replication for redundancy.\n\n<img class=\"posterous\" src=\"http:\/\/foamtotem.org\/daily\/images\/doug-henning.jpg\" \/>\n<center><i>MAGIC: I find it vaguely frightening.<\/i><\/center>\n\nAs an in-memory database focused on speed, however, it sacrifices durability. In typical use, it simply creates a snapshot and flushes the whole database to disk. If something catastrophic happens, you lose everything since the last save. There are recent provisions for using a write-ahead log which improves durability, but has performance implications (even writing to an append-only file is a lot slower than writing to RAM). Something to keep in mind.\n\nThe values in Redis can be strings, lists of strings, sets of strings (sorted and unsorted), and hashes. There are atomic actions for adding\/removing from lists, sets, and hashes. It also has some primitives which treat values as integers for increment\/decrement purposes. Multiple primitives can be bundled together into a single transaction.\n\nExcept for those primitives, though, values are entirely opaque to Redis. There is no such thing as querying on a value. Sounds like a pretty useless database, doesn't it?\n\nThat's because Redis isn't really a database in the RDBMS sense; it's a data store. It provides building-blocks for you to build indices or queries. The keys most people use to store values in Redis are highly structured. For example, \"post:1001:tags\". (Those colons aren't special at all, they are a convention.) Assuming you've set up your keys properly, one glues together a strings to fetch it.\n\nHere's an example: \"user:666\" might be a hash with name, birthday, and a photo (stored as a string, Redis is 8-bit safe). \"user:666:posts\" would be a set of all of the posts made by user 666 by id number. \"post:1001\" is a hash with the content and title of the post. \"post:1001:tags\" is a set of the tags applied to the post (again, by id). \"tag:10\" has the name of the tag and \"tag:10:refs\" is a set of all the posts with tag 10.\n\nNone of this is done for you. Instead, when a post is created, it is (in the content management software somewhere) added to the \"user:666:posts\" set and the \"tag:10:refs\" set. The post itself is stored in \"post:1001\" and the tag in \"post:1001:tags\". If the tag is removed, it would need to be removed from that set and the post from the refs set on the tag. All this is done by hand. Long story short, you keep your own indices and other lookups on your own.\n\nIn a way, it's the opposite of MongoDB. MongoDB has fancy hierarchical documents and the ability to do ad-hoc queries across them. Where MongoDB doesn't enforce a schema in its documents, it still understands how to go in, manipulate, and query them. Redis is practically schema-less as far as the database itself is concerned (hash values notwithstanding). I'm not sure which gets the Mirror Universe Evil Goatee, though.\n\nSo, why do I find this interesting? Well, I fear magic. My experience is that magic ends up being something that eventually needs to be worked around. One often spends as much effort to avoid the magic as it took to craft it originally. And this always comes up much later in the project when you really don't need speed bumps. MongoDB looks awesome, but has an attractive sparkly halo of magic that nonetheless worries me. Redis is basically at the far other end of the spectrum. There not the faintest whiff of magic; it's entirely mundane. I find that attractive.\n\nIt's probably too mundane to be reasonably used for player data. Ad-hoc queries are basically out entirely. If you didn't need any queries, then it is perhaps more tenable. Even so, you'd have to flatten the player data to some extent (because hash values can't contain more hashes). My initial reaction was to write a layer on top of Redis to handle all of that...\n\n...magically.\n\nWhoops.",
+    "id":"20110621_9_173157",
+    "link":"",
+    "publishedDate":"2011-06-21T17:31:57+00:00",
+    "source":"foamtotem",
+    "title":"NoSQL Databases: Redis",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_194463547270902":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/194463547270902",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/194463547270902",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-06-23T04:22:33+0000",
+                                "from":
+                                    {
+                                        "id":"17500478",
+                                        "name":"Noah Kantrowitz"
+                                    },
+                                "id":"728337349_194463547270902_2561322",
+                                "message":"Might want to clarify that Redis Cluster doesn't really exist in a production-usable state. The design looks awesome though. The other thing of interest is it has facilities to operate as a pub\/sub message queue too :-)"
+                            }
+                        ]
+                },
+            "created_time":"2011-06-22T01:29:49+0000",
+            "description":"The NoSQL saga continues.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_194463547270902",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            }
+                        ]
+                },
+            "link":"http:\/\/foamtotem.org\/2011\/20110621_9_173157.html",
+            "message":"If this post makes no sense, it's because it was 100 degrees here today.",
+            "name":"NoSQL Databases: Redis",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQDq-5vq_NXJ8nWN&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Fdoug-henning.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-06-23T04:22:33+0000"
+        }
+}

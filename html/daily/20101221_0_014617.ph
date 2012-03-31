@@ -1,0 +1,1 @@
+I go internet silent for a couple days and find out the Senate repealed Don't Ask, Don't Tell. I will have to go off-grid more often. <i>(at  1:46)</i>

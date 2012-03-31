@@ -1,0 +1,2 @@
+Awesome: <a href="http://www.shopecko.com/product/index.jsp?productId=3130932">Boba Fett</a> and <a href="http://www.shopecko.com/product/index.jsp?productId=3130928">Stormtrooper hoodies.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080930_9_173750');" target="_self"><script type="text/javascript">postCount('20080930_9_173750');</script></a></p>

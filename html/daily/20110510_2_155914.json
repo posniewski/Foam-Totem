@@ -1,0 +1,298 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-05-10T16:00:23+0000",
+                        "from":
+                            {
+                                "id":"791053257",
+                                "name":"Bruce Rogers"
+                            },
+                        "id":"728337349_10150190491497350_16270042",
+                        "message":"I think there's something on your shoe. Can you avoid looking down to check?"
+                    },
+                    
+                    {
+                        "created_time":"2011-05-10T16:17:27+0000",
+                        "from":
+                            {
+                                "id":"578684050",
+                                "name":"Nicole Hamlett"
+                            },
+                        "id":"728337349_10150190491497350_16270380",
+                        "message":"I spent a good 15 minutes swearing at you this morning. And then I refused to give you extra points and played a crappy word.  Well played sir.. well played."
+                    },
+                    
+                    {
+                        "created_time":"2011-05-10T16:48:34+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jennifer Jumper"
+                            },
+                        "id":"728337349_10150190491497350_16270826",
+                        "message":"kljdasf sl;kjsdflkj lskjdflkj djjel !!"
+                    },
+                    
+                    {
+                        "created_time":"2011-05-10T17:08:05+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150190529477350_16271210",
+                        "message":"(It looks like Runmeter has changed how the post stuff to my wall. I sort of liked the way the finishing info was in the comment stream rather than its own post. Wah.)"
+                    },
+                    
+                    {
+                        "created_time":"2011-05-10T22:30:12+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150190529477350_16277034",
+                        "message":"It turns out that Facebook insisted Runmeter stop posting to the comments because comments are supposed to be entirely written by humans; pre-populating with data is not allowed.  (I understand that this is probably a good policy overall, it just bums me out.) And, since comments don't have a data section (just the message) the app can't autopost there at all.\n\nSo Runmeter is forced to put multiple posts into my feed unless I shut off the Run Start entry, which would be sad. Doing that would basically ruin the fun social aspect that it had. And since Facebook now \"rolls up\" multiple entries from the same app into a big chunk that you must expand to see, I'm worried that they're going to get lost entirely. (They did this with all Twitter entries and basically made them 10 times less visible.)\n\nI doubt they're doing it on purpose, of course, but Facebook is steadily reducing my interaction (reducing and complicating the \"flow\") by bundling these things up."
+                    },
+                    
+                    {
+                        "created_time":"2011-05-11T22:41:11+0000",
+                        "from":
+                            {
+                                "id":"3601331",
+                                "name":"Ben Foxworthy"
+                            },
+                        "id":"728337349_10150190529477350_16296797",
+                        "message":"Damn!  I'm making an app, and I was going to do it the same way Runmeter used to..."
+                    },
+                    
+                    {
+                        "created_time":"2011-05-12T00:36:25+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150190529477350_16298325",
+                        "message":"Expressly verboten, apparently."
+                    }
+                ]
+        },
+    "description":"Finished Run with Runmeter, on Middlefield,Baylands,Rengstorf 5.6 route, time 40:09, 4.31 miles, average 9:19, see http:\/\/j.mp\/iHJhYx.\n\nHip flexors: ouch.",
+    "id":"20110510_2_155914",
+    "link":"http:\/\/j.mp\/iHJhYx",
+    "mapurl":"http:\/\/maps.google.com\/?q=http:\/\/share.abvio.com\/97fa\/d4bc\/4c98\/783d\/Runmeter-Run-20110510-0859.kml",
+    "message":"Great day for a run.",
+    "name":"Started Run",
+    "publishedDate":"2011-05-10T15:59:14+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"Runmeter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150190491497350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150190491497350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"228484446051",
+                    "name":"Runmeter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-05-10T16:00:23+0000",
+                                "from":
+                                    {
+                                        "id":"791053257",
+                                        "name":"Bruce Rogers"
+                                    },
+                                "id":"728337349_10150190491497350_16270042",
+                                "message":"I think there's something on your shoe. Can you avoid looking down to check?"
+                            },
+                            
+                            {
+                                "created_time":"2011-05-10T16:17:27+0000",
+                                "from":
+                                    {
+                                        "id":"578684050",
+                                        "name":"Nicole Hamlett"
+                                    },
+                                "id":"728337349_10150190491497350_16270380",
+                                "message":"I spent a good 15 minutes swearing at you this morning. And then I refused to give you extra points and played a crappy word.  Well played sir.. well played."
+                            },
+                            
+                            {
+                                "created_time":"2011-05-10T16:48:34+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jennifer Jumper"
+                                    },
+                                "id":"728337349_10150190491497350_16270826",
+                                "message":"kljdasf sl;kjsdflkj lskjdflkj djjel !!"
+                            }
+                        ]
+                },
+            "created_time":"2011-05-10T15:59:14+0000",
+            "description":"Started Run with Runmeter at 8:59 AM, on Middlefield,Baylands,Rengstorf 5.6 route, see http:\/\/j.mp\/iHJhYx.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v43\/183\/228484446051\/app_2_228484446051_9195.gif",
+            "id":"728337349_10150190491497350",
+            "link":"http:\/\/j.mp\/iHJhYx",
+            "name":"Started Run",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "properties":
+                [
+                    
+                    {
+                        "href":"http:\/\/j.mp\/iHJhYx",
+                        "name":"Map",
+                        "text":"http:\/\/j.mp\/iHJhYx"
+                    }
+                ],
+            "type":"link",
+            "updated_time":"2011-05-10T16:48:34+0000"
+        },
+    "~orig.728337349_10150190529477350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150190529477350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150190529477350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"228484446051",
+                    "name":"Runmeter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "created_time":"2011-05-10T17:08:05+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150190529477350_16271210",
+                                "message":"(It looks like Runmeter has changed how the post stuff to my wall. I sort of liked the way the finishing info was in the comment stream rather than its own post. Wah.)"
+                            },
+                            
+                            {
+                                "created_time":"2011-05-10T22:30:12+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150190529477350_16277034",
+                                "message":"It turns out that Facebook insisted Runmeter stop posting to the comments because comments are supposed to be entirely written by humans; pre-populating with data is not allowed.  (I understand that this is probably a good policy overall, it just bums me out.) And, since comments don't have a data section (just the message) the app can't autopost there at all.\n\nSo Runmeter is forced to put multiple posts into my feed unless I shut off the Run Start entry, which would be sad. Doing that would basically ruin the fun social aspect that it had. And since Facebook now \"rolls up\" multiple entries from the same app into a big chunk that you must expand to see, I'm worried that they're going to get lost entirely. (They did this with all Twitter entries and basically made them 10 times less visible.)\n\nI doubt they're doing it on purpose, of course, but Facebook is steadily reducing my interaction (reducing and complicating the \"flow\") by bundling these things up."
+                            },
+                            
+                            {
+                                "created_time":"2011-05-11T22:41:11+0000",
+                                "from":
+                                    {
+                                        "id":"3601331",
+                                        "name":"Ben Foxworthy"
+                                    },
+                                "id":"728337349_10150190529477350_16296797",
+                                "message":"Damn!  I'm making an app, and I was going to do it the same way Runmeter used to..."
+                            },
+                            
+                            {
+                                "created_time":"2011-05-12T00:36:25+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150190529477350_16298325",
+                                "message":"Expressly verboten, apparently."
+                            }
+                        ]
+                },
+            "created_time":"2011-05-10T16:51:49+0000",
+            "description":"Finished Run with Runmeter, on Middlefield,Baylands,Rengstorf 5.6 route, time 40:09, 4.31 miles, average 9:19, see http:\/\/j.mp\/iHJhYx.\n\nHip flexors: ouch.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v43\/183\/228484446051\/app_2_228484446051_9195.gif",
+            "id":"728337349_10150190529477350",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1410699640",
+                                "name":"E.j. Nelson"
+                            }
+                        ]
+                },
+            "link":"http:\/\/j.mp\/iHJhYx",
+            "message":"Great day for a run.",
+            "name":"Finished Run",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "properties":
+                [
+                    
+                    {
+                        "href":"http:\/\/j.mp\/iHJhYx",
+                        "name":"Map",
+                        "text":"http:\/\/j.mp\/iHJhYx"
+                    }
+                ],
+            "type":"link",
+            "updated_time":"2011-05-12T00:36:25+0000"
+        }
+}

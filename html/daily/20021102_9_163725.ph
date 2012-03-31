@@ -1,0 +1,6 @@
+I went up to the <a href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2002/11/02/BA36722.DTL&type=printable">Castro for Hallowe'en festivities</a>. 300,000 people packed tightly. We pushed through 5 blocks of milling, yelling, dancing, lunatic crowds. Over a third (maybe even a half) of the people were spectators. Pat has an apartment just off of Market near Castro so we had a safe place to retreat to.
+
+Most seen costumes which weren't completely generic:
+<a href="http://www.geocities.com/malcolmtribute/aco/costume.html">Droogs</a>, Hunter Thompson (<a href="http://www.cnn.com/SHOWBIZ/Movies/9805/21/fear.loathing/">as seen in Fear and Loathing</a>)
+
+Best costume: An eight-foot tall <a href="http://www.undeniablygeek.com/gir/pictures/official/gir_suit_stand_optimized.jpg">Gir</a>! (Gir is a <a href="http://www.undeniablygeek.com/gir/pictures/official/gir_dance_optimized.jpg">robot</a> from the cartoon <a href="http://gir.n3.net/">Invader Zim</a>. He dresses like a <a href="http://www.undeniablygeek.com/gir/pictures/official/gir_suit_hood_optimized.jpg">dog as a disguise</a>.)

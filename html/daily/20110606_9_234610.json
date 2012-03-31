@@ -1,0 +1,68 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "created_time":"2011-06-22T17:00:45+00:00",
+                        "from":
+                            {
+                                "id":"66.31.104.239",
+                                "name":"coreyboy"
+                            },
+                        "id":"20110606_9_234610_20110622_8_170045",
+                        "message":"http:\/\/www.youtube.com\/watch?v=meVQqYNGzYA                               Steve Jobs addresses Cupertino City Council "
+                    }
+                ]
+        },
+    "content":"Today was the first day of the 2011 Apple WWDC, <a href=\"http:\/\/www.engadget.com\/2011\/06\/06\/wwdc-2011-liveblog-steve-jobs-talks-ios-5-os-x-lion-icloud-an\/?sort=oldest&refresh=0\">the keynote of which<\/a> traditionally announces a bunch of new features (sometimes hardware). Perhaps it's because I own both an iPhone and an iPad, but I found what they're doing very interesting. (Don't worry, I won't go into too many specifics regarding the individual features.)\n\nThe drift from data living on the desktop to the data living in the \"cloud\" has been happening for a few years now. Nearly everything Google does is cloud-based. For example, GMail and Google Docs (which is a replacement for MS Office and the like) store all their data on Google's servers out there in the ether. All of Google's offerings come through the web browser. When they decided that browsers were slow and not improving rapidly enough, <a href=\"http:\/\/www.google.com\/chrome\">they wrote their own<\/a>. Their ultimate goal in this aspect are the <a href=\"http:\/\/www.google.com\/chromebook\/#features\">\"Chromebooks\"<\/a> which are laptop computers whose entire user interface is a browser; there is nothing else. All apps are web apps.\n\n<img class=\"posterous\" src=\"http:\/\/foamtotem.org\/daily\/images\/cloudcity.jpg\" \/>\n<center><i>Apple's new data center, located over Bespin.<\/i><\/center>\n\nApple, first and foremost, is a device manufacturer. And so they're coming at it from an entirely different direction. What they announced today is basically everything I just described for Google with the exception that they are focused on the devices themselves. The cloud is merely a giant disk drive in the sky. The devices automatically and seamlessly sync to that disk drive so your data appears everywhere. As the hardware and software manufacturer, they have the opportunity to make this perfectly seamless and smooth. Apple typically does this very well (though their previous stumbles with MobileMe means success is not guaranteed).\n\n<a href=\"http:\/\/www.microsoft.com\/windows\/cloud\/\">Microsoft also has cloud offerings<\/a>, but has managed to make them complex enough and the pricing so opaque that I don't even know what they are. They have clever \"To the cloud!\" commercials, but as an owner of several Windows computers, I don't have any idea how to do such a thing. I think Microsoft really needs to get its act together or they will slip further behind. It may simply be improving the bundling and presentation of what they already have; for all I know, they've already have all the pieces.\n\nGoogle's starting point (like Microsoft's with Wintel) is inclusive, heterogeneous, and thus messy, ill-mannered, and incomplete. Apple exerts complete control over their universe and so everything is usually well-integrated, works well, and makes sense. But this route is also often limited and frustrating. These two approaches challenge each other, which eventually means better stuff overall. Hooray for competition!\n\nAnyway, if Apple delivers on their vision in the fall, I think it will be  transformative to the industry. Though all the parts have been done before (and perhaps done better) having everything working seamlessly together will be a first. Users will come to expect it, and I think that's awesome.\n",
+    "id":"20110606_9_234610",
+    "link":"",
+    "publishedDate":"2011-06-06T23:46:10+00:00",
+    "source":"foamtotem",
+    "title":"To the Cloud!",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_197379426975665":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/197379426975665",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/197379426975665",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "created_time":"2011-06-07T03:31:34+0000",
+            "description":"After Apple's WWDC keynote today, I had some general thoughts on Google's and Apple's different approach to \"the cloud\".",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_197379426975665",
+            "link":"http:\/\/foamtotem.org\/2011\/20110606_9_234610.html",
+            "name":"To the Cloud!",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=bb040819a4a516a1612768f2dbebaa97&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Fcloudcity.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-06-07T03:31:34+0000"
+        }
+}

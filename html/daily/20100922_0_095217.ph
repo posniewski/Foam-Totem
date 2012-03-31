@@ -1,0 +1,1 @@
+I suddenly realize that I forget the mechanics of how to calculate integrals. <i>(at  9:52)</i>

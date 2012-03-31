@@ -1,0 +1,1 @@
+Holy cow! <a href="http://maps.google.com">Google's new maps search</a> is unbelievable. The UI is spot-on. Just wow.<p style="text-align:right;font-size:10px"><a href="javascript:HaloScan('20050208_9_111138');" target="_self"><script type="text/javascript">postCount('20050208_9_111138');</script></a></p>

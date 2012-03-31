@@ -1,0 +1,1 @@
+Visual Studio: Any time in the last 3 days that the project was loaded and idle would have been a better time to update the Intellisense DB. <i>(at 11:43)</i>

@@ -1,0 +1,1 @@
+<a href="http://aintitcool.com/display.cgi?id=11274">Nick cancels Invader Zim.</a> Fiends!

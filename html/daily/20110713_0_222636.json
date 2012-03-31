@@ -1,0 +1,53 @@
+{
+    "content":"Landed in IAD. <time datetime=\"2011-07-13T22:26:36+00:00\">(at&nbsp;22:26)<\/time>",
+    "id":"20110713_0_222636",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/91272341769830400",
+    "publishedDate":"2011-07-13T22:26:36+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10150260877622350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150260877622350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150260877622350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"http:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=91272341769830400",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter"
+                },
+            "created_time":"2011-07-13T22:26:36+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc1\/v27562\/23\/2231777543\/app_2_2231777543_9553.gif",
+            "id":"728337349_10150260877622350",
+            "message":"Landed in IAD.",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2011-07-13T22:26:36+0000"
+        }
+}

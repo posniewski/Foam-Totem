@@ -1,0 +1,1 @@
+Dammit 1080p has hosed me: monitor dpi was NOT supposed to go down. Are there any large (23+) monitors with good resolution? 1920x1080==weak <i>(at 21:22)</i>

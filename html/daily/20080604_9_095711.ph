@@ -1,0 +1,2 @@
+Fourth of July Fest: 28 Jun 2008 through 6 Jul.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080604_9_095711');" target="_self"><script type="text/javascript">postCount('20080604_9_095711');</script></a></p>

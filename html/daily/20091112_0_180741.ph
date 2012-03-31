@@ -1,0 +1,1 @@
+New Math gone terribly awry: <a href="http://bit.ly/hQyqV">http://bit.ly/hQyqV</a> <i>(at 18:07)</i>

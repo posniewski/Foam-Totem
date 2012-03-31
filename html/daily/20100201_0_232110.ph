@@ -1,0 +1,1 @@
+<a href="http://goo.gl/D1XZ">http://goo.gl/D1XZ</a> - I agree that the iPhone/iPad are the leading edge of a new era. But how locked in and tied down will they be? <i>(at 23:21)</i>

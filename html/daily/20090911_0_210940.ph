@@ -1,0 +1,1 @@
+"Never underestimate the bandwidth of a station wagon filled with disks." Or carrier pigeons, apparently: <a href="http://tinyurl.com/lgj72m">http://tinyurl.com/lgj72m</a> <i>(at 21:09)</i>

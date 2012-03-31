@@ -1,0 +1,1 @@
+I'm back from my yearly pilgrimage to upstate New York and Vermont. I liked the snow (over 50 inches fell while I was there); the only bummer was that it cancelled our normal Christamas family fun. The snow definately made everything pretty, though!\n

@@ -1,0 +1,1 @@
+Made a couple fixes today and gave the wrong rev numbers for both to the guys making the build. Incompetence or subconscious desire to fail? <i>(at  0:30)</i>

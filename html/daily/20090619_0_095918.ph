@@ -1,0 +1,1 @@
+I'm not really happy with US response to the economic crisis at this point. If failure is disallowed, we will never get anything better. <i>(at  9:59)</i>

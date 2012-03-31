@@ -1,0 +1,1 @@
+And now on the plane. Thank goodness I'm in "Economy Plus", I think they're dismembering people in the cheap seats to make them fit. <i>(at 22:23)</i>

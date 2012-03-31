@@ -1,0 +1,4 @@
+The Right to Life, Liberty, and the Pursuit of Happiness, but <a href="http://www.foodfirst.org/media/opeds/2002/usopposes.html">not the Right to Food</a>?
+<blockquote>
+[...] the U.S. delegation announced that it would not sign a final summit declaration referring to food as a human right, or that left out a central role for genetically modified food in ending hunger. Readers may recall that the United States was the only nation that refused to sign the final declaration of the 1996 World Food Summit because it contained a reference to the right to food, which, according to U.S. negotiators at the time, would have "made welfare reform illegal under international law."
+</blockquote>

@@ -1,0 +1,1 @@
+About to board for trip to Telluride. The Internet tells me they got a foot of snow last night! <i>(at  8:29)</i>

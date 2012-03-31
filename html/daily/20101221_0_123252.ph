@@ -1,0 +1,1 @@
+Very smooth at SFO: through security, no probing or involuntary nudity. <i>(at 12:32)</i>

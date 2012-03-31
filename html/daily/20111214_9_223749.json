@@ -1,0 +1,473 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T00:27:37+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"728337349_256185617777149_2659042",
+                        "message":"Where do you find restaurant quality propylene glycol?"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T00:30:13+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_256185617777149_2659052",
+                        "likes":1,
+                        "message":"Car radiator."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T00:30:42+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"728337349_256185617777149_2659054",
+                        "likes":4,
+                        "message":"I'm not trying any more of your cookiees"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T00:53:50+0000",
+                        "from":
+                            {
+                                "id":"704886534",
+                                "name":"Christa Burns"
+                            },
+                        "id":"728337349_256185617777149_2659126",
+                        "message":"now i want Freihofer's chocolate chip cookies. thanks!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T01:22:41+0000",
+                        "from":
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"728337349_256185617777149_2659269",
+                        "message":"How about something like this http:\/\/allrecipes.com\/recipe\/chewy-raisin-molasses-cookies\/ only with more flour instead of oats? Or a chocolate-chip-cookie-type base, with molasses. (I'm surprised by the no-spices too.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T01:38:10+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_256185617777149_2659335",
+                        "message":"Elke, the square cookies you remember are probably \"Hermit Cookies\" which they still make. The ones I made above are actually very hermit-y in flavor."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T01:41:49+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_256185617777149_2659361",
+                        "message":"Sarah, I saw that recipe too (there are a ton at AllRecipes, none of which seem right). I didn't choose that one because of the oats and the size of the batch, mainly. But maybe it's a good for the second try!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T02:14:01+0000",
+                        "from":
+                            {
+                                "id":"698592870",
+                                "name":"Diane Palme"
+                            },
+                        "id":"728337349_256185617777149_2659516",
+                        "message":"I have LOTS of suggestions for you - too many to try and squeeze into this post.  I'll send you an email.  Basically, you're using the wrong fats and sugars.  And, you need a copy of Cookwise."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T02:35:41+0000",
+                        "from":
+                            {
+                                "id":"698592870",
+                                "name":"Diane Palme"
+                            },
+                        "id":"728337349_256185617777149_2659624",
+                        "message":"Email Cookie Treatise sent.  So, when do I get to sample?"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T03:09:35+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_256185617777149_2659781",
+                        "message":"Is there a 12th Night this season?"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T03:10:04+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_256185617777149_2659784",
+                        "message":"(Diane: Got your email. It's awesome! Stay tuned for part 2 soon.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T03:11:18+0000",
+                        "from":
+                            {
+                                "id":"698592870",
+                                "name":"Diane Palme"
+                            },
+                        "id":"728337349_256185617777149_2659787",
+                        "message":"Yes, there most certainly is - it's officially 13th night. January 7th. Need to get the invite out!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T11:36:18+0000",
+                        "from":
+                            {
+                                "id":"100000167048861",
+                                "name":"Kevin Stark"
+                            },
+                        "id":"728337349_256185617777149_2661369",
+                        "message":"Make Deathtongues instead."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T13:48:49+0000",
+                        "from":
+                            {
+                                "id":"1661085968",
+                                "name":"Melissa Bourgeois"
+                            },
+                        "id":"728337349_256185617777149_2661806",
+                        "message":"Those were awesome"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T15:44:25+0000",
+                        "from":
+                            {
+                                "id":"594494743",
+                                "name":"Melissa Bianco"
+                            },
+                        "id":"728337349_256185617777149_2662375",
+                        "message":"Oh.  I thought you said fruit cake.  You go, Shannon!"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2011-12-15T16:32:05+0000",
+                        "from":
+                            {
+                                "id":"1481843491",
+                                "name":"Jeffrey Kaufman"
+                            },
+                        "id":"728337349_256185617777149_2662540",
+                        "message":"If you happen to be in So Ca (NE San Diego County)l, try to find Dudley's Bakery.  They make a fruit bar that is extremely similar to the Freihofer cookie.  Web site: http:\/\/dudleysbakery.com\/pastries.html"
+                    }
+                ]
+        },
+    "content":"Once upon a time (before they were owned by the fantastically name Bimbo Bakeries) Freihofer's sold fruit cookies. They were a large, chewy cookie with raisins. My Dad loved them and is despondent that he can't find them anywhere. So, I decided that I could try to find a home recipe.\n\nI haven't even been able to find a reasonably good picture of these cookies online. My Dad found <a href=\"http:\/\/www.shopwell.com\/freihofers-fruit-cookies\/cookies\/p\/7133000459\">nutritional information for the Fruit Cookies<\/a>, which contained the ingredients. (There's also a picture of the box with cookies  in it.)\n<blockquote>\nBleached Wheat Flour, Sugar, Raisins, Palm Oil, Molasses, Eggs, Water, Invert Sugar, Coconut, Whey, Soybean and\/or Canola Oil, Baking Soda, Salt, propylene Glycol, Sulfiting Agents (Preservative).\n<\/blockquote>\n\nI'm surprised that it didn't have any cinnamon in it, but my memory of the cookies is pretty hazy. If the list above is complete, there are no \"natural flavors\" where spices like that might fit.\n\nSo I went out to see if I could find a like recipe and came up empty. But I did find a lot of molasses cookies out there. Most are rather close in composition, so I chose one largely at random and made it today as a starting point.\n\nThe lucky winner was <a href=\"http:\/\/www.instructables.com\/id\/Ginger-Molasses-Cookies\/?ALLSTEPS\">this recipe from Instructables<\/a>. I often make cookies by feel, but in the interest of science I followed the recipe to the letter until baking.\n\nThese cookies do have spices in them: cinnamon, clove, and ginger. Again, though, I was just looking for a starting point and the pictures looked like a promising match.\n\nGinger Molasses Cookies\n\n<ul>\n<li>2 1\/4 cups sifted all-purpose flour<\/li>\n<li>1 teaspoon baking soda<\/li>\n<li>3\/4 tsp. ground cinnamon<\/li>\n<li>1\/2 tsp. ground cloves<\/li>\n<li>1\/4 tsp. salt<\/li>\n<li>2 tsp. ground ginger<\/li>\n<li>3\/4 cup softened butter<\/li>\n<li>1 cup white sugar<\/li>\n<li>1 egg<\/li>\n<li>1 tbsp. orange juice<\/li>\n<li>1\/4 cup molasses<\/li>\n<\/ul>\n<ol>\n<li>Combine dry ingredients<\/li>\n<li>Combine wet ingredients<\/li>\n<li>Stir in dry to wet<\/li>\n<li>Cool in fridge<\/li>\n<li>Roll into balls<\/li>\n<li>Cook on lightly greased cookie sheet<\/li>\n<li>8 to 10 min @ 350<\/li>\n<li>Cool on pan for 5, rack for 5.<\/li>\n<\/ol>\n\n<figure>\n<img src=\"http:\/\/foamtotem.org\/daily\/images\/fruitcookie-1-a.jpg\" \/>\n<figcaption>Ginger Molasses Cookies, as specified by the recipe<\/figcaption>\n<\/figure>\n\nThe first part of the batch, I rolled into 1 1\/2 inch balls (like the size of buckeyes\/barf balls). They took just short of 10 minutes. They didn't spread a whole lot and so were smaller than the target (and the Instructable). They were soft, but not chewy. The ginger and clove were forward, but they weren't particularly spicy. They were also fantastic with a glass of milk. They'd make a great holiday cookie.\n\nThe second part of the batch, I made the cookies larger. A big heaping tablespoon of dough. I also pushed some raisins into each one. They weren't done at 10 minutes, and at 12 they started to brown a bit so I took them out. After cooling for a bit, it was obvious that they weren't entirely cooked. (Also, pushing raisins into the top just doesn't work out well.)\n\n<figure>\n<img src=\"http:\/\/foamtotem.org\/daily\/images\/fruitcookie-1-b.jpg\" \/>\n<figcaption>With currants and raisins. Om nom nom.(The sad, undercooked batch is in the back.)<\/figcaption>\n<\/figure>\n\nFor the last part, I mixed in currants and some raisins to the dough before making the cookies. I made them the same size as the second part. At 11 minutes, they seemed done but I waited a bit longer. At 12 minutes I pulled them out, and they looked a bit overdone on the outside. Still tasty, though.\n\nOK, so this recipe fails on nearly every level. The cookies were cake-y and soft rather than chewy. I knew the spices would be wrong ahead of time, but this clinches that certainly no ginger or cloves were involved. Next batch, I have to decrease the soft and trade it for chewy. This may be as straightforward as decreasing the amount of baking soda.\n\nThoughts?\n\n",
+    "id":"20111214_9_223749",
+    "link":"",
+    "publishedDate":"2011-12-14T22:37:49+00:00",
+    "source":"foamtotem",
+    "title":"Quest for Freihofer's Fruit Cookies",
+    "via":"",
+    "~orig":
+        {
+        },
+    "~orig.728337349_256185617777149":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/256185617777149",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/256185617777149",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T00:27:37+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"728337349_256185617777149_2659042",
+                                "message":"Where do you find restaurant quality propylene glycol?"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T00:30:13+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_256185617777149_2659052",
+                                "likes":1,
+                                "message":"Car radiator."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T00:30:42+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"728337349_256185617777149_2659054",
+                                "likes":4,
+                                "message":"I'm not trying any more of your cookiees"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T00:53:50+0000",
+                                "from":
+                                    {
+                                        "id":"704886534",
+                                        "name":"Christa Burns"
+                                    },
+                                "id":"728337349_256185617777149_2659126",
+                                "message":"now i want Freihofer's chocolate chip cookies. thanks!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T01:22:41+0000",
+                                "from":
+                                    {
+                                        "id":"1245484058",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"728337349_256185617777149_2659269",
+                                "message":"How about something like this http:\/\/allrecipes.com\/recipe\/chewy-raisin-molasses-cookies\/ only with more flour instead of oats? Or a chocolate-chip-cookie-type base, with molasses. (I'm surprised by the no-spices too.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T01:38:10+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_256185617777149_2659335",
+                                "message":"Elke, the square cookies you remember are probably \"Hermit Cookies\" which they still make. The ones I made above are actually very hermit-y in flavor."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T01:41:49+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_256185617777149_2659361",
+                                "message":"Sarah, I saw that recipe too (there are a ton at AllRecipes, none of which seem right). I didn't choose that one because of the oats and the size of the batch, mainly. But maybe it's a good for the second try!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T02:14:01+0000",
+                                "from":
+                                    {
+                                        "id":"698592870",
+                                        "name":"Diane Palme"
+                                    },
+                                "id":"728337349_256185617777149_2659516",
+                                "message":"I have LOTS of suggestions for you - too many to try and squeeze into this post.  I'll send you an email.  Basically, you're using the wrong fats and sugars.  And, you need a copy of Cookwise."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T02:35:41+0000",
+                                "from":
+                                    {
+                                        "id":"698592870",
+                                        "name":"Diane Palme"
+                                    },
+                                "id":"728337349_256185617777149_2659624",
+                                "message":"Email Cookie Treatise sent.  So, when do I get to sample?"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T03:09:35+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_256185617777149_2659781",
+                                "message":"Is there a 12th Night this season?"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T03:10:04+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_256185617777149_2659784",
+                                "message":"(Diane: Got your email. It's awesome! Stay tuned for part 2 soon.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T03:11:18+0000",
+                                "from":
+                                    {
+                                        "id":"698592870",
+                                        "name":"Diane Palme"
+                                    },
+                                "id":"728337349_256185617777149_2659787",
+                                "message":"Yes, there most certainly is - it's officially 13th night. January 7th. Need to get the invite out!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T11:36:18+0000",
+                                "from":
+                                    {
+                                        "id":"100000167048861",
+                                        "name":"Kevin Stark"
+                                    },
+                                "id":"728337349_256185617777149_2661369",
+                                "message":"Make Deathtongues instead."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T13:48:49+0000",
+                                "from":
+                                    {
+                                        "id":"1661085968",
+                                        "name":"Melissa Bourgeois"
+                                    },
+                                "id":"728337349_256185617777149_2661806",
+                                "message":"Those were awesome"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T15:44:25+0000",
+                                "from":
+                                    {
+                                        "id":"594494743",
+                                        "name":"Melissa Bianco"
+                                    },
+                                "id":"728337349_256185617777149_2662375",
+                                "message":"Oh.  I thought you said fruit cake.  You go, Shannon!"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2011-12-15T16:32:05+0000",
+                                "from":
+                                    {
+                                        "id":"1481843491",
+                                        "name":"Jeffrey Kaufman"
+                                    },
+                                "id":"728337349_256185617777149_2662540",
+                                "message":"If you happen to be in So Ca (NE San Diego County)l, try to find Dudley's Bakery.  They make a fruit bar that is extremely similar to the Freihofer cookie.  Web site: http:\/\/dudleysbakery.com\/pastries.html"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_256185617777149\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_256185617777149_2662540"
+                        }
+                },
+            "created_time":"2011-12-15T00:23:32+0000",
+            "description":"Once upon a time (before they were owned by the fantastically name Bimbo Bakeries) Freihofer's sold fruit cookies. They were a large, chewy cookie with raisins. I want to bring them back.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v1\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_256185617777149",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1151461337",
+                                "name":"Michael Curley"
+                            }
+                        ]
+                },
+            "link":"http:\/\/foamtotem.org\/2011\/20111214_9_223749.html",
+            "message":"I'm trying to remake the long-lost Freihofer Fruit Cookies. The first attempt was tasty but not close to the original. Any ideas?",
+            "name":"Quest for Freihofer's Fruit Cookies",
+            "picture":"https:\/\/s-external.ak.fbcdn.net\/safe_image.php?d=AQA4aFqJrEL4pu63&w=90&h=90&url=http%3A%2F%2Ffoamtotem.org%2Fdaily%2Fimages%2Ffruitcookie-1-b.jpg",
+            "privacy":
+                {
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"link",
+            "updated_time":"2011-12-15T16:32:05+0000"
+        }
+}

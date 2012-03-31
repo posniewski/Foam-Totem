@@ -1,0 +1,1 @@
+Whining hasn't worked: Let's buy the votes! <a href="http://www.commondreams.org/headlines03/0225-01.htm">Turkey agrees to let U.S. troop deployment for $15 billion.</a>

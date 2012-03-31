@@ -1,0 +1,1 @@
+You know, as I was editing code just now I TOTALLY FUCKING WANTED Quicktime to pop up a dialog and interrupt me. THANK YOU. JACKASSES. <i>(at 13:45)</i>

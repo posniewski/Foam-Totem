@@ -1,0 +1,3 @@
+Well, Christmas-time is on its way, so I will torture you with a new color scheme. For your listening pleasure, I have provided Foamy Christmas Radio in both high and low bandwidth forms. It doesn't randomize the play order right now, but I'll get to it eventually.
+
+Tell me if you have any problems with the radio stuff. It's new software which seems to work right. However, some stupid music players have a tough time with the links. Dunno why. Anyway, drop me an email if you're having problems.

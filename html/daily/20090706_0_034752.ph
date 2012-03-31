@@ -1,0 +1,1 @@
+This lovely day is the opposite of the weather we had all week. Unfair. <a href="http://twitpic.com/9hh8b">http://twitpic.com/9hh8b</a> <i>(at  3:47)</i>

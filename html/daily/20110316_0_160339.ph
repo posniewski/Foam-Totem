@@ -1,0 +1,1 @@
+18" of new powder today. Quads sore. Calves tired. Lower back a little achey. Very happy. <i>(at 16:03)</i>

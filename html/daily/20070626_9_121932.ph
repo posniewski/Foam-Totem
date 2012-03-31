@@ -1,0 +1,2 @@
+Off to (the currently scorching) New York for Empire Day!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070626_9_121932');" target="_self"><script type="text/javascript">postCount('20070626_9_121932');</script></a></p>

@@ -1,0 +1,2 @@
+<a href="http://archive.gamespy.com/comics/dorktower/archive.asp?nextform=viewcomic&id=1090">Brand leverage</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060215_9_120534');" target="_self"><script type="text/javascript">postCount('20060215_9_120534');</script></a></p>

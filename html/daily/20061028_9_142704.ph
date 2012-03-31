@@ -1,0 +1,1 @@
+I'm running the <a href="http://www.svmarathon.com">Silicon Valley Half-Marathon</a> on Sunday. I'm number 3741.<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20061028_9_142704');" target="_self"><script type="text/javascript">postCount('20061028_9_142704');</script></a></p>

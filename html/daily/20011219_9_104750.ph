@@ -1,0 +1,1 @@
+One of the major purposes of the facelift (besides getting rid of that ugly logo) is to make it easier to add items to the site. Once it's together (it's alllmooossstt there), anyone who has permission will be able to add items to the Totem.

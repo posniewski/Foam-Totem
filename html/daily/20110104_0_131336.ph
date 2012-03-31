@@ -1,0 +1,1 @@
+Through security at ALB. Had to disassemble luggage because a Xmas gift apparently looked like a ninja blade of DEATH in the scanner. <i>(at 13:13)</i>

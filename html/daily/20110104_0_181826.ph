@@ -1,0 +1,1 @@
+Why don't planes have intercoms for flight attendants? Why announce to the whole plane "Exit Row Verification" or "Doors Disarmed"? <i>(at 18:18)</i>

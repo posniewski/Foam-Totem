@@ -1,0 +1,1 @@
+How do you look when a merge fails?  <a href="http://bit.ly/7WbrTe">http://bit.ly/7WbrTe</a>  <a href="http://twitter.com/kantrn"></a> <a href="http://twitter.com/curtkrone"></a> <i>(at  0:35)</i>

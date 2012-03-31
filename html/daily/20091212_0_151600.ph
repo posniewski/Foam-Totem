@@ -1,0 +1,1 @@
+The Great Mall in Milpitas at this time of year is a frothing mug of batshit insane with a jigger of rabies. Also: very busy. <i>(at 15:16)</i>

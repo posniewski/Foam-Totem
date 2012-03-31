@@ -1,0 +1,1 @@
+The Foam Totem is back up and ready to rumble!

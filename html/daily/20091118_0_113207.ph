@@ -1,0 +1,1 @@
+No Longer Acceptable: Text editors that cannot scroll as fast as I can page down or insert text as fast as I can type. <i>(at 11:32)</i>

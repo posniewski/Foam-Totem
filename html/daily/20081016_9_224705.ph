@@ -1,0 +1,2 @@
+Updated the Atom feed so that it provides permalinks to each article. Which means it'll operate correctly as a Firefox Live Bookmark. Yay?
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081016_9_224705');" target="_self"><script type="text/javascript">postCount('20081016_9_224705');</script></a></p>

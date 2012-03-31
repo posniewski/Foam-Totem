@@ -1,0 +1,2 @@
+I've found that Guitar Hero and Rock Band have changed the way I listen to music.  I especially notice the drum parts now, for example.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20080229_9_201449');" target="_self"><script type="text/javascript">postCount('20080229_9_201449');</script></a></p>

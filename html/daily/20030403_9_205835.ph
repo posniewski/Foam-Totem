@@ -1,0 +1,1 @@
+The Totem had an outage for a couple hours today. It was caused by something going bad at the central telephone office. Seems fine now.

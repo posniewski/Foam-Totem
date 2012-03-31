@@ -1,0 +1,1 @@
+The kid's got a sawed off Staff of Moses! <i>(at 20:49)</i>

@@ -1,0 +1,1 @@
+<a href="http://www.man.aaronclinger.com/">This cursor-following flash program</a> is amazing! But it still spooks the heck out of me!!

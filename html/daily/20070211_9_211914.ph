@@ -1,0 +1,6 @@
+<a href="http://www.waroftheworlds.com/"> <b><i>War of the Worlds</i></b></a>  <font size=1>(<a href="http://www.imdb.com/title/tt0407304/">IMDB 6.7</a>|<a href="http://www.capalert.com/capreports/waroftheworlds2005.htm">CAP 32</a>|<a href="http://www.rottentomatoes.com/m/war_of_the_worlds/">Rot 73%</a>)</font><br>
+Tom Cruise is a dockworker, a jackass, and a divorced Dad whose teenage son and ten year old daughter are put in his care by his ex-wife and her much richer husband so they can take a trip to Boston. The kids think his a complete loser, which he is. He knows practically nothing about them and has rage and control issues. Then aliens do their best to wipe the Earth of humans. And, wouldn't you know, at the end of the movie, he's bonded with his kids! Never saw that coming!
+
+Sarcasm aside, the movie was pretty good. Aliens were scary, situations tense, etc, etc. You just need to ignore the nearly formulaic bad-dad-makes-good sub-plot.
+
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20070211_9_211914');" target="_self"><script type="text/javascript">postCount('20070211_9_211914');</script></a></p>

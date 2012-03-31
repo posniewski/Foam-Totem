@@ -1,0 +1,2 @@
+Yes, that's an self-indulgent twitter feed in the upper right.
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081013_9_232729');" target="_self"><script type="text/javascript">postCount('20081013_9_232729');</script></a></p>

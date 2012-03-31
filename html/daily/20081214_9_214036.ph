@@ -1,0 +1,2 @@
+<a href="/daily/images/photo.jpg"><img src="/daily/images/photo-thumb.jpg" border="0" align="right"/></a> Yes, this was sent directly from my new iPhone!
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20081214_9_214036');" target="_self"><script type="text/javascript">postCount('20081214_9_214036');</script></a></p>

@@ -1,0 +1,1 @@
+Are <a href="http://jnaudin.free.fr/html/lifters.htm">propellantless thrusters</a> magic or science? I feel like this edges into "Tesla was an alien"-type stuff, like <a href="http://www.faraday.ru/content03.html">this 3% time decelaration machine</a> (in a geodesic dome, of course).

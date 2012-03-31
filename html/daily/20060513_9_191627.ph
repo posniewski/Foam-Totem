@@ -1,0 +1,2 @@
+<a href="http://www.airlinepilotcentral.com/video-content/current-videos/fedex-thunderstorm-deviations-20060508233.htm">Very cool video of airplanes re-routing around storms</a>
+<p style="text-align:right;font-size:10px;clear:right"><a href="javascript:HaloScan('20060513_9_191627');" target="_self"><script type="text/javascript">postCount('20060513_9_191627');</script></a></p>

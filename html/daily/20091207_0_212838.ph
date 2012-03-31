@@ -1,0 +1,1 @@
+Holy crap. I just needed to use my scraper on my car. For the first time in 12 years. #signsofapocalypse <i>(at 21:28)</i>
