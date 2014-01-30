@@ -90,11 +90,12 @@
                 ]
         },
     "id":"20120302_2_211317",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/s720x720\/421332_10150651908292350_728337349_9197660_1199815330_n.jpg",
+    "image":"https:\/\/sphotos-b.xx.fbcdn.net\/hphotos-frc1\/s2048x2048\/421332_10150651908292350_1199815330_n.jpg",
     "image_height":"375",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?fbid=10150651908292350&set=a.449479422349.249021.728337349&type=1",
     "message":"Last run of the day! Really fantastic morning.",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120302_2_211317.jpg",
     "publishedDate":"2012-03-02T21:13:17+00:00",
     "source":"facebook",
     "type":"photo",
@@ -226,7 +227,7 @@
             "is_published":"1",
             "likes":
                 {
-                    "count":10,
+                    "count":"10",
                     "data":
                         [
                             

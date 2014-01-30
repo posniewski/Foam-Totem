@@ -1,0 +1,50 @@
+{
+    "id":"20121128_2_234947",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/378157828939418",
+    "message":"For those with Spotify, here's a playlist in the same style as Foamy Christmas Radio.",
+    "publishedDate":"2012-11-28T23:49:47+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/378157828939418",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/378157828939418",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2012-11-28T23:49:47+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/nAApRnfWfNW.gif",
+            "id":"728337349_378157828939418",
+            "message":"For those with Spotify, here's a playlist in the same style as Foamy Christmas Radio.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2012-11-28T23:49:47+0000"
+        }
+}

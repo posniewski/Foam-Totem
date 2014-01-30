@@ -1,0 +1,404 @@
+{
+    "caption":"www.23andme.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T19:35:03+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_445432672187387_86545412",
+                        "like_count":0,
+                        "message":"they just received my saliva sample.  alas, i should have waited to see about a sale!  dang.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T19:39:44+0000",
+                        "from":
+                            {
+                                "id":"1249748103",
+                                "name":"Joel Stepanek"
+                            },
+                        "id":"728337349_445432672187387_86545431",
+                        "like_count":1,
+                        "message":"I already know I'm awesome.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T20:28:36+0000",
+                        "from":
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                        "id":"728337349_445432672187387_86545634",
+                        "like_count":1,
+                        "message":"Jenn paid full price, I had  $50 off last week, and now price is $99. If there is a relationship between these data points, wait two weeks, and they should be paying you to enroll?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T20:52:55+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_445432672187387_86545703",
+                        "like_count":0,
+                        "message":"Joel: But I need to know if I'm awesome by nature or nurture!",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"1249748103",
+                                    "length":4,
+                                    "name":"Joel",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T21:56:12+0000",
+                        "from":
+                            {
+                                "id":"100000070828265",
+                                "name":"Mark Farrell"
+                            },
+                        "id":"728337349_445432672187387_86545940",
+                        "like_count":2,
+                        "message":"Poz,  I hope you do not experience a rash of paternity suits once your DNA profile is \"out there\"",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T22:17:35+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"728337349_445432672187387_86545999",
+                        "like_count":1,
+                        "message":"Jin and I have had it for a couple years; it's worth it. Burried deep in the interface, where it's nearly impossible to get at, is an interface where you can access the raw genetic data and look up random genes that you read about in the news or on Wikipedia, so it isn't limited to the kinds of things that it exposes in the much friendlier list of known stuff.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"820105631",
+                                    "length":3,
+                                    "name":"Jin",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T22:32:51+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"728337349_445432672187387_86546043",
+                        "like_count":0,
+                        "message":"Chris - thanks for that tip!!!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-11T22:40:00+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_445432672187387_86546072",
+                        "like_count":3,
+                        "message":"Mark: I'm using your name.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"100000070828265",
+                                    "length":4,
+                                    "name":"Mark",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-12-12T01:20:20+0000",
+                        "from":
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                        "id":"728337349_445432672187387_86546559",
+                        "like_count":1,
+                        "message":"So, the question is whether they mapped the genome for snark.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"Discounts, promotions and special pricing cannot be combined or used in conjunction with any other discount, promotion or special pricing and are not valid on previous purchases.",
+    "id":"20121211_2_191314",
+    "link":"http:\/\/23andme.com\/store\/cart\/",
+    "message":"23andMe is on sale for $99, if you're interested.\n\n(I haven't used it, so I don't have any measure of usefulness for you. I had been waiting for a sale like this to order a kit for myself.)",
+    "name":"Store - Cart  - 23andMe",
+    "publishedDate":"2012-12-11T19:13:14+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/445432672187387",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/445432672187387",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.23andme.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T19:35:03+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_445432672187387_86545412",
+                                "like_count":0,
+                                "message":"they just received my saliva sample.  alas, i should have waited to see about a sale!  dang.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T19:39:44+0000",
+                                "from":
+                                    {
+                                        "id":"1249748103",
+                                        "name":"Joel Stepanek"
+                                    },
+                                "id":"728337349_445432672187387_86545431",
+                                "like_count":1,
+                                "message":"I already know I'm awesome.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T20:28:36+0000",
+                                "from":
+                                    {
+                                        "id":"100002818047778",
+                                        "name":"Elke Blaetz"
+                                    },
+                                "id":"728337349_445432672187387_86545634",
+                                "like_count":1,
+                                "message":"Jenn paid full price, I had  $50 off last week, and now price is $99. If there is a relationship between these data points, wait two weeks, and they should be paying you to enroll?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T20:52:55+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_445432672187387_86545703",
+                                "like_count":0,
+                                "message":"Joel: But I need to know if I'm awesome by nature or nurture!",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"1249748103",
+                                            "length":4,
+                                            "name":"Joel",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T21:56:12+0000",
+                                "from":
+                                    {
+                                        "id":"100000070828265",
+                                        "name":"Mark Farrell"
+                                    },
+                                "id":"728337349_445432672187387_86545940",
+                                "like_count":2,
+                                "message":"Poz,  I hope you do not experience a rash of paternity suits once your DNA profile is \"out there\"",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T22:17:35+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"728337349_445432672187387_86545999",
+                                "like_count":1,
+                                "message":"Jin and I have had it for a couple years; it's worth it. Burried deep in the interface, where it's nearly impossible to get at, is an interface where you can access the raw genetic data and look up random genes that you read about in the news or on Wikipedia, so it isn't limited to the kinds of things that it exposes in the much friendlier list of known stuff.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"820105631",
+                                            "length":3,
+                                            "name":"Jin",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T22:32:51+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"728337349_445432672187387_86546043",
+                                "like_count":0,
+                                "message":"Chris - thanks for that tip!!!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-11T22:40:00+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_445432672187387_86546072",
+                                "like_count":3,
+                                "message":"Mark: I'm using your name.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"100000070828265",
+                                            "length":4,
+                                            "name":"Mark",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-12-12T01:20:20+0000",
+                                "from":
+                                    {
+                                        "id":"100002818047778",
+                                        "name":"Elke Blaetz"
+                                    },
+                                "id":"728337349_445432672187387_86546559",
+                                "like_count":1,
+                                "message":"So, the question is whether they mapped the genome for snark.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_445432672187387\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_445432672187387_86546559"
+                        }
+                },
+            "created_time":"2012-12-11T19:13:14+0000",
+            "description":"Discounts, promotions and special pricing cannot be combined or used in conjunction with any other discount, promotion or special pricing and are not valid on previous purchases.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_445432672187387",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"659131965",
+                                "name":"Ray Yu"
+                            }
+                        ]
+                },
+            "link":"http:\/\/23andme.com\/store\/cart\/",
+            "message":"23andMe is on sale for $99, if you're interested.\n\n(I haven't used it, so I don't have any measure of usefulness for you. I had been waiting for a sale like this to order a kit for myself.)",
+            "name":"Store - Cart  - 23andMe",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2012-12-12T01:20:20+0000"
+        }
+}

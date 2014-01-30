@@ -719,7 +719,7 @@ function FillBoard()
 function InitAudio ()
 {
 	for(var clip in g_audio) {
-		g_audio[clip].audio = new Sound.Clip('/work/'+clip, g_audio[clip].volume, g_audio[clip].count);
+		g_audio[clip].audio = new Sound.Clip('/work/pq/'+clip, g_audio[clip].volume, g_audio[clip].count);
 	}
 }
 

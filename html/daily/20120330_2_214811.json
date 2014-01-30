@@ -98,6 +98,42 @@
                             },
                         "id":"728337349_10150710535372350_21831543",
                         "message":"I'm more restrictive; I typically use \"Friends\" or \"Friends Except Acquaintences\"."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-31T03:17:31+0000",
+                        "from":
+                            {
+                                "id":"100000449847369",
+                                "name":"Carol Kuhn"
+                            },
+                        "id":"728337349_10150710535372350_21833339",
+                        "likes":1,
+                        "message":"Yep, which is why family calls me fort knox & I have no frineds [whimper] but i suppose even this post opens up another crack in the fort. FYI My name is Jane Doe & I know NO ONE in this chain..."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-03-31T11:28:55+0000",
+                        "from":
+                            {
+                                "id":"1504001963",
+                                "name":"Dan Prendergast"
+                            },
+                        "id":"728337349_10150710535372350_21836248",
+                        "message":"I'm glad to see Foursquare has started denying access.  You can check in anywhere, including home, giving the users of the app your home address. "
+                    },
+                    
+                    {
+                        "created_time":"2012-03-31T13:39:37+00:00",
+                        "from":
+                            {
+                                "id":"72.71.241.109",
+                                "name":"Frodo"
+                            },
+                        "id":"20120330_2_214811_20120331_8_133937",
+                        "message":"Smug, bearded, Linux, non-FB guy blinks and says \"This is news _now_?!\""
                     }
                 ]
         },
@@ -223,11 +259,36 @@
                                     },
                                 "id":"728337349_10150710535372350_21831543",
                                 "message":"I'm more restrictive; I typically use \"Friends\" or \"Friends Except Acquaintences\"."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-31T03:17:31+0000",
+                                "from":
+                                    {
+                                        "id":"100000449847369",
+                                        "name":"Carol Kuhn"
+                                    },
+                                "id":"728337349_10150710535372350_21833339",
+                                "likes":1,
+                                "message":"Yep, which is why family calls me fort knox & I have no frineds [whimper] but i suppose even this post opens up another crack in the fort. FYI My name is Jane Doe & I know NO ONE in this chain..."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-03-31T11:28:55+0000",
+                                "from":
+                                    {
+                                        "id":"1504001963",
+                                        "name":"Dan Prendergast"
+                                    },
+                                "id":"728337349_10150710535372350_21836248",
+                                "message":"I'm glad to see Foursquare has started denying access.  You can check in anywhere, including home, giving the users of the app your home address. "
                             }
                         ],
                     "paging":
                         {
-                            "next":"https:\/\/graph.facebook.com\/728337349_10150710535372350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150710535372350_21831543"
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150710535372350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150710535372350_21836248"
                         }
                 },
             "created_time":"2012-03-30T21:48:11+0000",
@@ -247,6 +308,6 @@
                     "value":"CUSTOM"
                 },
             "type":"status",
-            "updated_time":"2012-03-30T23:35:24+0000"
+            "updated_time":"2012-03-31T11:28:55+0000"
         }
 }

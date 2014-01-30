@@ -25,10 +25,12 @@ $all_permissions = qw('
 	user_online_presence       friends_online_presence
 	user_photo_video_tags      friends_photo_video_tags
 	user_photos                friends_photos
+	user_questions             friends_questions
 	user_relationships         friends_relationships
 	user_relationship_details  friends_relationship_details
 	user_religion_politics     friends_religion_politics
 	user_status                friends_status
+	user_subscriptions         friends_subscriptions
 	user_videos                friends_videos
 	user_website               friends_website
 	user_work_history          friends_work_history
@@ -48,8 +50,17 @@ $all_permissions = qw('
 	sms
 	offline_access
 	publish_checkins
+	publish_actions
+	user_actions.music
+	user_actions.news
+	user_actions.video
+	user_actions:runmeter
+	user_actions.fitness
+	user_actions.runs
+	user_games_activity
 
 	manage_pages
+	manage_notifications
 ');
 
 	if(empty($code)) {

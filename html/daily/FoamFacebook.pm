@@ -14,6 +14,7 @@ use Foam2;
 use ObjectLinks;
 use Runmeter;
 use Facebook::Graph;
+use Ouch;
 
 BEGIN {
 	use Exporter ();
@@ -39,6 +40,7 @@ $Carp::Verbose = 1;
 
 sub GetYYYYMMDD_2_HHMMSS($$$$$$)
 {
+
 	my ($year, $mon, $mday, $hh, $mm, $ss) = @_;
 	return sprintf("%04d%02d%02d_2_%02d%02d%02d", $year, $mon, $mday, $hh, $mm, $ss);
 }
@@ -69,9 +71,11 @@ sub CachePicture($$)
 	my $fb = shift;
 	my $entry = shift;
 
-    if(exists $entry->{picture})
+	my $picurl = $entry->{picture} || $entry->{image};
+
+    if($picurl)
 	{
-        my ($ext) = $entry->{picture} =~ m{\.([^.]+)$};
+        my ($ext) = $picurl =~ m{\.([^.]+)$};
 		$ext = 'jpg' if !$ext || length($ext)>5;
 
 		my $fragment = "daily/cache/$entry->{id}.$ext";
@@ -79,7 +83,7 @@ sub CachePicture($$)
 
 		if(!-e $filename)
 		{
-			my $result = getstore($entry->{picture}, $filename);
+			my $result = getstore($picurl, $filename);
 			if(is_success($result))
 			{
 				if((-s $filename) < 45)
@@ -92,7 +96,7 @@ sub CachePicture($$)
 			}
 			else
 			{
-				print qq(\tFailed with HTTP $result fetching "$entry->{picture}"\n");
+				print qq(\tFailed with HTTP $result fetching "$picurl"\n");
 			}
 		}
 
@@ -132,7 +136,20 @@ sub UpdateComments($$$)
 	my $id = $post->{id} || $post->{object_id};
 	if($id)
 	{
-		$resp = $fb->fetch("$id/comments");
+		eval { $resp = $fb->query
+			->find("$id/comments")
+			->with_filter("stream")
+			->request
+			->as_hashref;
+		};
+		if(hug)
+		{
+			# Some posts just fail now. Catch these so the whole
+			#   update doesn't stop.
+			print $@;
+			print("\nFailed to fetch comments, keeping old ones.\n");
+			return;
+		}
 	}
 	else
 	{
@@ -142,7 +159,21 @@ sub UpdateComments($$$)
 		if($id)
 		{
 			print "Going to $id/comments\n";
-			$resp = $fb->fetch("$id/comments");
+
+			eval { $resp = $fb->query
+				->find("$id/comments")
+				->with_filter("stream")
+				->request
+				->as_hashref;
+			};
+			if(hug)
+			{
+				# Some posts just fail now. Catch these so the whole
+				#   update doesn't stop.
+				print $@;
+				print("\nFailed to fetch comments, keeping old ones.\n");
+				return;
+			}
 		}
 		else
 		{
@@ -163,7 +194,7 @@ sub UpdateComments($$$)
 
 			# Go through and remove all the FB comments for this object ID,
 			#    leaving the Foamy ones and ones from other linked FB IDs
-			my @foam_list = grep { $_->{id} !~ m/^$id/ } @{ $entry->{comments}->{data} };
+			my @foam_list = grep { !exists($_->{can_remove}) } @{ $entry->{comments}->{data} };
 
 			$entry->{comments}->{data} = \@foam_list;
 		}
@@ -206,12 +237,12 @@ sub GetFacebook()
 {
 	my $fb = Facebook::Graph->new(
 		app_id => '202981499713630',
-		secret => '7c4028223161aedc2325605745a01313',
-		lwp_opts => { ssl_opts => { verify_hostname => 0 } }
+		secret => '7c4028223161aedc2325605745a01313' ,
+#		lwp_opts => { ssl_opts => { verify_hostname => 0 } }
 	);
 
-	$fb->access_token('202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI');
-
+#	$fb->access_token('CAAC4nFAvuF4BAImlXAJahOPgUwxXP5ZA0U5ZBWTpGt4XXLTxoPS0PZApE5I9w99ZAFLtHyjszXPAPBn6TEBHk0e6V81XDZBHEWtXwNSRdpgHHQbnBD07OxdmIvoM7FQcTVk9wjk7VBxGoDtSqffJCDZAeWFSmRTb9Yn5fzYl2LmGu24SZCHnOZBg');
+	$fb->access_token('CAAC4nFAvuF4BAKyIt6lDZCZAhCZCnEdHXLZBoL129XruxJl8JwkTwwsshdG2nKYC83o6V1HxtZAMl5KEGmeyq7UBW0ZCZAxZCs2LTjdH0Ffjv3MZBdwlRZCniij7gEu9H77mW8p9WgOmTsqNq6DFPvuz6uur0OWpIqNFtCbDKEZBACwJEYPtJ9P8NqC');
 	return $fb;
 }
 
@@ -233,19 +264,30 @@ sub PeriodicUpdate()
 
 	ol_Load();
 
-	my $resp = $fb->query
+	my $resp1 = $fb->query
 		->find('posniewski/posts')
-		->limit_results(20)
-#		->where_since('1 June 2011')
+		->limit_results(10)
+#		->where_until('08 Oct 2012')
 		->include_metadata
 		->request
 		->as_hashref;
 
-	my $posts = $resp->{data};
+	my $resp2 = $fb->query
+		->find('posniewski/fitness.runs')
+		->limit_results(2)
+#		->where_until('08 Oct 2012')
+		->include_metadata
+		->request
+		->as_hashref;
+
+	my $posts = $resp1->{data};
+	push( @{ $posts }, @{ $resp2->{data} });
 
 	foreach my $post ( reverse @{ $posts } )
 	{
-		my ($year, $mon, $day, $hh, $mm, $ss) = GetDateTimeFromAtomTimestamp($post->{created_time});
+		my $time = $post->{created_time} // $post->{publish_time};
+		my ($year, $mon, $day, $hh, $mm, $ss) = GetDateTimeFromAtomTimestamp($time);
+
 		my $foam_id = GetYYYYMMDD_2_HHMMSS($year, $mon, $day, $hh, $mm, $ss);
 
 		next if($year<2011);
@@ -289,9 +331,9 @@ sub PeriodicUpdate()
 				$entry->{id} = $foam_id;
 				$entry->{publishedDate} = MakeAtomTimestamp($year, $mon, $day, $hh, $mm, $ss);
 
-				$entry->{message}  = $post->{message};
-				$entry->{title}    = $post->{title};
-				$entry->{link}     = $post->{link};
+				$entry->{message}  = $post->{message}             if(exists($post->{message}));
+				$entry->{title}    = $post->{title}               if(exists($post->{title}));
+				$entry->{link}     = $post->{link}                if(exists($post->{link}));
 				$entry->{via}      = $post->{application}->{name} if(exists($post->{application}));
 			}
 			elsif($post->{type} eq 'photo')
@@ -323,10 +365,19 @@ sub PeriodicUpdate()
 				ol_Add($entry->{id}, $post->{link}) if($post->{link});
 
 				# Fetch the actual photo to embed it
-				my $imgpost = $fb->query
+
+				my $imgpost = eval { $fb->query
 					->find($post->{object_id})
 					->request
-					->as_hashref;
+					->as_hashref };
+
+				if(hug)
+				{
+					# Some image posts just fail now. Catch these so the whole
+					#   update doesn't stop.
+					print "Exception... continuing...";
+					$imgpost = $post;
+				}
 
 				# Add the facebook id links for the image too. The link to the
 				#    post are added with the AddLinks call as usual.
@@ -337,17 +388,22 @@ sub PeriodicUpdate()
 				#    ones from my specific post (which are fetched below)
 				UpdateComments($fb, $entry, $imgpost);
 
+				my $wid = 0;
+				my $ht = 0;
 				my $image = FindImage($imgpost->{images});
-				my $wid = $image->{width};
-				my $ht = $image->{height};
-				if($image->{width} > 500)
+				if($image)
 				{
-					$wid = 500;
-					$ht = int( (500.0/$image->{width}) * $image->{height} );
+					$wid = $image->{width};
+					$ht = $image->{height};
+					if($image->{width} > 500)
+					{
+						$wid = 500;
+						$ht = int( (500.0/$image->{width}) * $image->{height} );
+					}
 				}
 
 				$entry->{link}         = $imgpost->{link};
-				$entry->{image}        = $image->{source};
+				$entry->{image}        = $image->{source} || $post->{picture};
 				$entry->{image_width}  = $wid;
 				$entry->{image_height} = $ht;
 
@@ -355,6 +411,7 @@ sub PeriodicUpdate()
 				$entry->{caption}      = $imgpost->{caption}      if(exists($imgpost->{caption}) && !exists($entry->{via}));
 
 				$entry->{via}          = $imgpost->{application}->{name} if(!exists($entry->{via}) && exists($imgpost->{application}));
+
 			}
 			elsif($post->{type} eq 'link' || $post->{type} eq 'video')
 			{
@@ -372,6 +429,30 @@ sub PeriodicUpdate()
 				$entry->{description} = $post->{description} if(exists($post->{description}));
 
 				$entry->{via} = $post->{application}->{name}   if(exists($post->{application}->{name})  && $post->{application}->{name} !~ m/links|video/i);
+			}
+			elsif($post->{type} eq 'fitness.runs')
+			{
+				print "\tNew Run entry: $phfile\n";
+
+				$entry->{type} = 'run';
+				$entry->{id} = $foam_id;
+				$entry->{publishedDate} = MakeAtomTimestamp($year, $mon, $day, $hh, $mm, $ss);
+
+				$entry->{message}     = $post->{message}     if(exists($post->{message}));
+#				$entry->{picture}     = $post->{picture}     if(exists($post->{picture}));
+#				$entry->{name}        = $post->{name}        if(exists($post->{name}));
+#				$entry->{caption}     = $post->{caption}     if(exists($post->{caption}));
+#				$entry->{description} = $post->{description} if(exists($post->{description}));
+
+				$entry->{via} = $post->{application}->{name}   if(exists($post->{application}->{name}));
+
+				$entry->{link} = $post->{data}->{course}->{url};
+
+				# Get the KML URL from the overall url
+				# http://runmeter.net/97fad4bc4c98783d/Run-20130809-0819?r=f
+				# http://share.abvio.com/97fa/d4bc/4c98/783d/Runmeter-Run-20130809-0819.kml
+				my ($a, $b, $c, $d, $e) = $entry->{link} =~ m[.*runmeter.net/(....)(....)(....)(....)/([^?]+)];
+				$entry->{mapurl} = "http://share.abvio.com/" . $a . "/" . $b . "/" . $c . "/" . $d . "/Runmeter-" . $e . ".kml";
 			}
 			else
 			{
@@ -393,49 +474,58 @@ sub PeriodicUpdate()
 
 
 			#
-			# Do the Runmeter stuff
+			# Do the OLD Runmeter stuff
 			#
-			if($entry->{via} =~ m/runmeter/i)
-			{
-				if($entry->{type} =~ m/link/)
-				{
-					# This is a new-style runmeter
-				}
-				else
-				{
-					# Old-style runmeter
-
-					# Look for the link.
-					# This is a very naive search, but the links are always
-					#   http://j.mp/lzF0y7
-					#
-					($entry->{link}) = $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
-
-					my ($desc, $message) = $entry->{message} =~ m/(.* route, time .* miles, average .* see [^\n\r ]+)[\n\r ]*(.*)/si;
-
-					$entry->{description} = $desc;
-					$entry->{message} = $message;
-				}
-
-				my $url = $entry->{link};
-				$url //= $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
-
-				if($entry->{link})
-				{
-					my $resp = head($entry->{link});
-
-					if(defined($resp))
-					{
-						$entry->{mapurl} = $resp->base();
-					}
-				}
-
-				# Convert all Runmeter items to run items.
-				$entry->{type} = 'run';
-
-				CacheRunmeterMap($entry);
-			}
-			elsif($entry->{via} =~ m/twitter/i)
+#			if($entry->{via} =~ m/runmeter/i)
+#			{
+#				if($entry->{type} =~ m/link/)
+#				{
+#					# This is a new-style runmeter
+#					# Which actually has two styles now. :-(
+#					if($entry->{caption} && $entry->{caption}=~m/Check out/)
+#					{
+#						delete $entry->{caption};
+#						$entry->{description} = $entry->{name};
+#						$entry->{name} = 'Finished Run';
+#
+#					}
+#				}
+#				else
+#				{
+#					# Old-style runmeter
+#
+#					# Look for the link.
+#					# This is a very naive search, but the links are always
+#					#   http://j.mp/lzF0y7
+#					#
+#					($entry->{link}) = $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
+#
+#					my ($desc, $message) = $entry->{message} =~ m/(.* route, time .* miles, average .* see [^\n\r ]+)[\n\r ]*(.*)/si;
+#
+#					$entry->{description} = $desc;
+#					$entry->{message} = $message;
+#				}
+#
+#				my $url = $entry->{link};
+#				$url //= $entry->{message} =~ m{(http:[0-9A-Za-z/.]+)};
+#
+#				if($entry->{link})
+#				{
+#					my $resp = head($entry->{link});
+#
+#					if(defined($resp))
+#					{
+#						$entry->{mapurl} = $resp->base();
+#					}
+#				}
+#
+#				# Convert all Runmeter items to run items.
+#				$entry->{type} = 'run';
+#
+#				CacheRunmeterMap($entry);
+#			}
+#			els
+			if($entry->{via} =~ m/twitter/i)
 			{
 				if($post->{actions})
 				{
@@ -484,8 +574,7 @@ sub PeriodicUpdate()
 					# supercede the old data.
 					if($entry->{type} =~ m/run/i)
 					{
-						$xentry->{description} = $entry->{description};
-						$xentry->{message} = $entry->{message};
+						$xentry->{message} = $entry->{message}           if(exists($post->{message}));
 					}
 
 					$phfile = $file;
@@ -519,6 +608,11 @@ sub PeriodicUpdate()
 		# Keep comments up to date
 		UpdateComments($fb, $entry, $post);
 
+		if($entry->{type} eq 'run')
+		{
+			$entry->{message} = $post->{message}     if(exists($post->{message}));
+		}
+
 
 		# Do a fixup on runs to cache their map image
 		if(exists($entry->{mapurl})) # && !exists($entry->{mapurl_cached}))
@@ -528,7 +622,7 @@ sub PeriodicUpdate()
 
 		# Cache Facebook thumbnails because the image links they give eventually
 		#   stop working.
-		if(exists($entry->{picture}))
+		if(exists($entry->{picture}) || exists($entry->{image}))
 		{
 			CachePicture($fb, $entry);
 		}
@@ -589,8 +683,9 @@ sub UpdateFacebookComments($)
 # Helper which takes a phfile and caches the thumbnail picture (if there is one)
 #    (I used this to update all the json files when I added the cache.)
 #
-sub UpdateCachePictureForFile($)
+sub UpdateCachePictureForFile($$)
 {
+	my $fb = shift;
 	my $phfile = shift;
 
 	my $entry = undef;
@@ -605,27 +700,71 @@ sub UpdateCachePictureForFile($)
 		$entry = from_json_file($phfile);
 	}
 
-    if($entry->{picture} && !$entry->{picture_cached})
+	print "Loaded $phfile. Type " . $entry->{type} . "\n";
+	my $picurl = $entry->{picture} || $entry->{image};
+    if(!$picurl || $entry->{type} ne 'photo')
 	{
-		my $fb = GetFacebook();
-		print "\tFetching ".$entry->{'~orig'}->{id}."\n";
+		return;
+	}
 
-		my $resp = $fb->fetch($entry->{'~orig'}->{id});
+    if($entry->{picture_cached})
+    {
+		print "Already cached.\n";
+		return;
+	}
 
-		if(defined($resp) && ref($resp) eq 'HASH' && exists($resp->{picture}))
-		{
-			print "\tFetched.\n";
+	$entry = UpdatePictureLinks($fb, $entry);
 
-			$entry->{picture} = $resp->{picture};
-
-			if(CachePicture($fb, $entry))
-			{
-				open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
-				print PHFILE scalar to_json($entry);
-				close PHFILE;
-			}
-		}
+	if(CachePicture($fb, $entry))
+	{
+		print "Updated $phfile with ".$entry->{picture_cached} . "\n";
+		open PHFILE, ">:utf8", $phfile or die $! . ": $phfile";
+		print PHFILE scalar to_json($entry);
+		close PHFILE;
 	}
 }
+
+
+sub UpdatePictureLinks($$)
+{
+	my $fb = shift;
+	my $entry = shift;
+
+	# Fetch the actual photo to embed it
+
+	my $imgpost = eval { $fb->query
+		->find($entry->{'~orig'}->{object_id})
+		->request
+		->as_hashref };
+
+	if(hug)
+	{
+		# Some image posts just fail now. Catch these so the whole
+		#   update doesn't stop.
+		print "Exception... continuing...";
+		return;
+	}
+
+	my $wid = 0;
+	my $ht = 0;
+	my $image = FindImage($imgpost->{images});
+	if($image)
+	{
+		$wid = $image->{width};
+		$ht = $image->{height};
+		if($image->{width} > 500)
+		{
+			$wid = 500;
+			$ht = int( (500.0/$image->{width}) * $image->{height} );
+		}
+	}
+
+	$entry->{image}        = $image->{source} || $entry->{image};
+	$entry->{image_width}  = $wid;
+	$entry->{image_height} = $ht;
+
+	return $entry;
+}
+
 
 1;

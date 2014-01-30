@@ -1,0 +1,502 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:04:46+0000",
+                        "from":
+                            {
+                                "id":"711512803",
+                                "name":"Laurie Stillwell"
+                            },
+                        "id":"728337349_10151491864672350_244487366",
+                        "like_count":0,
+                        "message":"Disagree...I teach a half dozen or so monthly.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:08:09+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151491864672350_244487386",
+                        "like_count":1,
+                        "message":"How about something civilized like \"online seminar\"?\n\nThat said, Laurie, I suggest you start calling yours \"Taxinars\" and brand it. (I'm assuming they're about accounting and tax law.)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:09:09+0000",
+                        "from":
+                            {
+                                "id":"704886534",
+                                "name":"Christa Burns"
+                            },
+                        "id":"728337349_10151491864672350_244487397",
+                        "like_count":1,
+                        "message":"The OED disagrees. ;)",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:09:58+0000",
+                        "from":
+                            {
+                                "id":"711512803",
+                                "name":"Laurie Stillwell"
+                            },
+                        "id":"728337349_10151491864672350_244487404",
+                        "like_count":2,
+                        "message":"I know...always bugs me when my word processing program flags it in my docs. Taxinars it is!",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:13:57+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151491864672350_244487436",
+                        "like_count":2,
+                        "message":"This webtionary says otherwise.",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:18:42+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151491864672350_244487486",
+                        "like_count":2,
+                        "message":"I also held the line for many years with \"blog\" and I'm still not entirely comfortable with it. To quote Foam Totem (my web log) from 1998:\n\"Words I'd ban:\n* recontextualize\n* incentivize\n* take-aways (when not referring to food)\n* blog, blogging, blogged, blogosphere (unless referring to vomit)\n* going forward\n* literally (when not used literally)\"",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"100002340136845",
+                                    "length":10,
+                                    "name":"Foam Totem",
+                                    "offset":105,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:20:59+0000",
+                        "from":
+                            {
+                                "id":"6714326",
+                                "name":"Becky Odom Woomer"
+                            },
+                        "id":"728337349_10151491864672350_244487502",
+                        "like_count":1,
+                        "message":"Typo for \"winebar\"",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:25:06+0000",
+                        "from":
+                            {
+                                "id":"738274664",
+                                "name":"Amy Boyle"
+                            },
+                        "id":"728337349_10151491864672350_244487564",
+                        "like_count":1,
+                        "message":"It's slang for \"non-fiction webisode.\"",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:39:27+0000",
+                        "from":
+                            {
+                                "id":"1304050173",
+                                "name":"Sean P. Sullivan"
+                            },
+                        "id":"728337349_10151491864672350_244487750",
+                        "like_count":0,
+                        "message":"I have to agree with \"takeaway\". Too many buzzwords in my line of work.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T21:53:35+0000",
+                        "from":
+                            {
+                                "id":"711512803",
+                                "name":"Laurie Stillwell"
+                            },
+                        "id":"728337349_10151491864672350_244487894",
+                        "like_count":0,
+                        "message":"Love literally...when not used literally.  I think you could consider adding \"ironic\" as that basically never gets used correctly.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-13T23:03:18+0000",
+                        "from":
+                            {
+                                "id":"579163500",
+                                "name":"Tricia Gray"
+                            },
+                        "id":"728337349_10151491864672350_244488479",
+                        "like_count":0,
+                        "message":"But it is, in the game of board room bingo.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-14T03:00:40+0000",
+                        "from":
+                            {
+                                "id":"1394434850",
+                                "name":"Andrew Gosden"
+                            },
+                        "id":"728337349_10151491864672350_244490300",
+                        "like_count":0,
+                        "message":"I'm pretty sure webinar will be a verb before long.  \"You don't know about (fill in the blank)?  I can webinar that for you.\"",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-14T10:13:31+0000",
+                        "from":
+                            {
+                                "id":"559128594",
+                                "name":"Matt Healey"
+                            },
+                        "id":"728337349_10151491864672350_244492136",
+                        "like_count":0,
+                        "message":"Watch this and simply cringe. If you think there are too many buzzwords\n\n http:\/\/m.youtube.com\/#\/watch?feature=youtu.be&v=9LIAI2tEApc&desktop_uri=%2Fwatch%3Fv%3D9LIAI2tEApc%26feature%3Dyoutu.be",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-14T10:17:47+0000",
+                        "from":
+                            {
+                                "id":"559128594",
+                                "name":"Matt Healey"
+                            },
+                        "id":"728337349_10151491864672350_244492155",
+                        "like_count":0,
+                        "message":"This is a better link http:\/\/www.youtube.com\/watch?v=9LIAI2tEApc",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20130313_2_210206",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151491864672350",
+    "message":"WEBINAR IS NOT A WORD.",
+    "publishedDate":"2013-03-13T21:02:06+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151491864672350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151491864672350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:04:46+0000",
+                                "from":
+                                    {
+                                        "id":"711512803",
+                                        "name":"Laurie Stillwell"
+                                    },
+                                "id":"728337349_10151491864672350_244487366",
+                                "like_count":0,
+                                "message":"Disagree...I teach a half dozen or so monthly.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:08:09+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151491864672350_244487386",
+                                "like_count":1,
+                                "message":"How about something civilized like \"online seminar\"?\n\nThat said, Laurie, I suggest you start calling yours \"Taxinars\" and brand it. (I'm assuming they're about accounting and tax law.)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:09:09+0000",
+                                "from":
+                                    {
+                                        "id":"704886534",
+                                        "name":"Christa Burns"
+                                    },
+                                "id":"728337349_10151491864672350_244487397",
+                                "like_count":1,
+                                "message":"The OED disagrees. ;)",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:09:58+0000",
+                                "from":
+                                    {
+                                        "id":"711512803",
+                                        "name":"Laurie Stillwell"
+                                    },
+                                "id":"728337349_10151491864672350_244487404",
+                                "like_count":2,
+                                "message":"I know...always bugs me when my word processing program flags it in my docs. Taxinars it is!",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:13:57+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151491864672350_244487436",
+                                "like_count":2,
+                                "message":"This webtionary says otherwise.",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:18:42+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151491864672350_244487486",
+                                "like_count":2,
+                                "message":"I also held the line for many years with \"blog\" and I'm still not entirely comfortable with it. To quote Foam Totem (my web log) from 1998:\n\"Words I'd ban:\n* recontextualize\n* incentivize\n* take-aways (when not referring to food)\n* blog, blogging, blogged, blogosphere (unless referring to vomit)\n* going forward\n* literally (when not used literally)\"",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"100002340136845",
+                                            "length":10,
+                                            "name":"Foam Totem",
+                                            "offset":105,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:20:59+0000",
+                                "from":
+                                    {
+                                        "id":"6714326",
+                                        "name":"Becky Odom Woomer"
+                                    },
+                                "id":"728337349_10151491864672350_244487502",
+                                "like_count":1,
+                                "message":"Typo for \"winebar\"",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:25:06+0000",
+                                "from":
+                                    {
+                                        "id":"738274664",
+                                        "name":"Amy Boyle"
+                                    },
+                                "id":"728337349_10151491864672350_244487564",
+                                "like_count":1,
+                                "message":"It's slang for \"non-fiction webisode.\"",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:39:27+0000",
+                                "from":
+                                    {
+                                        "id":"1304050173",
+                                        "name":"Sean P. Sullivan"
+                                    },
+                                "id":"728337349_10151491864672350_244487750",
+                                "like_count":0,
+                                "message":"I have to agree with \"takeaway\". Too many buzzwords in my line of work.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T21:53:35+0000",
+                                "from":
+                                    {
+                                        "id":"711512803",
+                                        "name":"Laurie Stillwell"
+                                    },
+                                "id":"728337349_10151491864672350_244487894",
+                                "like_count":0,
+                                "message":"Love literally...when not used literally.  I think you could consider adding \"ironic\" as that basically never gets used correctly.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-13T23:03:18+0000",
+                                "from":
+                                    {
+                                        "id":"579163500",
+                                        "name":"Tricia Gray"
+                                    },
+                                "id":"728337349_10151491864672350_244488479",
+                                "like_count":0,
+                                "message":"But it is, in the game of board room bingo.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-14T03:00:40+0000",
+                                "from":
+                                    {
+                                        "id":"1394434850",
+                                        "name":"Andrew Gosden"
+                                    },
+                                "id":"728337349_10151491864672350_244490300",
+                                "like_count":0,
+                                "message":"I'm pretty sure webinar will be a verb before long.  \"You don't know about (fill in the blank)?  I can webinar that for you.\"",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-14T10:13:31+0000",
+                                "from":
+                                    {
+                                        "id":"559128594",
+                                        "name":"Matt Healey"
+                                    },
+                                "id":"728337349_10151491864672350_244492136",
+                                "like_count":0,
+                                "message":"Watch this and simply cringe. If you think there are too many buzzwords\n\n http:\/\/m.youtube.com\/#\/watch?feature=youtu.be&v=9LIAI2tEApc&desktop_uri=%2Fwatch%3Fv%3D9LIAI2tEApc%26feature%3Dyoutu.be",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-14T10:17:47+0000",
+                                "from":
+                                    {
+                                        "id":"559128594",
+                                        "name":"Matt Healey"
+                                    },
+                                "id":"728337349_10151491864672350_244492155",
+                                "like_count":0,
+                                "message":"This is a better link http:\/\/www.youtube.com\/watch?v=9LIAI2tEApc",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151491864672350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151491864672350_244492155"
+                        }
+                },
+            "created_time":"2013-03-13T21:02:06+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151491864672350",
+            "likes":
+                {
+                    "count":8,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"664447353",
+                                "name":"Rachael Bristol"
+                            },
+                            
+                            {
+                                "id":"4802098",
+                                "name":"Mike Darga"
+                            },
+                            
+                            {
+                                "id":"508299845",
+                                "name":"Alex Ames"
+                            },
+                            
+                            {
+                                "id":"1805796131",
+                                "name":"Katherine Murray"
+                            }
+                        ]
+                },
+            "message":"WEBINAR IS NOT A WORD.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2013-03-14T10:17:47+0000"
+        }
+}

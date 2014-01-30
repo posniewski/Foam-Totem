@@ -13,7 +13,7 @@
                                 "name":"Debra Klopfenstein"
                             },
                         "id":"728337349_10150610873362350_6262968",
-                        "likes":1,
+                        "likes":"1",
                         "message":"I like the hip-tilt pose."
                     },
                     
@@ -133,7 +133,7 @@
                                 "name":"Curt Krone"
                             },
                         "id":"728337349_10150610873362350_6263800",
-                        "likes":1,
+                        "likes":"1",
                         "message":"it's hard to tell with the goggles and all, but do i detect a smolder?"
                     },
                     
@@ -194,7 +194,7 @@
                                 "name":"Michele McKirdy"
                             },
                         "id":"728337349_10150610873362350_6264967",
-                        "likes":1,
+                        "likes":"1",
                         "message":"I can't help hearing you say \"heyyyyyy\" with that pose."
                     },
                     
@@ -213,9 +213,9 @@
                                 
                                 {
                                     "id":"3601331",
-                                    "length":13,
+                                    "length":"13",
                                     "name":"Ben Foxworthy",
-                                    "offset":1,
+                                    "offset":"1",
                                     "type":"user"
                                 }
                             ]
@@ -230,17 +230,18 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"728337349_10150610873362350_6266561",
-                        "likes":2,
+                        "likes":"2",
                         "message":"I told the photog that I wanted the mask on (since all my other arctic photos have it off) and the tiki sticker visible. Then he was talking hands-in-pockets, turn-like-this, tilt-board-out, and so on.\n\nBlue Steel, however, is my own."
                     }
                 ]
         },
     "id":"20120214_2_025649",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-snc7\/s720x720\/431289_10150610873337350_728337349_9075377_1976869936_n.jpg",
-    "image_height":"720",
-    "image_width":"480",
+    "image":"https:\/\/sphotos-b.xx.fbcdn.net\/hphotos-snc7\/s2048x2048\/431289_10150610873337350_1976869936_n.jpg",
+    "image_height":"750",
+    "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?fbid=10150610873337350&set=a.10150610285607350.412145.728337349&type=1",
     "message":"So, this is what I look like on the mountain. INADVERTENT EXTREME NINJA!\n\n(This is also the last time I allow the photographer to pose me.)",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120214_2_025649.jpg",
     "publishedDate":"2012-02-14T02:56:49+00:00",
     "source":"facebook",
     "type":"photo",
@@ -281,7 +282,7 @@
                                         "name":"Debra Klopfenstein"
                                     },
                                 "id":"728337349_10150610873362350_6262968",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"I like the hip-tilt pose."
                             },
                             
@@ -390,7 +391,7 @@
                                         "name":"Curt Krone"
                                     },
                                 "id":"728337349_10150610873362350_6263800",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"it's hard to tell with the goggles and all, but do i detect a smolder?"
                             },
                             
@@ -451,7 +452,7 @@
                                         "name":"Michele McKirdy"
                                     },
                                 "id":"728337349_10150610873362350_6264967",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"I can't help hearing you say \"heyyyyyy\" with that pose."
                             },
                             
@@ -470,9 +471,9 @@
                                         
                                         {
                                             "id":"3601331",
-                                            "length":13,
+                                            "length":"13",
                                             "name":"Ben Foxworthy",
-                                            "offset":1,
+                                            "offset":"1",
                                             "type":"user"
                                         }
                                     ]
@@ -487,7 +488,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"728337349_10150610873362350_6266561",
-                                "likes":2,
+                                "likes":"2",
                                 "message":"I told the photog that I wanted the mask on (since all my other arctic photos have it off) and the tiki sticker visible. Then he was talking hands-in-pockets, turn-like-this, tilt-board-out, and so on.\n\nBlue Steel, however, is my own."
                             }
                         ],
@@ -506,7 +507,7 @@
             "id":"728337349_10150610873362350",
             "likes":
                 {
-                    "count":11,
+                    "count":"11",
                     "data":
                         [
                             

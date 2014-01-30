@@ -1,9 +1,10 @@
 {
     "id":"20120325_2_193215",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash3\/s720x720\/534709_10150699636542350_728337349_9368222_1845562307_n.jpg",
-    "image_height":"666",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-snc7\/s2048x2048\/404018_10150699634417350_1697915360_n.jpg",
+    "image_height":"375",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?fbid=10150699636542350&set=a.449479422349.249021.728337349&type=1",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120325_2_193215.jpg",
     "publishedDate":"2012-03-25T19:32:15+00:00",
     "source":"facebook",
     "type":"photo",
@@ -19,7 +20,7 @@
                 },
             "comments":
                 {
-                    "count":0
+                    "count":"0"
                 },
             "created_time":"2012-03-25T19:32:15+0000",
             "from":

@@ -1,0 +1,366 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T07:23:58+0000",
+                        "from":
+                            {
+                                "id":"507740224",
+                                "name":"Carlos Montero"
+                            },
+                        "id":"10151671227742350_245597179",
+                        "like_count":0,
+                        "message":"Sounds like my kind of party, hah. Does liquor affect you differently at high altitude? Interesting...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T07:25:49+0000",
+                        "from":
+                            {
+                                "id":"507740224",
+                                "name":"Carlos Montero"
+                            },
+                        "id":"10151671227742350_245597189",
+                        "like_count":0,
+                        "message":"Ah - some quick googling says it may induce altitude sickness, but doesn't really make you get drunk faster or anything...good to know.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T08:35:21+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10151671227742350_245597482",
+                        "like_count":0,
+                        "message":"Music stopped at 3am.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T11:14:56+0000",
+                        "from":
+                            {
+                                "id":"1241587631",
+                                "name":"Carol Barrick"
+                            },
+                        "id":"10151671227742350_245598241",
+                        "like_count":0,
+                        "message":"Carlos - practical experience says you do get drunk faster at altitude...just sayin'.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T15:12:15+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10151671227742350_245599969",
+                        "like_count":0,
+                        "message":"They are up bright and early this morning with what appears to be a pep rally. Marching band and all.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-23T15:20:28+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"10151671227742350_245600032",
+                        "like_count":0,
+                        "message":"I guess they have a lot of pre-fests leading up to the Sun Festival! Sounds really great!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-24T02:25:31+0000",
+                        "from":
+                            {
+                                "id":"1847255499",
+                                "name":"Brian Scott"
+                            },
+                        "id":"10151671227742350_245605696",
+                        "like_count":0,
+                        "message":"Clearly Peruvians understand the proper proportion in a Rum and Coke",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20130623_2_040501",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151671227742350",
+    "message":"Cusco is rocking tonight. First, the world's longest fireworks display. I'm not kidding. And now a giant stage and a concert. And lots and lots of rum and coke. (Not for me due to altitude.) Rum being sold by the liter and coke by the 2 liter bottle.\n\n(Sorry, but pics are on my camera and I have no way to upload them until I return.)",
+    "publishedDate":"2013-06-23T04:05:01+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook for Android",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151671227742350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151671227742350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"350685531728",
+                    "name":"Facebook for Android",
+                    "namespace":"fbandroid"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T07:23:58+0000",
+                                "from":
+                                    {
+                                        "id":"507740224",
+                                        "name":"Carlos Montero"
+                                    },
+                                "id":"10151671227742350_245597179",
+                                "like_count":0,
+                                "message":"Sounds like my kind of party, hah. Does liquor affect you differently at high altitude? Interesting...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T07:25:49+0000",
+                                "from":
+                                    {
+                                        "id":"507740224",
+                                        "name":"Carlos Montero"
+                                    },
+                                "id":"10151671227742350_245597189",
+                                "like_count":0,
+                                "message":"Ah - some quick googling says it may induce altitude sickness, but doesn't really make you get drunk faster or anything...good to know.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T08:35:21+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10151671227742350_245597482",
+                                "like_count":0,
+                                "message":"Music stopped at 3am.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T11:14:56+0000",
+                                "from":
+                                    {
+                                        "id":"1241587631",
+                                        "name":"Carol Barrick"
+                                    },
+                                "id":"10151671227742350_245598241",
+                                "like_count":0,
+                                "message":"Carlos - practical experience says you do get drunk faster at altitude...just sayin'.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T15:12:15+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10151671227742350_245599969",
+                                "like_count":0,
+                                "message":"They are up bright and early this morning with what appears to be a pep rally. Marching band and all.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-23T15:20:28+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"10151671227742350_245600032",
+                                "like_count":0,
+                                "message":"I guess they have a lot of pre-fests leading up to the Sun Festival! Sounds really great!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-24T02:25:31+0000",
+                                "from":
+                                    {
+                                        "id":"1847255499",
+                                        "name":"Brian Scott"
+                                    },
+                                "id":"10151671227742350_245605696",
+                                "like_count":0,
+                                "message":"Clearly Peruvians understand the proper proportion in a Rum and Coke",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"Nw==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-06-23T04:05:01+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151671227742350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"1551470973",
+                                "name":"Maureen Sherman"
+                            },
+                            
+                            {
+                                "id":"100000296483750",
+                                "name":"Cheryl Elkins"
+                            },
+                            
+                            {
+                                "id":"100000266633627",
+                                "name":"Barbara Vorce"
+                            },
+                            
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1151461337",
+                                "name":"Michael Curley"
+                            },
+                            
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                            
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                            
+                            {
+                                "id":"1177441468",
+                                "name":"Chris Moriondo"
+                            },
+                            
+                            {
+                                "id":"1241587631",
+                                "name":"Carol Barrick"
+                            },
+                            
+                            {
+                                "id":"507740224",
+                                "name":"Carlos Montero"
+                            },
+                            
+                            {
+                                "id":"668734147",
+                                "name":"Lisa Ann Strand"
+                            },
+                            
+                            {
+                                "id":"100001886337239",
+                                "name":"Ernie Collins"
+                            },
+                            
+                            {
+                                "id":"1553199233",
+                                "name":"Bill D. Roper"
+                            },
+                            
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                            
+                            {
+                                "id":"6714326",
+                                "name":"Becky Odom Woomer"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"NjcxNDMyNg==",
+                                    "before":"MTU1NDAxMDY1OQ=="
+                                }
+                        }
+                },
+            "message":"Cusco is rocking tonight. First, the world's longest fireworks display. I'm not kidding. And now a giant stage and a concert. And lots and lots of rum and coke. (Not for me due to altitude.) Rum being sold by the liter and coke by the 2 liter bottle.\n\n(Sorry, but pics are on my camera and I have no way to upload them until I return.)",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2013-06-24T02:25:31+0000"
+        }
+}

@@ -114,11 +114,12 @@
                 ]
         },
     "id":"20120123_2_032127",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-snc7\/s720x720\/409109_10150552686067350_728337349_8914959_1641934418_n.jpg",
+    "image":"https:\/\/sphotos-b.xx.fbcdn.net\/hphotos-snc7\/s2048x2048\/409109_10150552686067350_1641934418_n.jpg",
     "image_height":"375",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?pid=8914959&id=728337349",
     "message":"Awesome powder day",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120123_2_032127.jpg",
     "publishedDate":"2012-01-23T03:21:27+00:00",
     "source":"facebook",
     "type":"photo",
@@ -261,7 +262,7 @@
             "id":"728337349_10150552687097350",
             "likes":
                 {
-                    "count":19,
+                    "count":"19",
                     "data":
                         [
                             

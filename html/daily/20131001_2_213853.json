@@ -1,0 +1,578 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T21:41:41+0000",
+                        "from":
+                            {
+                                "id":"629012577",
+                                "name":"Chris Eplett"
+                            },
+                        "id":"10151887712952350_246723871",
+                        "like_count":0,
+                        "message":"um, what?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T21:43:55+0000",
+                        "from":
+                            {
+                                "id":"831372511",
+                                "name":"Brad Grossman"
+                            },
+                        "id":"10151887712952350_246723908",
+                        "like_count":0,
+                        "message":"um, why?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T21:44:40+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10151887712952350_246723915",
+                        "like_count":2,
+                        "message":"SEE? YOU ARE PONDERING THE MYSTERY TOO!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T21:45:11+0000",
+                        "from":
+                            {
+                                "id":"831372511",
+                                "name":"Brad Grossman"
+                            },
+                        "id":"10151887712952350_246723920",
+                        "like_count":0,
+                        "message":"...of why people buy William Shatner albums?  Yes, that I am pondering.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T22:24:22+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"10151887712952350_246724291",
+                        "like_count":2,
+                        "message":"I AM PONDERING WHY I HAVE TO BE INVOLVED IN THIS.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T22:27:20+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10151887712952350_246724315",
+                        "like_count":2,
+                        "message":"I AM PONDERING who greenlit this project.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T22:27:56+0000",
+                        "from":
+                            {
+                                "id":"831372511",
+                                "name":"Brad Grossman"
+                            },
+                        "id":"10151887712952350_246724321",
+                        "like_count":0,
+                        "message":"Are you pondering what I'm pondering?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T22:28:21+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10151887712952350_246724325",
+                        "like_count":4,
+                        "message":"(I think so, Brain, but it's amazing that these grew back as well as they did.)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T22:40:37+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10151887712952350_246724418",
+                        "like_count":1,
+                        "message":"I feel obligated to share this with you all: http:\/\/www.youtube.com\/watch?v=KXWEM4gZhg4",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T23:19:45+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"10151887712952350_246724765",
+                        "like_count":2,
+                        "message":"Yeah, brain but where are we going to find rubber pants in our size?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-01T23:30:45+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10151887712952350_246724880",
+                        "like_count":1,
+                        "message":"Uh, I think so, Brain, but burlap chafes me so.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-02T02:17:37+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"10151887712952350_246726441",
+                        "like_count":0,
+                        "message":"The dogs hate the music samples",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-02T02:50:27+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10151887712952350_246726741",
+                        "like_count":0,
+                        "message":"I am listening to the sample from \"Where Does Time Go?\" Appalling.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-09T02:09:27+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10151887712952350_246804536",
+                        "like_count":0,
+                        "message":"STILL PONDERING\nhttps:\/\/www.youtube.com\/watch?v=wfHWhNycrmk",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-10-10T12:58:55+0000",
+                        "from":
+                            {
+                                "id":"645554134",
+                                "name":"Marcel Parnas"
+                            },
+                        "id":"10151887712952350_246820331",
+                        "like_count":2,
+                        "message":"Made it through 00:37.  Can I stop now?",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20131001_2_213853",
+    "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151887712952350",
+    "message":"Jenn, Chris, Patrick, Michele: I AM PONDERING THIS MYSTERY\n\n\"The Captain of sci-fi is back with his first foray into Prog Rock - a momentous concept album focusing on such rich and timeless themes as aging, depression, love and beauty!\n\nShatner penned all of the lyrics for the album, and his deft and poetic wordplay is sure to delight all of his fans!\n\nProducer extraordinaire and Prog Rock icon Billy Sherwood brings a whole host of incredibly talented musicians along for the ride including Steve Vai, Rick Wakeman, Hawkwind's Simon House and Nik Turner, Tangerine Dream's Edgar Froese, jazz great Al Di Meola, country superstar Vince Gill, and others!\"",
+    "publishedDate":"2013-10-01T21:38:53+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151887712952350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151887712952350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T21:41:41+0000",
+                                "from":
+                                    {
+                                        "id":"629012577",
+                                        "name":"Chris Eplett"
+                                    },
+                                "id":"10151887712952350_246723871",
+                                "like_count":0,
+                                "message":"um, what?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T21:43:55+0000",
+                                "from":
+                                    {
+                                        "id":"831372511",
+                                        "name":"Brad Grossman"
+                                    },
+                                "id":"10151887712952350_246723908",
+                                "like_count":0,
+                                "message":"um, why?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T21:44:40+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10151887712952350_246723915",
+                                "like_count":2,
+                                "message":"SEE? YOU ARE PONDERING THE MYSTERY TOO!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T21:45:11+0000",
+                                "from":
+                                    {
+                                        "id":"831372511",
+                                        "name":"Brad Grossman"
+                                    },
+                                "id":"10151887712952350_246723920",
+                                "like_count":0,
+                                "message":"...of why people buy William Shatner albums?  Yes, that I am pondering.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T22:24:22+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"10151887712952350_246724291",
+                                "like_count":2,
+                                "message":"I AM PONDERING WHY I HAVE TO BE INVOLVED IN THIS.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T22:27:20+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10151887712952350_246724315",
+                                "like_count":2,
+                                "message":"I AM PONDERING who greenlit this project.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T22:27:56+0000",
+                                "from":
+                                    {
+                                        "id":"831372511",
+                                        "name":"Brad Grossman"
+                                    },
+                                "id":"10151887712952350_246724321",
+                                "like_count":0,
+                                "message":"Are you pondering what I'm pondering?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T22:28:21+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10151887712952350_246724325",
+                                "like_count":4,
+                                "message":"(I think so, Brain, but it's amazing that these grew back as well as they did.)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T22:40:37+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10151887712952350_246724418",
+                                "like_count":1,
+                                "message":"I feel obligated to share this with you all: http:\/\/www.youtube.com\/watch?v=KXWEM4gZhg4",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T23:19:45+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"10151887712952350_246724765",
+                                "like_count":2,
+                                "message":"Yeah, brain but where are we going to find rubber pants in our size?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-01T23:30:45+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10151887712952350_246724880",
+                                "like_count":1,
+                                "message":"Uh, I think so, Brain, but burlap chafes me so.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-02T02:17:37+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"10151887712952350_246726441",
+                                "like_count":0,
+                                "message":"The dogs hate the music samples",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-02T02:50:27+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10151887712952350_246726741",
+                                "like_count":0,
+                                "message":"I am listening to the sample from \"Where Does Time Go?\" Appalling.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-09T02:09:27+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10151887712952350_246804536",
+                                "like_count":0,
+                                "message":"STILL PONDERING\nhttps:\/\/www.youtube.com\/watch?v=wfHWhNycrmk",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-10-10T12:58:55+0000",
+                                "from":
+                                    {
+                                        "id":"645554134",
+                                        "name":"Marcel Parnas"
+                                    },
+                                "id":"10151887712952350_246820331",
+                                "like_count":2,
+                                "message":"Made it through 00:37.  Can I stop now?",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTU=",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-10-01T21:38:53+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v2\/y0\/r\/nAApRnfWfNW.gif",
+            "id":"728337349_10151887712952350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"100000094872465",
+                                "name":"Scott Macneil"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTAwMDAwMDk0ODcyNDY1",
+                                    "before":"MTAwMDAwMDk0ODcyNDY1"
+                                }
+                        }
+                },
+            "message":"Jenn, Chris, Patrick, Michele: I AM PONDERING THIS MYSTERY\n\n\"The Captain of sci-fi is back with his first foray into Prog Rock - a momentous concept album focusing on such rich and timeless themes as aging, depression, love and beauty!\n\nShatner penned all of the lyrics for the album, and his deft and poetic wordplay is sure to delight all of his fans!\n\nProducer extraordinaire and Prog Rock icon Billy Sherwood brings a whole host of incredibly talented musicians along for the ride including Steve Vai, Rick Wakeman, Hawkwind's Simon House and Nik Turner, Tangerine Dream's Edgar Froese, jazz great Al Di Meola, country superstar Vince Gill, and others!\"",
+            "message_tags":
+                {
+                    "0":
+                        [
+                            
+                            {
+                                "id":"770382751",
+                                "length":4,
+                                "name":"Jenn",
+                                "offset":0,
+                                "type":"user"
+                            }
+                        ],
+                    "13":
+                        [
+                            
+                            {
+                                "id":"1233103007",
+                                "length":7,
+                                "name":"Patrick",
+                                "offset":13,
+                                "type":"user"
+                            }
+                        ],
+                    "22":
+                        [
+                            
+                            {
+                                "id":"1361476318",
+                                "length":7,
+                                "name":"Michele",
+                                "offset":22,
+                                "type":"user"
+                            }
+                        ],
+                    "6":
+                        [
+                            
+                            {
+                                "id":"629012577",
+                                "length":5,
+                                "name":"Chris",
+                                "offset":6,
+                                "type":"user"
+                            }
+                        ]
+                },
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "to":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"629012577",
+                                "name":"Chris Eplett"
+                            },
+                            
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            }
+                        ]
+                },
+            "type":"link",
+            "updated_time":"2013-10-10T12:58:55+0000"
+        }
+}

@@ -1,0 +1,176 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-09-22T15:54:13+0000",
+                        "from":
+                            {
+                                "id":"598496493",
+                                "name":"Nick Duguid"
+                            },
+                        "id":"728337349_10151169689157350_242603090",
+                        "like_count":0,
+                        "message":"I hadn't noticed. Like what?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-09-22T15:57:51+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151169689157350_242603117",
+                        "like_count":0,
+                        "message":"\"SongPop\" is the most recent offender.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-09-22T17:26:09+0000",
+                        "from":
+                            {
+                                "id":"1504001963",
+                                "name":"Dan Prendergast"
+                            },
+                        "id":"728337349_10151169689157350_242603918",
+                        "like_count":0,
+                        "message":"That's a feature",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-09-22T20:07:36+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151169689157350_242605651",
+                        "like_count":0,
+                        "message":"Aha. So the web version must have recognized it as spammy. I found the app on the web site and ignored everything by it and it did hide them on the mobile version. (Why can't I hide apps from he mobile version?)",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20120922_2_152943",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151169689157350",
+    "message":"Interesting that the Facebook mobile apps show app notifications that the web does not and provides no way to hide them.",
+    "publishedDate":"2012-09-22T15:29:43+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Facebook for Android",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151169689157350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151169689157350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"350685531728",
+                    "name":"Facebook for Android",
+                    "namespace":"fbandroid"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-09-22T15:54:13+0000",
+                                "from":
+                                    {
+                                        "id":"598496493",
+                                        "name":"Nick Duguid"
+                                    },
+                                "id":"728337349_10151169689157350_242603090",
+                                "like_count":0,
+                                "message":"I hadn't noticed. Like what?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-09-22T15:57:51+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151169689157350_242603117",
+                                "like_count":0,
+                                "message":"\"SongPop\" is the most recent offender.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-09-22T17:26:09+0000",
+                                "from":
+                                    {
+                                        "id":"1504001963",
+                                        "name":"Dan Prendergast"
+                                    },
+                                "id":"728337349_10151169689157350_242603918",
+                                "like_count":0,
+                                "message":"That's a feature",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-09-22T20:07:36+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151169689157350_242605651",
+                                "like_count":0,
+                                "message":"Aha. So the web version must have recognized it as spammy. I found the app on the web site and ignored everything by it and it did hide them on the mobile version. (Why can't I hide apps from he mobile version?)",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151169689157350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151169689157350_242605651"
+                        }
+                },
+            "created_time":"2012-09-22T15:29:43+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151169689157350",
+            "message":"Interesting that the Facebook mobile apps show app notifications that the web does not and provides no way to hide them.",
+            "privacy":
+                {
+                    "description":"Public",
+                    "value":"EVERYONE"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2012-09-22T20:07:36+0000"
+        }
+}

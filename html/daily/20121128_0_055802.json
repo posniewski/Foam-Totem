@@ -1,0 +1,103 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-28T11:35:09+0000",
+                        "from":
+                            {
+                                "id":"769998419",
+                                "name":"Jim Winston"
+                            },
+                        "id":"728337349_10151271538202350_243382301",
+                        "like_count":0,
+                        "message":"Your words look like English, but I can't seem to parse them.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "content":"Unrotted some parts of Foam Totem. API drift slowly breaks anything using Twitter or Facebook. One reason why I clone everything I fetch. <time datetime=\"2012-11-28T05:58:02+00:00\">(at&nbsp;05:58)<\/time>",
+    "id":"20121128_0_055802",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/273667043297988608",
+    "publishedDate":"2012-11-28T05:58:02+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10151271538202350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151271538202350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151271538202350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=273667043297988608",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-28T11:35:09+0000",
+                                "from":
+                                    {
+                                        "id":"769998419",
+                                        "name":"Jim Winston"
+                                    },
+                                "id":"728337349_10151271538202350_243382301",
+                                "like_count":0,
+                                "message":"Your words look like English, but I can't seem to parse them.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151271538202350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151271538202350_243382301"
+                        }
+                },
+            "created_time":"2012-11-28T05:58:04+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+            "id":"728337349_10151271538202350",
+            "message":"Unrotted some parts of Foam Totem. API drift slowly breaks anything using Twitter or Facebook. One reason why I clone everything I fetch.",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Friends of Friends",
+                    "friends":"",
+                    "networks":"",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "status_type":"app_created_story",
+            "type":"status",
+            "updated_time":"2012-11-28T11:35:09+0000"
+        }
+}

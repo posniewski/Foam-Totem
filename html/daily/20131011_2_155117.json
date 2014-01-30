@@ -1,0 +1,70 @@
+{
+    "id":"20131011_2_155117",
+    "link":"http:\/\/runmeter.net\/97fad4bc4c98783d\/Run-20131011-0851?r=f",
+    "mapurl":"http:\/\/share.abvio.com\/97fa\/d4bc\/4c98\/783d\/Runmeter-Run-20131011-0851.kml",
+    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131011_2_155117.jpg",
+    "message":"This is \"not running\" because I'm giving my back a break again.",
+    "publishedDate":"2013-10-11T15:51:17+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"Runmeter",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"228484446051",
+                    "name":"Runmeter",
+                    "namespace":"runmeter"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"449548668499371",
+                            "title":"Santa Clara",
+                            "type":"fitness.course",
+                            "url":"http:\/\/runmeter.net\/97fad4bc4c98783d\/Run-20131011-0851?r=f"
+                        }
+                },
+            "end_time":"2013-10-11T16:15:31+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10151909163247350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTM2MTQ3NjMxOA==",
+                                    "before":"MTM2MTQ3NjMxOA=="
+                                }
+                        },
+                    "user_likes":"0"
+                },
+            "message":"This is \"not running\" because I'm giving my back a break again.",
+            "no_feed_story":"0",
+            "publish_time":"2013-10-11T15:51:17+0000",
+            "start_time":"2013-10-11T15:51:14+0000",
+            "type":"fitness.runs"
+        }
+}

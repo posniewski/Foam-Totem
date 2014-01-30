@@ -1,0 +1,409 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T17:48:13+0000",
+                        "from":
+                            {
+                                "id":"1437561524",
+                                "name":"Matt Miller"
+                            },
+                        "id":"728337349_10151116599422350_242259618",
+                        "like_count":0,
+                        "message":"Is ?. what you use when ? is already taken on the server?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:10:20+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151116599422350_242259779",
+                        "like_count":0,
+                        "message":"Perl uses \/\/= for the first one, I believe.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:11:37+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151116599422350_242259791",
+                        "like_count":0,
+                        "message":"Yeah, I love \/\/= though it ruins the single-line comment in the languages I use.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:13:23+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151116599422350_242259809",
+                        "like_count":0,
+                        "message":"?= is a regex lookahead to me. Are these operators present in Javascript, I assume?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:22:22+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151116599422350_242259866",
+                        "like_count":0,
+                        "message":"No, JS doesn't have them, sadly. They are in a number of JVM hosted languages, but I think Groovy might have started the ?. operator.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:23:27+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151116599422350_242259877",
+                        "like_count":0,
+                        "message":"(And ?= only looks like a regex when in a regex.)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:46:53+0000",
+                        "from":
+                            {
+                                "id":"769998419",
+                                "name":"Jim Winston"
+                            },
+                        "id":"728337349_10151116599422350_242260088",
+                        "like_count":0,
+                        "message":"Do those operators have names, because I'm curious and googling ?= and ?. is fruitless.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T18:54:15+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151116599422350_242260169",
+                        "like_count":0,
+                        "message":"For Perl specifically, you can google \"perlop\", which is documentation for all of its operators. For the others, I'd recommend writing it out (\"question mark equals operator\").",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T19:16:00+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151116599422350_242260386",
+                        "like_count":0,
+                        "message":"?. Is tragically named the \"Elvis operator\" ",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T20:27:14+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151116599422350_242261163",
+                        "like_count":0,
+                        "message":"Looks like Groovy uses ?: and ?., not ?=    ?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T20:28:58+0000",
+                        "from":
+                            {
+                                "id":"630235903",
+                                "name":"Conor Dickinson"
+                            },
+                        "id":"728337349_10151116599422350_242261183",
+                        "like_count":0,
+                        "message":"I absolutely LOVED having ?. in Groovy, I really wish JS had it too.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-08-21T23:06:08+0000",
+                        "from":
+                            {
+                                "id":"100002928772445",
+                                "name":"Jered Windsheimer"
+                            },
+                        "id":"728337349_10151116599422350_242262679",
+                        "like_count":0,
+                        "message":"Groovy says ?: is Elvis (because it looks like an Elvis emoticon I assume). Ternary short, safe assign\/init, safe deref, and safe call (?() I imagine?) would be so damn useful, though I'd worry I just start using them everywhere without thinking.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "content":"Every computer language should have ?= and ?. operators. <time datetime=\"2012-08-21T17:45:40+00:00\">(at&nbsp;17:45)<\/time>",
+    "id":"20120821_0_174540",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/237968726392197120",
+    "publishedDate":"2012-08-21T17:45:40+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10151116599422350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151116599422350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151116599422350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=237968726392197120",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T17:48:13+0000",
+                                "from":
+                                    {
+                                        "id":"1437561524",
+                                        "name":"Matt Miller"
+                                    },
+                                "id":"728337349_10151116599422350_242259618",
+                                "like_count":0,
+                                "message":"Is ?. what you use when ? is already taken on the server?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:10:20+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151116599422350_242259779",
+                                "like_count":0,
+                                "message":"Perl uses \/\/= for the first one, I believe.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:11:37+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151116599422350_242259791",
+                                "like_count":0,
+                                "message":"Yeah, I love \/\/= though it ruins the single-line comment in the languages I use.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:13:23+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151116599422350_242259809",
+                                "like_count":0,
+                                "message":"?= is a regex lookahead to me. Are these operators present in Javascript, I assume?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:22:22+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151116599422350_242259866",
+                                "like_count":0,
+                                "message":"No, JS doesn't have them, sadly. They are in a number of JVM hosted languages, but I think Groovy might have started the ?. operator.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:23:27+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151116599422350_242259877",
+                                "like_count":0,
+                                "message":"(And ?= only looks like a regex when in a regex.)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:46:53+0000",
+                                "from":
+                                    {
+                                        "id":"769998419",
+                                        "name":"Jim Winston"
+                                    },
+                                "id":"728337349_10151116599422350_242260088",
+                                "like_count":0,
+                                "message":"Do those operators have names, because I'm curious and googling ?= and ?. is fruitless.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T18:54:15+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151116599422350_242260169",
+                                "like_count":0,
+                                "message":"For Perl specifically, you can google \"perlop\", which is documentation for all of its operators. For the others, I'd recommend writing it out (\"question mark equals operator\").",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T19:16:00+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151116599422350_242260386",
+                                "like_count":0,
+                                "message":"?. Is tragically named the \"Elvis operator\" ",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T20:27:14+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151116599422350_242261163",
+                                "like_count":0,
+                                "message":"Looks like Groovy uses ?: and ?., not ?=    ?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T20:28:58+0000",
+                                "from":
+                                    {
+                                        "id":"630235903",
+                                        "name":"Conor Dickinson"
+                                    },
+                                "id":"728337349_10151116599422350_242261183",
+                                "like_count":0,
+                                "message":"I absolutely LOVED having ?. in Groovy, I really wish JS had it too.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-08-21T23:06:08+0000",
+                                "from":
+                                    {
+                                        "id":"100002928772445",
+                                        "name":"Jered Windsheimer"
+                                    },
+                                "id":"728337349_10151116599422350_242262679",
+                                "like_count":0,
+                                "message":"Groovy says ?: is Elvis (because it looks like an Elvis emoticon I assume). Ternary short, safe assign\/init, safe deref, and safe call (?() I imagine?) would be so damn useful, though I'd worry I just start using them everywhere without thinking.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151116599422350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151116599422350_242262679"
+                        }
+                },
+            "created_time":"2012-08-21T17:45:41+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+            "id":"728337349_10151116599422350",
+            "message":"Every computer language should have ?= and ?. operators.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "status_type":"app_created_story",
+            "type":"status",
+            "updated_time":"2012-08-21T23:06:08+0000"
+        }
+}

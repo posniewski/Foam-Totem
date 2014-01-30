@@ -103,7 +103,7 @@
 
 #	ReleaseSemaphore($sem);
 
-	$Response->Redirect("http://www.foamtotem.org/$outfile");
+	$Response->Redirect("http://foamtotem.org/$outfile");
 bail:
 
 %>

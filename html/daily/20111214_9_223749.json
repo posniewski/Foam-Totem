@@ -25,7 +25,7 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"728337349_256185617777149_2659052",
-                        "likes":1,
+                        "likes":"1",
                         "message":"Car radiator."
                     },
                     
@@ -38,7 +38,7 @@
                                 "name":"Patrick O'Leary"
                             },
                         "id":"728337349_256185617777149_2659054",
-                        "likes":4,
+                        "likes":"4",
                         "message":"I'm not trying any more of your cookiees"
                     },
                     
@@ -196,6 +196,28 @@
                             },
                         "id":"728337349_256185617777149_2662540",
                         "message":"If you happen to be in So Ca (NE San Diego County)l, try to find Dudley's Bakery.  They make a fruit bar that is extremely similar to the Freihofer cookie.  Web site: http:\/\/dudleysbakery.com\/pastries.html"
+                    },
+                    
+                    {
+                        "created_time":"2013-02-04T02:12:00+00:00",
+                        "from":
+                            {
+                                "id":"74.76.218.132",
+                                "name":"Phyllis Seguin"
+                            },
+                        "id":"20111214_9_223749_20130204_8_021200",
+                        "message":"This recipe is more like  Freihofre's hermit cookie, there fruit cookie was my favorite cookie. My mother use to get them for us when we were kids, there was no spice in them there was raisins I beleave  there was brown sugar there was a texture like a little bit of coconut   in them, I too would love to be able to recreate the recipe "
+                    },
+                    
+                    {
+                        "created_time":"2013-02-26T18:27:33+00:00",
+                        "from":
+                            {
+                                "id":"192.100.69.170",
+                                "name":"TJ"
+                            },
+                        "id":"20111214_9_223749_20130226_8_182733",
+                        "message":"they were my favorite cookies, too. Long after I moved away, I still picked up a box everytime I went home to upstate NY until....one day...no more. A few weeks ago I was in a Publix in St. Augustine, FL. Their bakery sold a fruit cookie!!! Not exactly the same, but closer than anything I could make. (probably a cross between Freihofer's fruit cookies and their \"hermit bars\" - if you remember those) "
                     }
                 ]
         },
@@ -254,7 +276,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"728337349_256185617777149_2659052",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"Car radiator."
                             },
                             
@@ -267,7 +289,7 @@
                                         "name":"Patrick O'Leary"
                                     },
                                 "id":"728337349_256185617777149_2659054",
-                                "likes":4,
+                                "likes":"4",
                                 "message":"I'm not trying any more of your cookiees"
                             },
                             
@@ -443,7 +465,7 @@
             "id":"728337349_256185617777149",
             "likes":
                 {
-                    "count":2,
+                    "count":"2",
                     "data":
                         [
                             

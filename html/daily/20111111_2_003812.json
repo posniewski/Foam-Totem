@@ -319,11 +319,12 @@
                 ]
         },
     "id":"20111111_2_003812",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/s720x720\/386082_306453759384084_205344452828349_1175904_708799484_n.jpg",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-ash4\/s2048x2048\/386082_306453759384084_708799484_n.jpg",
     "image_height":"373",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?pid=1175904&id=205344452828349",
     "message":"+Brian Scott, Walmart agrees with your definition of Kosher, apparently.",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20111111_2_003812.jpg",
     "publishedDate":"2011-11-11T00:38:12+00:00",
     "source":"facebook",
     "type":"photo",
@@ -405,7 +406,7 @@
             "id":"728337349_261116477271955",
             "likes":
                 {
-                    "count":1,
+                    "count":"1",
                     "data":
                         [
                             
@@ -424,9 +425,9 @@
                             
                             {
                                 "id":"1847255499",
-                                "length":11,
+                                "length":"11",
                                 "name":"Brian Scott",
-                                "offset":1
+                                "offset":"1"
                             }
                         ]
                 },

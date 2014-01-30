@@ -9,7 +9,7 @@ use ObjectLinks;
 $username = 'posniewski';
 $password = 'number65536';
 
-my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
+my $nt = Net::Twitter::Lite->new( username => $username, password => $password, legacy_lists_api => 0 );
 
 #eval
 {
@@ -17,7 +17,7 @@ my $nt = Net::Twitter::Lite->new( username => $username, password => $password);
 
 	my ($last_year, $last_mon) = (0, 0);
 
-	my $statuses = $nt->user_timeline({ screen_name => $username, count => 10 });
+	my $statuses = $nt->user_timeline({ screen_name => $username, count => 50 });
 	for my $status ( @$statuses )
 	{
 		my $id = $status->{id};

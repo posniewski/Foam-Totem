@@ -1,10 +1,11 @@
 {
     "id":"20110921_2_174441",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/s720x720\/296675_10150305433423580_634898579_8135563_800131579_n.jpg",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-ash4\/s2048x2048\/296675_10150305433423580_800131579_n.jpg",
     "image_height":"333",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?pid=8135563&id=634898579",
     "message":"The safari group!",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20110921_2_174441.jpg",
     "publishedDate":"2011-09-21T17:44:41+00:00",
     "source":"facebook",
     "type":"photo",
@@ -70,7 +71,7 @@
         {
             "comments":
                 {
-                    "count":0
+                    "count":"0"
                 },
             "created_time":"2011-09-21T17:44:57+0000",
             "description":"Group Safari photo",

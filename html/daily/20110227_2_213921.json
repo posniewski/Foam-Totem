@@ -56,7 +56,7 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"728337349_10150114128902350_14906001",
-                        "likes":1,
+                        "likes":"1",
                         "message":"Tamarack Lodge at Heavenly. Powder was fantastic. By the end of the day, the sun was out and the sky was a deep blue. A killer day."
                     },
                     
@@ -73,10 +73,11 @@
                 ]
         },
     "id":"20110227_2_213921",
-    "image":"http:\/\/a3.sphotos.ak.fbcdn.net\/hphotos-ak-snc6\/183165_10150114128627350_728337349_6292482_5871073_n.jpg",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-snc6\/s2048x2048\/183165_10150114128627350_5871073_n.jpg",
     "image_height":"375",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?pid=6292482&id=728337349",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20110227_2_213921.jpg",
     "publishedDate":"2011-02-27T21:39:21+00:00",
     "source":"facebook",
     "type":"photo",
@@ -158,7 +159,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"728337349_10150114128902350_14906001",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"Tamarack Lodge at Heavenly. Powder was fantastic. By the end of the day, the sun was out and the sky was a deep blue. A killer day."
                             },
                             
@@ -184,7 +185,7 @@
             "id":"728337349_10150114128902350",
             "likes":
                 {
-                    "count":13,
+                    "count":"13",
                     "data":
                         [
                             

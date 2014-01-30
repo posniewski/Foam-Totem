@@ -1,0 +1,251 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-06T15:52:59+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10150835832207350_22299417",
+                        "message":"Are you minimizing? When I started using a mac a ways back, I used to get pissed at how it'd minimize things to the dock in a way that was a nightmare to get back, until I realized that the correct analogue to Windows' minimize is \"Hide\" (Cmd+H). Try it the next time you want to minimize and see if you hate life less."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-06T17:04:20+0000",
+                        "from":
+                            {
+                                "id":"508299845",
+                                "name":"Alex Ames"
+                            },
+                        "id":"728337349_10150835832207350_22300125",
+                        "message":"Are you using a macbook or a regular mac? I almost never minimize windows, I use the four finger swipe down to switch between them."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-06T17:11:03+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150835832207350_22300200",
+                        "message":"I'm probably minimizing since I'm using the big shiny button on the window frame. (No touch on this.) the fact that the dock only shows one icon per instance is vexing."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-06T20:16:21+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10150835832207350_22302841",
+                        "message":"The only things I ever have open on my macbook are iTerm, MacVim, and Chrome, and all of those happen to be 1 window each for how I use them. I can see how it'd be annoying though. :-)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-06T21:19:22+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150835832207350_22303635",
+                        "message":"Safari seems intent on opening new windows. Maybe the solution is to go Chrome (which I use in Windows already)."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-07T11:31:52+0000",
+                        "from":
+                            {
+                                "id":"1450994944",
+                                "name":"Paul Matchen"
+                            },
+                        "id":"728337349_10150835832207350_22310701",
+                        "message":"Chrome rocks.  I use it as my default browser and development environment. As for missing windows, F10 shows all windows for a given app.  Minimized windows appear below the fold. "
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-07T11:48:00+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150835832207350_22310837",
+                        "message":"Oooooo. F10. I'll have to check that out!"
+                    }
+                ]
+        },
+    "id":"20120506_2_144015",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150835832207350",
+    "message":"I am constantly losing windows when I use a Mac. Does anyone think this UI paradigm is actually good? Or is it like the one-button mouse?",
+    "publishedDate":"2012-05-06T14:40:15+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Twitter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150835832207350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150835832207350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=199146559814901763",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-06T15:52:59+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10150835832207350_22299417",
+                                "message":"Are you minimizing? When I started using a mac a ways back, I used to get pissed at how it'd minimize things to the dock in a way that was a nightmare to get back, until I realized that the correct analogue to Windows' minimize is \"Hide\" (Cmd+H). Try it the next time you want to minimize and see if you hate life less."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-06T17:04:20+0000",
+                                "from":
+                                    {
+                                        "id":"508299845",
+                                        "name":"Alex Ames"
+                                    },
+                                "id":"728337349_10150835832207350_22300125",
+                                "message":"Are you using a macbook or a regular mac? I almost never minimize windows, I use the four finger swipe down to switch between them."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-06T17:11:03+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150835832207350_22300200",
+                                "message":"I'm probably minimizing since I'm using the big shiny button on the window frame. (No touch on this.) the fact that the dock only shows one icon per instance is vexing."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-06T20:16:21+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10150835832207350_22302841",
+                                "message":"The only things I ever have open on my macbook are iTerm, MacVim, and Chrome, and all of those happen to be 1 window each for how I use them. I can see how it'd be annoying though. :-)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-06T21:19:22+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150835832207350_22303635",
+                                "message":"Safari seems intent on opening new windows. Maybe the solution is to go Chrome (which I use in Windows already)."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-07T11:31:52+0000",
+                                "from":
+                                    {
+                                        "id":"1450994944",
+                                        "name":"Paul Matchen"
+                                    },
+                                "id":"728337349_10150835832207350_22310701",
+                                "message":"Chrome rocks.  I use it as my default browser and development environment. As for missing windows, F10 shows all windows for a given app.  Minimized windows appear below the fold. "
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-07T11:48:00+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150835832207350_22310837",
+                                "message":"Oooooo. F10. I'll have to check that out!"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150835832207350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150835832207350_22310837"
+                        }
+                },
+            "created_time":"2012-05-06T14:40:15+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_7567.gif",
+            "id":"728337349_10150835832207350",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"630235903",
+                                "name":"Conor Dickinson"
+                            }
+                        ]
+                },
+            "message":"I am constantly losing windows when I use a Mac. Does anyone think this UI paradigm is actually good? Or is it like the one-button mouse?",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2012-05-07T11:48:00+0000"
+        }
+}

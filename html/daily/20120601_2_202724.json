@@ -1,0 +1,228 @@
+{
+    "caption":"www.wolframalpha.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-01T21:00:33+0000",
+                        "from":
+                            {
+                                "id":"508299845",
+                                "name":"Alex Ames"
+                            },
+                        "id":"728337349_352160748184962_3186122",
+                        "like_count":2,
+                        "likes":2,
+                        "message":"If I ever get my time machine working, I now know where to go to stop you from ever being born, and more importantly, how to dress. mwahaha"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-01T21:15:02+0000",
+                        "from":
+                            {
+                                "id":"1474989846",
+                                "name":"Holly Covella"
+                            },
+                        "id":"728337349_352160748184962_3186148",
+                        "message":"I tried but it got timed out--which is about right for me."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-02T00:54:07+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_352160748184962_3186686",
+                        "message":"Have you tried \"Weather on Alex Ames birthday\" yet?",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"508299845",
+                                    "length":9,
+                                    "name":"Alex Ames",
+                                    "offset":27,
+                                    "type":"user"
+                                }
+                            ]
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-02T00:56:50+0000",
+                        "from":
+                            {
+                                "id":"508299845",
+                                "name":"Alex Ames"
+                            },
+                        "id":"728337349_352160748184962_3186696",
+                        "message":"I did, overcast and partly cloudy. (here: http:\/\/www.wolframalpha.com\/input\/?i=weather+in+moutain+view%2C+ca+on+March+18+1987 ), and then for kicks I tried to divide the weather on your birthday by the weather on my birthday to see what would happen, but Wolfram Alpha didn't understand the query. (I've seen stranger queries that worked so I had to try it)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-02T01:04:17+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_352160748184962_3186709",
+                        "message":"I meant more like this: http:\/\/www.wolframalpha.com\/input\/?i=weather+in+%28Barack+Obama+place+of+birth%29+on+%28Barack+Obama+date+of+birth%29"
+                    }
+                ]
+        },
+    "content":"",
+    "description":"Wolfram Alpha does do some very cool stuff.",
+    "id":"20120601_2_202724",
+    "link":"http:\/\/www.wolframalpha.com\/input\/?i=weather+in+troy%2Cny+august+18%2C+1968",
+    "message":"Wolfram Alpha does do some very cool stuff. How about the weather on your birthday, where you were born? ",
+    "name":"Weather on Shannon's Birthday",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAUCQFVsepYfGlm&w=90&h=90&url=http%3A%2F%2Fwww.wolframcdn.com%2Fshare-fb-icon.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120601_2_202724.png",
+    "publishedDate":"2012-06-01T20:27:24+00:00",
+    "source":"facebook",
+    "title":"",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/352160748184962",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/352160748184962",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.wolframalpha.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-01T21:00:33+0000",
+                                "from":
+                                    {
+                                        "id":"508299845",
+                                        "name":"Alex Ames"
+                                    },
+                                "id":"728337349_352160748184962_3186122",
+                                "like_count":2,
+                                "likes":2,
+                                "message":"If I ever get my time machine working, I now know where to go to stop you from ever being born, and more importantly, how to dress. mwahaha"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-01T21:15:02+0000",
+                                "from":
+                                    {
+                                        "id":"1474989846",
+                                        "name":"Holly Covella"
+                                    },
+                                "id":"728337349_352160748184962_3186148",
+                                "message":"I tried but it got timed out--which is about right for me."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-02T00:54:07+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_352160748184962_3186686",
+                                "message":"Have you tried \"Weather on Alex Ames birthday\" yet?",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"508299845",
+                                            "length":9,
+                                            "name":"Alex Ames",
+                                            "offset":27,
+                                            "type":"user"
+                                        }
+                                    ]
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-02T00:56:50+0000",
+                                "from":
+                                    {
+                                        "id":"508299845",
+                                        "name":"Alex Ames"
+                                    },
+                                "id":"728337349_352160748184962_3186696",
+                                "message":"I did, overcast and partly cloudy. (here: http:\/\/www.wolframalpha.com\/input\/?i=weather+in+moutain+view%2C+ca+on+March+18+1987 ), and then for kicks I tried to divide the weather on your birthday by the weather on my birthday to see what would happen, but Wolfram Alpha didn't understand the query. (I've seen stranger queries that worked so I had to try it)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-02T01:04:17+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_352160748184962_3186709",
+                                "message":"I meant more like this: http:\/\/www.wolframalpha.com\/input\/?i=weather+in+%28Barack+Obama+place+of+birth%29+on+%28Barack+Obama+date+of+birth%29"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_352160748184962\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_352160748184962_3186709"
+                        }
+                },
+            "created_time":"2012-06-01T20:27:24+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_352160748184962",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"634898579",
+                                "name":"Kat O'Leary"
+                            }
+                        ]
+                },
+            "link":"http:\/\/www.wolframalpha.com\/input\/?i=weather+in+troy%2Cny+august+18%2C+1968",
+            "message":"Wolfram Alpha does do some very cool stuff. How about the weather on your birthday, where you were born? ",
+            "name":"Weather on Shannon's Birthday",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAUCQFVsepYfGlm&w=90&h=90&url=http%3A%2F%2Fwww.wolframcdn.com%2Fshare-fb-icon.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"link",
+            "updated_time":"2012-06-02T01:04:17+0000"
+        }
+}

@@ -1,0 +1,245 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T18:20:11+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10151510604177350_244586979",
+                        "like_count":0,
+                        "message":"(Apparently this is a well-known issue with the Nexus 7s.)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T18:31:25+0000",
+                        "from":
+                            {
+                                "id":"1410699640",
+                                "name":"E.j. Nelson"
+                            },
+                        "id":"10151510604177350_244587095",
+                        "like_count":1,
+                        "message":"You should be able to connect by USB and use ADB to access various debugging tools... I believe wiping the device is one of those tools.",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T18:40:26+0000",
+                        "from":
+                            {
+                                "id":"1766269225",
+                                "name":"Jamie Mancebo"
+                            },
+                        "id":"10151510604177350_244587174",
+                        "like_count":0,
+                        "message":"When I had a Nexus same thing happened to me. :(",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T18:56:33+0000",
+                        "from":
+                            {
+                                "id":"24701144",
+                                "name":"James Woodson"
+                            },
+                        "id":"10151510604177350_244587285",
+                        "like_count":0,
+                        "message":"I bought a samsung rugby pro because I know my history with hand-dropped tech...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T19:37:44+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10151510604177350_244587530",
+                        "like_count":0,
+                        "message":"I agree with EJ. I'd be surprised if there wasn't a series of buttons you could hold down on startup mixed with a USB cable that'd let you do whatever you wanted to the software\/data on there.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-24T20:48:43+0000",
+                        "from":
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                        "id":"10151510604177350_244587973",
+                        "like_count":0,
+                        "message":"I thought you had an iPad mini?   :)   Sorry, man.  All things fall apart.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20130324_2_181138",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151510604177350",
+    "message":"Dropped my Nexus 7 about two feet this morning and it landed pretty softly, I thought. Glass cracked, screen works, but the touch screen doesn't work. This sucks for several reasons. The main one is that it costs between $110 and $170 bucks to replace. On a $250 device. (I can get a new one with 8GB for $200.) A lesser reason is that there's no way for me to wipe it (as far as I can tell) since I can't interact with it.\n\nThe glass on the Nexus 7 is terrible. Within a month of owning it, I had scratches on it. I don't use kid gloves on these things, but I'm not abusive at all. Today's catastrophic drop was really quite mild.",
+    "publishedDate":"2013-03-24T18:11:38+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151510604177350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151510604177350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T18:20:11+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10151510604177350_244586979",
+                                "like_count":0,
+                                "message":"(Apparently this is a well-known issue with the Nexus 7s.)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T18:31:25+0000",
+                                "from":
+                                    {
+                                        "id":"1410699640",
+                                        "name":"E.j. Nelson"
+                                    },
+                                "id":"10151510604177350_244587095",
+                                "like_count":1,
+                                "message":"You should be able to connect by USB and use ADB to access various debugging tools... I believe wiping the device is one of those tools.",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T18:40:26+0000",
+                                "from":
+                                    {
+                                        "id":"1766269225",
+                                        "name":"Jamie Mancebo"
+                                    },
+                                "id":"10151510604177350_244587174",
+                                "like_count":0,
+                                "message":"When I had a Nexus same thing happened to me. :(",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T18:56:33+0000",
+                                "from":
+                                    {
+                                        "id":"24701144",
+                                        "name":"James Woodson"
+                                    },
+                                "id":"10151510604177350_244587285",
+                                "like_count":0,
+                                "message":"I bought a samsung rugby pro because I know my history with hand-dropped tech...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T19:37:44+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10151510604177350_244587530",
+                                "like_count":0,
+                                "message":"I agree with EJ. I'd be surprised if there wasn't a series of buttons you could hold down on startup mixed with a USB cable that'd let you do whatever you wanted to the software\/data on there.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-24T20:48:43+0000",
+                                "from":
+                                    {
+                                        "id":"778159473",
+                                        "name":"Iwan Axt"
+                                    },
+                                "id":"10151510604177350_244587973",
+                                "like_count":0,
+                                "message":"I thought you had an iPad mini?   :)   Sorry, man.  All things fall apart.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"Ng==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-03-24T18:11:38+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151510604177350",
+            "likes":
+                {
+                    "count":1,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1286212367",
+                                "name":"Ed Raber"
+                            }
+                        ]
+                },
+            "message":"Dropped my Nexus 7 about two feet this morning and it landed pretty softly, I thought. Glass cracked, screen works, but the touch screen doesn't work. This sucks for several reasons. The main one is that it costs between $110 and $170 bucks to replace. On a $250 device. (I can get a new one with 8GB for $200.) A lesser reason is that there's no way for me to wipe it (as far as I can tell) since I can't interact with it.\n\nThe glass on the Nexus 7 is terrible. Within a month of owning it, I had scratches on it. I don't use kid gloves on these things, but I'm not abusive at all. Today's catastrophic drop was really quite mild.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2013-03-24T20:48:43+0000"
+        }
+}

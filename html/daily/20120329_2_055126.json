@@ -25,7 +25,7 @@
                                 "name":"Curt Krone"
                             },
                         "id":"728337349_10150707105877350_6560618",
-                        "likes":3,
+                        "likes":"3",
                         "message":"there is just too much to love about this picture.",
                         "user_likes":"1"
                     },
@@ -135,18 +135,19 @@
                                 "name":"Rob Nardone"
                             },
                         "id":"728337349_10150707105877350_6564345",
-                        "likes":1,
+                        "likes":"1",
                         "message":"Timeless photo."
                     }
                 ]
         },
     "content":"",
     "id":"20120329_2_055126",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/467029_10150707105837350_728337349_9395936_1410805806_o.jpg",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-ash4\/467029_10150707105837350_1410805806_o.jpg",
     "image_height":"331",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?fbid=10150707105837350&set=a.342068642349.156506.728337349&type=1",
     "message":"Some dames can't help themselves. (Kat O'Leary)",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120329_2_055126.jpg",
     "publishedDate":"2012-03-29T05:51:26+00:00",
     "source":"facebook",
     "title":"",
@@ -193,7 +194,7 @@
                                         "name":"Curt Krone"
                                     },
                                 "id":"728337349_10150707105877350_6560618",
-                                "likes":3,
+                                "likes":"3",
                                 "message":"there is just too much to love about this picture.",
                                 "user_likes":"1"
                             },
@@ -303,7 +304,7 @@
                                         "name":"Rob Nardone"
                                     },
                                 "id":"728337349_10150707105877350_6564345",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"Timeless photo."
                             }
                         ],
@@ -323,7 +324,7 @@
             "is_published":"1",
             "likes":
                 {
-                    "count":41,
+                    "count":"41",
                     "data":
                         [
                             
@@ -357,9 +358,9 @@
                             
                             {
                                 "id":"634898579",
-                                "length":11,
+                                "length":"11",
                                 "name":"Kat O'Leary",
-                                "offset":35,
+                                "offset":"35",
                                 "type":"user"
                             }
                         ]
@@ -374,7 +375,7 @@
                             "city":"Brooklyn",
                             "country":"United States",
                             "latitude":40.702781909089,
-                            "longitude":-73.99342409526,
+                            "longitude":"-73.99342409526",
                             "state":"NY"
                         },
                     "name":"Brooklyn Bridge Park"

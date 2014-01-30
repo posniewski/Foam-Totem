@@ -1,0 +1,169 @@
+{
+    "caption":"sociable.co",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-10T17:44:15+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_403310839710916_4674200",
+                        "like_count":0,
+                        "message":"Even better: Facebook has also removed all of my Runmeter entries from my timeline.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-10T18:05:22+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"728337349_403310839710916_4674289",
+                        "like_count":0,
+                        "message":"Thanks, FB! #idiots",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-06-10T18:15:18+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_403310839710916_4674335",
+                        "like_count":0,
+                        "message":"(I'm especially vexed because I use FB to feed Foam Totem my runs.)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "created_time":"2012-06-13T15:37:21+00:00",
+                        "from":
+                            {
+                                "id":"208.87.233.180",
+                                "name":"Frodo"
+                            },
+                        "id":"20120610_2_173858_20120613_8_153721",
+                        "message":"G+ wants to help.  http:\/\/techcrunch.com\/2012\/06\/12\/google-authorship\/"
+                    }
+                ]
+        },
+    "description":"Facebook blocks bit.ly users from posting links shortened using j.mp - says these links contain a high amount of spam content…",
+    "id":"20120610_2_173858",
+    "link":"http:\/\/sociable.co\/web\/facebook-blocks-j-mp-shortened-links-cites-user-safety\/",
+    "message":"Runmeter peeps: \"If you've been having trouble posting from Runmeter today, this is why: Facebook is currently blocking links from the URL shortener that Runmeter uses.\"\n\nJeez, Facebook, thanks for that.",
+    "name":"Facebook blocks j.mp shortened links – cites user safety",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDZndgVFLke0yXh&w=90&h=90&url=http%3A%2F%2Fsociable.co%2Fwp-content%2Fuploads%2F2012%2F06%2Fbitly-fish-210x140.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120610_2_173858.png",
+    "publishedDate":"2012-06-10T17:38:58+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/403310839710916",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/403310839710916",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2309869772",
+                    "name":"Links"
+                },
+            "caption":"sociable.co",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-10T17:44:15+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_403310839710916_4674200",
+                                "like_count":0,
+                                "message":"Even better: Facebook has also removed all of my Runmeter entries from my timeline.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-10T18:05:22+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"728337349_403310839710916_4674289",
+                                "like_count":0,
+                                "message":"Thanks, FB! #idiots",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-06-10T18:15:18+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_403310839710916_4674335",
+                                "like_count":0,
+                                "message":"(I'm especially vexed because I use FB to feed Foam Totem my runs.)",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_403310839710916\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_403310839710916_4674335"
+                        }
+                },
+            "created_time":"2012-06-10T17:38:58+0000",
+            "description":"Facebook blocks bit.ly users from posting links shortened using j.mp - says these links contain a high amount of spam content…",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_403310839710916",
+            "link":"http:\/\/sociable.co\/web\/facebook-blocks-j-mp-shortened-links-cites-user-safety\/",
+            "message":"Runmeter peeps: \"If you've been having trouble posting from Runmeter today, this is why: Facebook is currently blocking links from the URL shortener that Runmeter uses.\"\n\nJeez, Facebook, thanks for that.",
+            "name":"Facebook blocks j.mp shortened links – cites user safety",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDZndgVFLke0yXh&w=90&h=90&url=http%3A%2F%2Fsociable.co%2Fwp-content%2Fuploads%2F2012%2F06%2Fbitly-fish-210x140.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "type":"link",
+            "updated_time":"2012-06-10T18:15:18+0000"
+        }
+}

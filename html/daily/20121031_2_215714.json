@@ -1,0 +1,470 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T21:58:17+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151230224762350_243061043",
+                        "like_count":0,
+                        "message":"Bonus points for compatibility with MSVC.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:00:32+0000",
+                        "from":
+                            {
+                                "id":"17500478",
+                                "name":"Noah Kantrowitz"
+                            },
+                        "id":"728337349_10151230224762350_243061074",
+                        "like_count":0,
+                        "message":"I presume you mean for C, but thats kind of important :)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:03:00+0000",
+                        "from":
+                            {
+                                "id":"715341355",
+                                "name":"Martin Simpson"
+                            },
+                        "id":"728337349_10151230224762350_243061104",
+                        "like_count":0,
+                        "message":"link with and without stripping unreferenced objects, diff map files.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:25:39+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151230224762350_243061314",
+                        "like_count":1,
+                        "message":"Yeah, C. Off on G+, Drago noted that MSVC will do function-level linking with \/Gy and the \/OPT:REF will strip unused function out. I didn't know it could do that.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:27:04+0000",
+                        "from":
+                            {
+                                "id":"17500478",
+                                "name":"Noah Kantrowitz"
+                            },
+                        "id":"728337349_10151230224762350_243061337",
+                        "like_count":0,
+                        "message":"Yeah, Cryptic people used to get mad at me for those settings because it breaks Edit and Continue most of the time.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:27:16+0000",
+                        "from":
+                            {
+                                "id":"17500478",
+                                "name":"Noah Kantrowitz"
+                            },
+                        "id":"728337349_10151230224762350_243061339",
+                        "like_count":0,
+                        "message":"Made the launcher several MB smaller though!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:28:41+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151230224762350_243061348",
+                        "like_count":0,
+                        "message":"I'm trying to find truly unused code and delete it from the source FOREVER.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-10-31T22:35:07+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151230224762350_243061431",
+                        "like_count":0,
+                        "message":"\"truly unused\" is a bit sneaky with Cryptic due to auto commands. There might exist AL9 commands (say) that nobody has ever called ever ever ever that cannot be dead stripped due to the macro sitting above the function.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-01T00:40:37+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151230224762350_243062587",
+                        "like_count":0,
+                        "message":"I'm willing to get a list of those and handle them separately. I am suspicious that great swaths of this code isn't used any more. Some of it looks like compatibility stuff from eight universal re-alignments ago. Of course, it's more likely that I find that all the code appears to be used.\n\nAlso vaguely considering just randomly deleting code and seeing if it compiles. Sort of a Dirk Gently Holistic Programming Agency.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-01T00:43:15+0000",
+                        "from":
+                            {
+                                "id":"17500478",
+                                "name":"Noah Kantrowitz"
+                            },
+                        "id":"728337349_10151230224762350_243062612",
+                        "like_count":0,
+                        "message":"That is literally how Ben Zeigler did the last #include cleanup. Delete one at a time and see if it builds :)",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"17504159",
+                                    "length":11,
+                                    "name":"Ben Zeigler",
+                                    "offset":22,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-01T00:49:56+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"728337349_10151230224762350_243062663",
+                        "like_count":0,
+                        "message":"Make a code coverage build, run it once, then load the results in VS. Truly unreachable code won't be highlighted at all and can be deleted without compilation errors. I can show you how tomorrow if you like.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-01T03:35:15+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151230224762350_243063905",
+                        "like_count":0,
+                        "message":"Chris - that breaks down unless you run every autocommand once, perform every type of power once, use each type of network connection once, etc.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"891985505",
+                                    "length":5,
+                                    "name":"Chris",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-01T05:13:09+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"728337349_10151230224762350_243064538",
+                        "like_count":0,
+                        "message":"No, it will highlight the reachable but unexecuted code as a redish color (green for executed, yellow for partially executed). No highlighting at all means that it's unreachable. I'm sure you can tap into whatever it is that determines this in VS without having to go through the code coverage layer, but I don't know how.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20121031_2_215714",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151230224762350",
+    "message":"LazyWeb: Is there an existing static analysis tool which will determine which functions in a program aren't used?\n\nIt seems like a dependency graph should be able to do this. Function pointers might make it more difficult but unless they are mathematically calculated, it should still be possible.",
+    "publishedDate":"2012-10-31T21:57:14+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151230224762350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151230224762350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T21:58:17+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151230224762350_243061043",
+                                "like_count":0,
+                                "message":"Bonus points for compatibility with MSVC.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:00:32+0000",
+                                "from":
+                                    {
+                                        "id":"17500478",
+                                        "name":"Noah Kantrowitz"
+                                    },
+                                "id":"728337349_10151230224762350_243061074",
+                                "like_count":0,
+                                "message":"I presume you mean for C, but thats kind of important :)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:03:00+0000",
+                                "from":
+                                    {
+                                        "id":"715341355",
+                                        "name":"Martin Simpson"
+                                    },
+                                "id":"728337349_10151230224762350_243061104",
+                                "like_count":0,
+                                "message":"link with and without stripping unreferenced objects, diff map files.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:25:39+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151230224762350_243061314",
+                                "like_count":1,
+                                "message":"Yeah, C. Off on G+, Drago noted that MSVC will do function-level linking with \/Gy and the \/OPT:REF will strip unused function out. I didn't know it could do that.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:27:04+0000",
+                                "from":
+                                    {
+                                        "id":"17500478",
+                                        "name":"Noah Kantrowitz"
+                                    },
+                                "id":"728337349_10151230224762350_243061337",
+                                "like_count":0,
+                                "message":"Yeah, Cryptic people used to get mad at me for those settings because it breaks Edit and Continue most of the time.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:27:16+0000",
+                                "from":
+                                    {
+                                        "id":"17500478",
+                                        "name":"Noah Kantrowitz"
+                                    },
+                                "id":"728337349_10151230224762350_243061339",
+                                "like_count":0,
+                                "message":"Made the launcher several MB smaller though!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:28:41+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151230224762350_243061348",
+                                "like_count":0,
+                                "message":"I'm trying to find truly unused code and delete it from the source FOREVER.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-10-31T22:35:07+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151230224762350_243061431",
+                                "like_count":0,
+                                "message":"\"truly unused\" is a bit sneaky with Cryptic due to auto commands. There might exist AL9 commands (say) that nobody has ever called ever ever ever that cannot be dead stripped due to the macro sitting above the function.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-01T00:40:37+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151230224762350_243062587",
+                                "like_count":0,
+                                "message":"I'm willing to get a list of those and handle them separately. I am suspicious that great swaths of this code isn't used any more. Some of it looks like compatibility stuff from eight universal re-alignments ago. Of course, it's more likely that I find that all the code appears to be used.\n\nAlso vaguely considering just randomly deleting code and seeing if it compiles. Sort of a Dirk Gently Holistic Programming Agency.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-01T00:43:15+0000",
+                                "from":
+                                    {
+                                        "id":"17500478",
+                                        "name":"Noah Kantrowitz"
+                                    },
+                                "id":"728337349_10151230224762350_243062612",
+                                "like_count":0,
+                                "message":"That is literally how Ben Zeigler did the last #include cleanup. Delete one at a time and see if it builds :)",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"17504159",
+                                            "length":11,
+                                            "name":"Ben Zeigler",
+                                            "offset":22,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-01T00:49:56+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"728337349_10151230224762350_243062663",
+                                "like_count":0,
+                                "message":"Make a code coverage build, run it once, then load the results in VS. Truly unreachable code won't be highlighted at all and can be deleted without compilation errors. I can show you how tomorrow if you like.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-01T03:35:15+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151230224762350_243063905",
+                                "like_count":0,
+                                "message":"Chris - that breaks down unless you run every autocommand once, perform every type of power once, use each type of network connection once, etc.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"891985505",
+                                            "length":5,
+                                            "name":"Chris",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-01T05:13:09+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"728337349_10151230224762350_243064538",
+                                "like_count":0,
+                                "message":"No, it will highlight the reachable but unexecuted code as a redish color (green for executed, yellow for partially executed). No highlighting at all means that it's unreachable. I'm sure you can tap into whatever it is that determines this in VS without having to go through the code coverage layer, but I don't know how.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151230224762350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151230224762350_243064538"
+                        }
+                },
+            "created_time":"2012-10-31T21:57:14+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151230224762350",
+            "message":"LazyWeb: Is there an existing static analysis tool which will determine which functions in a program aren't used?\n\nIt seems like a dependency graph should be able to do this. Function pointers might make it more difficult but unless they are mathematically calculated, it should still be possible.",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2012-11-01T05:13:09+0000"
+        }
+}

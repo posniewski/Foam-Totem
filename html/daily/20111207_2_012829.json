@@ -73,17 +73,18 @@
                                 "name":"Ken Kulow"
                             },
                         "id":"728337349_203405983074841_1329897",
-                        "likes":1,
+                        "likes":"1",
                         "message":"Pos, you look like you're 25. Well done."
                     }
                 ]
         },
     "id":"20111207_2_012829",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-snc7\/s720x720\/392711_10150449122392350_728337349_8550395_1954156135_n.jpg",
-    "image_height":"235",
-    "image_width":"250",
+    "image":"https:\/\/sphotos-a.xx.fbcdn.net\/hphotos-snc7\/s2048x2048\/392711_10150449122392350_1954156135_n.jpg",
+    "image_height":"469",
+    "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?pid=8550395&id=728337349",
     "message":"My running partner, Divi, is 2 today!",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20111207_2_012829.jpg",
     "publishedDate":"2011-12-07T01:28:29+00:00",
     "source":"facebook",
     "type":"photo",
@@ -182,7 +183,7 @@
                                         "name":"Ken Kulow"
                                     },
                                 "id":"728337349_203405983074841_1329897",
-                                "likes":1,
+                                "likes":"1",
                                 "message":"Pos, you look like you're 25. Well done."
                             }
                         ],
@@ -201,7 +202,7 @@
             "id":"728337349_203405983074841",
             "likes":
                 {
-                    "count":33,
+                    "count":"33",
                     "data":
                         [
                             

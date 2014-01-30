@@ -58,16 +58,21 @@ sub CacheRunmeterMap
 	my $result;
 	if(!exists($entry->{mapurl}))
 	{
-		# Get the real URL from the short url
-		$result = head($entry->{link});
-		$result = $result->base;
+		# Get the KML URL from the overall url
+		# http://runmeter.net/97fad4bc4c98783d/Run-20130809-0819?r=f
+		# http://share.abvio.com/97fa/d4bc/4c98/783d/Runmeter-Run-20130809-0819.kml
+		my ($a, $b, $c, $d, $e) = $entry->{link} =~ m[.*runmeter.net/(....)(....)(....)(....)/([^?]+)];
+		$result = "http://share.abvio.com/" . $a . "/" . $b . "/" . $c . "/" . $d . "/Runmeter-" . $e . ".kml";
 	}
 	else
 	{
 		$result = $entry->{mapurl};
 	}
 
-	my ($url) = $result =~ m/q=(.*)/;
+	return if(!$result);
+
+	my ($xxx, $url) = $result =~ m/(q=)?(.*)/;
+	$url = uri_unescape($url);
 	my $kml = get($url);
 
 	# Grab the coordinate table from the KML, and make it useful
@@ -189,10 +194,11 @@ sub CacheRunmeterMap
 	# And now $url has the url for the static map image.
 	#
 
-#	print "Fetching: $url\n";
+	#print "Fetching: $url\n";
 
 	my $fragment = "daily/runs/$entry->{id}.jpg";
 	$result = getstore($url, "/home/www/html/$fragment");
+
 	$entry->{mapurl_cached} = "http://foamtotem.org/$fragment";
 }
 

@@ -1,0 +1,678 @@
+{
+    "caption":"laughingsquid.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-28T22:01:25+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"446874372064395_3085343",
+                        "like_count":3,
+                        "message":"Jenn just gave us a heads-up about this. I'll watch it. :)",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"770382751",
+                                    "length":4,
+                                    "name":"Jenn",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-28T22:18:39+0000",
+                        "from":
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                        "id":"446874372064395_3085406",
+                        "like_count":3,
+                        "message":"Donna was wondering why we don't have variety shows anymore. They seem to have peaked in the 1970s. Remember Johnny Cash? Mac Davis? Tony Orlando and Dawn? The Mandrell Sisters? Pink Lady and Jeff? Wow, have I watched a lot of bad TV...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T00:49:48+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3085941",
+                        "like_count":1,
+                        "message":"Sonny and Cher?  Carol Burnett?  Glen Campbell?",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T00:54:47+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3085967",
+                        "like_count":0,
+                        "message":"I know I'm not the target audience, but I'll watch it.  :)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T01:10:50+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"446874372064395_3086020",
+                        "like_count":1,
+                        "message":"Sonny and Cher, Flip Wilson, Captain and Tennile, The Muppet Show...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T01:15:44+0000",
+                        "from":
+                            {
+                                "id":"502940974",
+                                "name":"Michele Axt"
+                            },
+                        "id":"446874372064395_3086032",
+                        "like_count":1,
+                        "message":"The muppets!!! Yessss",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T02:50:52+0000",
+                        "from":
+                            {
+                                "id":"1384816520",
+                                "name":"Dawn Yates Gerlica"
+                            },
+                        "id":"446874372064395_3086269",
+                        "like_count":0,
+                        "message":"I'm interested!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T03:57:42+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"446874372064395_3086469",
+                        "like_count":2,
+                        "message":"Donny & Marie. The Muppet Show. Carol Burnett & Friends. The Gong Show.",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:13:54+0000",
+                        "from":
+                            {
+                                "id":"1384816520",
+                                "name":"Dawn Yates Gerlica"
+                            },
+                        "id":"446874372064395_3086514",
+                        "like_count":0,
+                        "message":"I'm embarrassed to say I watched all those shows listed already except Pink Lady and Jeff.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:14:08+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"446874372064395_3086515",
+                        "like_count":0,
+                        "message":"I'm not sure I would call the Gong Show a real variety show. I mean, yeah, it was in a way but it was more of a game show since it was just random people. I see that as a step between game shows and  \"That's Incredible\" and \"Real People\".",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:20:51+0000",
+                        "from":
+                            {
+                                "id":"1384816520",
+                                "name":"Dawn Yates Gerlica"
+                            },
+                        "id":"446874372064395_3086520",
+                        "like_count":0,
+                        "message":"How about Hee Haw? Flip Wilson, Carol Burnett, and Muppets were my favorites. Oh I almost forgot  Laugh-In and Love American Style, but I'm not sure if that last one was variety or not.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:22:02+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3086522",
+                        "like_count":0,
+                        "message":"I don't recall watching the Gong show much, if at all.  And I don't remember Pink Lady and Jeff at all.  I loved the Carol Burnett show and the Muppets and watched quite a few of the others back in the day.  Those shows could be quite good, and I doubt they are very expensive to produce.  I can't get in to today's reality shows.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:23:54+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3086525",
+                        "like_count":0,
+                        "message":"I was just thinking of Laugh-In too!  And the grandaddy of them all - the Ed Sullivan Show.  Jackie Gleason, Lawrence Welk. Aaack!  I'm showing my age!  Love American Style wasn't a variety show - it was a bunch of short segment stories that were filmed - no live audience.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T04:25:34+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3086531",
+                        "like_count":0,
+                        "message":"Oh wow, thinking about Art Linkletter too, but all I really remember about his show was when he would interview little kids at the end for \"Kids say the darnedest things.\"",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T14:32:04+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"446874372064395_3088168",
+                        "like_count":1,
+                        "message":"There was a brief revival 5-10 years ago, IIRC. Penn & Teller had one. Some of the cast of the State\/UCB had one too.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-03-29T14:41:38+0000",
+                        "from":
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                        "id":"446874372064395_3088221",
+                        "like_count":0,
+                        "message":"Poz, I must have blinked and missed it.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"http:\/\/youtu.be\/u6fqJt3mm6I \"Are you RECording?\" Joseph Gordon-Levitt (aka \"hitRECordJoe\") is set to host Hit RECord on TV!, a new half-hour long TV variety show where he'll direct a \"global online...",
+    "id":"20130328_2_215925",
+    "link":"http:\/\/laughingsquid.com\/joseph-gordon-levitt-to-host-new-variety-show-hit-record-on-tv\/",
+    "message":"Heather, Jenn, Elke, Donna, Michele, Michele: I understand he's no Hugh Jackman, but JGL has a variety show on the way...",
+    "name":"Joseph Gordon-Levitt to Host New Variety Show 'Hit RECord on TV!'",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDoxoSPfI57nAb7&w=154&h=154&url=http%3A%2F%2Fi0.wp.com%2Flaughingsquid.com%2Fwp-content%2Fuploads%2F03029.jpg%3Ffit%3D400%252C400",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20130328_2_215925.jpg",
+    "publishedDate":"2013-03-28T21:59:25+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/446874372064395",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/446874372064395",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"laughingsquid.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-28T22:01:25+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"446874372064395_3085343",
+                                "like_count":3,
+                                "message":"Jenn just gave us a heads-up about this. I'll watch it. :)",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"770382751",
+                                            "length":4,
+                                            "name":"Jenn",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-28T22:18:39+0000",
+                                "from":
+                                    {
+                                        "id":"100002818047778",
+                                        "name":"Elke Blaetz"
+                                    },
+                                "id":"446874372064395_3085406",
+                                "like_count":3,
+                                "message":"Donna was wondering why we don't have variety shows anymore. They seem to have peaked in the 1970s. Remember Johnny Cash? Mac Davis? Tony Orlando and Dawn? The Mandrell Sisters? Pink Lady and Jeff? Wow, have I watched a lot of bad TV...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T00:49:48+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3085941",
+                                "like_count":1,
+                                "message":"Sonny and Cher?  Carol Burnett?  Glen Campbell?",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T00:54:47+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3085967",
+                                "like_count":0,
+                                "message":"I know I'm not the target audience, but I'll watch it.  :)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T01:10:50+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"446874372064395_3086020",
+                                "like_count":1,
+                                "message":"Sonny and Cher, Flip Wilson, Captain and Tennile, The Muppet Show...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T01:15:44+0000",
+                                "from":
+                                    {
+                                        "id":"502940974",
+                                        "name":"Michele Axt"
+                                    },
+                                "id":"446874372064395_3086032",
+                                "like_count":1,
+                                "message":"The muppets!!! Yessss",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T02:50:52+0000",
+                                "from":
+                                    {
+                                        "id":"1384816520",
+                                        "name":"Dawn Yates Gerlica"
+                                    },
+                                "id":"446874372064395_3086269",
+                                "like_count":0,
+                                "message":"I'm interested!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T03:57:42+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"446874372064395_3086469",
+                                "like_count":2,
+                                "message":"Donny & Marie. The Muppet Show. Carol Burnett & Friends. The Gong Show.",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:13:54+0000",
+                                "from":
+                                    {
+                                        "id":"1384816520",
+                                        "name":"Dawn Yates Gerlica"
+                                    },
+                                "id":"446874372064395_3086514",
+                                "like_count":0,
+                                "message":"I'm embarrassed to say I watched all those shows listed already except Pink Lady and Jeff.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:14:08+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"446874372064395_3086515",
+                                "like_count":0,
+                                "message":"I'm not sure I would call the Gong Show a real variety show. I mean, yeah, it was in a way but it was more of a game show since it was just random people. I see that as a step between game shows and  \"That's Incredible\" and \"Real People\".",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:20:51+0000",
+                                "from":
+                                    {
+                                        "id":"1384816520",
+                                        "name":"Dawn Yates Gerlica"
+                                    },
+                                "id":"446874372064395_3086520",
+                                "like_count":0,
+                                "message":"How about Hee Haw? Flip Wilson, Carol Burnett, and Muppets were my favorites. Oh I almost forgot  Laugh-In and Love American Style, but I'm not sure if that last one was variety or not.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:22:02+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3086522",
+                                "like_count":0,
+                                "message":"I don't recall watching the Gong show much, if at all.  And I don't remember Pink Lady and Jeff at all.  I loved the Carol Burnett show and the Muppets and watched quite a few of the others back in the day.  Those shows could be quite good, and I doubt they are very expensive to produce.  I can't get in to today's reality shows.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:23:54+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3086525",
+                                "like_count":0,
+                                "message":"I was just thinking of Laugh-In too!  And the grandaddy of them all - the Ed Sullivan Show.  Jackie Gleason, Lawrence Welk. Aaack!  I'm showing my age!  Love American Style wasn't a variety show - it was a bunch of short segment stories that were filmed - no live audience.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T04:25:34+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3086531",
+                                "like_count":0,
+                                "message":"Oh wow, thinking about Art Linkletter too, but all I really remember about his show was when he would interview little kids at the end for \"Kids say the darnedest things.\"",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T14:32:04+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"446874372064395_3088168",
+                                "like_count":1,
+                                "message":"There was a brief revival 5-10 years ago, IIRC. Penn & Teller had one. Some of the cast of the State\/UCB had one too.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-03-29T14:41:38+0000",
+                                "from":
+                                    {
+                                        "id":"1554010659",
+                                        "name":"Donna Peronace"
+                                    },
+                                "id":"446874372064395_3088221",
+                                "like_count":0,
+                                "message":"Poz, I must have blinked and missed it.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTY=",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-03-28T21:59:25+0000",
+            "description":"http:\/\/youtu.be\/u6fqJt3mm6I \"Are you RECording?\" Joseph Gordon-Levitt (aka \"hitRECordJoe\") is set to host Hit RECord on TV!, a new half-hour long TV variety show where he'll direct a \"global online...",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_446874372064395",
+            "likes":
+                {
+                    "count":4,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            }
+                        ]
+                },
+            "link":"http:\/\/laughingsquid.com\/joseph-gordon-levitt-to-host-new-variety-show-hit-record-on-tv\/",
+            "message":"Heather, Jenn, Elke, Donna, Michele, Michele: I understand he's no Hugh Jackman, but JGL has a variety show on the way...",
+            "message_tags":
+                {
+                    "0":
+                        [
+                            
+                            {
+                                "id":"100005156499690",
+                                "length":7,
+                                "name":"Heather",
+                                "offset":0,
+                                "type":"user"
+                            }
+                        ],
+                    "15":
+                        [
+                            
+                            {
+                                "id":"100002818047778",
+                                "length":4,
+                                "name":"Elke",
+                                "offset":15,
+                                "type":"user"
+                            }
+                        ],
+                    "21":
+                        [
+                            
+                            {
+                                "id":"1554010659",
+                                "length":5,
+                                "name":"Donna",
+                                "offset":21,
+                                "type":"user"
+                            }
+                        ],
+                    "28":
+                        [
+                            
+                            {
+                                "id":"502940974",
+                                "length":7,
+                                "name":"Michele",
+                                "offset":28,
+                                "type":"user"
+                            }
+                        ],
+                    "37":
+                        [
+                            
+                            {
+                                "id":"1361476318",
+                                "length":7,
+                                "name":"Michele",
+                                "offset":37,
+                                "type":"user"
+                            }
+                        ],
+                    "9":
+                        [
+                            
+                            {
+                                "id":"770382751",
+                                "length":4,
+                                "name":"Jenn",
+                                "offset":9,
+                                "type":"user"
+                            }
+                        ]
+                },
+            "name":"Joseph Gordon-Levitt to Host New Variety Show 'Hit RECord on TV!'",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDoxoSPfI57nAb7&w=154&h=154&url=http%3A%2F%2Fi0.wp.com%2Flaughingsquid.com%2Fwp-content%2Fuploads%2F03029.jpg%3Ffit%3D400%252C400",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "to":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"100005156499690",
+                                "name":"Heather Wiesen"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"502940974",
+                                "name":"Michele Axt"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            }
+                        ]
+                },
+            "type":"link",
+            "updated_time":"2013-03-29T14:41:38+0000"
+        }
+}

@@ -1,0 +1,79 @@
+{
+    "caption":"www.wolframalpha.com",
+    "description":"The answer to my facebook... Enter what you want to calculate or know about in science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music...",
+    "id":"20120901_2_195345",
+    "link":"http:\/\/www.wolframalpha.com\/input\/?i=my+facebook",
+    "message":"Wolfram Alpha keeps doing cool stuff. Stats on your Facebook stuff. I especially liked the connection graph.",
+    "name":"my facebook - Wolfram|Alpha",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAUCQFVsepYfGlm&w=90&h=90&url=http%3A%2F%2Fwww.wolframcdn.com%2Fshare-fb-icon.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120901_2_195345.png",
+    "publishedDate":"2012-09-01T19:53:45+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/407356535980552",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/407356535980552",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.wolframalpha.com",
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2012-09-01T19:53:45+0000",
+            "description":"The answer to my facebook... Enter what you want to calculate or know about in science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music...",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_407356535980552",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            }
+                        ]
+                },
+            "link":"http:\/\/www.wolframalpha.com\/input\/?i=my+facebook",
+            "message":"Wolfram Alpha keeps doing cool stuff. Stats on your Facebook stuff. I especially liked the connection graph.",
+            "name":"my facebook - Wolfram|Alpha",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAUCQFVsepYfGlm&w=90&h=90&url=http%3A%2F%2Fwww.wolframcdn.com%2Fshare-fb-icon.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "value":"CUSTOM"
+                },
+            "shares":
+                {
+                    "count":1
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2012-09-01T19:53:45+0000"
+        }
+}

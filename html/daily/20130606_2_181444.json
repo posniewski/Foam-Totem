@@ -1,0 +1,147 @@
+{
+    "caption":"livewire.talkingpointsmemo.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-06-06T18:18:58+0000",
+                        "from":
+                            {
+                                "id":"740120707",
+                                "name":"David Frey"
+                            },
+                        "id":"10151636408762350_245401870",
+                        "like_count":0,
+                        "message":"The problem is Congress and the White House thriving on \"good\" leaks in order to test public opinion.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"  Senate Intelligence Committee Chair Dianne Feinstein (D-CA) continued her defense of the National Security Agency's collection of millions of phone records, arguing Thursday that the leak of the agency's order should be investigated. Feinstein told MSNBC's Andrea Mitchell that the NSA's actions sh...",
+    "id":"20130606_2_181444",
+    "link":"http:\/\/livewire.talkingpointsmemo.com\/entry\/feinstein-we-have-become-culture-of-leaks",
+    "message":"Senator Dianne Feinstein: I will allow that the universal collection of domestic phone records is a gray area. Doing so in secret and hiding it pushes it into the wrong. Claiming that the LEAK is the problem is absolutely reprehensible. The problem isn't a culture of leaks, it's a undemocratic culture of secrecy that pervades the federal government. I can only wonder: What other liberties have you traded away in private Senate meetings?",
+    "name":"Feinstein: 'We Have Become A Culture Of Leaks'",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCIOHUgxAoTEdau&w=154&h=154&url=http%3A%2F%2Fstatic.talkingpointsmemo.com%2Fimages%2Ffacebook.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20130606_2_181444.png",
+    "publishedDate":"2013-06-06T18:14:44+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151636408762350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151636408762350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"livewire.talkingpointsmemo.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-06-06T18:18:58+0000",
+                                "from":
+                                    {
+                                        "id":"740120707",
+                                        "name":"David Frey"
+                                    },
+                                "id":"10151636408762350_245401870",
+                                "like_count":0,
+                                "message":"The problem is Congress and the White House thriving on \"good\" leaks in order to test public opinion.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MQ==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-06-06T18:14:44+0000",
+            "description":"  Senate Intelligence Committee Chair Dianne Feinstein (D-CA) continued her defense of the National Security Agency's collection of millions of phone records, arguing Thursday that the leak of the agency's order should be investigated. Feinstein told MSNBC's Andrea Mitchell that the NSA's actions sh...",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_10151636408762350",
+            "likes":
+                {
+                    "count":2,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"770077353",
+                                "name":"Beth Martin"
+                            },
+                            
+                            {
+                                "id":"578684050",
+                                "name":"Nicole Hamlett"
+                            }
+                        ]
+                },
+            "link":"http:\/\/livewire.talkingpointsmemo.com\/entry\/feinstein-we-have-become-culture-of-leaks",
+            "message":"Senator Dianne Feinstein: I will allow that the universal collection of domestic phone records is a gray area. Doing so in secret and hiding it pushes it into the wrong. Claiming that the LEAK is the problem is absolutely reprehensible. The problem isn't a culture of leaks, it's a undemocratic culture of secrecy that pervades the federal government. I can only wonder: What other liberties have you traded away in private Senate meetings?",
+            "message_tags":
+                {
+                    "0":
+                        [
+                            
+                            {
+                                "id":"334887279867783",
+                                "length":24,
+                                "name":"Senator Dianne Feinstein",
+                                "offset":0,
+                                "type":"page"
+                            }
+                        ]
+                },
+            "name":"Feinstein: 'We Have Become A Culture Of Leaks'",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQCIOHUgxAoTEdau&w=154&h=154&url=http%3A%2F%2Fstatic.talkingpointsmemo.com%2Fimages%2Ffacebook.png",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "to":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "category":"Government official",
+                                "id":"334887279867783",
+                                "name":"Senator Dianne Feinstein"
+                            }
+                        ]
+                },
+            "type":"link",
+            "updated_time":"2013-06-06T18:18:58+0000"
+        }
+}

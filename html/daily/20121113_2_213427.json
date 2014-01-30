@@ -1,0 +1,170 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-11-14T14:04:03+0000",
+                        "from":
+                            {
+                                "id":"769998419",
+                                "name":"Jim Winston"
+                            },
+                        "id":"728337349_303404206441936_1445889",
+                        "like_count":2,
+                        "message":"\"Choropleth\" good word. I hope I can remember it and use it a sentence correctly at some point.",
+                        "user_likes":"1"
+                    }
+                ]
+        },
+    "id":"20121113_2_213427",
+    "image":"https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-ash3\/545543_10151321923986667_860632622_s.jpg",
+    "image_height":"0",
+    "image_width":"0",
+    "link":"http:\/\/www.facebook.com\/photo.php?fbid=10151321923986667&set=a.53699096666.80512.605431666&type=1",
+    "message":"A nice choropleth map of the election, where the saturation is based on population density.\n\n(Though I think the ones which scale area based on population are a neat idea, the variance in population is so large that it changes the shape of the US too much for many people to understand.)",
+    "publishedDate":"2012-11-13T21:34:27+00:00",
+    "source":"facebook",
+    "type":"photo",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/303404206441936",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/303404206441936",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2309869772",
+                    "name":"Links"
+                },
+            "caption":"America really looks like this - I was looking at the amazing 2012 election maps created by Robert J. Vanderbei (Princeton) and Mark Newman (Department of Physics and Center for the Study of Complex Systems, University of Michigan, http:\/\/www-personal.umich.edu\/~mejn\/election\/2012), and although there is a very interesting blended voting map (Most of the country is some shade of purple, a varied blend of Democrat blue and Republican red) what I really wanted was this blended map with a population density overlay.  Because what really stands out is how red the nation seems to be when you do not take the voting population into account; when you do so many of those vast red mid-west blocks fade into pale pink and lavender (very low population).\n\nSo I created a new map using Mark’s blended voting map based on the actual numbers of votes for each party overlaid with population maps from Texas Tech University and other sources. \n\nHere’s the result—what the American political voting distribution really looks like. UPDATE: Here's the full-sized version of the map: http:\/\/www.saltwaterwitch.com\/img\/WhatAmericaLooksLike-2012Election-ChrisHoward.jpg",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-11-14T14:04:03+0000",
+                                "from":
+                                    {
+                                        "id":"769998419",
+                                        "name":"Jim Winston"
+                                    },
+                                "id":"728337349_303404206441936_1445889",
+                                "like_count":2,
+                                "message":"\"Choropleth\" good word. I hope I can remember it and use it a sentence correctly at some point.",
+                                "user_likes":"1"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_303404206441936\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_303404206441936_1445889"
+                        }
+                },
+            "created_time":"2012-11-13T21:34:27+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/s-static.ak.facebook.com\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_303404206441936",
+            "likes":
+                {
+                    "count":6,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"722970935",
+                                "name":"Randy Mosiondz"
+                            },
+                            
+                            {
+                                "id":"676398357",
+                                "name":"Matt Danuser"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            }
+                        ]
+                },
+            "link":"http:\/\/www.facebook.com\/photo.php?fbid=10151321923986667&set=a.53699096666.80512.605431666&type=1",
+            "message":"A nice choropleth map of the election, where the saturation is based on population density.\n\n(Though I think the ones which scale area based on population are a neat idea, the variance in population is so large that it changes the shape of the US too much for many people to understand.)",
+            "name":"Timeline Photos",
+            "object_id":"10151321923986667",
+            "picture":"https:\/\/fbcdn-photos-a.akamaihd.net\/hphotos-ak-ash3\/545543_10151321923986667_860632622_s.jpg",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "properties":
+                [
+                    
+                    {
+                        "href":"http:\/\/www.facebook.com\/chrishoward.author",
+                        "name":"By",
+                        "text":"Chris Howard"
+                    }
+                ],
+            "status_type":"shared_story",
+            "story":"Shannon Posniewski shared Chris Howard's photo.",
+            "story_tags":
+                {
+                    "0":
+                        [
+                            
+                            {
+                                "id":"728337349",
+                                "length":18,
+                                "name":"Shannon Posniewski",
+                                "offset":0,
+                                "type":"user"
+                            }
+                        ],
+                    "26":
+                        [
+                            
+                            {
+                                "id":"605431666",
+                                "length":12,
+                                "name":"Chris Howard",
+                                "offset":26,
+                                "type":"user"
+                            }
+                        ]
+                },
+            "type":"photo",
+            "updated_time":"2012-11-14T14:04:03+0000"
+        }
+}

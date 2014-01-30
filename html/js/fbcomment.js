@@ -26,6 +26,7 @@ window.fbAsyncInit = function() {
 	FB.Event.subscribe('auth.logout', function(response) {
 		// do something with response
 		logoutCB();
+		a = 9;
 	});
 
 	checkFacebook();
@@ -33,7 +34,7 @@ window.fbAsyncInit = function() {
 
 function checkFacebook() {
 	FB.getLoginStatus(function(response) {
-		if (response.session) {
+		if (response.status === 'connected') {
 			// logged in and connected user, someone you know
 			loginCB(response);
 		}
@@ -45,7 +46,7 @@ function checkFacebook() {
 
 function loginFacebook() {
 	FB.login(function(response) {
-		if (response.session) {
+		if (response.status === 'connected') {
 			// user successfully logged in
 		} else {
 			// user cancelled login
@@ -55,7 +56,7 @@ function loginFacebook() {
 
 function loginFacebookAndReply(elem) {
 	FB.login(function(response) {
-		if (response.session) {
+		if (response.status === 'connected') {
 			reply_expand_fb(elem);
 		} else {
 			// user cancelled login
@@ -322,3 +323,4 @@ function makeFoamCommentBlock(foam) {
 
 	return comment;
 }
+

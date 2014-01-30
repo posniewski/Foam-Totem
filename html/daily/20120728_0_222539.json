@@ -1,0 +1,60 @@
+{
+    "content":"I'm utterly sick of basic iPad apps (like app store and safari) constantly crashing. I suspect they are killed by a cpu or memory watchdog. <time datetime=\"2012-07-28T22:25:39+00:00\">(at&nbsp;22:25)<\/time>",
+    "id":"20120728_0_222539",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/229341878317899776",
+    "publishedDate":"2012-07-28T22:25:39+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10151062985357350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151062985357350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151062985357350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=229341878317899776",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2012-07-28T22:25:39+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_2016407632.gif",
+            "id":"728337349_10151062985357350",
+            "message":"I'm utterly sick of basic iPad apps (like app store and safari) constantly crashing. I suspect they are killed by a cpu or memory watchdog.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2012-07-28T22:25:39+0000"
+        }
+}

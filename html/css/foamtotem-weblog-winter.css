@@ -113,8 +113,8 @@ header.main div.title {
 #last-update { font-size: .65em; margin-top: 1.5em; margin-bottom: 2px;}
 
 a:visited { color: #004C72; text-decoration: none; } /* WINTER: was #703017 */
-a:link { color: #004C72; text-decoration: none; }    /* WINTER: was #703017 */ 
-a:hover { color: white; background-color: #004C72; } /* WINTER: was #703017 */ 
+a:link { color: #004C72; text-decoration: none; }    /* WINTER: was #703017 */
+a:hover { color: white; background-color: #004C72; } /* WINTER: was #703017 */
 
 /* This makes the FOAM TOTEM text invivisble */
 header.main h1 a:link { background-color:transparent; color: transparent; }
@@ -485,7 +485,7 @@ footer .calendar {
 }
 
 footer .year {
-	width:41px;
+	width: 38px;
 	margin: 6px 6px;
 
 	left: 50%;
@@ -495,7 +495,7 @@ footer .year {
 
 footer .year a {
 	font-family: "Lucida Console", Monaco, monospace;
-	font-size: 12px;
+	font-size: 10px;
 }
 
 footer .year h2 {

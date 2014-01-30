@@ -1,0 +1,614 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T08:18:10+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10151356114347350_243926425",
+                        "like_count":0,
+                        "message":"[raises hand]",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T08:31:11+0000",
+                        "from":
+                            {
+                                "id":"645652214",
+                                "name":"Joe Schwartz"
+                            },
+                        "id":"728337349_10151356114347350_243926474",
+                        "like_count":0,
+                        "message":"Uh oh. Note to self, stay away from Poz, especially at mealtime.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T11:23:02+0000",
+                        "from":
+                            {
+                                "id":"1661085968",
+                                "name":"Melissa Bourgeois"
+                            },
+                        "id":"728337349_10151356114347350_243927375",
+                        "like_count":0,
+                        "message":"uhhh count me in on that; I think it's my biggest pet peeve",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T13:07:47+0000",
+                        "from":
+                            {
+                                "id":"6714326",
+                                "name":"Becky Odom Woomer"
+                            },
+                        "id":"728337349_10151356114347350_243928075",
+                        "like_count":0,
+                        "message":"My sister too. She can be scary.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T14:40:23+0000",
+                        "from":
+                            {
+                                "id":"1437561524",
+                                "name":"Matt Miller"
+                            },
+                        "id":"728337349_10151356114347350_243928837",
+                        "like_count":0,
+                        "message":"Omnomnom meme must drive you crazy",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T14:46:17+0000",
+                        "from":
+                            {
+                                "id":"740120707",
+                                "name":"David Frey"
+                            },
+                        "id":"728337349_10151356114347350_243928901",
+                        "like_count":0,
+                        "message":"Problem is, rage fills me with a desire to eat.  It's a vicious cycle.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T14:51:13+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_10151356114347350_243928936",
+                        "like_count":0,
+                        "message":"Dad and I both share your rage. :)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T15:48:34+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151356114347350_243929462",
+                        "like_count":1,
+                        "message":"I also thought it was interesting that they called it \"rage\" rather than a less extreme \"makes you uncomfortable\" or even \"angry\".",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T16:29:50+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"728337349_10151356114347350_243929769",
+                        "like_count":6,
+                        "message":"I'm picturing dinner at the Posniewski house involving lots of feeding tubes.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T16:33:54+0000",
+                        "from":
+                            {
+                                "id":"791053257",
+                                "name":"Bruce Rogers"
+                            },
+                        "id":"728337349_10151356114347350_243929808",
+                        "like_count":5,
+                        "message":"Not sure this is relevant. What questions of the form \"Would [x] fill you with rage?\" would poz say no to?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T16:35:02+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"728337349_10151356114347350_243929817",
+                        "like_count":0,
+                        "message":"Good point",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T18:25:30+0000",
+                        "from":
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"728337349_10151356114347350_243930749",
+                        "like_count":0,
+                        "message":"I do not share this, and just learned that I have been inflicting this torture upon my family my whole life!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T19:00:18+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10151356114347350_243931112",
+                        "like_count":0,
+                        "message":"Normal chewing is fine. It's loud chewing\/smacking noises that are a problem. The crunch of chips is generally OK. Open-mouth eating, lip smacking, wet chewing, drink or soup slurping, the chugging sound in the throat when drinking, and liquid swishing teeth are all horrible.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-17T19:40:14+0000",
+                        "from":
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                        "id":"728337349_10151356114347350_243931523",
+                        "like_count":0,
+                        "message":"Sarah Rain You were never a noisy eater. I never remember you slurping your mixed vegs and yogurt. :)",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"1245484058",
+                                    "length":10,
+                                    "name":"Sarah Rain",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-18T04:13:46+0000",
+                        "from":
+                            {
+                                "id":"1394434850",
+                                "name":"Andrew Gosden"
+                            },
+                        "id":"728337349_10151356114347350_243936475",
+                        "like_count":0,
+                        "message":"It mostly bothers me when they are chewing in me.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-18T18:37:24+0000",
+                        "from":
+                            {
+                                "id":"100001429948679",
+                                "name":"Meredeth Day-Sorensen"
+                            },
+                        "id":"728337349_10151356114347350_243942335",
+                        "like_count":0,
+                        "message":"I TOTALLY DISLIKE LOUD CHEWING!!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-19T21:17:47+0000",
+                        "from":
+                            {
+                                "id":"1533771332",
+                                "name":"Kathy Hartley"
+                            },
+                        "id":"728337349_10151356114347350_243953948",
+                        "like_count":0,
+                        "message":"...and talking while they're doing it!!!!!!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-01-19T21:27:33+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"728337349_10151356114347350_243954075",
+                        "like_count":0,
+                        "message":"I'm typing with my mouth full right now.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20130117_2_080754",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151356114347350",
+    "message":"As I was going through 23andMe survey questions I came across this one: \"Does the sound of other people chewing fill you with rage?\" My answer to that is YES YES YES. I had always assumed that it was an odd character flaw I had, but apparently 21% of the people polled feel the same way.",
+    "publishedDate":"2013-01-17T08:07:54+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151356114347350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10151356114347350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T08:18:10+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10151356114347350_243926425",
+                                "like_count":0,
+                                "message":"[raises hand]",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T08:31:11+0000",
+                                "from":
+                                    {
+                                        "id":"645652214",
+                                        "name":"Joe Schwartz"
+                                    },
+                                "id":"728337349_10151356114347350_243926474",
+                                "like_count":0,
+                                "message":"Uh oh. Note to self, stay away from Poz, especially at mealtime.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T11:23:02+0000",
+                                "from":
+                                    {
+                                        "id":"1661085968",
+                                        "name":"Melissa Bourgeois"
+                                    },
+                                "id":"728337349_10151356114347350_243927375",
+                                "like_count":0,
+                                "message":"uhhh count me in on that; I think it's my biggest pet peeve",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T13:07:47+0000",
+                                "from":
+                                    {
+                                        "id":"6714326",
+                                        "name":"Becky Odom Woomer"
+                                    },
+                                "id":"728337349_10151356114347350_243928075",
+                                "like_count":0,
+                                "message":"My sister too. She can be scary.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T14:40:23+0000",
+                                "from":
+                                    {
+                                        "id":"1437561524",
+                                        "name":"Matt Miller"
+                                    },
+                                "id":"728337349_10151356114347350_243928837",
+                                "like_count":0,
+                                "message":"Omnomnom meme must drive you crazy",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T14:46:17+0000",
+                                "from":
+                                    {
+                                        "id":"740120707",
+                                        "name":"David Frey"
+                                    },
+                                "id":"728337349_10151356114347350_243928901",
+                                "like_count":0,
+                                "message":"Problem is, rage fills me with a desire to eat.  It's a vicious cycle.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T14:51:13+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_10151356114347350_243928936",
+                                "like_count":0,
+                                "message":"Dad and I both share your rage. :)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T15:48:34+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151356114347350_243929462",
+                                "like_count":1,
+                                "message":"I also thought it was interesting that they called it \"rage\" rather than a less extreme \"makes you uncomfortable\" or even \"angry\".",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T16:29:50+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"728337349_10151356114347350_243929769",
+                                "like_count":6,
+                                "message":"I'm picturing dinner at the Posniewski house involving lots of feeding tubes.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T16:33:54+0000",
+                                "from":
+                                    {
+                                        "id":"791053257",
+                                        "name":"Bruce Rogers"
+                                    },
+                                "id":"728337349_10151356114347350_243929808",
+                                "like_count":5,
+                                "message":"Not sure this is relevant. What questions of the form \"Would [x] fill you with rage?\" would poz say no to?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T16:35:02+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"728337349_10151356114347350_243929817",
+                                "like_count":0,
+                                "message":"Good point",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T18:25:30+0000",
+                                "from":
+                                    {
+                                        "id":"1245484058",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"728337349_10151356114347350_243930749",
+                                "like_count":0,
+                                "message":"I do not share this, and just learned that I have been inflicting this torture upon my family my whole life!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T19:00:18+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10151356114347350_243931112",
+                                "like_count":0,
+                                "message":"Normal chewing is fine. It's loud chewing\/smacking noises that are a problem. The crunch of chips is generally OK. Open-mouth eating, lip smacking, wet chewing, drink or soup slurping, the chugging sound in the throat when drinking, and liquid swishing teeth are all horrible.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-17T19:40:14+0000",
+                                "from":
+                                    {
+                                        "id":"1134692210",
+                                        "name":"Shelley Day Posniewski"
+                                    },
+                                "id":"728337349_10151356114347350_243931523",
+                                "like_count":0,
+                                "message":"Sarah Rain You were never a noisy eater. I never remember you slurping your mixed vegs and yogurt. :)",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"1245484058",
+                                            "length":10,
+                                            "name":"Sarah Rain",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-18T04:13:46+0000",
+                                "from":
+                                    {
+                                        "id":"1394434850",
+                                        "name":"Andrew Gosden"
+                                    },
+                                "id":"728337349_10151356114347350_243936475",
+                                "like_count":0,
+                                "message":"It mostly bothers me when they are chewing in me.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-18T18:37:24+0000",
+                                "from":
+                                    {
+                                        "id":"100001429948679",
+                                        "name":"Meredeth Day-Sorensen"
+                                    },
+                                "id":"728337349_10151356114347350_243942335",
+                                "like_count":0,
+                                "message":"I TOTALLY DISLIKE LOUD CHEWING!!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-19T21:17:47+0000",
+                                "from":
+                                    {
+                                        "id":"1533771332",
+                                        "name":"Kathy Hartley"
+                                    },
+                                "id":"728337349_10151356114347350_243953948",
+                                "like_count":0,
+                                "message":"...and talking while they're doing it!!!!!!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-01-19T21:27:33+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"728337349_10151356114347350_243954075",
+                                "like_count":0,
+                                "message":"I'm typing with my mouth full right now.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10151356114347350\/comments?access_token=AAAC4nFAvuF4BAIZB6tLeeSCKKI4DFGHScCpSYTf8vJtZAwJPZBxiD1XIyB4QWUqqpl0TOhpUJpbFfYxiB1ZBchuxszpSL00ZD&limit=25&offset=25&__after_id=728337349_10151356114347350_243954075"
+                        }
+                },
+            "created_time":"2013-01-17T08:07:54+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10151356114347350",
+            "likes":
+                {
+                    "count":16,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1659624126",
+                                "name":"Cole Posniewski"
+                            },
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"100002928772445",
+                                "name":"Jered Windsheimer"
+                            },
+                            
+                            {
+                                "id":"1450994944",
+                                "name":"Paul Matchen"
+                            }
+                        ]
+                },
+            "message":"As I was going through 23andMe survey questions I came across this one: \"Does the sound of other people chewing fill you with rage?\" My answer to that is YES YES YES. I had always assumed that it was an odd character flaw I had, but apparently 21% of the people polled feel the same way.",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2013-01-19T21:27:33+0000"
+        }
+}

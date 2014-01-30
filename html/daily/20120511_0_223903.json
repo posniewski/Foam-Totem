@@ -1,0 +1,60 @@
+{
+    "content":"Ugh. Stuck on the tarmac in a thunderstorm. Connection seems doubtful. Grrr. <time datetime=\"2012-05-11T22:39:03+00:00\">(at&nbsp;22:39)<\/time>",
+    "id":"20120511_0_223903",
+    "link":"http:\/\/twitter.com\/posniewski\/status\/201078995960348672",
+    "publishedDate":"2012-05-11T22:39:03+00:00",
+    "source":"twitter",
+    "via":"Twitter",
+    "~orig":
+        {
+        },
+    "~orig.728337349_10150881676212350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150881676212350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150881676212350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=201078995960348672",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "count":0
+                },
+            "created_time":"2012-05-11T22:39:03+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_7567.gif",
+            "id":"728337349_10150881676212350",
+            "message":"Ugh. Stuck on the tarmac in a thunderstorm. Connection seems doubtful. Grrr.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2012-05-11T22:39:03+0000"
+        }
+}

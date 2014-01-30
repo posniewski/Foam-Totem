@@ -1,0 +1,54 @@
+{
+    "id":"20131208_2_182709",
+    "link":"http:\/\/runkeeper.com\/activity?userId=209326&trip=278834735",
+    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
+    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131208_2_182709.jpg",
+    "message":"Nice run today. .",
+    "publishedDate":"2013-12-08T18:27:09+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"RunKeeper",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"62572192129",
+                    "name":"RunKeeper",
+                    "namespace":"runkeeper-og"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"565462843532785",
+                            "title":"3.55mi. run in 34:16",
+                            "type":"fitness.course",
+                            "url":"http:\/\/runkeeper.com\/activity?userId=209326&trip=278834735"
+                        }
+                },
+            "end_time":"2013-12-08T18:21:00+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10152058780917350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":0,
+                    "user_likes":"0"
+                },
+            "message":"Nice run today. .",
+            "no_feed_story":"0",
+            "publish_time":"2013-12-08T18:27:09+0000",
+            "start_time":"2013-12-08T17:47:00+0000",
+            "type":"fitness.runs"
+        }
+}

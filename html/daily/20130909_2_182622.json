@@ -1,0 +1,130 @@
+{
+    "caption":"www.bloomberg.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2013-09-09T18:29:52+0000",
+                        "from":
+                            {
+                                "id":"645652214",
+                                "name":"Joe Schwartz"
+                            },
+                        "id":"10151840002612350_246460202",
+                        "like_count":0,
+                        "message":"But lying is their job! ;)",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"The U.S. government spied on Brazil’s state-controlled oil company, Petroleo Brasileiro SA, Globo TV reported, citing classified documents obtained by former intelligence contractor Edward Snowden.",
+    "id":"20130909_2_182622",
+    "link":"http:\/\/www.bloomberg.com\/news\/2013-09-08\/u-s-government-spied-on-brazil-s-petrobras-globo-tv-reports.html",
+    "message":"\"The department does ***not*** engage in economic espionage in any domain, including cyber.\"\n\nWell, apparently except for all those times it did. I believe that the lying has become significantly more damaging than the actual surveillance. The government needs to get out ahead of this insanity and provide some real transparency to its citizens.",
+    "name":"U.S. Government Spied on Brazil’s Petrobras, Globo TV Reports",
+    "publishedDate":"2013-09-09T18:26:22+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151840002612350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10151840002612350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.bloomberg.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2013-09-09T18:29:52+0000",
+                                "from":
+                                    {
+                                        "id":"645652214",
+                                        "name":"Joe Schwartz"
+                                    },
+                                "id":"10151840002612350_246460202",
+                                "like_count":0,
+                                "message":"But lying is their job! ;)",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MQ==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2013-09-09T18:26:22+0000",
+            "description":"The U.S. government spied on Brazil’s state-controlled oil company, Petroleo Brasileiro SA, Globo TV reported, citing classified documents obtained by former intelligence contractor Edward Snowden.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/static.xx.fbcdn.net\/rsrc.php\/v2\/yq\/r\/SC2ZmEkfI-X.png",
+            "id":"728337349_10151840002612350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                            
+                            {
+                                "id":"645652214",
+                                "name":"Joe Schwartz"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"NjQ1NjUyMjE0",
+                                    "before":"ODkxOTg1NTA1"
+                                }
+                        }
+                },
+            "link":"http:\/\/www.bloomberg.com\/news\/2013-09-08\/u-s-government-spied-on-brazil-s-petrobras-globo-tv-reports.html",
+            "message":"\"The department does ***not*** engage in economic espionage in any domain, including cyber.\"\n\nWell, apparently except for all those times it did. I believe that the lying has become significantly more damaging than the actual surveillance. The government needs to get out ahead of this insanity and provide some real transparency to its citizens.",
+            "name":"U.S. Government Spied on Brazil’s Petrobras, Globo TV Reports",
+            "privacy":
+                {
+                    "allow":"10150348324912350",
+                    "deny":"",
+                    "description":"Everyone",
+                    "friends":"SOME_FRIENDS",
+                    "networks":"",
+                    "value":"CUSTOM"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2013-09-09T18:29:52+0000"
+        }
+}

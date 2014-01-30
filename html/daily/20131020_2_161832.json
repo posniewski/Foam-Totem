@@ -1,0 +1,54 @@
+{
+    "id":"20131020_2_161832",
+    "link":"http:\/\/runmeter.net\/97fad4bc4c98783d\/Run-20131020-0918?r=f",
+    "mapurl":"http:\/\/share.abvio.com\/97fa\/d4bc\/4c98\/783d\/Runmeter-Run-20131020-0918.kml",
+    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131020_2_161832.jpg",
+    "message":"I've been doing very short (~2 mi) distances and exercises (squats, etc) for the past few days, but wanted an actual run today.",
+    "publishedDate":"2013-10-20T16:18:32+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"Runmeter",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"228484446051",
+                    "name":"Runmeter",
+                    "namespace":"runmeter"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"1421534004741344",
+                            "title":"Santa Clara",
+                            "type":"fitness.course",
+                            "url":"http:\/\/runmeter.net\/97fad4bc4c98783d\/Run-20131020-0918?r=f"
+                        }
+                },
+            "end_time":"2013-10-20T17:11:32+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10151929916637350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":0,
+                    "user_likes":"0"
+                },
+            "message":"I've been doing very short (~2 mi) distances and exercises (squats, etc) for the past few days, but wanted an actual run today.",
+            "no_feed_story":"0",
+            "publish_time":"2013-10-20T16:18:32+0000",
+            "start_time":"2013-10-20T16:18:29+0000",
+            "type":"fitness.runs"
+        }
+}

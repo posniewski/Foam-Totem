@@ -1,0 +1,237 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-24T23:04:42+0000",
+                        "from":
+                            {
+                                "id":"1639590449",
+                                "name":"Michael Lewis"
+                            },
+                        "id":"728337349_10150918195887350_22528359",
+                        "message":"I've often wondered why we still program with 'words'. It's certainly not how code looks in my head."
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-24T23:14:39+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10150918195887350_22528442",
+                        "message":"Perhaps you fell into the Javascript trap of (nested anonymous (nested anonymous (nested anonymous functions)))?"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-25T01:32:00+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150918195887350_22529661",
+                        "message":"I've been caught by a couple places where that happens, Joe, but even one level as a function parameter is becoming a blight. (And you often need one level to generate a closure.)"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-25T01:32:28+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150918195887350_22529663",
+                        "message":"Example: \tsocket.on('GetEntity', function(data) { onRequestGetEntity(socket, data); });"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-25T02:55:05+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"728337349_10150918195887350_22530483",
+                        "message":"So, do people write APIs that require closures for userdata because it is the preferred pattern, or vice versa?"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2012-05-25T03:08:19+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"728337349_10150918195887350_22530589",
+                        "message":"For me it's not Javascript, per se, it's nodejs. Its whole purpose in life is asynchronous stuff, so it's really callback heavy. And if you want anything in the scope that you provide the callback in to end up in callback, BANG you get a closure. (Like the one above.)\n\nWas talking to Chris today about having a hard time deciding what the style should be ( K&R braces, cuddle braces, where to put function(), etc.) There's a defacto pattern now, but it's not working really well for me yet.\n\nAlso note that \"function\" also appears in every regular function declaration too, which adds to the chaff.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"891985505",
+                                    "length":5,
+                                    "name":"Chris",
+                                    "offset":285,
+                                    "type":"user"
+                                }
+                            ]
+                    }
+                ]
+        },
+    "id":"20120524_2_222749",
+    "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150918195887350",
+    "message":"Javascript makes me want to use \"λ\" to remove all the \"function\" noise in my code.",
+    "publishedDate":"2012-05-24T22:27:49+00:00",
+    "source":"facebook",
+    "title":null,
+    "type":"status",
+    "via":"Twitter",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150918195887350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"http:\/\/www.facebook.com\/728337349\/posts\/10150918195887350",
+                        "name":"Like"
+                    },
+                    
+                    {
+                        "link":"https:\/\/twitter.com\/posniewski?utm_source=fb&utm_medium=fb&utm_campaign=posniewski&utm_content=205787210090426368",
+                        "name":"@posniewski on Twitter"
+                    }
+                ],
+            "application":
+                {
+                    "id":"2231777543",
+                    "name":"Twitter",
+                    "namespace":"twitter"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-24T23:04:42+0000",
+                                "from":
+                                    {
+                                        "id":"1639590449",
+                                        "name":"Michael Lewis"
+                                    },
+                                "id":"728337349_10150918195887350_22528359",
+                                "message":"I've often wondered why we still program with 'words'. It's certainly not how code looks in my head."
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-24T23:14:39+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10150918195887350_22528442",
+                                "message":"Perhaps you fell into the Javascript trap of (nested anonymous (nested anonymous (nested anonymous functions)))?"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-25T01:32:00+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150918195887350_22529661",
+                                "message":"I've been caught by a couple places where that happens, Joe, but even one level as a function parameter is becoming a blight. (And you often need one level to generate a closure.)"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-25T01:32:28+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150918195887350_22529663",
+                                "message":"Example: \tsocket.on('GetEntity', function(data) { onRequestGetEntity(socket, data); });"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-25T02:55:05+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"728337349_10150918195887350_22530483",
+                                "message":"So, do people write APIs that require closures for userdata because it is the preferred pattern, or vice versa?"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2012-05-25T03:08:19+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"728337349_10150918195887350_22530589",
+                                "message":"For me it's not Javascript, per se, it's nodejs. Its whole purpose in life is asynchronous stuff, so it's really callback heavy. And if you want anything in the scope that you provide the callback in to end up in callback, BANG you get a closure. (Like the one above.)\n\nWas talking to Chris today about having a hard time deciding what the style should be ( K&R braces, cuddle braces, where to put function(), etc.) There's a defacto pattern now, but it's not working really well for me yet.\n\nAlso note that \"function\" also appears in every regular function declaration too, which adds to the chaff.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"891985505",
+                                            "length":5,
+                                            "name":"Chris",
+                                            "offset":285,
+                                            "type":"user"
+                                        }
+                                    ]
+                            }
+                        ],
+                    "paging":
+                        {
+                            "next":"https:\/\/graph.facebook.com\/728337349_10150918195887350\/comments?access_token=202981499713630|f0e29551db76a6dbed4c8d5e.1-728337349|1C7yRomzW6wd2-7ogKO4lZLcdEI&limit=25&offset=25&__after_id=728337349_10150918195887350_22530589"
+                        }
+                },
+            "created_time":"2012-05-24T22:27:49+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbcdn-photos-a.akamaihd.net\/photos-ak-snc7\/v85006\/23\/2231777543\/app_2_2231777543_7567.gif",
+            "id":"728337349_10150918195887350",
+            "message":"Javascript makes me want to use \"λ\" to remove all the \"function\" noise in my code.",
+            "privacy":
+                {
+                    "allow":"0",
+                    "deny":"0",
+                    "description":"Friends of Friends",
+                    "value":"FRIENDS_OF_FRIENDS"
+                },
+            "type":"status",
+            "updated_time":"2012-05-25T03:08:19+0000"
+        }
+}

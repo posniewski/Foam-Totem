@@ -310,11 +310,12 @@
                 ]
         },
     "id":"20120315_2_235704",
-    "image":"https:\/\/fbcdn-sphotos-a.akamaihd.net\/hphotos-ak-ash4\/s720x720\/431481_10150665707604588_187569074587_9059818_84297573_n.jpg",
-    "image_height":"382",
+    "image":"https:\/\/sphotos-b.xx.fbcdn.net\/hphotos-ash4\/s2048x2048\/431481_10150665707604588_84297573_n.jpg",
+    "image_height":"381",
     "image_width":"500",
     "link":"http:\/\/www.facebook.com\/photo.php?fbid=10150665707604588&set=a.434243299587.204713.187569074587&type=1",
     "message":"Daily Mashup . . .",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20120315_2_235704.jpg",
     "publishedDate":"2012-03-15T23:57:04+00:00",
     "source":"facebook",
     "type":"photo",
@@ -385,7 +386,7 @@
             "is_published":"1",
             "likes":
                 {
-                    "count":5,
+                    "count":"5",
                     "data":
                         [
                             

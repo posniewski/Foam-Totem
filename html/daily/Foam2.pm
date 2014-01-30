@@ -270,7 +270,8 @@ sub GetFileList
 	my $dailydir = shift;
 
 	opendir DIR, $dailydir or die "Couldn't open directory.";
-	my @allfiles = reverse map "$dailydir/$_", sort byid grep /\.(json|ph).?$/, readdir DIR;
+	# YYYYMMDD_x_HHMMSS
+	my @allfiles = reverse map "$dailydir/$_", sort byid grep /\d{8}_\d_\d{6}\.(json|ph).?$/, readdir DIR;
 	closedir DIR;
 
 	my $modtime = (stat($allfiles[0]))[9];
@@ -312,7 +313,6 @@ sub GenMonth
 	foreach my $curday (reverse sort keys %stories)
 	{
 		StartDay($fh, $curday);
-
 		foreach my $story (@{$stories{$curday}})
 		{
 			# Skip twitter repeats
@@ -478,7 +478,7 @@ EOSTUFF
 			if($story->{mapurl_cached})
 			{
 #				$s .= qq(<a href="$story->{mapurl}"><img class="map" id="map_$story->{id}" src="$story->{mapurl_cached}" /></a>);
-				my ($url) = $story->{mapurl} =~ m/\?q=(.*)/i;
+				my ($xx, $url) = $story->{mapurl} =~ m/(\?q=)?(.*)/i;
 				$s .= qq[<div class="map" id="map_$story->{id}" ><img class="map" src="$story->{mapurl_cached}" onclick="var map=new google.maps.Map(document.getElementById('map_$story->{id}'\), { mapTypeId: google.maps.MapTypeId.TERRAIN }\);var kml=new google.maps.KmlLayer('$url');kml.setMap(map);"/></div>];
 			}
 			elsif($story->{mapurl})
@@ -508,14 +508,21 @@ EOSTUFF
 #					. qq(</div>\n);
 			}
 			$s .= qq(<div class="message">$message</div>\n)  if($message);
-			$s .= qq(<div class="description">) . Linkify($story->{description}) . qq(</div>\n)   if(exists($story->{description}));
+			if(exists($story->{description}))
+			{
+				$s .= qq(<div class="description">) . Linkify($story->{description}) . qq(</div>\n);
+			}
 		}
 		elsif($story->{type} eq 'photo')
 		{
 			$s .= qq(<div class="message">$message</div>) if($message);
 			$s .= qq(<div class="caption">) . Linkify($story->{caption}) . qq(</div>\n)     if(exists($story->{caption}));
 			$s .= qq(<a href="$story->{link}">)
-				. qq(<img class="facebook" width="$story->{image_width}" height="$story->{image_height}" src="$story->{image}" />)
+				. qq(<img class="facebook" );
+			$s .= qq(width="$story->{image_width}" height="$story->{image_height}" ) if($story->{image_width});
+
+			my $picture = $story->{picture_cached} // $story->{picture} // $story->{image};
+			$s .= qq(src="$picture" />)
 				. qq(</a>\n);
 		}
 		else
@@ -1136,7 +1143,7 @@ sub MainHeader
 
 	print $fh <<'EOSTUFF';
 <header class="main">
-	<h1><a href="http://foamtotem.org"><div class="title" />FOAM TOTEM</div></a></h1>
+	<h1><a href="http://foamtotem.org"><div class="title" /><span class="texttitle">FOAM TOTEM</span></div></a></h1>
 
 	<div id="radio">
 			<img src="/images/wreath.gif"><br>
@@ -1452,7 +1459,7 @@ sub Linkify
 
 	$g_link_finder->find(\$text);
 
-	return $text;
+	return $text || '';
 }
 
 
