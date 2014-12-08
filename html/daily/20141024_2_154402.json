@@ -1,0 +1,176 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-10-25T18:53:58+0000",
+                        "from":
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                        "id":"10152802788802350_10152805571397350",
+                        "like_count":0,
+                        "message":"Where is it worn?  What is your resting hr - right when you wake up? How do you like it and why are you wearing one at all?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-10-25T19:23:51+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10152802788802350_10152805657482350",
+                        "like_count":0,
+                        "message":"Chest strap. Intended use is while running (rather than continuous) to measure actual effort (rather than using pace as a proxy). I'm going to try a lower effort (135ish?) for longer time in an attempt to reduce impact on my increasingly decrepit body. Without the HRM to keep me honest, I tend to go up to 155 or so. (On this run, I purposely ran fast at the end.)\n\nI had one years and years ago and liked it. Dunno what my current resting rate is.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-10-26T11:39:33+0000",
+                        "from":
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                        "id":"10152802788802350_10152807076552350",
+                        "like_count":0,
+                        "message":"You should run farther - consider that the high effort can't be sustained for as long and with 3-4 miles you brain is saying, \"get this over with\". Your body and brain will realize you're going long and slow down.  :) and if your effort is lower, it won't fall apart as much as you think.  Then again, you probably don't want to run that much - I know I don't.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20141024_2_154402",
+    "link":"https:\/\/www.runtastic.com\/sport-sessions\/338718038",
+    "message":"New HRM. Still feeling a bit tired.",
+    "publishedDate":"2014-10-24T15:44:02+00:00",
+    "source":"facebook",
+    "type":"run",
+    "via":"Runtastic.com",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"162918433202",
+                    "name":"Runtastic.com",
+                    "namespace":"runtastic"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-10-25T18:53:58+0000",
+                                "from":
+                                    {
+                                        "id":"778159473",
+                                        "name":"Iwan Axt"
+                                    },
+                                "id":"10152802788802350_10152805571397350",
+                                "like_count":0,
+                                "message":"Where is it worn?  What is your resting hr - right when you wake up? How do you like it and why are you wearing one at all?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-10-25T19:23:51+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152802788802350_10152805657482350",
+                                "like_count":0,
+                                "message":"Chest strap. Intended use is while running (rather than continuous) to measure actual effort (rather than using pace as a proxy). I'm going to try a lower effort (135ish?) for longer time in an attempt to reduce impact on my increasingly decrepit body. Without the HRM to keep me honest, I tend to go up to 155 or so. (On this run, I purposely ran fast at the end.)\n\nI had one years and years ago and liked it. Dunno what my current resting rate is.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-10-26T11:39:33+0000",
+                                "from":
+                                    {
+                                        "id":"778159473",
+                                        "name":"Iwan Axt"
+                                    },
+                                "id":"10152802788802350_10152807076552350",
+                                "like_count":0,
+                                "message":"You should run farther - consider that the high effort can't be sustained for as long and with 3-4 miles you brain is saying, \"get this over with\". Your body and brain will realize you're going long and slow down.  :) and if your effort is lower, it won't fall apart as much as you think.  Then again, you probably don't want to run that much - I know I don't.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE1EY3dOelkxTlRJek5UQTZNVFF4TkRNeU16VTNNem96",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE1EVTFOekV6T1Rjek5UQTZNVFF4TkRJMk16SXpPRG94"
+                                }
+                        }
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"660370510742858",
+                            "title":"a 3.72 mi run in 0h 35m 50s",
+                            "type":"fitness.course",
+                            "url":"https:\/\/www.runtastic.com\/sport-sessions\/338718038"
+                        }
+                },
+            "end_time":"2014-10-24T15:44:02+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10152802788802350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":3,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTEzNDY5MjIxMA==",
+                                    "before":"Nzc4MTU5NDcz"
+                                }
+                        },
+                    "user_likes":"0"
+                },
+            "message":"New HRM. Still feeling a bit tired.",
+            "no_feed_story":"0",
+            "publish_time":"2014-10-24T15:44:02+0000",
+            "start_time":"2014-10-24T15:44:02+0000",
+            "type":"fitness.runs"
+        }
+}

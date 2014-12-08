@@ -1,4 +1,5 @@
 {
+    "caption":"www.strava.com",
     "comments":
         {
             "data":
@@ -47,16 +48,15 @@
                     }
                 ]
         },
-    "content":"Morning run: Should have been more leisurely than it felt",
-    "description":"",
     "id":"20140108_2_171528",
     "link":"http:\/\/www.strava.com\/activities\/104873860",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140108_2_171528.jpg",
+    "message":"didn't feel leisurely but should have. ",
+    "name":"Shannon P.'s 4.2 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-08T17:15:28+00:00",
     "source":"facebook",
-    "title":"",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

@@ -1,0 +1,81 @@
+{
+    "caption":"www.strava.com",
+    "id":"20140719_2_163925",
+    "link":"http:\/\/www.strava.com\/activities\/168007425",
+    "message":"It's gonna be a hot one. ",
+    "name":"Shannon Posniewski's 3.8 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
+    "publishedDate":"2014-07-19T16:39:25+00:00",
+    "source":"facebook",
+    "title":"Morning Run ",
+    "type":"link",
+    "via":"Strava",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"284597785309",
+                    "name":"Strava",
+                    "namespace":"stravainc"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"602384473211463",
+                            "title":"Morning Run - It's gonna be a hot one. - Shannon Posniewski's 3.8 miles run",
+                            "type":"fitness.course",
+                            "url":"http:\/\/www.strava.com\/activities\/168007425"
+                        }
+                },
+            "end_time":"2014-07-19T16:39:25+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10152564555802350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":3,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"1134692210",
+                                "name":"Shelley Day Posniewski"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTM2MTQ3NjMxOA==",
+                                    "before":"MTU1NDAxMDY1OQ=="
+                                }
+                        },
+                    "user_likes":"0"
+                },
+            "no_feed_story":"0",
+            "publish_time":"2014-07-19T16:39:25+0000",
+            "start_time":"2014-07-19T16:39:25+0000",
+            "type":"fitness.runs"
+        }
+}

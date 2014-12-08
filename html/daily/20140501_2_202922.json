@@ -1,0 +1,104 @@
+{
+    "caption":"yahoopolicy.tumblr.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-05-01T23:09:34+0000",
+                        "from":
+                            {
+                                "id":"1050893395",
+                                "name":"Jeff Weinstein"
+                            },
+                        "id":"10152381193542350_10152381483757350",
+                        "like_count":0,
+                        "message":"\"If you don't know what the product is, you are the product\" applies to pretty much every website.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"By Yahoo Privacy Team Here at Yahoo, we work hard to provide our users with a highly personalized experience. We keep people connected to what matters most to them, across devices and around the world. We fundamentally believe the best web is a personalized one. As of today, web browser Do Not Track…",
+    "id":"20140501_2_202922",
+    "link":"http:\/\/yahoopolicy.tumblr.com\/post\/84363620568\/yahoos-default-a-personalized-experience",
+    "message":"I have always thought the whole concept behind \"Do not track\" was flawed. For it to work, it requires web sites to pay attention to a flag that the client sets. But there's no way for to know if they are actually honoring this flag. I just assumed that sites would not do so if there was a buck to be made.\n\nYahoo has announced that they're going to ignore \"Do not track\" settings. Props to them about being up front about it. I hope this kills DNT so people don't have a false sense of security through it.\n\n\"Do not track\" was inherently defective. It should serve as an example of how once the horse is out of the barn, it's too late. We should not be surprised that people can track our movements via plane manifests, fastpass, or IP logs. Policy and legislation can't stop it. (Law can and should restrict what is allowable in a courtroom, but can't stop the actual activity.) The only way to avoid this surveillance is to make sure no footprints are left, which is increasingly unlikely with statistical analysis methods (such as those applied to de-anonymize Tor).",
+    "name":"Yahoo’s Default = A Personalized Experience",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDDIH-Rl5YCwqp4&w=154&h=154&url=http%3A%2F%2F31.media.tumblr.com%2Favatar_d458e594a8af_64.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20140501_2_202922.png",
+    "publishedDate":"2014-05-01T20:29:22+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152381193542350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152381193542350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"yahoopolicy.tumblr.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-05-01T23:09:34+0000",
+                                "from":
+                                    {
+                                        "id":"1050893395",
+                                        "name":"Jeff Weinstein"
+                                    },
+                                "id":"10152381193542350_10152381483757350",
+                                "like_count":0,
+                                "message":"\"If you don't know what the product is, you are the product\" applies to pretty much every website.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MQ==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2014-05-01T20:29:22+0000",
+            "description":"By Yahoo Privacy Team Here at Yahoo, we work hard to provide our users with a highly personalized experience. We keep people connected to what matters most to them, across devices and around the world. We fundamentally believe the best web is a personalized one. As of today, web browser Do Not Track…",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_10152381193542350",
+            "link":"http:\/\/yahoopolicy.tumblr.com\/post\/84363620568\/yahoos-default-a-personalized-experience",
+            "message":"I have always thought the whole concept behind \"Do not track\" was flawed. For it to work, it requires web sites to pay attention to a flag that the client sets. But there's no way to know if they are actually honoring this flag. I just assumed that sites would not do so if there was a buck to be made.\n\nYahoo has announced that they're going to ignore \"Do not track\" settings. Props to them about being up front about it. I hope this kills DNT so people don't have a false sense of security through it.\n\n\"Do not track\" was inherently defective. It should serve as an example of how once the horse is out of the barn, it's too late. We should not be surprised that people can track our movements via plane manifests, fastpass, or IP logs. Policy and legislation can't stop it. (Law can and should restrict what is allowable in a courtroom, but can't stop the actual activity.) The only way to avoid this surveillance is to make sure no footprints are left, which is increasingly unlikely with statistical analysis methods (such as those applied to de-anonymize Tor).",
+            "name":"Yahoo’s Default = A Personalized Experience",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDDIH-Rl5YCwqp4&w=154&h=154&url=http%3A%2F%2F31.media.tumblr.com%2Favatar_d458e594a8af_64.png",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2014-05-01T23:09:34+0000"
+        }
+}

@@ -1,0 +1,159 @@
+{
+    "caption":"www.nanex.net",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-07-17T21:24:20+0000",
+                        "from":
+                            {
+                                "id":"1233103007",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"10152557756767350_10152560604292350",
+                        "like_count":0,
+                        "message":"If only Superman were real.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"We received trade execution reports from an active trader who wanted to know why his large orders almost never completely filled, even when the amount of stock advertised exceeded the number of shares wanted. For example, if 25,000 shares were at the best offer, and he sent in a limit order at the b…",
+    "id":"20140716_2_150027",
+    "link":"http:\/\/www.nanex.net\/aqck2\/4661.html",
+    "message":"When you hear someone say that HFT provides \"liquidity\" please stuff this analysis up their nose.",
+    "name":"Nanex ~ 15-Jul-2014 ~ Perfect Pilfering",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAgDVJVKqQj2e2_&w=154&h=154&url=http%3A%2F%2Fwww.nanex.net%2Faqck2%2F4661%2FFord.Activity.20140711.094755.png",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20140716_2_150027.png",
+    "publishedDate":"2014-07-16T15:00:27+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook for Android",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152557756767350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152557756767350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"350685531728",
+                    "name":"Facebook for Android",
+                    "namespace":"fbandroid"
+                },
+            "caption":"www.nanex.net",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-07-17T21:24:20+0000",
+                                "from":
+                                    {
+                                        "id":"1233103007",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"10152557756767350_10152560604292350",
+                                "like_count":0,
+                                "message":"If only Superman were real.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MQ==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2014-07-16T15:00:27+0000",
+            "description":"We received trade execution reports from an active trader who wanted to know why his large orders almost never completely filled, even when the amount of stock advertised exceeded the number of shares wanted. For example, if 25,000 shares were at the best offer, and he sent in a limit order at the b…",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yD\/r\/aS8ecmYRys0.gif",
+            "id":"728337349_10152557756767350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1527878955",
+                                "name":"Jim Harrigan"
+                            },
+                            
+                            {
+                                "id":"1564660698",
+                                "name":"Bob Gilmore"
+                            },
+                            
+                            {
+                                "id":"1047446077",
+                                "name":"Dennis Lynch"
+                            },
+                            
+                            {
+                                "id":"1514060",
+                                "name":"Lincoln Hamilton"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"1050893395",
+                                "name":"Jeff Weinstein"
+                            },
+                            
+                            {
+                                "id":"1708109",
+                                "name":"Jeff Hamilton"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTcwODEwOQ==",
+                                    "before":"MTUyNzg3ODk1NQ=="
+                                }
+                        }
+                },
+            "link":"http:\/\/www.nanex.net\/aqck2\/4661.html",
+            "message":"When you hear someone say that HFT provides \"liquidity\" please stuff this analysis up their nose.",
+            "name":"Nanex ~ 15-Jul-2014 ~ Perfect Pilfering",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQAgDVJVKqQj2e2_&w=154&h=154&url=http%3A%2F%2Fwww.nanex.net%2Faqck2%2F4661%2FFord.Activity.20140711.094755.png",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2014-07-17T21:24:20+0000"
+        }
+}

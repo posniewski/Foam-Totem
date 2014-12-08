@@ -242,7 +242,11 @@ sub GetFacebook()
 	);
 
 #	$fb->access_token('CAAC4nFAvuF4BAImlXAJahOPgUwxXP5ZA0U5ZBWTpGt4XXLTxoPS0PZApE5I9w99ZAFLtHyjszXPAPBn6TEBHk0e6V81XDZBHEWtXwNSRdpgHHQbnBD07OxdmIvoM7FQcTVk9wjk7VBxGoDtSqffJCDZAeWFSmRTb9Yn5fzYl2LmGu24SZCHnOZBg');
-	$fb->access_token('CAAC4nFAvuF4BAKyIt6lDZCZAhCZCnEdHXLZBoL129XruxJl8JwkTwwsshdG2nKYC83o6V1HxtZAMl5KEGmeyq7UBW0ZCZAxZCs2LTjdH0Ffjv3MZBdwlRZCniij7gEu9H77mW8p9WgOmTsqNq6DFPvuz6uur0OWpIqNFtCbDKEZBACwJEYPtJ9P8NqC');
+#	$fb->access_token('CAAC4nFAvuF4BAKyIt6lDZCZAhCZCnEdHXLZBoL129XruxJl8JwkTwwsshdG2nKYC83o6V1HxtZAMl5KEGmeyq7UBW0ZCZAxZCs2LTjdH0Ffjv3MZBdwlRZCniij7gEu9H77mW8p9WgOmTsqNq6DFPvuz6uur0OWpIqNFtCbDKEZBACwJEYPtJ9P8NqC');
+#	$fb->access_token('CAAC4nFAvuF4BAOkkatIjQEHN64na41rGbZAKHQYS9Fz1BDb46mydIBfoFPeBUP6VgyGlISu2aCgoegpN8p51Osd78YA9Bc8BoObgQLaITVLgvQ09kYrX2zEyDH9kvhgCpa8ZAyZA4fZBJepfC1qwPVGoqRUjCZASRpgSkDazXDZAeLMtalOZBZAP');
+#	$fb->access_token('CAAC4nFAvuF4BAKXplagR1uUrCUvOnEt7vppjV2wfz4kfouKYqpCzaIhv62hC7GpWa6ZC4Pb2I5R5Jm4cgTWN0DL250KSeauhYFmJcTLwV27ApJAfdPdYZCdmYOALg5XCeXIAgJQZAhlnLVA7mIqbodI3PPOarDltc4KJKkoM8aXK6XPtPIc');
+#	$fb->access_token('CAAC4nFAvuF4BAE5dbLSg9Cj1kmKFMa7VPgREHfVwjoqKNjYnzEQxuSE7VNVm5cQNJmgDztsfwTojDLZBTtr8Rm2ZBH5CtwDyax40lxT8foWU8QuIzn7WD2eb1VNiR0iVbKUB2fJww59LUjKWGcjsyKbZBvwZBCjAh38MLz7SUZCnzUxGvbTMlJv7BPkGG7n3jQZBkVSZBqDxQZDZD');
+	$fb->access_token('CAAC4nFAvuF4BAP9t12mjKZCZCFmRQGrX8gNZBZCGCNZCVTXBINHhVGYFJYCVVQt4rWZBz6XW70CkhrPH4serynQuFPEZCdVnQbz56kTRKqZBOV3zcnDUFckCppZBsphSrOjlX9xPxeNrRsim7O2rwiWtpZCho117QwysJlA6jdV0V5nNZAQzP80roy1HN3NCVCeZBPjSochuEA96xgZDZD');
 	return $fb;
 }
 
@@ -267,15 +271,15 @@ sub PeriodicUpdate()
 	my $resp1 = $fb->query
 		->find('posniewski/posts')
 		->limit_results(10)
-#		->where_until('08 Oct 2012')
+#		->where_since('06 Nov 2014')
 		->include_metadata
 		->request
 		->as_hashref;
 
 	my $resp2 = $fb->query
 		->find('posniewski/fitness.runs')
-		->limit_results(2)
-#		->where_until('08 Oct 2012')
+		->limit_results(5)
+		->where_since('20 Nov 2014')
 		->include_metadata
 		->request
 		->as_hashref;
@@ -290,7 +294,7 @@ sub PeriodicUpdate()
 
 		my $foam_id = GetYYYYMMDD_2_HHMMSS($year, $mon, $day, $hh, $mm, $ss);
 
-		next if($year<2011);
+		next if($year<2014);
 
 		my $entry = undef;
 		my $phfile = '/home/www/html/daily/'.$foam_id.'.json';
@@ -338,11 +342,11 @@ sub PeriodicUpdate()
 			}
 			elsif($post->{type} eq 'photo')
 			{
-				if(!defined($post->{message}) && defined($post->{story}))
-				{
-					print "\tPhoto with no message (Someone tagged me, I think.) Skipping.\n";
-					next;
-				}
+				#if(!defined($post->{message}) && defined($post->{story}))
+				#{
+				#	print "\tPhoto with no message (Someone tagged me, I think.) Skipping.\n";
+				#	next;
+				#}
 
 				print "\tNew photo entry: $phfile\n";
 
@@ -452,7 +456,45 @@ sub PeriodicUpdate()
 				# http://runmeter.net/97fad4bc4c98783d/Run-20130809-0819?r=f
 				# http://share.abvio.com/97fa/d4bc/4c98/783d/Runmeter-Run-20130809-0819.kml
 				my ($a, $b, $c, $d, $e) = $entry->{link} =~ m[.*runmeter.net/(....)(....)(....)(....)/([^?]+)];
-				$entry->{mapurl} = "http://share.abvio.com/" . $a . "/" . $b . "/" . $c . "/" . $d . "/Runmeter-" . $e . ".kml";
+				if($a)
+				{
+					$entry->{mapurl} = "http://share.abvio.com/" . $a . "/" . $b . "/" . $c . "/" . $d . "/Runmeter-" . $e . ".kml";
+				}
+				elsif($entry->{via} =~ m/strava/i)
+				{
+					$entry->{type} = 'link';
+					if($post->{data}->{course}->{title})
+					{
+						($a, $b, $c) = $post->{data}->{course}->{title} =~ m/([^-]*)\s*-\s*([^-]*)\s*-?\s*(.*)\s*/;
+						$entry->{title} = $a if($a);
+						$entry->{caption} = 'www.strava.com';
+						$entry->{picture_cached} = 'http://foamtotem.org/daily/strava.png';
+						if($c)
+						{
+							$entry->{name} = $c;
+							$entry->{message} = $b;
+						}
+						else
+						{
+							$entry->{name} = $b;
+							$entry->{message} = $b;
+						}
+					}
+
+					if(!$entry->{message} && $post->{data}->{course}->{title})
+					{
+						$entry->{message} = $post->{data}->{course}->{title};
+					}
+				}
+				elsif($entry->{via} =~ m/runtastic/i)
+				{
+					$entry->{type} = 'link';
+					my ($dist, $type, $time) = $post->{data}->{course}->{title} =~ m/a (.*) mi (.*) in (.*)/;
+					$entry->{name} = "Ran ".$dist." in ".$time;
+					$entry->{picture_cached} = 'http://foamtotem.org/daily/runtastic.png';
+					$entry->{description} = $entry->{message};
+					$entry->{message} = '';
+				}
 			}
 			else
 			{
@@ -611,8 +653,19 @@ sub PeriodicUpdate()
 		if($entry->{type} eq 'run')
 		{
 			$entry->{message} = $post->{message}     if(exists($post->{message}));
+
+			if(!$entry->{message} && $post->{data}->{course}->{title})
+			{
+				$entry->{message} = $post->{data}->{course}->{title};
+			}
 		}
 
+		# Clear our bad kml stuff
+		if(exists($entry->{mapurl}) && $entry->{mapurl} eq 'http://share.abvio.com/////Runmeter-.kml')
+		{
+			delete $entry->{mapurl};
+			delete $entry->{mapurl_cached};
+		}
 
 		# Do a fixup on runs to cache their map image
 		if(exists($entry->{mapurl})) # && !exists($entry->{mapurl_cached}))

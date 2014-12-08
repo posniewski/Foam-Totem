@@ -1,14 +1,14 @@
 {
-    "content":"Morning run",
-    "description":"",
+    "caption":"www.strava.com",
     "id":"20140103_2_171715",
     "link":"http:\/\/www.strava.com\/activities\/103736857",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140103_2_171715.jpg",
+    "message":"Shannon P.'s 3.6 miles run",
+    "name":"Shannon P.'s 3.6 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-03T17:17:15+00:00",
     "source":"facebook",
-    "title":"",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {
@@ -22,7 +22,7 @@
                 {
                     "can_comment":"1",
                     "comment_order":"chronological",
-                    "count":"0"
+                    "count":0
                 },
             "data":
                 {
@@ -44,7 +44,7 @@
             "likes":
                 {
                     "can_like":"1",
-                    "count":"8",
+                    "count":8,
                     "data":
                         [
                             

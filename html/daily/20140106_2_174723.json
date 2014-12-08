@@ -1,4 +1,5 @@
 {
+    "caption":"www.strava.com",
     "comments":
         {
             "data":
@@ -19,16 +20,15 @@
                     }
                 ]
         },
-    "content":"Morning run",
-    "description":"",
     "id":"20140106_2_174723",
     "link":"http:\/\/www.strava.com\/activities\/104462976",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140106_2_174723.jpg",
+    "message":"his sinuses unfurled ",
+    "name":"Shannon P.'s 3.1 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-06T17:47:23+00:00",
     "source":"facebook",
-    "title":"",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

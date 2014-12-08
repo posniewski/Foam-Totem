@@ -1,0 +1,306 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T04:18:54+0000",
+                        "from":
+                            {
+                                "id":"722970935",
+                                "name":"Randy Mosiondz"
+                            },
+                        "id":"10152623285842350_10152623289262350",
+                        "like_count":0,
+                        "message":"I know, right?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T04:20:37+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10152623285842350_10152623290962350",
+                        "like_count":2,
+                        "message":"Maybe it's the \"American Spring\"?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T04:52:39+0000",
+                        "from":
+                            {
+                                "id":"1074936085",
+                                "name":"Denis Korkh"
+                            },
+                        "id":"10152623285842350_10152623319952350",
+                        "like_count":1,
+                        "message":"\"This is Ferguson!\" *kick*",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T05:03:41+0000",
+                        "from":
+                            {
+                                "id":"1074936085",
+                                "name":"Denis Korkh"
+                            },
+                        "id":"10152623285842350_10152623329717350",
+                        "like_count":1,
+                        "message":"Retract.  That's madness.",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T09:58:02+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10152623285842350_10152623615062350",
+                        "like_count":0,
+                        "message":"Wow. Compare the Twitter coverage with NYT\/ Boston Globe, for the past few days. I see it's now front page on NYT, but seems like it took a few days. I think yours is the 1st FB post I've read about it-- my feed has been awash in Robin Williams\/ ALS ice cubes\/ Lauren Bacall. (i don't watch tv news for the most part... I assume coverage has been sparse\/ non-existent?) Matt Stauffer comments on why: http:\/\/t.co\/AHwruFwwOb",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T10:03:50+0000",
+                        "from":
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                        "id":"10152623285842350_10152623622387350",
+                        "like_count":0,
+                        "message":"And: http:\/\/www.boston.com\/news\/nation\/2014\/08\/13\/washington-post-reporter-wesley-lowery-arrested-ferguson\/HZT5nQ24ok8XFukceoZ4SJ\/story.html?p1=ClickedOnBreakingNewsBox",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-08-14T10:14:12+0000",
+                        "from":
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                        "id":"10152623285842350_10152623631847350",
+                        "like_count":0,
+                        "message":"My fb and twitter feed have been swamped with this since it started.  Wish I had shared earlier.  It's fucked up.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20140814_2_041602",
+    "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152623285842350",
+    "message":"Holy crap, what is going on in Ferguson, MO?! This is madness.\nhttps:\/\/twitter.com\/search?q=%23Ferguson",
+    "publishedDate":"2014-08-14T04:16:02+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook for Android",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152623285842350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152623285842350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"350685531728",
+                    "name":"Facebook for Android",
+                    "namespace":"fbandroid"
+                },
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T04:18:54+0000",
+                                "from":
+                                    {
+                                        "id":"722970935",
+                                        "name":"Randy Mosiondz"
+                                    },
+                                "id":"10152623285842350_10152623289262350",
+                                "like_count":0,
+                                "message":"I know, right?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T04:20:37+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152623285842350_10152623290962350",
+                                "like_count":2,
+                                "message":"Maybe it's the \"American Spring\"?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T04:52:39+0000",
+                                "from":
+                                    {
+                                        "id":"1074936085",
+                                        "name":"Denis Korkh"
+                                    },
+                                "id":"10152623285842350_10152623319952350",
+                                "like_count":1,
+                                "message":"\"This is Ferguson!\" *kick*",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T05:03:41+0000",
+                                "from":
+                                    {
+                                        "id":"1074936085",
+                                        "name":"Denis Korkh"
+                                    },
+                                "id":"10152623285842350_10152623329717350",
+                                "like_count":1,
+                                "message":"Retract.  That's madness.",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T09:58:02+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10152623285842350_10152623615062350",
+                                "like_count":0,
+                                "message":"Wow. Compare the Twitter coverage with NYT\/ Boston Globe, for the past few days. I see it's now front page on NYT, but seems like it took a few days. I think yours is the 1st FB post I've read about it-- my feed has been awash in Robin Williams\/ ALS ice cubes\/ Lauren Bacall. (i don't watch tv news for the most part... I assume coverage has been sparse\/ non-existent?) Matt Stauffer comments on why: http:\/\/t.co\/AHwruFwwOb",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T10:03:50+0000",
+                                "from":
+                                    {
+                                        "id":"1361476318",
+                                        "name":"Michele Liguori"
+                                    },
+                                "id":"10152623285842350_10152623622387350",
+                                "like_count":0,
+                                "message":"And: http:\/\/www.boston.com\/news\/nation\/2014\/08\/13\/washington-post-reporter-wesley-lowery-arrested-ferguson\/HZT5nQ24ok8XFukceoZ4SJ\/story.html?p1=ClickedOnBreakingNewsBox",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-08-14T10:14:12+0000",
+                                "from":
+                                    {
+                                        "id":"770382751",
+                                        "name":"Jenn Jumper"
+                                    },
+                                "id":"10152623285842350_10152623631847350",
+                                "like_count":0,
+                                "message":"My fb and twitter feed have been swamped with this since it started.  Wish I had shared earlier.  It's fucked up.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"Nw==",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2014-08-14T04:16:02+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10152623285842350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"746887597",
+                                "name":"Christopher Carlough"
+                            },
+                            
+                            {
+                                "id":"1286212367",
+                                "name":"Ed Raber"
+                            },
+                            
+                            {
+                                "id":"1708109",
+                                "name":"Jeff Hamilton"
+                            },
+                            
+                            {
+                                "id":"1384816520",
+                                "name":"Dawn Yates Gerlica"
+                            },
+                            
+                            {
+                                "id":"17503797",
+                                "name":"Nellie Hughes"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTc1MDM3OTc=",
+                                    "before":"NzQ2ODg3NTk3"
+                                }
+                        }
+                },
+            "message":"Holy crap, what is going on in Ferguson, MO?! This is madness.\nhttps:\/\/twitter.com\/search?q=%23Ferguson",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"mobile_status_update",
+            "type":"status",
+            "updated_time":"2014-08-14T10:14:12+0000"
+        }
+}

@@ -87,7 +87,7 @@
 				$snippet = substr(Foam2::untag($entry->{content}), 0, 200);
 			}
 
-			if($snippet =~ m/(.*[.])/)
+			if($snippet =~ m/(.*[.])\s/)
 			{
 				$snippet = $1;
 			}

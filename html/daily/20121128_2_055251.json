@@ -7,29 +7,29 @@
                     
                     {
                         "can_remove":"1",
-                        "created_time":"2012-11-28T05:54:28+0000",
+                        "created_time":"2014-11-29T18:08:51+0000",
                         "from":
                             {
                                 "id":"728337349",
                                 "name":"Shannon Posniewski"
                             },
-                        "id":"728337349_447395865307117_4878260",
+                        "id":"10152879267372350_10152879268297350",
                         "like_count":0,
-                        "message":"You should also check this out, BTW. Try \"Bing Crosby\" or \"Nat King Cole\" or your favorite holiday artist if you're looking for something Foamy.\nhttp:\/\/static.echonest.com\/demo\/xmas.html",
+                        "message":"For those of you with a Google Music pass, I think this link (which has some more songs in it) also works:\nhttps:\/\/play.google.com\/music\/playlist\/AMaBXykahWnXTg3H5zKskjE-NAs4EkM_1G52wfLphfbDBH0FlH4LvzrkfagLDBUGz0YChkF5INlIroxts4il6tx_Fj9ARI2Gzg==",
                         "user_likes":"0"
                     },
                     
                     {
                         "can_remove":"1",
-                        "created_time":"2012-11-28T06:01:32+0000",
+                        "created_time":"2014-11-30T16:17:51+0000",
                         "from":
                             {
-                                "id":"1564660698",
-                                "name":"Bob Gilmore"
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
                             },
-                        "id":"728337349_447395865307117_4878272",
-                        "like_count":1,
-                        "message":"Hooray!  Foamy Christmas Radio returns!",
+                        "id":"10152879267372350_10152881156742350",
+                        "like_count":0,
+                        "message":"Lastly, if you go to http:\/\/foamtotem.org, there's a player at the top of the page. So, no excuses for no Christmas music!",
                         "user_likes":"0"
                     }
                 ]
@@ -72,7 +72,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"728337349_447395865307117_4878260",
-                                "like_count":0,
+                                "like_count":"0",
                                 "message":"You should also check this out, BTW. Try \"Bing Crosby\" or \"Nat King Cole\" or your favorite holiday artist if you're looking for something Foamy.\nhttp:\/\/static.echonest.com\/demo\/xmas.html",
                                 "user_likes":"0"
                             },
@@ -86,7 +86,7 @@
                                         "name":"Bob Gilmore"
                                     },
                                 "id":"728337349_447395865307117_4878272",
-                                "like_count":1,
+                                "like_count":"1",
                                 "message":"Hooray!  Foamy Christmas Radio returns!",
                                 "user_likes":"0"
                             }
@@ -106,7 +106,7 @@
             "id":"728337349_447395865307117",
             "likes":
                 {
-                    "count":7,
+                    "count":"7",
                     "data":
                         [
                             
@@ -146,5 +146,144 @@
             "status_type":"shared_story",
             "type":"link",
             "updated_time":"2012-11-28T06:01:32+0000"
+        },
+    "~orig.728337349_10152879267372350":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152879267372350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152879267372350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                },
+            "caption":"foamtotem.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-11-29T18:08:51+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152879267372350_10152879268297350",
+                                "like_count":0,
+                                "message":"For those of you with a Google Music pass, I think this link (which has some more songs in it) also works:\nhttps:\/\/play.google.com\/music\/playlist\/AMaBXykahWnXTg3H5zKskjE-NAs4EkM_1G52wfLphfbDBH0FlH4LvzrkfagLDBUGz0YChkF5INlIroxts4il6tx_Fj9ARI2Gzg==",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-11-30T16:17:51+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152879267372350_10152881156742350",
+                                "like_count":0,
+                                "message":"Lastly, if you go to http:\/\/foamtotem.org, there's a player at the top of the page. So, no excuses for no Christmas music!",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9ERXhOVFkzTkRJek5UQTZNVFF4TnpNMk5ESTNNVG90TVE9PQ==",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE56a3lOamd5T1Rjek5UQTZNVFF4TnpJNE5EVXpNVG90TVE9PQ=="
+                                }
+                        }
+                },
+            "created_time":"2014-11-29T18:08:15+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/nAApRnfWfNW.gif",
+            "id":"728337349_10152879267372350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"645554134",
+                                "name":"Marcel Parnas"
+                            },
+                            
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                            
+                            {
+                                "id":"634898579",
+                                "name":"Kat O'Leary"
+                            },
+                            
+                            {
+                                "id":"1551470973",
+                                "name":"Maureen Sherman"
+                            },
+                            
+                            {
+                                "id":"1384816520",
+                                "name":"Dawn Yates Gerlica"
+                            },
+                            
+                            {
+                                "id":"100002818047778",
+                                "name":"Elke Blaetz"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"NzcwMzgyNzUx",
+                                    "before":"NjQ1NTU0MTM0"
+                                }
+                        }
+                },
+            "link":"http:\/\/foamtotem.org\/radio\/christmas_low\/?option=shuffle&action=playall",
+            "message":"Foamy Christmas Radio is live.",
+            "name":"foamtotem.org",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2014-11-30T16:17:51+0000"
         }
 }

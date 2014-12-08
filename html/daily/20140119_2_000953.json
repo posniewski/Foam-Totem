@@ -1,4 +1,5 @@
 {
+    "caption":"www.strava.com",
     "comments":
         {
             "data":
@@ -21,11 +22,13 @@
         },
     "id":"20140119_2_000953",
     "link":"http:\/\/www.strava.com\/activities\/107316374",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140119_2_000953.jpg",
+    "message":"warm summer run. WAT?! IT'S JANUARY! ",
+    "name":"Shannon P.'s 4.8 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-19T00:09:53+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Afternoon Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

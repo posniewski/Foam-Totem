@@ -1,4 +1,5 @@
 {
+    "caption":"www.strava.com",
     "comments":
         {
             "data":
@@ -21,11 +22,13 @@
         },
     "id":"20140129_2_172519",
     "link":"http:\/\/www.strava.com\/activities\/109774129",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140129_2_172519.jpg",
+    "message":"humid! Hurray for CA! Boo for running! ",
+    "name":"Shannon Posniewski's 4.8 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-29T17:25:19+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

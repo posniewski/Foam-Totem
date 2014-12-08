@@ -1,12 +1,14 @@
 {
+    "caption":"www.strava.com",
     "id":"20131228_2_184830",
     "link":"http:\/\/www.strava.com\/activities\/102411969",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131228_2_184830.jpg",
-    "message":"Afternoon NY Run",
+    "message":"Shannon P.'s 3.8 miles run",
+    "name":"Shannon P.'s 3.8 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2013-12-28T18:48:30+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Afternoon NY Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

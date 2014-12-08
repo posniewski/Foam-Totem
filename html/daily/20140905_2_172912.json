@@ -1,0 +1,81 @@
+{
+    "caption":"www.strava.com",
+    "id":"20140905_2_172912",
+    "link":"http:\/\/www.strava.com\/activities\/190234307",
+    "message":"Must be darker in the morning, I keep getting up late. ",
+    "name":"Shannon Posniewski's 4.3 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
+    "publishedDate":"2014-09-05T17:29:12+00:00",
+    "source":"facebook",
+    "title":"Morning Run ",
+    "type":"link",
+    "via":"Strava",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"284597785309",
+                    "name":"Strava",
+                    "namespace":"stravainc"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"905676056127872",
+                            "title":"Morning Run - Must be darker in the morning, I keep getting up late. - Shannon Posniewski's 4.3 miles run",
+                            "type":"fitness.course",
+                            "url":"http:\/\/www.strava.com\/activities\/190234307"
+                        }
+                },
+            "end_time":"2014-09-05T17:29:12+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10152683454667350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":3,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"645554134",
+                                "name":"Marcel Parnas"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTU1NDAxMDY1OQ==",
+                                    "before":"NjQ1NTU0MTM0"
+                                }
+                        },
+                    "user_likes":"0"
+                },
+            "no_feed_story":"0",
+            "publish_time":"2014-09-05T17:29:12+0000",
+            "start_time":"2014-09-05T17:29:12+0000",
+            "type":"fitness.runs"
+        }
+}

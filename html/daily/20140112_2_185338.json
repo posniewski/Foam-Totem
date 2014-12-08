@@ -1,4 +1,5 @@
 {
+    "caption":"www.strava.com",
     "comments":
         {
             "data":
@@ -21,11 +22,13 @@
         },
     "id":"20140112_2_185338",
     "link":"http:\/\/www.strava.com\/activities\/105893322",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20140112_2_185338.jpg",
+    "message":"nice California winter day ",
+    "name":"Shannon P.'s 4.1 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2014-01-12T18:53:38+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

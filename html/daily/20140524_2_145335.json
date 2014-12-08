@@ -1,0 +1,81 @@
+{
+    "caption":"www.strava.com",
+    "id":"20140524_2_145335",
+    "link":"http:\/\/www.strava.com\/activities\/144960682",
+    "message":"Ugh. Gastric distress. ",
+    "name":"Shannon Posniewski's 2.8 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
+    "publishedDate":"2014-05-24T14:53:35+00:00",
+    "source":"facebook",
+    "title":"Morning Run ",
+    "type":"link",
+    "via":"Strava",
+    "~orig":
+        {
+            "application":
+                {
+                    "id":"284597785309",
+                    "name":"Strava",
+                    "namespace":"stravainc"
+                },
+            "comments":
+                {
+                    "can_comment":"1",
+                    "comment_order":"chronological",
+                    "count":0
+                },
+            "data":
+                {
+                    "course":
+                        {
+                            "id":"570074653110796",
+                            "title":"Morning Run - Ugh. Gastric distress. - Shannon Posniewski's 2.8 miles run",
+                            "type":"fitness.course",
+                            "url":"http:\/\/www.strava.com\/activities\/144960682"
+                        }
+                },
+            "end_time":"2014-05-24T14:53:35+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"10152431715567350",
+            "likes":
+                {
+                    "can_like":"1",
+                    "count":3,
+                    "data":
+                        [
+                            
+                            {
+                                "id":"713061434",
+                                "name":"Frank Zardezed"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTU1NDAxMDY1OQ==",
+                                    "before":"NzEzMDYxNDM0"
+                                }
+                        },
+                    "user_likes":"0"
+                },
+            "no_feed_story":"0",
+            "publish_time":"2014-05-24T14:53:35+0000",
+            "start_time":"2014-05-24T14:53:35+0000",
+            "type":"fitness.runs"
+        }
+}

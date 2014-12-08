@@ -1,0 +1,517 @@
+{
+    "caption":"www.reuters.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T04:24:00+0000",
+                        "from":
+                            {
+                                "id":"100005721404483",
+                                "name":"Graham West"
+                            },
+                        "id":"10152307228042350_248933826",
+                        "like_count":1,
+                        "message":"I need to read more of his books. Liar's Poker was great.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T05:35:18+0000",
+                        "from":
+                            {
+                                "id":"594494743",
+                                "name":"Melissa Bianco"
+                            },
+                        "id":"10152307228042350_248934228",
+                        "like_count":0,
+                        "message":"I like rants sometimes.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T06:55:30+0000",
+                        "from":
+                            {
+                                "id":"647869575",
+                                "name":"Alan Salmassian"
+                            },
+                        "id":"10152307228042350_248934634",
+                        "like_count":0,
+                        "message":"That's not our Michael Lewis, is it?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T07:10:10+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10152307228042350_248934711",
+                        "like_count":0,
+                        "message":"^",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T12:21:04+0000",
+                        "from":
+                            {
+                                "id":"778159473",
+                                "name":"Iwan Axt"
+                            },
+                        "id":"10152307228042350_248936672",
+                        "like_count":0,
+                        "message":"I thought your rant was about how the markets themselves are rigged. This is just guys using technology to squeeze people \"legally\". Though it is quite reminiscent of a \"wire\" con.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T13:38:08+0000",
+                        "from":
+                            {
+                                "id":"707102545",
+                                "name":"John Reilly"
+                            },
+                        "id":"10152307228042350_248937360",
+                        "like_count":0,
+                        "message":"Definitely need a transaction tax.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T14:09:20+0000",
+                        "from":
+                            {
+                                "id":"594494743",
+                                "name":"Melissa Bianco"
+                            },
+                        "id":"10152307228042350_248937649",
+                        "like_count":0,
+                        "message":"I wondered the same thing, Alan.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T14:37:20+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10152307228042350_248937930",
+                        "like_count":0,
+                        "message":"Not our Michael. This one is a pretty famous author, know for Liar's Poker and Moneyball.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"1639590449",
+                                    "length":7,
+                                    "name":"Michael",
+                                    "offset":8,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T14:43:27+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10152307228042350_248937994",
+                        "like_count":2,
+                        "message":"Iwan, I won't deny that the markets are rigged, but this rant is against something straightforward, obvious, and clearly fixable that STILL defies effective regulation. It's absurd.\n\nMy full rant on the financial industry is much too long (and profane) to post on Facebook.",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"778159473",
+                                    "length":4,
+                                    "name":"Iwan",
+                                    "offset":0,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T15:09:28+0000",
+                        "from":
+                            {
+                                "id":"1437561524",
+                                "name":"Matt Miller"
+                            },
+                        "id":"10152307228042350_248938271",
+                        "like_count":0,
+                        "message":"I see the same thing in MMOs. Players ask for a feature that on the surface looks like it is a betterment to all involved, and then when they get their hands on the feature, they find an exploit (either on accident, or that was their entire plan all along). When people start to notice the exploit and call for the feature to be fixed, the exploiters fire back with the original argument that the feature is better than what we had previously.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T15:41:12+0000",
+                        "from":
+                            {
+                                "id":"1050893395",
+                                "name":"Jeff Weinstein"
+                            },
+                        "id":"10152307228042350_248938565",
+                        "like_count":1,
+                        "message":"If only the regulators were not all former or future employees of wall street firms..",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-03-31T16:07:16+0000",
+                        "from":
+                            {
+                                "id":"1394434850",
+                                "name":"Andrew Gosden"
+                            },
+                        "id":"10152307228042350_248938823",
+                        "like_count":0,
+                        "message":"Information asymmetry that can only be taken advantage of by computer algorithms.   Hope you hire the right programmers or you can go broke quickly.   I think Nate Silver's book has a chapter on how the increased liquidity also comes with increased instability.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"NEW YORK (Reuters) - The U.S. stock market is rigged in favor of high-speed electronic trading firms, which use their advantages to extract billions from investors, according to Michael Lewis, author of",
+    "id":"20140331_2_041037",
+    "link":"http:\/\/www.reuters.com\/article\/2014\/03\/31\/us-markets-hft-flashboys-idUSBREA2U03D20140331",
+    "message":"<rant, just skip this post.>\nProof #12,736 of how the financial industry is out of control. There are several ways to fix this particular problem right now, none of which outlaw HFT. The easiest and simplest (and maybe even fairest) would be a tiny fee on every order. But doing so would magically DESTROY THE MARKET, and there would be RUIN and DISASTER-- if you listen to those who are making huge sums doing this.\n\nI want to say \"The only winning move is not to play\", but even that move is a loser. Remember when you could have a savings account that returned interest? Not any more, because they broke it.  Grumble grumble.\n<\/rant>",
+    "name":"U.S. stock markets are rigged, says author Michael Lewis",
+    "publishedDate":"2014-03-31T04:10:37+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152307228042350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152307228042350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"www.reuters.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T04:24:00+0000",
+                                "from":
+                                    {
+                                        "id":"100005721404483",
+                                        "name":"Graham West"
+                                    },
+                                "id":"10152307228042350_248933826",
+                                "like_count":1,
+                                "message":"I need to read more of his books. Liar's Poker was great.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T05:35:18+0000",
+                                "from":
+                                    {
+                                        "id":"594494743",
+                                        "name":"Melissa Bianco"
+                                    },
+                                "id":"10152307228042350_248934228",
+                                "like_count":0,
+                                "message":"I like rants sometimes.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T06:55:30+0000",
+                                "from":
+                                    {
+                                        "id":"647869575",
+                                        "name":"Alan Salmassian"
+                                    },
+                                "id":"10152307228042350_248934634",
+                                "like_count":0,
+                                "message":"That's not our Michael Lewis, is it?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T07:10:10+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10152307228042350_248934711",
+                                "like_count":0,
+                                "message":"^",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T12:21:04+0000",
+                                "from":
+                                    {
+                                        "id":"778159473",
+                                        "name":"Iwan Axt"
+                                    },
+                                "id":"10152307228042350_248936672",
+                                "like_count":0,
+                                "message":"I thought your rant was about how the markets themselves are rigged. This is just guys using technology to squeeze people \"legally\". Though it is quite reminiscent of a \"wire\" con.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T13:38:08+0000",
+                                "from":
+                                    {
+                                        "id":"707102545",
+                                        "name":"John Reilly"
+                                    },
+                                "id":"10152307228042350_248937360",
+                                "like_count":0,
+                                "message":"Definitely need a transaction tax.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T14:09:20+0000",
+                                "from":
+                                    {
+                                        "id":"594494743",
+                                        "name":"Melissa Bianco"
+                                    },
+                                "id":"10152307228042350_248937649",
+                                "like_count":0,
+                                "message":"I wondered the same thing, Alan.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T14:37:20+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152307228042350_248937930",
+                                "like_count":0,
+                                "message":"Not our Michael. This one is a pretty famous author, know for Liar's Poker and Moneyball.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"1639590449",
+                                            "length":7,
+                                            "name":"Michael",
+                                            "offset":8,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T14:43:27+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10152307228042350_248937994",
+                                "like_count":2,
+                                "message":"Iwan, I won't deny that the markets are rigged, but this rant is against something straightforward, obvious, and clearly fixable that STILL defies effective regulation. It's absurd.\n\nMy full rant on the financial industry is much too long (and profane) to post on Facebook.",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"778159473",
+                                            "length":4,
+                                            "name":"Iwan",
+                                            "offset":0,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T15:09:28+0000",
+                                "from":
+                                    {
+                                        "id":"1437561524",
+                                        "name":"Matt Miller"
+                                    },
+                                "id":"10152307228042350_248938271",
+                                "like_count":0,
+                                "message":"I see the same thing in MMOs. Players ask for a feature that on the surface looks like it is a betterment to all involved, and then when they get their hands on the feature, they find an exploit (either on accident, or that was their entire plan all along). When people start to notice the exploit and call for the feature to be fixed, the exploiters fire back with the original argument that the feature is better than what we had previously.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T15:41:12+0000",
+                                "from":
+                                    {
+                                        "id":"1050893395",
+                                        "name":"Jeff Weinstein"
+                                    },
+                                "id":"10152307228042350_248938565",
+                                "like_count":1,
+                                "message":"If only the regulators were not all former or future employees of wall street firms..",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-03-31T16:07:16+0000",
+                                "from":
+                                    {
+                                        "id":"1394434850",
+                                        "name":"Andrew Gosden"
+                                    },
+                                "id":"10152307228042350_248938823",
+                                "like_count":0,
+                                "message":"Information asymmetry that can only be taken advantage of by computer algorithms.   Hope you hire the right programmers or you can go broke quickly.   I think Nate Silver's book has a chapter on how the increased liquidity also comes with increased instability.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTI=",
+                                    "before":"MQ=="
+                                }
+                        }
+                },
+            "created_time":"2014-03-31T04:10:37+0000",
+            "description":"NEW YORK (Reuters) - The U.S. stock market is rigged in favor of high-speed electronic trading firms, which use their advantages to extract billions from investors, according to Michael Lewis, author of",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yq\/r\/SC2ZmEkfI-X.png",
+            "id":"728337349_10152307228042350",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                            
+                            {
+                                "id":"1514060",
+                                "name":"Lincoln Hamilton"
+                            },
+                            
+                            {
+                                "id":"770382751",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"100000167048861",
+                                "name":"Kevin Stark"
+                            },
+                            
+                            {
+                                "id":"645652214",
+                                "name":"Joe Schwartz"
+                            },
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"1411161126",
+                                "name":"Curt Krone"
+                            },
+                            
+                            {
+                                "id":"888255726",
+                                "name":"Gina Van Meurs"
+                            },
+                            
+                            {
+                                "id":"681426254",
+                                "name":"Cormac Russell"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"NjgxNDI2MjU0",
+                                    "before":"MTI0NTQ4NDA1OA=="
+                                }
+                        }
+                },
+            "link":"http:\/\/www.reuters.com\/article\/2014\/03\/31\/us-markets-hft-flashboys-idUSBREA2U03D20140331",
+            "message":"<rant, just skip this post.>\nProof #12,736 of how the financial industry is out of control. There are several ways to fix this particular problem right now, none of which outlaw HFT. The easiest and simplest (and maybe even fairest) would be a tiny fee on every order. But doing so would magically DESTROY THE MARKET, and there would be RUIN and DISASTER-- if you listen to those who are making huge sums doing this.\n\nI want to say \"The only winning move is not to play\", but even that move is a loser. Remember when you could have a savings account that returned interest? Not any more, because they broke it.  Grumble grumble.\n<\/rant>",
+            "name":"U.S. stock markets are rigged, says author Michael Lewis",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2014-03-31T16:07:16+0000"
+        }
+}

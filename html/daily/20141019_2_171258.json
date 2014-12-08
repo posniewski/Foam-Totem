@@ -1,12 +1,14 @@
 {
-    "id":"20131207_2_174757",
-    "link":"http:\/\/www.strava.com\/activities\/98778983",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131207_2_174757.jpg",
-    "message":"Morning Run",
-    "publishedDate":"2013-12-07T17:47:57+00:00",
+    "caption":"www.strava.com",
+    "id":"20141019_2_171258",
+    "link":"http:\/\/www.strava.com\/activities\/209304825",
+    "message":"My old long route. (Forgot to charge phone) ",
+    "name":"Shannon Posniewski's 6.0 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
+    "publishedDate":"2014-10-19T17:12:58+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {
@@ -26,29 +28,28 @@
                 {
                     "course":
                         {
-                            "id":"194594927397117",
-                            "title":"Morning Run - Shannon P.'s 3.1 miles run",
+                            "id":"715895931827125",
+                            "title":"Morning Run - My old long route. (Forgot to charge phone) - Shannon Posniewski's 6.0 miles run",
                             "type":"fitness.course",
-                            "url":"http:\/\/www.strava.com\/activities\/98778983"
+                            "url":"http:\/\/www.strava.com\/activities\/209304825"
                         }
                 },
-            "end_time":"2013-12-07T17:47:57+0000",
+            "end_time":"2014-10-19T17:12:58+0000",
             "from":
                 {
                     "id":"728337349",
                     "name":"Shannon Posniewski"
                 },
-            "id":"10152056242282350",
+            "id":"10152791132282350",
             "likes":
                 {
                     "can_like":"1",
                     "count":0,
                     "user_likes":"0"
                 },
-            "message":"Morning Run",
             "no_feed_story":"0",
-            "publish_time":"2013-12-07T17:47:57+0000",
-            "start_time":"2013-12-07T17:47:57+0000",
+            "publish_time":"2014-10-19T17:12:58+0000",
+            "start_time":"2014-10-19T17:12:58+0000",
             "type":"fitness.runs"
         }
 }

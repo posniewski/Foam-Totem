@@ -1,12 +1,14 @@
 {
+    "caption":"www.strava.com",
     "id":"20131219_2_174103",
     "link":"http:\/\/www.strava.com\/activities\/100959808",
-    "mapurl":"http:\/\/share.abvio.com\/\/\/\/\/Runmeter-.kml",
-    "mapurl_cached":"http:\/\/foamtotem.org\/daily\/runs\/20131219_2_174103.jpg",
-    "message":"Morning Run",
+    "message":"Shannon P.'s 4.2 miles run",
+    "name":"Shannon P.'s 4.2 miles run",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/strava.png",
     "publishedDate":"2013-12-19T17:41:03+00:00",
     "source":"facebook",
-    "type":"run",
+    "title":"Morning Run ",
+    "type":"link",
     "via":"Strava",
     "~orig":
         {

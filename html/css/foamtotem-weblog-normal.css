@@ -486,8 +486,8 @@ footer .calendar {
 }
 
 footer .year {
-	width: 38px;
-	margin: 6px 6px;
+	width: 37px;
+	margin: 6px 5px;
 
 	left: 50%;
 	float:left;
@@ -496,7 +496,7 @@ footer .year {
 
 footer .year a {
 	font-family: "Lucida Console", Monaco, monospace;
-	font-size: 10px;
+	font-size: 9.5px;
 }
 
 footer .year h2 {

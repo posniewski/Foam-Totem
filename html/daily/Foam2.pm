@@ -475,7 +475,7 @@ EOSTUFF
 				}
 			}
 
-			if($story->{mapurl_cached})
+			if($story->{mapurl_cached} && $story->{mapurl})
 			{
 #				$s .= qq(<a href="$story->{mapurl}"><img class="map" id="map_$story->{id}" src="$story->{mapurl_cached}" /></a>);
 				my ($xx, $url) = $story->{mapurl} =~ m/(\?q=)?(.*)/i;
@@ -1000,7 +1000,7 @@ sub StdHTMLStart
 	my $StdHTMLHeader='<!doctype html>'
 		. "\n";
 
-	my $StdFoamTotemHeader="<html>\n\t<!-- This page is part of the FoamTotem web site. -->\n\t<!-- Copyright (c) 1996-2011, Shannon Posniewski  -->\n";
+	my $StdFoamTotemHeader="<html>\n\t<!-- This page is part of the FoamTotem web site. -->\n\t<!-- Copyright (c) 1996-2014, Shannon Posniewski  -->\n";
 
 	print $fh $StdHTMLHeader;
 	print $fh $StdFoamTotemHeader;
@@ -1026,8 +1026,6 @@ sub StdHead
 		<link rel="stylesheet" href="/css/foamtotem-weblog.css" />
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="alternate" type="application/atom+xml" title="Foam Totem" href="http://foamtotem.org/atom.xml" />
-		<link rel="openid.server" href="http://www.myopenid.com/server" />
-		<link rel="openid.delegate" href="http://posniewski.myopenid.com/" />
 EOSTUFF
 
 	#
@@ -1035,10 +1033,10 @@ EOSTUFF
 	#
 	print $fh <<"EOSTUFF";
 		<meta name="viewport" content="width=850" />
-		<meta name="geo.placename" content="Mountain View, CA 94043, USA" />
-		<meta name="geo.position" content="37.41614;-122.09131" />
 		<meta name="geo.region" content="US-CA" />
-		<meta name="ICBM" content="37.41614;-122.09131" />
+		<meta name="geo.placename" content="Santa Clara" />
+		<meta name="geo.position" content="37.363529;-121.971357" />
+		<meta name="ICBM" content="37.363529, -121.971357" />
 		<meta name="DC.title" content="Foam Totem" />
 
 		<meta property="fb:app_id" content="219939589007" />
@@ -1070,7 +1068,6 @@ EOSTUFF
 	# Scripts
 	#
 	print $fh <<"EOSTUFF";
-<!-- <script type="text/javascript" src="http://www.haloscan.com/load/foamtotem"></script> -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
@@ -1149,6 +1146,12 @@ sub MainHeader
 			<img src="/images/wreath.gif"><br>
 			Foamy<br>Christmas&nbsp;Radio<br>
 			<a href="/radio/christmas/?option=recursive&amp;option=shuffle&amp;action=playall">[high]</a>&nbsp;<a href="/radio/christmas_low/?option=recursive&amp;option=shuffle&amp;action=playall">[low]</a>
+<!-- SCM Music Player http://scmplayer.net -->
+<script type="text/javascript"
+	src="http://foamtotem.org/SCM-Music-Player-github/script.js"
+	data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':'http://foamtotem.org/radio/christmas_low/?action=podcast&limit=500'}" >
+</script>
+<!-- SCM Music Player script end -->
 	</div>
 
 	<div id="last-update">
@@ -1188,9 +1191,8 @@ sub MainFooter
 </nav>
 <img src="/images/longsectionmarker.png" width=100 height=16 />
 <nav>
-Me:
+By Shannon Posniewski<br>
 <a href="https://plus.google.com/103104079397182944597?rel=author">Google+</a> -
-<a href="https://google.com/profiles/posniewski" rel="me">Google</a> -
 <a href="http://twitter.com/posniewski" rel="me">Twitter</a> -
 <a href="http://www.facebook.com/posniewski" rel="me">Facebook</a><br>
 </nav>
@@ -1410,7 +1412,7 @@ sub GetProps
 	elsif(exists($story->{content}))
 	{
 		my $snippet = substr(untag($story->{content}), 0, 200);
-		if($snippet =~ m/(.*[.])/)
+		if($snippet =~ m/(.*[.])\s/)
 		{
 			$snippet = $1;
 		}
