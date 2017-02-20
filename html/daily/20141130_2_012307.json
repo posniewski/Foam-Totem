@@ -12,19 +12,6 @@
     "via":"Facebook",
     "~orig":
         {
-            "actions":
-                [
-                    
-                    {
-                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152879974842350",
-                        "name":"Comment"
-                    },
-                    
-                    {
-                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10152879974842350",
-                        "name":"Like"
-                    }
-                ],
             "application":
                 {
                     "id":"350685531728",
@@ -104,12 +91,7 @@
             "picture":"https:\/\/scontent-a.xx.fbcdn.net\/hphotos-xap1\/v\/t1.0-9\/s130x130\/1240345_10152879974812350_3883463419736648117_n.jpg?oh=d3f1003f690194fefc0b8431afaec889&oe=551998DA",
             "privacy":
                 {
-                    "allow":"",
-                    "deny":"",
-                    "description":"Public",
-                    "friends":"",
-                    "networks":"",
-                    "value":"EVERYONE"
+                    "value":""
                 },
             "status_type":"added_photos",
             "to":

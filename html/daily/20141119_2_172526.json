@@ -13,7 +13,7 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"10152858664722350_10152858696047350",
-                        "like_count":1,
+                        "like_count":"1",
                         "message":"Think I'll stop telling this app how I \"feel\". I was tired\/frowny face, which they turned into \"feeling bad\" which is not the same thing.",
                         "user_likes":"0"
                     },
@@ -27,7 +27,7 @@
                                 "name":"Bob Gilmore"
                             },
                         "id":"10152858664722350_10152858713867350",
-                        "like_count":0,
+                        "like_count":"0",
                         "message":"Whew!",
                         "user_likes":"0"
                     },
@@ -41,7 +41,7 @@
                                 "name":"Michele Liguori"
                             },
                         "id":"10152858664722350_10152859552212350",
-                        "like_count":1,
+                        "like_count":"1",
                         "message":"I think you should try random feelings, like \"sparkly\" or \"exquisite\" or \"angsty\".",
                         "user_likes":"0"
                     },
@@ -55,7 +55,7 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"10152858664722350_10152859614492350",
-                        "like_count":1,
+                        "like_count":"1",
                         "message":"If only it let me!",
                         "user_likes":"0"
                     },
@@ -69,7 +69,7 @@
                                 "name":"Michele Liguori"
                             },
                         "id":"10152858664722350_10152859697397350",
-                        "like_count":0,
+                        "like_count":"0",
                         "message":"Oh, and Schadenfreude!",
                         "user_likes":"0"
                     }
@@ -109,7 +109,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"10152858664722350_10152858696047350",
-                                "like_count":1,
+                                "like_count":"1",
                                 "message":"Think I'll stop telling this app how I \"feel\". I was tired\/frowny face, which they turned into \"feeling bad\" which is not the same thing.",
                                 "user_likes":"0"
                             },
@@ -123,7 +123,7 @@
                                         "name":"Bob Gilmore"
                                     },
                                 "id":"10152858664722350_10152858713867350",
-                                "like_count":0,
+                                "like_count":"0",
                                 "message":"Whew!",
                                 "user_likes":"0"
                             },
@@ -137,7 +137,7 @@
                                         "name":"Michele Liguori"
                                     },
                                 "id":"10152858664722350_10152859552212350",
-                                "like_count":1,
+                                "like_count":"1",
                                 "message":"I think you should try random feelings, like \"sparkly\" or \"exquisite\" or \"angsty\".",
                                 "user_likes":"0"
                             },
@@ -151,7 +151,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"10152858664722350_10152859614492350",
-                                "like_count":1,
+                                "like_count":"1",
                                 "message":"If only it let me!",
                                 "user_likes":"0"
                             },
@@ -165,7 +165,7 @@
                                         "name":"Michele Liguori"
                                     },
                                 "id":"10152858664722350_10152859697397350",
-                                "like_count":0,
+                                "like_count":"0",
                                 "message":"Oh, and Schadenfreude!",
                                 "user_likes":"0"
                             }
@@ -174,8 +174,8 @@
                         {
                             "cursors":
                                 {
-                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE5UazJPVGN6T1Rjek5UQTZNVFF4TmpRMk1URXpNam90TVE9PQ==",
-                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE5UZzJPVFl3TkRjek5UQTZNVFF4TmpReE9URXlPVG90TVE9PQ=="
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE5UazJPVGN6T1Rjek5UQTZNVFF4TmpRMk1URXpNZz09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE5UZzJPVFl3TkRjek5UQTZNVFF4TmpReE9URXlPUT09"
                                 }
                         }
                 },
@@ -199,7 +199,7 @@
             "likes":
                 {
                     "can_like":"1",
-                    "count":3,
+                    "count":"3",
                     "data":
                         [
                             

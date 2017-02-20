@@ -14,7 +14,7 @@
                                 "name":"Iwan Axt"
                             },
                         "id":"10152895261242350_10152895487142350",
-                        "like_count":0,
+                        "like_count":1,
                         "message":"Why doesn't this have more views than Gangnam style?",
                         "user_likes":"0"
                     },
@@ -30,6 +30,20 @@
                         "id":"10152895261242350_10152895609212350",
                         "like_count":0,
                         "message":"Wow, I just realized it wouldn't be Christmas without it!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2014-12-10T16:47:23+0000",
+                        "from":
+                            {
+                                "id":"645554134",
+                                "name":"Marcel Parnas"
+                            },
+                        "id":"10152895261242350_10152903578257350",
+                        "like_count":0,
+                        "message":"This too should have more views: https:\/\/www.youtube.com\/watch?v=xipjOXsRZHw",
                         "user_likes":"0"
                     }
                 ]
@@ -74,7 +88,7 @@
                                         "name":"Iwan Axt"
                                     },
                                 "id":"10152895261242350_10152895487142350",
-                                "like_count":0,
+                                "like_count":1,
                                 "message":"Why doesn't this have more views than Gangnam style?",
                                 "user_likes":"0"
                             },
@@ -91,13 +105,27 @@
                                 "like_count":0,
                                 "message":"Wow, I just realized it wouldn't be Christmas without it!",
                                 "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2014-12-10T16:47:23+0000",
+                                "from":
+                                    {
+                                        "id":"645554134",
+                                        "name":"Marcel Parnas"
+                                    },
+                                "id":"10152895261242350_10152903578257350",
+                                "like_count":0,
+                                "message":"This too should have more views: https:\/\/www.youtube.com\/watch?v=xipjOXsRZHw",
+                                "user_likes":"0"
                             }
                         ],
                     "paging":
                         {
                             "cursors":
                                 {
-                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UVTJNRGt5TVRJek5UQTZNVFF4TnpreE56VTNORG90TVE9PQ==",
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNU1ETTFOemd5TlRjek5UQTZNVFF4T0RJek1EQTBNem90TVE9PQ==",
                                     "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UVTBPRGN4TkRJek5UQTZNVFF4TnpreE1UYzBORG90TVE9PQ=="
                                 }
                         }
@@ -114,6 +142,16 @@
                 {
                     "data":
                         [
+                            
+                            {
+                                "id":"653106427",
+                                "name":"Sarah Burns Feyl"
+                            },
+                            
+                            {
+                                "id":"502940974",
+                                "name":"Michele Axt"
+                            },
                             
                             {
                                 "id":"100000722183506",
@@ -170,7 +208,7 @@
                             "cursors":
                                 {
                                     "after":"NzQwMTIwNzA3",
-                                    "before":"MTAwMDAwNzIyMTgzNTA2"
+                                    "before":"NjUzMTA2NDI3"
                                 }
                         }
                 },
@@ -189,6 +227,6 @@
                 },
             "status_type":"shared_story",
             "type":"link",
-            "updated_time":"2014-12-07T01:59:34+0000"
+            "updated_time":"2014-12-10T16:47:23+0000"
         }
 }

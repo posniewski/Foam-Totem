@@ -15,7 +15,7 @@ var reply_html =
 	+ '</div>';
 
 window.fbAsyncInit = function() {
-	FB.init({appId: '219939589007', status: true, cookie: true, xfbml: true});
+	FB.init({appId: '219939589007', version: 'v2.0', status: true, cookie: true, xfbml: true});
 	fb_inited = true;
 
 	/* All the events registered */
@@ -108,10 +108,13 @@ function logoutCB() {
 }
 
 function postComment(fbid,fid) {
-	var new_comment = document.getElementById('new_comment_'+fid).value;
+	var idElement = 'new_comment_'+fid;
+	var elem = document.getElementById(idElement);
+	var new_comment = elem.value;
 
 	if(new_comment)
 	{
+		$(elem).parent().replaceWith('<span id="' + idElement + '">Posting...</span>');
 		FB.api('/' + fbid + '/comments/',
 			'post',
 			{ message: new_comment },
@@ -121,7 +124,7 @@ function postComment(fbid,fid) {
 				} else {
 					$.get("/perl/comment_sync.pl", { 'fid': fid },
 						function(data, textStatus) {
-							cexpand(document.getElementById('new_comment_'+fid));
+							cexpand(document.getElementById(idElement));
 						}
 					);
 				}

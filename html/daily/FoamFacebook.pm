@@ -138,7 +138,7 @@ sub UpdateComments($$$)
 	{
 		eval { $resp = $fb->query
 			->find("$id/comments")
-			->with_filter("stream")
+#			->with_filter("stream")
 			->request
 			->as_hashref;
 		};
@@ -162,7 +162,7 @@ sub UpdateComments($$$)
 
 			eval { $resp = $fb->query
 				->find("$id/comments")
-				->with_filter("stream")
+#				->with_filter("stream")
 				->request
 				->as_hashref;
 			};
@@ -241,12 +241,7 @@ sub GetFacebook()
 #		lwp_opts => { ssl_opts => { verify_hostname => 0 } }
 	);
 
-#	$fb->access_token('CAAC4nFAvuF4BAImlXAJahOPgUwxXP5ZA0U5ZBWTpGt4XXLTxoPS0PZApE5I9w99ZAFLtHyjszXPAPBn6TEBHk0e6V81XDZBHEWtXwNSRdpgHHQbnBD07OxdmIvoM7FQcTVk9wjk7VBxGoDtSqffJCDZAeWFSmRTb9Yn5fzYl2LmGu24SZCHnOZBg');
-#	$fb->access_token('CAAC4nFAvuF4BAKyIt6lDZCZAhCZCnEdHXLZBoL129XruxJl8JwkTwwsshdG2nKYC83o6V1HxtZAMl5KEGmeyq7UBW0ZCZAxZCs2LTjdH0Ffjv3MZBdwlRZCniij7gEu9H77mW8p9WgOmTsqNq6DFPvuz6uur0OWpIqNFtCbDKEZBACwJEYPtJ9P8NqC');
-#	$fb->access_token('CAAC4nFAvuF4BAOkkatIjQEHN64na41rGbZAKHQYS9Fz1BDb46mydIBfoFPeBUP6VgyGlISu2aCgoegpN8p51Osd78YA9Bc8BoObgQLaITVLgvQ09kYrX2zEyDH9kvhgCpa8ZAyZA4fZBJepfC1qwPVGoqRUjCZASRpgSkDazXDZAeLMtalOZBZAP');
-#	$fb->access_token('CAAC4nFAvuF4BAKXplagR1uUrCUvOnEt7vppjV2wfz4kfouKYqpCzaIhv62hC7GpWa6ZC4Pb2I5R5Jm4cgTWN0DL250KSeauhYFmJcTLwV27ApJAfdPdYZCdmYOALg5XCeXIAgJQZAhlnLVA7mIqbodI3PPOarDltc4KJKkoM8aXK6XPtPIc');
-#	$fb->access_token('CAAC4nFAvuF4BAE5dbLSg9Cj1kmKFMa7VPgREHfVwjoqKNjYnzEQxuSE7VNVm5cQNJmgDztsfwTojDLZBTtr8Rm2ZBH5CtwDyax40lxT8foWU8QuIzn7WD2eb1VNiR0iVbKUB2fJww59LUjKWGcjsyKbZBvwZBCjAh38MLz7SUZCnzUxGvbTMlJv7BPkGG7n3jQZBkVSZBqDxQZDZD');
-	$fb->access_token('CAAC4nFAvuF4BAP9t12mjKZCZCFmRQGrX8gNZBZCGCNZCVTXBINHhVGYFJYCVVQt4rWZBz6XW70CkhrPH4serynQuFPEZCdVnQbz56kTRKqZBOV3zcnDUFckCppZBsphSrOjlX9xPxeNrRsim7O2rwiWtpZCho117QwysJlA6jdV0V5nNZAQzP80roy1HN3NCVCeZBPjSochuEA96xgZDZD');
+	$fb->access_token('CAAC4nFAvuF4BAMAnksFQHDGMa16eBKkQ02B6PCuZArxoMwFTx4XbPsxb33aU5tKMflDwDvA3dulFj7QR7BoKwHjkwDXWNzSY1BYobCYGxYckVlpiZCwh5ab7c8dM4oWIr3NqKp30kZA2cgUD8RGuD1Yd38eXQXCkM85zSj4C97VfsZAJrMlv7GHKFn25yx7iy0UqK4OW8720nVTHSXKd');
 	return $fb;
 }
 
@@ -269,17 +264,17 @@ sub PeriodicUpdate()
 	ol_Load();
 
 	my $resp1 = $fb->query
-		->find('posniewski/posts')
-		->limit_results(10)
-#		->where_since('06 Nov 2014')
+		->find('me/posts')
+		->limit_results(20)
+#		->where_since('04 Jan 2015')
 		->include_metadata
 		->request
 		->as_hashref;
 
 	my $resp2 = $fb->query
-		->find('posniewski/fitness.runs')
-		->limit_results(5)
-		->where_since('20 Nov 2014')
+		->find('me/fitness.runs')
+		->limit_results(10)
+#		->where_since('04 Jan 2015')
 		->include_metadata
 		->request
 		->as_hashref;

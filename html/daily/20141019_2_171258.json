@@ -14,7 +14,9 @@
         {
             "application":
                 {
+                    "category":"Lifestyle",
                     "id":"284597785309",
+                    "link":"http:\/\/www.strava.com\/",
                     "name":"Strava",
                     "namespace":"stravainc"
                 },
@@ -22,7 +24,10 @@
                 {
                     "can_comment":"1",
                     "comment_order":"chronological",
-                    "count":0
+                    "count":0,
+                    "data":
+                        [
+                        ]
                 },
             "data":
                 {
@@ -45,6 +50,9 @@
                 {
                     "can_like":"1",
                     "count":0,
+                    "data":
+                        [
+                        ],
                     "user_likes":"0"
                 },
             "no_feed_story":"0",

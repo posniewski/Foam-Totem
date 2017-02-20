@@ -24,7 +24,7 @@
                 {
                     "can_comment":"1",
                     "comment_order":"chronological",
-                    "count":0
+                    "count":"0"
                 },
             "data":
                 {
@@ -46,7 +46,7 @@
             "likes":
                 {
                     "can_like":"1",
-                    "count":4,
+                    "count":"4",
                     "data":
                         [
                             

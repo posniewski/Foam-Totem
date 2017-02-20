@@ -13,7 +13,7 @@
                                 "name":"Diane Palme"
                             },
                         "id":"10152889861537350_10152889885947350",
-                        "like_count":1,
+                        "like_count":"1",
                         "message":"looking forward to improving my skin moisture levels shortly.  :-)",
                         "user_likes":"1"
                     }
@@ -51,7 +51,7 @@
                                         "name":"Diane Palme"
                                     },
                                 "id":"10152889861537350_10152889885947350",
-                                "like_count":1,
+                                "like_count":"1",
                                 "message":"looking forward to improving my skin moisture levels shortly.  :-)",
                                 "user_likes":"1"
                             }
@@ -60,8 +60,8 @@
                         {
                             "cursors":
                                 {
-                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9EazRPRFU1TkRjek5UQTZNVFF4TnpjeE5UTTBOem90TVE9PQ==",
-                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9EazRPRFU1TkRjek5UQTZNVFF4TnpjeE5UTTBOem90TVE9PQ=="
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9EazRPRFU1TkRjek5UQTZNVFF4TnpjeE5UTTBOdz09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9EazRPRFU1TkRjek5UQTZNVFF4TnpjeE5UTTBOdz09"
                                 }
                         }
                 },
@@ -85,7 +85,7 @@
             "likes":
                 {
                     "can_like":"1",
-                    "count":5,
+                    "count":"5",
                     "data":
                         [
                             

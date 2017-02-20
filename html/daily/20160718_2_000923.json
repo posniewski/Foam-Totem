@@ -1,0 +1,201 @@
+{
+    "caption":"quantamagazine.org",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2016-07-18T00:16:30+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10154342399632350_10154342407582350",
+                        "like_count":"0",
+                        "message":"Another article on the same topic, this time with Mexican buses.\nhttps:\/\/www.quantamagazine.org\/20130205-in-mysterious-pattern-math-and-nature-converge\/",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2016-07-18T12:49:47+0000",
+                        "from":
+                            {
+                                "id":"10152636597797546",
+                                "name":"John Reilly"
+                            },
+                        "id":"10154342399632350_10154343617887350",
+                        "like_count":"0",
+                        "message":"Very cool.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2016-07-18T19:05:43+0000",
+                        "from":
+                            {
+                                "id":"10153515737448392",
+                                "name":"Gil Colgate"
+                            },
+                        "id":"10154342399632350_10154344522752350",
+                        "like_count":"0",
+                        "message":"A possible simulation is to get is a random number (position) you then have to search (or lookup) to see if you are 'too close' to a previous choice, in this case reroll. Not optimal.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"Scientists are exploring a mysterious pattern, found in birds’ eyes, boxes of marbles and other surprising places, that is neither regular nor random.",
+    "id":"20160718_2_000923",
+    "link":"https:\/\/www.quantamagazine.org\/20160712-hyperuniformity-found-in-birds-math-and-physics\/",
+    "message":"Neat article about hyperuniformity, which is where a distribution is locally random, but globally uniform. Article is interesting even if that was blah-blah to you, and has a very large picture of a chicken's head.\n\n(Would be useful to have a hyperuniform random number generator for games.)",
+    "name":"A Bird’s-Eye View of Nature’s Hidden Order | Quanta Magazine",
+    "picture":"https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCVEG98ywI7QAxi&w=130&h=130&url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2016%2F07%2FCHICKEN_Ft.jpg&cfs=1",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20160718_2_000923.jpg",
+    "publishedDate":"2016-07-18T00:09:23+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10154342399632350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10154342399632350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"quantamagazine.org",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2016-07-18T00:16:30+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10154342399632350_10154342407582350",
+                                "like_count":"0",
+                                "message":"Another article on the same topic, this time with Mexican buses.\nhttps:\/\/www.quantamagazine.org\/20130205-in-mysterious-pattern-math-and-nature-converge\/",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2016-07-18T12:49:47+0000",
+                                "from":
+                                    {
+                                        "id":"10152636597797546",
+                                        "name":"John Reilly"
+                                    },
+                                "id":"10154342399632350_10154343617887350",
+                                "like_count":"0",
+                                "message":"Very cool.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2016-07-18T19:05:43+0000",
+                                "from":
+                                    {
+                                        "id":"10153515737448392",
+                                        "name":"Gil Colgate"
+                                    },
+                                "id":"10154342399632350_10154344522752350",
+                                "like_count":"0",
+                                "message":"A possible simulation is to get is a random number (position) you then have to search (or lookup) to see if you are 'too close' to a previous choice, in this case reroll. Not optimal.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEF4TlRRek5EUTFNakkzTlRJek5UQTZANVFEyT0RnMk9EYzBOQT09",
+                                    "before":"WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEF4TlRRek5ESTBNRGMxT0RJek5UQTZANVFEyT0Rnd01EazVNQT09"
+                                }
+                        }
+                },
+            "created_time":"2016-07-18T00:09:23+0000",
+            "description":"Scientists are exploring a mysterious pattern, found in birds’ eyes, boxes of marbles and other surprising places, that is neither regular nor random.",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/www.facebook.com\/images\/icons\/post.gif",
+            "id":"728337349_10154342399632350",
+            "is_expired":"0",
+            "is_hidden":"0",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"10100407699388999",
+                                "name":"Darga J Dargington"
+                            },
+                            
+                            {
+                                "id":"10153091483954846",
+                                "name":"Alex Ames"
+                            },
+                            
+                            {
+                                "id":"10207493519839424",
+                                "name":"Dave Reilly"
+                            },
+                            
+                            {
+                                "id":"10203509649367805",
+                                "name":"Curt Krone"
+                            },
+                            
+                            {
+                                "id":"10101471264666090",
+                                "name":"Aaron LaFramboise"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTAxMDE0NzEyNjQ2NjYwOTAZD",
+                                    "before":"MTAxMDA0MDc2OTkzODg5OTkZD"
+                                }
+                        }
+                },
+            "link":"https:\/\/www.quantamagazine.org\/20160712-hyperuniformity-found-in-birds-math-and-physics\/",
+            "message":"Neat article about hyperuniformity, which is where a distribution is locally random, but globally uniform. Article is interesting even if that was blah-blah to you, and has a very large picture of a chicken's head.\n\n(Would be useful to have a hyperuniform random number generator for games.)",
+            "name":"A Bird’s-Eye View of Nature’s Hidden Order | Quanta Magazine",
+            "picture":"https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCVEG98ywI7QAxi&w=130&h=130&url=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2016%2F07%2FCHICKEN_Ft.jpg&cfs=1",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "subscribed":"1",
+            "type":"link",
+            "updated_time":"2016-07-19T05:40:32+0000"
+        }
+}

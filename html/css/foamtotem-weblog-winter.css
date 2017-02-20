@@ -115,6 +115,7 @@ header.main div.title {
 a:visited { color: #004C72; text-decoration: none; } /* WINTER: was #703017 */
 a:link { color: #004C72; text-decoration: none; }    /* WINTER: was #703017 */
 a:hover { color: white; background-color: #004C72; } /* WINTER: was #703017 */
+a > img:hover { background-color: #004C72; } /* WINTER: was #703017 */
 
 /* This makes the FOAM TOTEM text invivisble */
 header.main h1 a:link { background-color:transparent; color: transparent; }
@@ -485,7 +486,7 @@ footer .calendar {
 }
 
 footer .year {
-	width: 37px;
+	width: 31px;
 	margin: 6px 5px;
 
 	left: 50%;

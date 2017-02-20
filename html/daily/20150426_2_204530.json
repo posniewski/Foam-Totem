@@ -1,0 +1,242 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-27T00:54:06+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"10153262343757350_10153262847812350",
+                        "like_count":1,
+                        "message":"I'd somehow feel worse if it were proven that a universe exists where everything is the same except I'm more awesome there, where the awesome version of me just learned that a universe exists where a less awesome version is sad about it.",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-27T02:32:10+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153262343757350_10153262987512350",
+                        "like_count":0,
+                        "message":"This is Hawking's response to a question regarding the cosmological implications of Zayn Malik leaving One Direction\/New Kids On the Block\/Menudo\/Boy Band X.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-27T05:19:02+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"10153262343757350_10153263232527350",
+                        "like_count":0,
+                        "message":"I suppose the more awesome me in the more awesome universe doesn't have his heart broken by Zayn Malik leaving One Direction, then.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-27T05:37:49+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153262343757350_10153263254097350",
+                        "like_count":0,
+                        "message":"Exactly.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20150426_2_204530",
+    "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153262343757350",
+    "message":"Stephen Hawking: \"My advice to any heartbroken young girl is to pay close attention to the study of theoretical physics.\"",
+    "publishedDate":"2015-04-26T20:45:30+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153262343757350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153262343757350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-27T00:54:06+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"10153262343757350_10153262847812350",
+                                "like_count":1,
+                                "message":"I'd somehow feel worse if it were proven that a universe exists where everything is the same except I'm more awesome there, where the awesome version of me just learned that a universe exists where a less awesome version is sad about it.",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-27T02:32:10+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153262343757350_10153262987512350",
+                                "like_count":0,
+                                "message":"This is Hawking's response to a question regarding the cosmological implications of Zayn Malik leaving One Direction\/New Kids On the Block\/Menudo\/Boy Band X.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-27T05:19:02+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"10153262343757350_10153263232527350",
+                                "like_count":0,
+                                "message":"I suppose the more awesome me in the more awesome universe doesn't have his heart broken by Zayn Malik leaving One Direction, then.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-27T05:37:49+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153262343757350_10153263254097350",
+                                "like_count":0,
+                                "message":"Exactly.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNeU5qTXlOVFF3T1Rjek5UQTZNVFF6TURFeE16QTJPUT09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNeU5qSTRORGM0TVRJek5UQTZNVFF6TURBNU5qQTBOZz09"
+                                }
+                        }
+                },
+            "created_time":"2015-04-26T20:45:30+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10153262343757350",
+            "is_hidden":"0",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"770077353",
+                                "name":"Beth Martin"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            },
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"1564660698",
+                                "name":"Bob Gilmore"
+                            },
+                            
+                            {
+                                "id":"1504001963",
+                                "name":"Dan Prendergast"
+                            },
+                            
+                            {
+                                "id":"1151461337",
+                                "name":"Michael Curley"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"1361181065",
+                                "name":"Shayne Herrera"
+                            },
+                            
+                            {
+                                "id":"695277281",
+                                "name":"Mary Beth Brooks"
+                            },
+                            
+                            {
+                                "id":"1639590449",
+                                "name":"Michael Lewis"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTYzOTU5MDQ0OQ==",
+                                    "before":"NzcwMDc3MzUz"
+                                }
+                        }
+                },
+            "message":"Stephen Hawking: \"My advice to any heartbroken young girl is to pay close attention to the study of theoretical physics.\"",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"mobile_status_update",
+            "subscribed":"1",
+            "type":"status",
+            "updated_time":"2015-04-27T05:37:49+0000"
+        }
+}

@@ -1,0 +1,572 @@
+{
+    "caption":"medium.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-28T16:52:27+0000",
+                        "from":
+                            {
+                                "id":"10203739427706598",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"10153350240762350_10153350351987350",
+                        "like_count":"0",
+                        "message":"Appalling.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-28T17:05:09+0000",
+                        "from":
+                            {
+                                "id":"10201854500624186",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"10153350240762350_10153350404517350",
+                        "like_count":"0",
+                        "message":"Public outrage enforcing a proper outcome in 3... 2... 1...  ...  1...  ...  1...  *sigh*",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T01:53:35+0000",
+                        "from":
+                            {
+                                "id":"10101471264666090",
+                                "name":"Aaron LaFramboise"
+                            },
+                        "id":"10153350240762350_10153354308577350",
+                        "like_count":"0",
+                        "message":"I don't understand the article.  The author doesn't seem to understand the plea bargain process, and appears to think it's a corporation-only option.  She then enumerates all of these draconian penalties that would have basically shut down some or all of the defendant's businesses, and laments that they were not imposed.  It isn't clear whether the author is aware of the impact this would have on the financial system and the public at large.  Am I supposed to be outraged that the bank with my retirement savings isn't going to fail tomorrow?\n\nLook I really empathize with these 99 percent people, but they really need to come up with a reality-based narrative. Couldn't the author have suggested a remedy for the public that is actually actionable?",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T02:01:41+0000",
+                        "from":
+                            {
+                                "id":"10152394698498103",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10153350240762350_10153354348007350",
+                        "like_count":"3",
+                        "message":"\"with these 99 percent people\" slayed me. I hope you said that while adjusting your top hat and monocle and a dismissive wave\n\n(I realize I'm contributing zero to the discussion, I just have a big smile on my face and it is Aaron's fault)",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T02:16:55+0000",
+                        "from":
+                            {
+                                "id":"10101471264666090",
+                                "name":"Aaron LaFramboise"
+                            },
+                        "id":"10153350240762350_10153354432202350",
+                        "like_count":"0",
+                        "message":"Yeah I'll accept fault for the crime of happiness. I'm a legit outlaw, a Facebook Robin Hood.  I could never get away with this on G+ though.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T02:17:23+0000",
+                        "from":
+                            {
+                                "id":"10152394698498103",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10153350240762350_10153354432432350",
+                        "like_count":"0",
+                        "message":"Smiling is discouraged on G+",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T02:21:27+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153350240762350_10153354436022350",
+                        "like_count":"1",
+                        "message":"Aaron, did you just say \"It's OK that they aren't punished because they're holding your retirement savings hostage\"? Because that's extortion.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T03:04:30+0000",
+                        "from":
+                            {
+                                "id":"666482893487147",
+                                "name":"Kopek Vettop"
+                            },
+                        "id":"10153350240762350_10153354933192350",
+                        "like_count":"1",
+                        "message":"It is true, the well fed rarely trust the hungry.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T03:38:32+0000",
+                        "from":
+                            {
+                                "id":"10201876791906832",
+                                "name":"Andrew Gosden"
+                            },
+                        "id":"10153350240762350_10153355005607350",
+                        "like_count":"1",
+                        "message":"One or two of those consequences wouldn't have killed the banks and would have sent a message.  Some criminal trials for the executives and traders would help too.  Not that that would ever happen.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T04:11:53+0000",
+                        "from":
+                            {
+                                "id":"10101471264666090",
+                                "name":"Aaron LaFramboise"
+                            },
+                        "id":"10153350240762350_10153355408467350",
+                        "like_count":"0",
+                        "message":"Shannon, yes; I think that the public's interest in a reliable financial system outweighs the emotional satisfaction of punishing those who hold blame.  The purpose of the regulations being enforced here is to protect the public confidence in banking, and that is not acheived if 50 million of them have their retirement accounts randomly closed, not to mention whatever other random badness results from some of the most popular securities disappearing from the market.\n\nMost of us here use some form of root-cause analysis, and are familiar with the idea of finding how a process failed while deliberately avoiding assigning blame to the actors.  We use RCA because it works, and because assigning blame (eg firing people) generally doesn't.  My point is that the public should be demanding effective measures from the government that will prevent a recurrence, rather than whatever self-destructive retribution this article's author is asking for.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T10:50:52+0000",
+                        "from":
+                            {
+                                "id":"10201876791906832",
+                                "name":"Andrew Gosden"
+                            },
+                        "id":"10153350240762350_10153356393057350",
+                        "like_count":"2",
+                        "message":"It seems like the root cause is that the companies figured they could boost their incomes by engaging in a criminal conspiracy with little fear of long term consequences.  Other firms, or individuals at other firms, may now think this is indeed a good strategy. \n\nThey said they were guilty so this wasn't an accident but a deliberate criminal enterprise. One way to prevent a recurrence would be a stronger punishment as a deterrent to other firms.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T11:12:37+0000",
+                        "from":
+                            {
+                                "id":"10204658834784337",
+                                "name":"Michael Lewis"
+                            },
+                        "id":"10153350240762350_10153356418807350",
+                        "like_count":"1",
+                        "message":"Corporations cannot be punished. Only people can be. If some corporations cannot be allowed to fail then I think the only alternative is to pierce the corporate veil and go after the individuals. At the very least they should end with nothing in their own bank accounts. (Mere incarceration is a stupid punishment for most crimes imho). Of course there will be objections to breaking corporate  privilege also. But the objections are only fear mongering and rhetoric against action unless we have solid observational evidence from former attempts that it wouldn't work.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T14:45:40+0000",
+                        "from":
+                            {
+                                "id":"10206953207532367",
+                                "name":"Matt Gimlin"
+                            },
+                        "id":"10153350240762350_10153356754492350",
+                        "like_count":"1",
+                        "message":"What I think is really important in all this is that God is an old infant man baby person.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T15:41:33+0000",
+                        "from":
+                            {
+                                "id":"10152394698498103",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10153350240762350_10153356829467350",
+                        "like_count":"2",
+                        "message":"Sorry all, Matt is my Facebook friend baggage. Our Amber Spyglass reference inside joke about the Authority being a baby man God Savior manbaby infant is leaking into this srsbsns conversation. Please disregard it.\n\nIf we root cause analysis this though, we'll see that this happened because I am both friends with Shannon and Matt, Shannon made a public post, and then Aaron drove up in his Bugatti and made it rain with monopoly money all over this thread. His ability to do that is from his prowess as a programmer allowing him to have such a sweet ride.\n\nTherefore, I suggest the best course of action is to invent Skynet and time travel, and send a Terminator back in time to either:\n\n* convince me to not make friends with Shannon \n* convince a young version of Aaron that he really should have been a firefighter or a plumber\n* assassinate a young Philip Pullman so he doesn't write Amber Spyglass\n* convince Pullman while he was editing Amber Spyglass that his ridiculous description of God was souring his trilogy and that he should perhaps reread Subtle Knife and make a superior sequel\n* destroy all banks",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"10206953207532367",
+                                    "length":"4",
+                                    "name":"Matt",
+                                    "offset":"11",
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T15:55:35+0000",
+                        "from":
+                            {
+                                "id":"10206953207532367",
+                                "name":"Matt Gimlin"
+                            },
+                        "id":"10153350240762350_10153356876387350",
+                        "like_count":"2",
+                        "message":"* mass effect 3",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-05-29T23:34:08+0000",
+                        "from":
+                            {
+                                "id":"10201854500624186",
+                                "name":"Patrick O'Leary"
+                            },
+                        "id":"10153350240762350_10153357469992350",
+                        "like_count":"1",
+                        "message":"As far as I can tell, the only thing stopping a bank exec from behaving criminally is conscience.  There are no other repercussions, but there is substantial reward.  If one is without conscience, how is this not an excellent field to get into?",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"Good news, America: We can now get guilty pleas from banks! But here’s the bad news…",
+    "id":"20150528_2_162941",
+    "link":"https:\/\/medium.com\/bull-market\/when-is-a-felony-not-a-felony-when-you-re-a-bank-232a5371d7c1",
+    "message":"Disgusting.",
+    "name":"When is a Felony Not a Felony? When You’re a Bank!",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDJXE6LkfxwpeOO&w=130&h=130&url=https%3A%2F%2Fd262ilb51hltx0.cloudfront.net%2Fmax%2F800%2F1%2As-8nFJj20IJSVDtqDlMl_g.jpeg&cfs=1",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20150528_2_162941.jpg",
+    "publishedDate":"2015-05-28T16:29:41+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153350240762350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153350240762350",
+                        "name":"Like"
+                    }
+                ],
+            "caption":"medium.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-28T16:52:27+0000",
+                                "from":
+                                    {
+                                        "id":"10203739427706598",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"10153350240762350_10153350351987350",
+                                "like_count":"0",
+                                "message":"Appalling.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-28T17:05:09+0000",
+                                "from":
+                                    {
+                                        "id":"10201854500624186",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"10153350240762350_10153350404517350",
+                                "like_count":"0",
+                                "message":"Public outrage enforcing a proper outcome in 3... 2... 1...  ...  1...  ...  1...  *sigh*",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T01:53:35+0000",
+                                "from":
+                                    {
+                                        "id":"10101471264666090",
+                                        "name":"Aaron LaFramboise"
+                                    },
+                                "id":"10153350240762350_10153354308577350",
+                                "like_count":"0",
+                                "message":"I don't understand the article.  The author doesn't seem to understand the plea bargain process, and appears to think it's a corporation-only option.  She then enumerates all of these draconian penalties that would have basically shut down some or all of the defendant's businesses, and laments that they were not imposed.  It isn't clear whether the author is aware of the impact this would have on the financial system and the public at large.  Am I supposed to be outraged that the bank with my retirement savings isn't going to fail tomorrow?\n\nLook I really empathize with these 99 percent people, but they really need to come up with a reality-based narrative. Couldn't the author have suggested a remedy for the public that is actually actionable?",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T02:01:41+0000",
+                                "from":
+                                    {
+                                        "id":"10152394698498103",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10153350240762350_10153354348007350",
+                                "like_count":"3",
+                                "message":"\"with these 99 percent people\" slayed me. I hope you said that while adjusting your top hat and monocle and a dismissive wave\n\n(I realize I'm contributing zero to the discussion, I just have a big smile on my face and it is Aaron's fault)",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T02:16:55+0000",
+                                "from":
+                                    {
+                                        "id":"10101471264666090",
+                                        "name":"Aaron LaFramboise"
+                                    },
+                                "id":"10153350240762350_10153354432202350",
+                                "like_count":"0",
+                                "message":"Yeah I'll accept fault for the crime of happiness. I'm a legit outlaw, a Facebook Robin Hood.  I could never get away with this on G+ though.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T02:17:23+0000",
+                                "from":
+                                    {
+                                        "id":"10152394698498103",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10153350240762350_10153354432432350",
+                                "like_count":"0",
+                                "message":"Smiling is discouraged on G+",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T02:21:27+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153350240762350_10153354436022350",
+                                "like_count":"1",
+                                "message":"Aaron, did you just say \"It's OK that they aren't punished because they're holding your retirement savings hostage\"? Because that's extortion.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T03:04:30+0000",
+                                "from":
+                                    {
+                                        "id":"666482893487147",
+                                        "name":"Kopek Vettop"
+                                    },
+                                "id":"10153350240762350_10153354933192350",
+                                "like_count":"1",
+                                "message":"It is true, the well fed rarely trust the hungry.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T03:38:32+0000",
+                                "from":
+                                    {
+                                        "id":"10201876791906832",
+                                        "name":"Andrew Gosden"
+                                    },
+                                "id":"10153350240762350_10153355005607350",
+                                "like_count":"1",
+                                "message":"One or two of those consequences wouldn't have killed the banks and would have sent a message.  Some criminal trials for the executives and traders would help too.  Not that that would ever happen.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T04:11:53+0000",
+                                "from":
+                                    {
+                                        "id":"10101471264666090",
+                                        "name":"Aaron LaFramboise"
+                                    },
+                                "id":"10153350240762350_10153355408467350",
+                                "like_count":"0",
+                                "message":"Shannon, yes; I think that the public's interest in a reliable financial system outweighs the emotional satisfaction of punishing those who hold blame.  The purpose of the regulations being enforced here is to protect the public confidence in banking, and that is not acheived if 50 million of them have their retirement accounts randomly closed, not to mention whatever other random badness results from some of the most popular securities disappearing from the market.\n\nMost of us here use some form of root-cause analysis, and are familiar with the idea of finding how a process failed while deliberately avoiding assigning blame to the actors.  We use RCA because it works, and because assigning blame (eg firing people) generally doesn't.  My point is that the public should be demanding effective measures from the government that will prevent a recurrence, rather than whatever self-destructive retribution this article's author is asking for.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T10:50:52+0000",
+                                "from":
+                                    {
+                                        "id":"10201876791906832",
+                                        "name":"Andrew Gosden"
+                                    },
+                                "id":"10153350240762350_10153356393057350",
+                                "like_count":"2",
+                                "message":"It seems like the root cause is that the companies figured they could boost their incomes by engaging in a criminal conspiracy with little fear of long term consequences.  Other firms, or individuals at other firms, may now think this is indeed a good strategy. \n\nThey said they were guilty so this wasn't an accident but a deliberate criminal enterprise. One way to prevent a recurrence would be a stronger punishment as a deterrent to other firms.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T11:12:37+0000",
+                                "from":
+                                    {
+                                        "id":"10204658834784337",
+                                        "name":"Michael Lewis"
+                                    },
+                                "id":"10153350240762350_10153356418807350",
+                                "like_count":"1",
+                                "message":"Corporations cannot be punished. Only people can be. If some corporations cannot be allowed to fail then I think the only alternative is to pierce the corporate veil and go after the individuals. At the very least they should end with nothing in their own bank accounts. (Mere incarceration is a stupid punishment for most crimes imho). Of course there will be objections to breaking corporate  privilege also. But the objections are only fear mongering and rhetoric against action unless we have solid observational evidence from former attempts that it wouldn't work.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T14:45:40+0000",
+                                "from":
+                                    {
+                                        "id":"10206953207532367",
+                                        "name":"Matt Gimlin"
+                                    },
+                                "id":"10153350240762350_10153356754492350",
+                                "like_count":"1",
+                                "message":"What I think is really important in all this is that God is an old infant man baby person.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T15:41:33+0000",
+                                "from":
+                                    {
+                                        "id":"10152394698498103",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10153350240762350_10153356829467350",
+                                "like_count":"2",
+                                "message":"Sorry all, Matt is my Facebook friend baggage. Our Amber Spyglass reference inside joke about the Authority being a baby man God Savior manbaby infant is leaking into this srsbsns conversation. Please disregard it.\n\nIf we root cause analysis this though, we'll see that this happened because I am both friends with Shannon and Matt, Shannon made a public post, and then Aaron drove up in his Bugatti and made it rain with monopoly money all over this thread. His ability to do that is from his prowess as a programmer allowing him to have such a sweet ride.\n\nTherefore, I suggest the best course of action is to invent Skynet and time travel, and send a Terminator back in time to either:\n\n* convince me to not make friends with Shannon \n* convince a young version of Aaron that he really should have been a firefighter or a plumber\n* assassinate a young Philip Pullman so he doesn't write Amber Spyglass\n* convince Pullman while he was editing Amber Spyglass that his ridiculous description of God was souring his trilogy and that he should perhaps reread Subtle Knife and make a superior sequel\n* destroy all banks",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"10206953207532367",
+                                            "length":"4",
+                                            "name":"Matt",
+                                            "offset":"11",
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T15:55:35+0000",
+                                "from":
+                                    {
+                                        "id":"10206953207532367",
+                                        "name":"Matt Gimlin"
+                                    },
+                                "id":"10153350240762350_10153356876387350",
+                                "like_count":"2",
+                                "message":"* mass effect 3",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-05-29T23:34:08+0000",
+                                "from":
+                                    {
+                                        "id":"10201854500624186",
+                                        "name":"Patrick O'Leary"
+                                    },
+                                "id":"10153350240762350_10153357469992350",
+                                "like_count":"1",
+                                "message":"As far as I can tell, the only thing stopping a bank exec from behaving criminally is conscience.  There are no other repercussions, but there is substantial reward.  If one is without conscience, how is this not an excellent field to get into?",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNek5UYzBOams1T1RJek5UQTZNVFF6TWprME1qUTBPQT09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNek5UQXpOVEU1T0Rjek5UQTZNVFF6TWpnek1UazBOdz09"
+                                }
+                        }
+                },
+            "created_time":"2015-05-28T16:29:41+0000",
+            "description":"Good news, America: We can now get guilty pleas from banks! But here’s the bad news…",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/www.facebook.com\/images\/icons\/post.gif",
+            "id":"728337349_10153350240762350",
+            "is_expired":"0",
+            "is_hidden":"0",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"468357143331014",
+                                "name":"Charmaine Atkinson"
+                            },
+                            
+                            {
+                                "id":"767612906590923",
+                                "name":"Barbara Vorce"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"NzY3NjEyOTA2NTkwOTIz",
+                                    "before":"NDY4MzU3MTQzMzMxMDE0"
+                                }
+                        }
+                },
+            "link":"https:\/\/medium.com\/bull-market\/when-is-a-felony-not-a-felony-when-you-re-a-bank-232a5371d7c1",
+            "message":"Disgusting.",
+            "name":"When is a Felony Not a Felony? When You’re a Bank!",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDJXE6LkfxwpeOO&w=130&h=130&url=https%3A%2F%2Fd262ilb51hltx0.cloudfront.net%2Fmax%2F800%2F1%2As-8nFJj20IJSVDtqDlMl_g.jpeg&cfs=1",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "subscribed":"1",
+            "type":"link",
+            "updated_time":"2015-05-29T23:34:08+0000"
+        }
+}

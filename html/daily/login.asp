@@ -8,8 +8,8 @@
 	my $fullname = $Request->Cookies("foamtotem", "fullname");
 	my $password = $Request->Cookies("foamtotem", "password");
 
-	StdFoamTotemHTMLStart();
-	StdBodyStart("Log in to the Foam Totem");
+	Foam::StdFoamTotemHTMLStart();
+	Foam::StdBodyStart("Log in to the Foam Totem");
 
 %>
 
@@ -27,7 +27,7 @@
 		</tr>
 		<tr>
 			<td>Full name:</td>
-			<td><input type="text" name="fullname" value="<%= $fullname %>">  (This is your full name, like "Shannon Posniewski")</td> 
+			<td><input type="text" name="fullname" value="<%= $fullname %>">  (This is your full name, like "Shannon Posniewski")</td>
 		<tr>
 			<td>Password:</td>
 			<td><input type="text" name="password" value="<%= $password %>">  (This is the edit password)</td>
@@ -37,6 +37,6 @@
 </form>
 
 <%
-	StdFoamTotemHTMLEnd();
-	StdBodyEnd();
+	Foam::StdFoamTotemHTMLEnd();
+	Foam::StdBodyEnd();
 %>

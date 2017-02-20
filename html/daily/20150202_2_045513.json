@@ -1,0 +1,110 @@
+{
+    "caption":"google.com",
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-02-02T10:08:49+0000",
+                        "from":
+                            {
+                                "id":"1639590449",
+                                "name":"Michael Lewis"
+                            },
+                        "id":"10153062397482350_10153062708297350",
+                        "like_count":"0",
+                        "message":"If corporations had a limited lifespan like a person I think we'd be set.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "description":"Companies deserve many of the same rights as citizens, but must also shoulder the same responsibilities",
+    "id":"20150202_2_045513",
+    "link":"http:\/\/google.com\/newsstand\/s\/CBIwz7GUtSA",
+    "message":"Interesting view on corporate personhood, which challenged my thinking on it.",
+    "name":"If Corporations Are People, They Should Act Like It",
+    "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDxyy5GSctZuvbc&w=158&h=158&url=http%3A%2F%2Fcdn.theatlantic.com%2Fstatic%2Fnewsroom%2Fimg%2Fmt%2F2015%2F01%2F6260840012_1c9cc55a07_b%2Flead_large.jpg%3Fnj0e5k",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20150202_2_045513.jpg",
+    "publishedDate":"2015-02-02T04:55:13+00:00",
+    "source":"facebook",
+    "type":"link",
+    "via":"Facebook for Android",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153062397482350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153062397482350",
+                        "name":"Like"
+                    }
+                ],
+            "application":
+                {
+                    "id":"350685531728",
+                    "name":"Facebook for Android",
+                    "namespace":"fbandroid"
+                },
+            "caption":"google.com",
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-02-02T10:08:49+0000",
+                                "from":
+                                    {
+                                        "id":"1639590449",
+                                        "name":"Michael Lewis"
+                                    },
+                                "id":"10153062397482350_10153062708297350",
+                                "like_count":"0",
+                                "message":"If corporations had a limited lifespan like a person I think we'd be set.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNd05qSTNNRGd5T1Rjek5UQTZNVFF5TWpnM01UY3lPUT09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNd05qSTNNRGd5T1Rjek5UQTZNVFF5TWpnM01UY3lPUT09"
+                                }
+                        }
+                },
+            "created_time":"2015-02-02T04:55:13+0000",
+            "description":"Companies deserve many of the same rights as citizens, but must also shoulder the same responsibilities",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y5\/r\/sXJx2UP7quc.png",
+            "id":"728337349_10153062397482350",
+            "link":"http:\/\/google.com\/newsstand\/s\/CBIwz7GUtSA",
+            "message":"Interesting view on corporate personhood, which challenged my thinking on it.",
+            "name":"If Corporations Are People, They Should Act Like It",
+            "picture":"https:\/\/fbexternal-a.akamaihd.net\/safe_image.php?d=AQDxyy5GSctZuvbc&w=158&h=158&url=http%3A%2F%2Fcdn.theatlantic.com%2Fstatic%2Fnewsroom%2Fimg%2Fmt%2F2015%2F01%2F6260840012_1c9cc55a07_b%2Flead_large.jpg%3Fnj0e5k",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "networks":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"shared_story",
+            "type":"link",
+            "updated_time":"2015-02-02T10:08:49+0000"
+        }
+}

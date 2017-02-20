@@ -35,9 +35,9 @@
 		},
 
 		addEvent = function(elm, evType, fn) {
-			if(elm.addEventListener) 
+			if(elm.addEventListener)
 				elm.addEventListener(evType, fn);
-			else if (elm.attachEvent) 
+			else if (elm.attachEvent)
 				elm.attachEvent('on' + evType, fn);
 			else
 				elm['on' + evType] = fn;
@@ -53,15 +53,15 @@
 		isMobile = navigator.userAgent.match(/iPad|iPhone|Android|Blackberry/i),
 
 		init = function(){
-			if(!document.body){ 
-				setTimeout(init,10); 
+			if(!document.body){
+				setTimeout(init,10);
 				return;
 			}
 			if(isOutside) outside(); else inside();
 		},
 
 		outside = function(){
-			var css = 'html,body{overflow:hidden;} body{margin:0;padding:0;border:0;} img,a,embed,object,div,address,table,iframe,p,span,form,header,section,footer{ display:none;border:0;margin:0;padding:0; } #tumblr_controls{display:none;} #scmframe{display:block; background-color:transparent; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index:1667;} ';
+			var css = 'html,body{overflow:hidden;} body{margin:0;padding:0;border:0;} img,a,embed,object,div,address,table,iframe,p,span,form,header,section,footer{ display:none;border:0;margin:0;padding:0; } #tumblr_controls{display:none;} #scmframe{display:block; background-color:transparent; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index:1667;}';
 			var style = document.createElement('style');
 			style.type = 'text/css';
 			style.id = 'scmcss';
@@ -74,13 +74,15 @@
 			while(head.firstChild.id!="scmcss")
 				head.removeChild(head.firstChild);
 			*/
-			
+
 			var scmframe = document.createElement('iframe');
 			scmframe.frameBorder = 0;
 			scmframe.id = "scmframe";
 			scmframe.allowTransparency = true;
 			scmframe.src = scm;
-			
+			scmframe.allowFullscreen = true;
+			scmframe.frameBorder = 0;
+
 			document.body.insertBefore(scmframe,document.body.firstChild);
 
 			addEvent(window,'load',function() {
@@ -96,11 +98,11 @@
 			addEvent(window,'resize',function(){
 				scmframe.style.height = (function(){
 					if( typeof( window.innerHeight ) == 'number' )
-						return window.innerHeight; 
-					else if( document.documentElement && document.documentElement.clientHeight ) 
-						return document.documentElement.clientHeight; 
-					else if( document.body && document.body.clientHeight ) 
-						return document.body.clientHeight; 
+						return window.innerHeight;
+					else if( document.documentElement && document.documentElement.clientHeight )
+						return document.documentElement.clientHeight;
+					else if( document.body && document.body.clientHeight )
+						return document.body.clientHeight;
 				})();
 			});
 			//pushState and hash change detection
@@ -131,12 +133,12 @@
 				};
 			addEvent(document.body,'click',function(e){
 				var tar = e.target;
-				while(!tar.tagName.match(/^(a|area)$/i) && tar!=document.body) 
+				while(!tar.tagName.match(/^(a|area)$/i) && tar!=document.body)
 					tar = tar.parentNode;
-				if(tar.tagName.match(/^(a|area)$/i) && 
+				if(tar.tagName.match(/^(a|area)$/i) &&
 					!tar.href.match(/.(jpg|png)$/i) && //ignore picture link
 					!tar.href.match(/^javascript:/) //ignore javascript link
-				){ 
+				){
 					if(tar.href.indexOf('#')==0){
 						//hash
 						if(tar.href != "#"){

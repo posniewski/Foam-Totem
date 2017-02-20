@@ -222,6 +222,21 @@
                         [
                             
                             {
+                                "id":"1619783495",
+                                "name":"Karen Elizabeth Blanc Smith"
+                            },
+                            
+                            {
+                                "id":"1533771332",
+                                "name":"Kathy Hartley"
+                            },
+                            
+                            {
+                                "id":"694765413",
+                                "name":"Ashley Farabee"
+                            },
+                            
+                            {
                                 "id":"1220066463",
                                 "name":"Lorry Grossman Krone"
                             },
@@ -329,31 +344,16 @@
                             {
                                 "id":"1766269225",
                                 "name":"Jamie Mancebo"
-                            },
-                            
-                            {
-                                "id":"100000266633627",
-                                "name":"Barbara Vorce"
-                            },
-                            
-                            {
-                                "id":"1553199233",
-                                "name":"Bill D. Roper"
-                            },
-                            
-                            {
-                                "id":"1035943353",
-                                "name":"Daniel Stekloff"
                             }
                         ],
                     "paging":
                         {
                             "cursors":
                                 {
-                                    "after":"MTAzNTk0MzM1Mw==",
-                                    "before":"MTIyMDA2NjQ2Mw=="
+                                    "after":"MTc2NjI2OTIyNQ==",
+                                    "before":"MTYxOTc4MzQ5NQ=="
                                 },
-                            "next":"https:\/\/graph.facebook.com\/v1.0\/728337349_10152895236177350\/likes?access_token=CAAC4nFAvuF4BAP9t12mjKZCZCFmRQGrX8gNZBZCGCNZCVTXBINHhVGYFJYCVVQt4rWZBz6XW70CkhrPH4serynQuFPEZCdVnQbz56kTRKqZBOV3zcnDUFckCppZBsphSrOjlX9xPxeNrRsim7O2rwiWtpZCho117QwysJlA6jdV0V5nNZAQzP80roy1HN3NCVCeZBPjSochuEA96xgZDZD&limit=25&after=MTAzNTk0MzM1Mw%3D%3D"
+                            "next":"https:\/\/graph.facebook.com\/v1.0\/728337349_10152895236177350\/likes?access_token=CAAC4nFAvuF4BAP9t12mjKZCZCFmRQGrX8gNZBZCGCNZCVTXBINHhVGYFJYCVVQt4rWZBz6XW70CkhrPH4serynQuFPEZCdVnQbz56kTRKqZBOV3zcnDUFckCppZBsphSrOjlX9xPxeNrRsim7O2rwiWtpZCho117QwysJlA6jdV0V5nNZAQzP80roy1HN3NCVCeZBPjSochuEA96xgZDZD&limit=25&after=MTc2NjI2OTIyNQ%3D%3D"
                         }
                 },
             "message":"Online shopping for Christmas gifts today has thus far yielded two gifts for myself and none for anyone else.",

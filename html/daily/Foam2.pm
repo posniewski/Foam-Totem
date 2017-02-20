@@ -316,10 +316,10 @@ sub GenMonth
 		foreach my $story (@{$stories{$curday}})
 		{
 			# Skip twitter repeats
-			if(exists($story->{source}) && defined($story->{source}) && $story->{source} !~ m/twitter/i)
-			{
-				next if(exists($story->{via}) && defined($story->{via}) && $story->{via} =~ m/twitter/i)
-			}
+#			if(exists($story->{source}) && defined($story->{source}) && $story->{source} !~ m/twitter/i)
+#			{
+#				next if(exists($story->{via}) && defined($story->{via}) && $story->{via} =~ m/twitter/i)
+#			}
 
 			StartArticle($fh, $story);
 
@@ -1039,6 +1039,8 @@ EOSTUFF
 		<meta name="ICBM" content="37.363529, -121.971357" />
 		<meta name="DC.title" content="Foam Totem" />
 
+		<meta property="twitter:card" content="summary" />
+		<meta property="twitter:site" content="\@posniewski" />
 		<meta property="fb:app_id" content="219939589007" />
 		<meta property="og:site_name" content="Foam Totem" />
 EOSTUFF
@@ -1046,6 +1048,7 @@ EOSTUFF
 	#
 	# Extra meta properties (page-level)
 	#
+	$title = 'Foam Totem' if !$title;
 	print $fh qq(		<meta property="og:title" content="$title" />\n);
 
 	foreach my $key ( keys %{ $props } )
@@ -1071,7 +1074,7 @@ EOSTUFF
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="/js/galleria-min.js"></script>
+<!-- <script type="text/javascript" src="/js/galleria-min.js"></script> -->
 <script type="text/javascript" src="/js/fbcomment.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
 
@@ -1118,13 +1121,13 @@ sub StdBodyStart
 	print $fh <<'END_FACEBOOK_STUFF';
 	<div id="fb-root"></div>
 <script>
-	(function() {
-		var e = document.createElement('script');
-		e.async = true;
-		e.src = document.location.protocol +
-		'//connect.facebook.net/en_US/all.js';
-		document.getElementById('fb-root').appendChild(e);
-	}());
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         js = d.createElement(s); js.id = id;
+         js.src = document.location.protocol + "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
 </script>
 END_FACEBOOK_STUFF
 
@@ -1143,20 +1146,23 @@ sub MainHeader
 	<h1><a href="http://foamtotem.org"><div class="title" /><span class="texttitle">FOAM TOTEM</span></div></a></h1>
 
 	<div id="radio">
-			<img src="/images/wreath.gif"><br>
-			Foamy<br>Christmas&nbsp;Radio<br>
-			<a href="/radio/christmas/?option=recursive&amp;option=shuffle&amp;action=playall">[high]</a>&nbsp;<a href="/radio/christmas_low/?option=recursive&amp;option=shuffle&amp;action=playall">[low]</a>
-<!-- SCM Music Player http://scmplayer.net -->
-<script type="text/javascript"
-	src="http://foamtotem.org/SCM-Music-Player-github/script.js"
-	data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':'http://foamtotem.org/radio/christmas_low/?action=podcast&limit=500'}" >
-</script>
-<!-- SCM Music Player script end -->
+			<a href="javascript:yulelog()"><img src="/images/wreath.gif"><br>
+			Foamy<br>Yule&nbsp;Log<br></a>
+<!--			<a href="/radio/christmas/?option=recursive&amp;option=shuffle&amp;action=playall">[high]</a>&nbsp;<a href="/radio/christmas_low/?option=recursive&amp;option=shuffle&amp;action=playall">[low]</a> -->
+				<a href="/radio/christmas/">[playlist]</a>
 	</div>
 
 	<div id="last-update">
 		<a href="/daily/AlterDailyJson.asp" rel="nofollow">Last update:</a>
+
+<!-- SCM Music Player http://scmplayer.net -->
+<script type="text/javascript"
+	src="http://foamtotem.org/SCM-Music-Player-github/script.js"
+	data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':'http://foamtotem.org/radio/christmas/'}" >
+</script>
+<!-- SCM Music Player script end -->
 EOSTUFF
+
 	print $fh MainHeaderLastUpdate(GetLastUpdate());
 	print $fh qq(	</div>\n);
 	print $fh qq(</header>\n);
@@ -1181,13 +1187,13 @@ sub MainFooter
 	<a href="./WebCam/index.html">Naked Programmer Cam</a> -
 	<a href="./postcards/index.html">Postcards</a> -
 	<a href="http://www.zazzle.com/foamtotem*">Schwag</a> -
-	<a href="./tsp">The Svelte Programmer</a><br>
+	<!-- <a href="./tsp">The Svelte Programmer</a><br> -->
 
 	<a href="./future/index.html">Orb of Hotep</a> -
 	<a href="./random/index.html">Random Stuff</a> -
 	<a href="./SFBay/index.html">SF Bay Trojans</a> -
-	<a href="./foamtotm/index.html">Totem Tales</a> -
-	<a href="./gallery/">Gallery</a><br>
+	<a href="./foamtotm/index.html">Totem Tales</a>
+	<!-- <a href="./gallery/">Gallery</a><br> -->
 </nav>
 <img src="/images/longsectionmarker.png" width=100 height=16 />
 <nav>
@@ -1228,6 +1234,12 @@ sub StdBodyEnd
 			$(this).children('div#maptip').remove();
 		});
 	});
+
+
+	function yulelog() {
+		window.SCM.pause();
+		window.open("/foamyyulelog.html", "FoamyRadio", "innerheight=410,innerwidth=660,menubar=0,toolbar=0,location=0,personalbar=0,status=0");
+	}
 </script>
 EOSTUFF
 
@@ -1368,17 +1380,24 @@ sub GetTitle
 
 	if(!exists($story->{title}) || !$story->{title})
 	{
-		$title = untag($story->{content});
-
-		# Take the first sentence (or up to first \n)
-		if($title =~ m/[ \n\r\t]*(.*?)([.!?\n])/)
+		if($story->{content})
 		{
-			$title = $1;
-			$title .= $2   if($2 eq '!' || $2 eq '?');
+			$title = untag($story->{content});
+
+			# Take the first sentence (or up to first \n)
+			if($title =~ m/[ \n\r\t]*(.*?)([.!?\n])/)
+			{
+				$title = $1;
+				$title .= $2   if($2 eq '!' || $2 eq '?');
+			}
+			else
+			{
+				$title = substr($title, 0, 140);
+			}
 		}
 		else
 		{
-			$title = substr($title, 0, 140);
+			$title = ucfirst($story->{type});
 		}
 	}
 	else
@@ -1401,15 +1420,15 @@ sub GetProps
 	$props->{'og:type'} = 'article';
 	$props->{'og:url'} = $story->{permalink};
 
-	if(exists($story->{description}))
+	if($story->{description})
 	{
 		$props->{'og:description'} = $story->{description};
 	}
-	elsif(exists($story->{message}))
+	elsif($story->{message})
 	{
 		$props->{'og:description'} = $story->{message};
 	}
-	elsif(exists($story->{content}))
+	elsif($story->{content})
 	{
 		my $snippet = substr(untag($story->{content}), 0, 200);
 		if($snippet =~ m/(.*[.])\s/)
@@ -1418,16 +1437,24 @@ sub GetProps
 		}
 		$props->{'og:description'} = $snippet;
 	}
+	elsif($story->{via})
+	{
+		$props->{'og:description'} = ucfirst($story->{type}) . ' via ' . $story->{via};
+	}
+	else
+	{
+		$props->{'og:description'} = ucfirst($story->{type})
+	}
 
-	if(exists($story->{image}))
+	if($story->{image})
 	{
-		$props->{'og:image'} = $story->{image};
+		$props->{'og:image'} = $story->{picture_cached} || $story->{image};
 	}
-	elsif(exists($story->{picture}))
+	elsif($story->{picture})
 	{
-		$props->{'og:image'} = $story->{picture};
+		$props->{'og:image'} = $story->{picture_cached} || $story->{picture};
 	}
-	elsif(exists($story->{content}))
+	elsif($story->{content})
 	{
 		my $count = 0;
 		my @images = map { /<img.*?src=['"](.*?)['"].*?>/ig } $story->{content};

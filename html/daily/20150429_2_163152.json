@@ -1,0 +1,606 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T16:34:56+0000",
+                        "from":
+                            {
+                                "id":"558068102",
+                                "name":"Joe Drago"
+                            },
+                        "id":"10153269459217350_10153269468247350",
+                        "like_count":0,
+                        "message":"yep yep. For the last year, I've pretty much being doing Cheerios+milk and a diet pepsi",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T16:49:12+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153269459217350_10153269493602350",
+                        "like_count":0,
+                        "message":"I keep it dry.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T17:54:58+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153269459217350_10153269617727350",
+                        "like_count":7,
+                        "message":"At least I don't pour the soda over the cereal.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T18:00:59+0000",
+                        "from":
+                            {
+                                "id":"1245484058",
+                                "name":"Sarah Rain"
+                            },
+                        "id":"10153269459217350_10153269627722350",
+                        "like_count":1,
+                        "message":"Protein! Also, I am amused that you have a calculator out.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T18:10:40+0000",
+                        "from":
+                            {
+                                "id":"1047446077",
+                                "name":"Dennis Lynch"
+                            },
+                        "id":"10153269459217350_10153269642127350",
+                        "like_count":1,
+                        "message":"You didn't pour it?  Filthy casual",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T18:15:04+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153269459217350_10153269650557350",
+                        "like_count":6,
+                        "message":"I practically had to explain what the calculator was to one of my co-workers.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T18:50:54+0000",
+                        "from":
+                            {
+                                "id":"660905555",
+                                "name":"Kevin Savage"
+                            },
+                        "id":"10153269459217350_10153269712487350",
+                        "like_count":1,
+                        "message":"I have much sadness over that calculator explaining",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T20:26:45+0000",
+                        "from":
+                            {
+                                "id":"1175507065",
+                                "name":"Debra Klopfenstein"
+                            },
+                        "id":"10153269459217350_10153269890602350",
+                        "like_count":0,
+                        "message":"What???  Explain the calculator???  Is it because it is not a TI Nspire CS-CAS calculator and they don't identify with the older devices?  Still...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T20:34:22+0000",
+                        "from":
+                            {
+                                "id":"738274664",
+                                "name":"Amy Boyle"
+                            },
+                        "id":"10153269459217350_10153269906162350",
+                        "like_count":5,
+                        "message":"Birthday Breakfast (that's a spoonful of cookie dough, btw)",
+                        "user_likes":"1"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T20:58:24+0000",
+                        "from":
+                            {
+                                "id":"1847255499",
+                                "name":"Brian Scott"
+                            },
+                        "id":"10153269459217350_10153270018127350",
+                        "like_count":1,
+                        "message":"Calculator=old school smart phone, where there is no phone and only 1 app...",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T23:17:49+0000",
+                        "from":
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                        "id":"10153269459217350_10153270250022350",
+                        "like_count":1,
+                        "message":"I kind of want a physical calculator now. So retro hip!",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-29T23:40:19+0000",
+                        "from":
+                            {
+                                "id":"1050893395",
+                                "name":"Jeff Weinstein"
+                            },
+                        "id":"10153269459217350_10153270287462350",
+                        "like_count":1,
+                        "message":"My kids have been required to use certain types of physical calculators in school and on AP tests.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-30T02:11:51+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153269459217350_10153270475077350",
+                        "like_count":2,
+                        "message":"I was very not-hip because I didn't use a HP 15C.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"1",
+                        "created_time":"2015-04-30T02:19:49+0000",
+                        "from":
+                            {
+                                "id":"100000449847369",
+                                "name":"Carol Kuhn"
+                            },
+                        "id":"10153269459217350_10153270486982350",
+                        "like_count":4,
+                        "message":"Hey, that smart-calculator is so advanced that it can function when \/ where there is no phone coverage.",
+                        "user_likes":"1"
+                    }
+                ]
+        },
+    "id":"20150429_2_163152",
+    "image":"https:\/\/scontent.xx.fbcdn.net\/hphotos-xat1\/v\/t1.0-9\/11193251_10153269459217350_8689071671119845069_n.jpg?oh=a151327f9b4d64fbb7ba7e6c1eb330e5&oe=55C60742",
+    "image_height":"369",
+    "image_width":"500",
+    "link":"https:\/\/www.facebook.com\/photo.php?fbid=10153269459217350&set=a.449479422349.249021.728337349&type=1",
+    "message":"Programmer's Breakfast",
+    "picture_cached":"http:\/\/foamtotem.org\/daily\/cache\/20150429_2_163152.jpg",
+    "publishedDate":"2015-04-29T16:31:52+00:00",
+    "source":"facebook",
+    "type":"photo",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153269459307350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153269459307350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T16:34:56+0000",
+                                "from":
+                                    {
+                                        "id":"558068102",
+                                        "name":"Joe Drago"
+                                    },
+                                "id":"10153269459217350_10153269468247350",
+                                "like_count":0,
+                                "message":"yep yep. For the last year, I've pretty much being doing Cheerios+milk and a diet pepsi",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T16:49:12+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153269459217350_10153269493602350",
+                                "like_count":0,
+                                "message":"I keep it dry.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T17:54:58+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153269459217350_10153269617727350",
+                                "like_count":7,
+                                "message":"At least I don't pour the soda over the cereal.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T18:00:59+0000",
+                                "from":
+                                    {
+                                        "id":"1245484058",
+                                        "name":"Sarah Rain"
+                                    },
+                                "id":"10153269459217350_10153269627722350",
+                                "like_count":1,
+                                "message":"Protein! Also, I am amused that you have a calculator out.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T18:10:40+0000",
+                                "from":
+                                    {
+                                        "id":"1047446077",
+                                        "name":"Dennis Lynch"
+                                    },
+                                "id":"10153269459217350_10153269642127350",
+                                "like_count":1,
+                                "message":"You didn't pour it?  Filthy casual",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T18:15:04+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153269459217350_10153269650557350",
+                                "like_count":6,
+                                "message":"I practically had to explain what the calculator was to one of my co-workers.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T18:50:54+0000",
+                                "from":
+                                    {
+                                        "id":"660905555",
+                                        "name":"Kevin Savage"
+                                    },
+                                "id":"10153269459217350_10153269712487350",
+                                "like_count":1,
+                                "message":"I have much sadness over that calculator explaining",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T20:26:45+0000",
+                                "from":
+                                    {
+                                        "id":"1175507065",
+                                        "name":"Debra Klopfenstein"
+                                    },
+                                "id":"10153269459217350_10153269890602350",
+                                "like_count":0,
+                                "message":"What???  Explain the calculator???  Is it because it is not a TI Nspire CS-CAS calculator and they don't identify with the older devices?  Still...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T20:34:22+0000",
+                                "from":
+                                    {
+                                        "id":"738274664",
+                                        "name":"Amy Boyle"
+                                    },
+                                "id":"10153269459217350_10153269906162350",
+                                "like_count":5,
+                                "message":"Birthday Breakfast (that's a spoonful of cookie dough, btw)",
+                                "user_likes":"1"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T20:58:24+0000",
+                                "from":
+                                    {
+                                        "id":"1847255499",
+                                        "name":"Brian Scott"
+                                    },
+                                "id":"10153269459217350_10153270018127350",
+                                "like_count":1,
+                                "message":"Calculator=old school smart phone, where there is no phone and only 1 app...",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T23:17:49+0000",
+                                "from":
+                                    {
+                                        "id":"891985505",
+                                        "name":"Chris Ogden"
+                                    },
+                                "id":"10153269459217350_10153270250022350",
+                                "like_count":1,
+                                "message":"I kind of want a physical calculator now. So retro hip!",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-29T23:40:19+0000",
+                                "from":
+                                    {
+                                        "id":"1050893395",
+                                        "name":"Jeff Weinstein"
+                                    },
+                                "id":"10153269459217350_10153270287462350",
+                                "like_count":1,
+                                "message":"My kids have been required to use certain types of physical calculators in school and on AP tests.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-30T02:11:51+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153269459217350_10153270475077350",
+                                "like_count":2,
+                                "message":"I was very not-hip because I didn't use a HP 15C.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"1",
+                                "created_time":"2015-04-30T02:19:49+0000",
+                                "from":
+                                    {
+                                        "id":"100000449847369",
+                                        "name":"Carol Kuhn"
+                                    },
+                                "id":"10153269459217350_10153270486982350",
+                                "like_count":4,
+                                "message":"Hey, that smart-calculator is so advanced that it can function when \/ where there is no phone coverage.",
+                                "user_likes":"1"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNeU56QTBPRFk1T0RJek5UQTZNVFF6TURNMk1ETTVNQT09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNeU5qazBOamd5TkRjek5UQTZNVFF6TURNeU5USTVOZz09"
+                                }
+                        }
+                },
+            "created_time":"2015-04-29T16:31:52+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "icon":"https:\/\/www.facebook.com\/images\/icons\/photo.gif",
+            "id":"728337349_10153269459307350",
+            "is_hidden":"0",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"100001886337239",
+                                "name":"Ernie Collins"
+                            },
+                            
+                            {
+                                "id":"888255726",
+                                "name":"Gina Van Meurs"
+                            },
+                            
+                            {
+                                "id":"659131965",
+                                "name":"Ray Yu"
+                            },
+                            
+                            {
+                                "id":"24701144",
+                                "name":"Woody James"
+                            },
+                            
+                            {
+                                "id":"100000266633627",
+                                "name":"Barbara Vorce"
+                            },
+                            
+                            {
+                                "id":"613900431",
+                                "name":"Erin Regnier"
+                            },
+                            
+                            {
+                                "id":"1553199233",
+                                "name":"Bill D. Roper"
+                            },
+                            
+                            {
+                                "id":"1361476318",
+                                "name":"Michele Liguori"
+                            },
+                            
+                            {
+                                "id":"721948198",
+                                "name":"Brion Porter"
+                            },
+                            
+                            {
+                                "id":"713061434",
+                                "name":"Frank Zardezed"
+                            },
+                            
+                            {
+                                "id":"4802098",
+                                "name":"Darga J Dargington III"
+                            },
+                            
+                            {
+                                "id":"550562958",
+                                "name":"Louise Bell"
+                            },
+                            
+                            {
+                                "id":"1847255499",
+                                "name":"Brian Scott"
+                            },
+                            
+                            {
+                                "id":"100000094872465",
+                                "name":"Scott Macneil"
+                            },
+                            
+                            {
+                                "id":"891985505",
+                                "name":"Chris Ogden"
+                            },
+                            
+                            {
+                                "id":"1474989846",
+                                "name":"Holly Covella"
+                            },
+                            
+                            {
+                                "id":"1175507065",
+                                "name":"Debra Klopfenstein"
+                            },
+                            
+                            {
+                                "id":"694765413",
+                                "name":"Ashley Farabee"
+                            },
+                            
+                            {
+                                "id":"616561518",
+                                "name":"Cory Watson Bennett"
+                            },
+                            
+                            {
+                                "id":"1047446077",
+                                "name":"Dennis Lynch"
+                            },
+                            
+                            {
+                                "id":"1082683990",
+                                "name":"Shawn Fenton"
+                            },
+                            
+                            {
+                                "id":"660905555",
+                                "name":"Kevin Savage"
+                            },
+                            
+                            {
+                                "id":"1639579883",
+                                "name":"Jeff Bielefeld"
+                            },
+                            
+                            {
+                                "id":"1564660698",
+                                "name":"Bob Gilmore"
+                            },
+                            
+                            {
+                                "id":"1554010659",
+                                "name":"Donna Peronace"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTU1NDAxMDY1OQ==",
+                                    "before":"MTAwMDAxODg2MzM3MjM5"
+                                },
+                            "next":"https:\/\/graph.facebook.com\/v1.0\/728337349_10153269459307350\/likes?access_token=CAAC4nFAvuF4BAM0KdkWuc4hSNRk6KUOtPobywo01Rkd5XBbIhXZBmf5lwnCnvnqZBeni9MVOEjQJKoDMJhscSHJNihQkq4LKv9hFOJvbu8Rp5SMAZBeU7uZCrT0bkXD4maYL0zdz14wq9ZA6eanQaGGxBvSDZAyQu4jgJV1jWHZBKNZAgYuZCKcfHnXfSOSOmnatMRc4B3lASTOZAjJZACiiNzx&limit=25&after=MTU1NDAxMDY1OQ%3D%3D"
+                        }
+                },
+            "link":"https:\/\/www.facebook.com\/photo.php?fbid=10153269459217350&set=a.449479422349.249021.728337349&type=1",
+            "message":"Programmer's Breakfast",
+            "object_id":"10153269459217350",
+            "picture":"https:\/\/scontent.xx.fbcdn.net\/hphotos-xat1\/v\/t1.0-9\/s130x130\/11193251_10153269459217350_8689071671119845069_n.jpg?oh=e78411884fdc7a308b63e61019b2298f&oe=55D9A35B",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"added_photos",
+            "subscribed":"1",
+            "type":"photo",
+            "updated_time":"2015-04-30T02:19:49+0000"
+        }
+}

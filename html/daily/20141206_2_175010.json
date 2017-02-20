@@ -13,7 +13,7 @@
                                 "name":"Shelley Day Posniewski"
                             },
                         "id":"10152894718542350_10152894808792350",
-                        "like_count":0,
+                        "like_count":"0",
                         "message":"Have you had mudslide problems in the hills there?",
                         "user_likes":"0"
                     },
@@ -27,7 +27,7 @@
                                 "name":"Shannon Posniewski"
                             },
                         "id":"10152894718542350_10152894856117350",
-                        "like_count":0,
+                        "like_count":"0",
                         "message":"Not near here.",
                         "user_likes":"0"
                     }
@@ -65,7 +65,7 @@
                                         "name":"Shelley Day Posniewski"
                                     },
                                 "id":"10152894718542350_10152894808792350",
-                                "like_count":0,
+                                "like_count":"0",
                                 "message":"Have you had mudslide problems in the hills there?",
                                 "user_likes":"0"
                             },
@@ -79,7 +79,7 @@
                                         "name":"Shannon Posniewski"
                                     },
                                 "id":"10152894718542350_10152894856117350",
-                                "like_count":0,
+                                "like_count":"0",
                                 "message":"Not near here.",
                                 "user_likes":"0"
                             }
@@ -88,8 +88,8 @@
                         {
                             "cursors":
                                 {
-                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UUTROVFl4TVRjek5UQTZNVFF4TnpnNU1qSXpNVG90TVE9PQ==",
-                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UUTRNRGczT1RJek5UQTZNVFF4TnpnNU1EUTJPRG90TVE9PQ=="
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UUTROVFl4TVRjek5UQTZNVFF4TnpnNU1qSXpNUT09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJNE9UUTRNRGczT1RJek5UQTZNVFF4TnpnNU1EUTJPQT09"
                                 }
                         }
                 },
@@ -113,7 +113,7 @@
             "likes":
                 {
                     "can_like":"1",
-                    "count":4,
+                    "count":"4",
                     "data":
                         [
                             

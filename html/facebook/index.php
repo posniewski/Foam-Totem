@@ -11,56 +11,49 @@ function qw($str) {
 }
 
 $all_permissions = qw('
-	user_about_me              friends_about_me
-	user_activities            friends_activities
-	user_birthday              friends_birthday
-	user_education_history     friends_education_history
-	user_events                friends_events
-	user_groups                friends_groups
-	user_hometown              friends_hometown
-	user_interests             friends_interests
-	user_likes                 friends_likes
-	user_location              friends_location
-	user_notes                 friends_notes
-	user_online_presence       friends_online_presence
-	user_photo_video_tags      friends_photo_video_tags
-	user_photos                friends_photos
-	user_questions             friends_questions
-	user_relationships         friends_relationships
-	user_relationship_details  friends_relationship_details
-	user_religion_politics     friends_religion_politics
-	user_status                friends_status
-	user_subscriptions         friends_subscriptions
-	user_videos                friends_videos
-	user_website               friends_website
-	user_work_history          friends_work_history
+	public_profile
+	user_friends
 	email
-	read_friendlists           manage_friendlists
-	read_insights
-	read_mailbox
-	read_requests
-	read_stream
-	xmpp_login
-	ads_management
-	user_checkins              friends_checkins
+	user_about_me
 
-	publish_stream
-	create_event
-	rsvp_event
-	sms
-	offline_access
-	publish_checkins
-	publish_actions
+	user_actions.books
+	user_actions.fitness
 	user_actions.music
 	user_actions.news
 	user_actions.video
 	user_actions:runmeter
-	user_actions.fitness
-	user_actions.runs
-	user_games_activity
+	user_actions:runtastic
 
-	manage_pages
+	user_birthday
+	user_education_history
+	user_events
+	user_games_activity
+	user_groups
+	user_hometown
+	user_likes
+	user_location
+	user_managed_groups
+	user_photos
+	user_posts
+	user_relationships
+	user_relationship_details
+	user_religion_politics
+	user_status
+	user_tagged_places
+	user_videos
+	user_website
+	user_work_history
+
+	read_custom_friendlists
+	read_insights
+	read_mailbox
+	read_page_mailboxes
+	read_stream
 	manage_notifications
+	manage_pages
+	publish_pages
+	publish_actions
+	rsvp_event
 ');
 
 	if(empty($code)) {

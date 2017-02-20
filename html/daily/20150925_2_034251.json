@@ -1,0 +1,298 @@
+{
+    "comments":
+        {
+            "data":
+                [
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2015-09-25T03:56:05+0000",
+                        "from":
+                            {
+                                "id":"10153573153352009",
+                                "name":"Russell Ulbrich"
+                            },
+                        "id":"10153639819222350_10153639832542350",
+                        "like_count":1,
+                        "message":"Try not to let it affect you, they're only priming you to be impressed by and purchase the next big thing.  I've read that marketing and advertising became crucial sometime about 1964, because that was the time when the market economy had met most needs.  There just was not that much more money to make by making people's lives better.  The new challenge became the creation of synthetic need. Unfortunately this dark art infects everything now, including Windows.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2015-09-25T03:58:34+0000",
+                        "from":
+                            {
+                                "id":"728337349",
+                                "name":"Shannon Posniewski"
+                            },
+                        "id":"10153639819222350_10153639834457350",
+                        "like_count":1,
+                        "message":"Got me thinking about this. My first real job was at The Software Group testing Enable. A hearty thanks to Dave Rodger, who pretty much got me all my jobs until after college. This job was the first time I had ever used an IBM-compatible computer. back when we called them \"IBM-compatible\".\nhttp:\/\/www.danielsays.com\/ss-gallery-dos-enable-20.html",
+                        "message_tags":
+                            [
+                                
+                                {
+                                    "id":"10153234459016539",
+                                    "length":11,
+                                    "name":"Dave Rodger",
+                                    "offset":107,
+                                    "type":"user"
+                                }
+                            ],
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2015-09-25T10:47:17+0000",
+                        "from":
+                            {
+                                "id":"10203094087931174",
+                                "name":"Debra Klopfenstein"
+                            },
+                        "id":"10153639819222350_10153640215052350",
+                        "like_count":0,
+                        "message":"I was wondering how Windows 10 was. I managed to avoid Windows 8.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2015-09-25T14:06:23+0000",
+                        "from":
+                            {
+                                "id":"10152401275318420",
+                                "name":"Jim Winston"
+                            },
+                        "id":"10153639819222350_10153640457497350",
+                        "like_count":1,
+                        "message":"I like the pretty pictures on the lock screen on Windows 10.",
+                        "user_likes":"0"
+                    },
+                    
+                    {
+                        "can_remove":"0",
+                        "created_time":"2015-09-25T15:01:26+0000",
+                        "from":
+                            {
+                                "id":"10207611747718193",
+                                "name":"Brian Robert Gilmore"
+                            },
+                        "id":"10153639819222350_10153640524602350",
+                        "like_count":0,
+                        "message":"I've been putting off upgrading my windows 8 laptop.",
+                        "user_likes":"0"
+                    }
+                ]
+        },
+    "id":"20150925_2_034251",
+    "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153639819222350",
+    "message":"Every time I use my Windows 10 computer, I suddenly feel like it's 1994 DOS mode again. Artless, flat, square, and minimally usable.",
+    "publishedDate":"2015-09-25T03:42:51+00:00",
+    "source":"facebook",
+    "type":"status",
+    "via":"Facebook",
+    "~orig":
+        {
+            "actions":
+                [
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153639819222350",
+                        "name":"Comment"
+                    },
+                    
+                    {
+                        "link":"https:\/\/www.facebook.com\/728337349\/posts\/10153639819222350",
+                        "name":"Like"
+                    }
+                ],
+            "comments":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2015-09-25T03:56:05+0000",
+                                "from":
+                                    {
+                                        "id":"10153573153352009",
+                                        "name":"Russell Ulbrich"
+                                    },
+                                "id":"10153639819222350_10153639832542350",
+                                "like_count":1,
+                                "message":"Try not to let it affect you, they're only priming you to be impressed by and purchase the next big thing.  I've read that marketing and advertising became crucial sometime about 1964, because that was the time when the market economy had met most needs.  There just was not that much more money to make by making people's lives better.  The new challenge became the creation of synthetic need. Unfortunately this dark art infects everything now, including Windows.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2015-09-25T03:58:34+0000",
+                                "from":
+                                    {
+                                        "id":"728337349",
+                                        "name":"Shannon Posniewski"
+                                    },
+                                "id":"10153639819222350_10153639834457350",
+                                "like_count":1,
+                                "message":"Got me thinking about this. My first real job was at The Software Group testing Enable. A hearty thanks to Dave Rodger, who pretty much got me all my jobs until after college. This job was the first time I had ever used an IBM-compatible computer. back when we called them \"IBM-compatible\".\nhttp:\/\/www.danielsays.com\/ss-gallery-dos-enable-20.html",
+                                "message_tags":
+                                    [
+                                        
+                                        {
+                                            "id":"10153234459016539",
+                                            "length":11,
+                                            "name":"Dave Rodger",
+                                            "offset":107,
+                                            "type":"user"
+                                        }
+                                    ],
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2015-09-25T10:47:17+0000",
+                                "from":
+                                    {
+                                        "id":"10203094087931174",
+                                        "name":"Debra Klopfenstein"
+                                    },
+                                "id":"10153639819222350_10153640215052350",
+                                "like_count":0,
+                                "message":"I was wondering how Windows 10 was. I managed to avoid Windows 8.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2015-09-25T14:06:23+0000",
+                                "from":
+                                    {
+                                        "id":"10152401275318420",
+                                        "name":"Jim Winston"
+                                    },
+                                "id":"10153639819222350_10153640457497350",
+                                "like_count":1,
+                                "message":"I like the pretty pictures on the lock screen on Windows 10.",
+                                "user_likes":"0"
+                            },
+                            
+                            {
+                                "can_remove":"0",
+                                "created_time":"2015-09-25T15:01:26+0000",
+                                "from":
+                                    {
+                                        "id":"10207611747718193",
+                                        "name":"Brian Robert Gilmore"
+                                    },
+                                "id":"10153639819222350_10153640524602350",
+                                "like_count":0,
+                                "message":"I've been putting off upgrading my windows 8 laptop.",
+                                "user_likes":"0"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNMk5EQTFNalEyTURJek5UQTZNVFEwTXpFNU16STROZz09",
+                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRNMk16azRNekkxTkRJek5UQTZNVFEwTXpFMU16TTJOUT09"
+                                }
+                        }
+                },
+            "created_time":"2015-09-25T03:42:51+0000",
+            "from":
+                {
+                    "id":"728337349",
+                    "name":"Shannon Posniewski"
+                },
+            "id":"728337349_10153639819222350",
+            "is_expired":"0",
+            "is_hidden":"0",
+            "likes":
+                {
+                    "data":
+                        [
+                            
+                            {
+                                "id":"10202898018965709",
+                                "name":"Cole Posniewski"
+                            },
+                            
+                            {
+                                "id":"10207611747718193",
+                                "name":"Brian Robert Gilmore"
+                            },
+                            
+                            {
+                                "id":"1396086667338618",
+                                "name":"Isaiah Sorensen"
+                            },
+                            
+                            {
+                                "id":"10203310154056382",
+                                "name":"Ed Raber"
+                            },
+                            
+                            {
+                                "id":"10203094087931174",
+                                "name":"Debra Klopfenstein"
+                            },
+                            
+                            {
+                                "id":"10152334479597778",
+                                "name":"Jeff Pace"
+                            },
+                            
+                            {
+                                "id":"10152310938995708",
+                                "name":"David Frey"
+                            },
+                            
+                            {
+                                "id":"10103075190101217",
+                                "name":"Renee Powell"
+                            },
+                            
+                            {
+                                "id":"10152087584691966",
+                                "name":"Ray Yu"
+                            },
+                            
+                            {
+                                "id":"10152256693352752",
+                                "name":"Jenn Jumper"
+                            },
+                            
+                            {
+                                "id":"10153089297557881",
+                                "name":"Anddy Archer"
+                            }
+                        ],
+                    "paging":
+                        {
+                            "cursors":
+                                {
+                                    "after":"MTAxNTMwODkyOTc1NTc4ODE=",
+                                    "before":"MTAyMDI4OTgwMTg5NjU3MDk="
+                                }
+                        }
+                },
+            "message":"Every time I use my Windows 10 computer, I suddenly feel like it's 1994 DOS mode again. Artless, flat, square, and minimally usable.",
+            "privacy":
+                {
+                    "allow":"",
+                    "deny":"",
+                    "description":"Public",
+                    "friends":"",
+                    "value":"EVERYONE"
+                },
+            "status_type":"mobile_status_update",
+            "subscribed":"1",
+            "type":"status",
+            "updated_time":"2015-09-25T16:03:58+0000"
+        }
+}

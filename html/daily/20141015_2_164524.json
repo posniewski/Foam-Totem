@@ -6,11 +6,11 @@
                 [
                     
                     {
-                        "can_remove":"1",
+                        "can_remove":"0",
                         "created_time":"2014-10-17T18:36:55+0000",
                         "from":
                             {
-                                "id":"1384816520",
+                                "id":"10203693642646644",
                                 "name":"Dawn Yates Gerlica"
                             },
                         "id":"10152782749557350_10152786874492350",
@@ -34,7 +34,9 @@
         {
             "application":
                 {
+                    "category":"Lifestyle",
                     "id":"284597785309",
+                    "link":"http:\/\/www.strava.com\/",
                     "name":"Strava",
                     "namespace":"stravainc"
                 },
@@ -44,11 +46,11 @@
                         [
                             
                             {
-                                "can_remove":"1",
+                                "can_remove":"0",
                                 "created_time":"2014-10-17T18:36:55+0000",
                                 "from":
                                     {
-                                        "id":"1384816520",
+                                        "id":"10203693642646644",
                                         "name":"Dawn Yates Gerlica"
                                     },
                                 "id":"10152782749557350_10152786874492350",
@@ -61,8 +63,8 @@
                         {
                             "cursors":
                                 {
-                                    "after":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJM09EWTROelEwT1RJek5UQTZNVFF4TXpVM01UQXhOVG94",
-                                    "before":"WTI5dGJXVnVkRjlqZFhKemIzSTZNVEF4TlRJM09EWTROelEwT1RJek5UQTZNVFF4TXpVM01UQXhOVG94"
+                                    "after":"WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEF4TlRJM09EWTROelEwT1RJek5UQTZANVFF4TXpVM01UQXhOUT09",
+                                    "before":"WTI5dGJXVnVkRjlqZAFhKemIzSTZANVEF4TlRJM09EWTROelEwT1RJek5UQTZANVFF4TXpVM01UQXhOUT09"
                                 }
                         }
                 },
@@ -91,27 +93,27 @@
                         [
                             
                             {
-                                "id":"634898579",
-                                "name":"Kat O'Leary"
+                                "id":"10152144726138580",
+                                "name":"Kat Locke"
                             },
                             
                             {
-                                "id":"645554134",
+                                "id":"10152041487799135",
                                 "name":"Marcel Parnas"
                             },
                             
                             {
-                                "id":"1554010659",
+                                "id":"10203571980010794",
                                 "name":"Donna Peronace"
                             },
                             
                             {
-                                "id":"1361476318",
+                                "id":"10203444793744799",
                                 "name":"Michele Liguori"
                             },
                             
                             {
-                                "id":"1134692210",
+                                "id":"10202757331711119",
                                 "name":"Shelley Day Posniewski"
                             }
                         ],
@@ -119,8 +121,8 @@
                         {
                             "cursors":
                                 {
-                                    "after":"MTEzNDY5MjIxMA==",
-                                    "before":"NjM0ODk4NTc5"
+                                    "after":"MTAyMDI3NTczMzE3MTExMTkZD",
+                                    "before":"MTAxNTIxNDQ3MjYxMzg1ODAZD"
                                 }
                         },
                     "user_likes":"0"
